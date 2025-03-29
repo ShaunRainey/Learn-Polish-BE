@@ -1,0 +1,28 @@
+Project step by step:
+
+- npm init -y #This will create a package.json 
+
+- npm install express
+
+- npm install jest -D 
+
+    - Predominantly used for UNIT TESTING, so testing utility functions 
+    - Supertest will be used for INTEGRATION TESTING, supertest is specifically for HTTP requests as it allows you to send fake requests
+      to an API without the need for a real client like Postman or Insomnia
+
+- change scripts in package.json to use jest
+
+- create git ignore
+
+    - .env is of importance to not allow public visibility of sensitive data
+
+- create app.js
+
+- npm i -D nodemon
+
+    - nodemon restarts the server everytime a change is made to the javascript file
+    - Developer dependancy: A dependency that only the developer will need to use whilst building the application
+    - as this is being saved as a dev dependancy, "npx nodemon app.js" is required to run, rather than just nodemon app.js (this would work for
+      global installation)
+    - In this case, I've added the script: "dev":"nodemon app.js" which can be run using "npm run dev". npm run ... will run the specified script
+      from the package.json file

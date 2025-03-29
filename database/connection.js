@@ -9,5 +9,5 @@ if (!process.env.PGDATABASE) {
     
     const db = new Pool();
     
-    console.log(process.env.PGDATABASE)
+    // console.log(process.env.PGDATABASE)
 module.exports = db;

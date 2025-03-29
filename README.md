@@ -38,3 +38,7 @@ Project step by step:
     - had a huge issue with getting the environment variables to play along, had to delete them:
         windows key + pause -> Advanced system settings -> environment variables
     - then restarted the computer, .env file seems to be loading now
+
+- created .sql file
+
+    - add script to package.json to setup-db

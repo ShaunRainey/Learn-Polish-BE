@@ -7,15 +7,7 @@ if (!process.env.PGDATABASE) {
         throw new Error("No PGDatabase configured")
     }
     
-    const db = new Pool({
-        user: process.env.PGUSER,
-        host: process.env.PGHOST,
-        database: 'polish-data-entry',
-        password: process.env.PGPASSWORD,
-        port: process.env.PGPORT,
-    });
+    const db = new Pool();
     
-    // console.log(db);
-    
-    // console.log(process.env.PGDATABASE)
+    console.log(process.env.PGDATABASE)
 module.exports = db;

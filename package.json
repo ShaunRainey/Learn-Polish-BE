@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon app.js",
-    "setup-db": "psql -f ./database/polish-data-entry",
+    "setup-db": "psql -f ./database/polish_data_entry.sql",
     "test": "jest"
   },
   "keywords": [],

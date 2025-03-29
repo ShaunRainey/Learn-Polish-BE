@@ -46,4 +46,4 @@ Project step by step:
 - psql started misbehaving
 
     - in windows services, manually set postgres to running
-    - specify default user in VSC (in this case: coding)
+    - reset global variable for PGUSER to 'coding' 

@@ -42,3 +42,8 @@ Project step by step:
 - created .sql file
 
     - add script to package.json to setup-db
+
+- psql started misbehaving
+
+    - in windows services, manually set postgres to running
+    - specify default user in VSC (in this case: coding)

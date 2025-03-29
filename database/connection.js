@@ -1,26 +1,11 @@
 const path = require("path");
-require("dotenv").config({ path: path.resolve(__dirname, "../ini.env") });
-
-// const dotenvResult = require("dotenv").config();
-// if (dotenvResult.error) {
-//   throw new Error("Failed to load .env file");
-// }
-
-// console.log("Environment Variables Loaded:", process.env);
-
-
+require("dotenv").config({ path: path.resolve(__dirname, "../ini.env") }); //Not 100% sure why this works/is needed, but without path.resolve it fails
 
 const { Pool } = require("pg");
 
-if (process.env.error) {
-  console.error("Error loading .env file:", process.env.error);
-} else {
-  console.log("Environment variables loaded successfully:", process.env);
-}
-
-// if (!process.env.PGDATABASE) {
-    //     throw new Error("No PGDatabase configured")
-    // }
+if (!process.env.PGDATABASE) {
+        throw new Error("No PGDatabase configured")
+    }
     
     const db = new Pool({
         user: process.env.PGUSER,

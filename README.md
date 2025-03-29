@@ -26,3 +26,12 @@ Project step by step:
       global installation)
     - In this case, I've added the script: "dev":"nodemon app.js" which can be run using "npm run dev". npm run ... will run the specified script
       from the package.json file
+
+
+# Database Info
+
+- npm install dotenv
+
+- npm install pg
+    
+    - this is the installation for node-postgres

@@ -1,0 +1,91 @@
+[
+  {
+    "Rodzaj Męski": "Żywotne\nAnimate",
+    "__EMPTY_2": "Nieżywotne\nInanimate"
+  },
+  {
+    "__EMPTY": "Liczba pojedyncza\nSingular",
+    "__EMPTY_1": "Przymiotnik",
+    "Rodzaj Męski": "- ego",
+    "__EMPTY_2": "- y\n- i (after k or g)",
+    "Rodzaj Zeński": "- ą",
+    "Rodzaj Niyaki": "- e",
+    "When to use Accusative:": "1. Direct Object of a Verb - It is used to indicate the object that receives the action of the verb."
+  },
+  {
+    "__EMPTY_1": "Rzeczownik",
+    "Rodzaj Męski": "- a",
+    "__EMPTY_2": "- consonant",
+    "Rodzaj Zeński": "- ę",
+    "Rodzaj Niyaki": "- o\n- e\n- ę\n-um",
+    "When to use Accusative:": "2. After Certain Prepositions - The accusative case is used after specific prepositions, particularly to indicate motion toward a destination. Such as: na, w, przez, za, pod"
+  },
+  {
+    "__EMPTY": "Przykłady\nExamples",
+    "Rodzaj Męski": "- Mam dużego kota\n- Mam duży dom\n- Mam niebieski sweter",
+    "Rodzaj Zeński": "- Znam twoją siostrę\n- Czytam ciekawą książkę",
+    "Rodzaj Niyaki": "- Mam sportowe auto\n- Jem dobre śniadanie\n- Masz ładne imię",
+    "When to use Accusative:": "3. When expressing time duration - When we want to say how long something took, then we use the Accusative Case. Eg:\n- Stałem w korku dwie godziny. - I was stuck in traffic for two hours."
+  },
+  {
+    "__EMPTY": "Liczba mnoga\nPlural",
+    "__EMPTY_1": "Przymiotnik\nAdjective",
+    "Rodzaj Męski": "- ych\n- ich",
+    "__EMPTY_2": "- e- ie (after k or g)",
+    "Rodzaj Zeński": "- e\n- ie (after k or g)",
+    "Rodzaj Niyaki": "- e\n- ie (after k or g)",
+    "When to use Accusative:": "As a general rule: When using a sentence with a verb, if there is no reason to use a specific case, accusative is probably correct"
+  },
+  {
+    "__EMPTY_1": "Rzeczownik\nNoun",
+    "Rodzaj Męski": "- ów *\n-y (after sz, ż/rz, cz, dż, c, dz) *\n- i (after ś, ż, ć, dź, ń, l, j) *",
+    "__EMPTY_2": "- y\n- i (after k or g)\n- e (c, dz, cz, sz, rz/ż, ś, ź, ć, dź, ń, l, j, I)",
+    "Rodzaj Zeński": "- y\n- i (after k or g)\n- e (c, dz, cz, sz, rz/ż, ś, ź, ć, dź, ń, l, j, I)",
+    "Rodzaj Niyaki": "- a",
+    "When to use Accusative:": "* When using the declensions, the following changes will also happen:\n- mobile ‘e’ removed => Budynek becomes Budynku\n- mobile ‘ie’ removed => Cukier becomes Cukru\n- ó becomes o => Samochód becomes Samochodu\n- ą becomes ę => Krąg becomes Kręg"
+  },
+  {
+    "__EMPTY": "Przykłady\nExamples",
+    "Rodzaj Męski": "- Mam duże koty\n- Mam duże domy\n- Mam niebieskie swetry",
+    "Rodzaj Zeński": "- Znam twoje siostry\n- Czytam ciekawe książki",
+    "Rodzaj Niyaki": "- Mam sportowe auta\n- Jem dobre śniadania\n- Macie dobre imiona"
+  },
+  {
+    "__EMPTY": "Interrogative Words",
+    "__EMPTY_1": "Kogo, Co?",
+    "Rodzaj Męski": "Co in accusative is used to identify the recepient of the verb action. Similarly, kogo is used to show who is receiving the action"
+  },
+  {
+    "__EMPTY": "Examples",
+    "__EMPTY_1": "Co widzisz?\nWhat do you see?",
+    "Rodzaj Męski": "Widzę kota\nI see a cat"
+  },
+  {
+    "__EMPTY_1": "Kogo lubisz?\nWho do you like?",
+    "Rodzaj Męski": "Lubię Kasię\nI like Kasia"
+  },
+  {
+    "__EMPTY_1": "Co pijesz?\nWhat are you drinking?",
+    "Rodzaj Męski": "Piję kawę\nI’m drinking coffee"
+  },
+  {
+    "__EMPTY_1": "Kogo zapraszaz?\nWho are you inviting?",
+    "Rodzaj Męski": "Zapraszam Pawła\nI’m inviting Paweł"
+  },
+  {
+    "__EMPTY_1": "Dokąd idziesz?\nWhere are you going?",
+    "Rodzaj Męski": "Idę na plażę\nI’m going to the beach"
+  },
+  {
+    "__EMPTY_1": "Na co patrzysz?\nWhat are you looking at?",
+    "Rodzaj Męski": "Patrzę na obraz\nI’m looking at the painting"
+  },
+  {
+    "__EMPTY_1": "W co grasz?\nWhat are you playing?",
+    "Rodzaj Męski": "Gram w piłkę\nI’m playing football"
+  },
+  {
+    "__EMPTY_1": "Za co dziękujesz?\nWhat are you thanking for?",
+    "Rodzaj Męski": "Dziękuję za pomoc\nI am thanking for help"
+  }
+]

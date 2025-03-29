@@ -47,3 +47,9 @@ Project step by step:
 
     - in windows services, manually set postgres to running
     - reset global variable for PGUSER to 'coding' 
+
+- npm install xlsx pg
+
+    - this is the library that will read the ods (spreadsheet) file data
+
+- npm install pg-format

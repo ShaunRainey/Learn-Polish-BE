@@ -1,0 +1,9118 @@
+[
+  {
+    "Noun": "Rzeczownik"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Chopiec",
+    "Meaning": "Boy",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Chłopiec",
+    "Acc": "Chłopca",
+    "Ins": "Chłopcem",
+    "Gen": "Chłopca",
+    "Loc": "Chłopcu"
+  },
+  {
+    "Noun": "Plural",
+    "Meaning": "Chłopcy",
+    "Gender": "Chłopców",
+    "Single / Plural": "Chłopcami",
+    "Nom": "Chłopców",
+    "Acc": "Chłopcach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Mężczyzna",
+    "Meaning": "Man",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Mężczyzna",
+    "Acc": "Mężczyznę",
+    "Ins": "Mężczyzną",
+    "Gen": "Mężczyzny",
+    "Loc": "Mężczyznie"
+  },
+  {
+    "Noun": "Plural",
+    "Meaning": "Mężczyźni",
+    "Gender": "Mężczyźn",
+    "Single / Plural": "Mężczyznami",
+    "Nom": "Mężczyzn",
+    "Acc": "Mężczyznach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Mleko",
+    "Meaning": "Milk",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Mleko",
+    "Acc": "Mleko",
+    "Ins": "Mlekiem",
+    "Gen": "Mleka",
+    "Loc": "Mleku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Mleka",
+    "Nom": "Mleka",
+    "Acc": "Mlekami",
+    "Ins": "Mlek",
+    "Gen": "Mlekach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Woda",
+    "Meaning": "Water",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Woda",
+    "Acc": "Wodę",
+    "Ins": "Wodą",
+    "Gen": "Wody",
+    "Loc": "Wodzie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Wody",
+    "Nom": "Wody",
+    "Acc": "Wodami",
+    "Ins": "Wod",
+    "Gen": "Wodach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Kobieta",
+    "Meaning": "Woman",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Kobieta",
+    "Acc": "Kobietę",
+    "Ins": "Kobietą",
+    "Gen": "Kobiety",
+    "Loc": "Kobiecie"
+  },
+  {
+    "Noun": "Plural",
+    "Meaning": "Kobiety",
+    "Gender": "Kobiety",
+    "Single / Plural": "Kobietami",
+    "Nom": "Kobiet",
+    "Acc": "Kobietach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Dziewczynka",
+    "Meaning": "Girl",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Dziewczynka",
+    "Acc": "Dziewczynkę",
+    "Ins": "Dziewczynką",
+    "Gen": "Dziewczynki",
+    "Loc": "Dziewczynce"
+  },
+  {
+    "Noun": "Plural",
+    "Meaning": "Dziewczynki",
+    "Gender": "Dziewczynki",
+    "Single / Plural": "Dziewczynkami",
+    "Nom": "Dziewczynek",
+    "Acc": "Dziewczynkach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Chłopak",
+    "Meaning": "Boy",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Chłopak",
+    "Acc": "Chłopaka",
+    "Ins": "Chłopakiem",
+    "Gen": "Chłopaka",
+    "Loc": "Chłopaku"
+  },
+  {
+    "Noun": "Plural",
+    "Meaning": "Chłopcy",
+    "Gender": "Chłopaków",
+    "Single / Plural": "Chłopakami",
+    "Nom": "Chłopaków",
+    "Acc": "Chłopakach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Jabłko",
+    "Meaning": "Apple",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Jabłko",
+    "Acc": "Jabłko",
+    "Ins": "Jabłkiem",
+    "Gen": "Jabłka",
+    "Loc": "Jabłku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Jabłka",
+    "Nom": "Jabłka",
+    "Acc": "Jabłkami",
+    "Ins": "Jabłków",
+    "Gen": "Jabłkach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Chleb",
+    "Meaning": "Bread",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Chleb",
+    "Acc": "Chleb",
+    "Ins": "Chlebem",
+    "Gen": "Chleba",
+    "Loc": "Chlebie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Chleby",
+    "Nom": "Chleby",
+    "Acc": "Chlebami",
+    "Ins": "Chlebów",
+    "Gen": "Chlebach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Dziecko",
+    "Meaning": "Child",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Dziecko",
+    "Acc": "Dziecko",
+    "Ins": "Dzieckiem",
+    "Gen": "Dziecka",
+    "Loc": "Dziecku"
+  },
+  {
+    "Noun": "Plural",
+    "Meaning": "Dzieci",
+    "Gender": "Dzieci",
+    "Single / Plural": "Dziećmi",
+    "Nom": "Dzieci",
+    "Acc": "Dzieckach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Ciasteczko",
+    "Meaning": "Cookie",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Ciasteczko",
+    "Acc": "Ciasteczko",
+    "Ins": "Ciasteczkiem",
+    "Gen": "Ciasteczka",
+    "Loc": "Ciasteczku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Ciasteczka",
+    "Nom": "Ciasteczka",
+    "Acc": "Ciasteczkami",
+    "Ins": "Ciasteczek",
+    "Gen": "Ciasteczkach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Wino",
+    "Meaning": "Wine",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Wino",
+    "Acc": "Wino",
+    "Ins": "Winem",
+    "Gen": "Wina",
+    "Loc": "Winie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Wina",
+    "Nom": "Wina",
+    "Acc": "Winami",
+    "Ins": "Win",
+    "Gen": "Winach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Jajko",
+    "Meaning": "Egg",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Jajko",
+    "Acc": "Jajko",
+    "Ins": "Jajkiem",
+    "Gen": "Jajka",
+    "Loc": "Jajku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Jajka",
+    "Nom": "Jajka",
+    "Acc": "Jajkami",
+    "Ins": "Jajków",
+    "Gen": "Jajkach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Kawa",
+    "Meaning": "Coffee",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Kawa",
+    "Acc": "Kawę",
+    "Ins": "Kawą",
+    "Gen": "Kawy",
+    "Loc": "Kawie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Kawy",
+    "Nom": "Kawy",
+    "Acc": "Kawami",
+    "Ins": "Kaw",
+    "Gen": "Kawach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Herbata",
+    "Meaning": "Tea",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Herbata",
+    "Acc": "Herbatę",
+    "Ins": "Herbatą",
+    "Gen": "Herbaty",
+    "Loc": "Herbacie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Herbaty",
+    "Nom": "Herbaty",
+    "Acc": "Herbatami",
+    "Ins": "Herbat",
+    "Gen": "Herbatach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Obiad",
+    "Meaning": "Lunch",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Obiad",
+    "Acc": "Obiad",
+    "Ins": "Obiadem",
+    "Gen": "Obiadu",
+    "Loc": "Obiadzie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Obiady",
+    "Nom": "Obiady",
+    "Acc": "Obiadami",
+    "Ins": "Obiadów",
+    "Gen": "Obiadach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Śniadanie",
+    "Meaning": "Breakfast",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Śniadanie",
+    "Acc": "Śniadanie",
+    "Ins": "Śniadaniem",
+    "Gen": "Śniadania",
+    "Loc": "Śniadaniu"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Śniadania",
+    "Nom": "Śniadania",
+    "Acc": "Śniadaniami",
+    "Ins": "Śniadani",
+    "Gen": "Śniadaniach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Kolacja",
+    "Meaning": "Dinner",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Kolacja",
+    "Acc": "Kolację",
+    "Ins": "Kolacją",
+    "Gen": "Kolacji",
+    "Loc": "Kolacji"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Kolacje",
+    "Nom": "Kolacje",
+    "Acc": "Kolacjami",
+    "Ins": "Kolacji",
+    "Gen": "Kolacjach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Jedzenie",
+    "Meaning": "Food / Eating",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Jedzenie",
+    "Acc": "Jedzenie",
+    "Ins": "Jedzeniem",
+    "Gen": "Jedzenia",
+    "Loc": "Jedzeniu",
+    "Notes": "Can be used as the gerund form of the verb jeść"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Jedzenia",
+    "Nom": "Jedzenia",
+    "Acc": "Jedzeniami",
+    "Ins": "Jedzeń",
+    "Gen": "Jedzeniach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Posiłek",
+    "Meaning": "A meal",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Posiłek",
+    "Acc": "Posiłek",
+    "Ins": "Posiłkiem",
+    "Gen": "Posiłku",
+    "Loc": "Posiłku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Posiłki",
+    "Nom": "Posiłki",
+    "Acc": "Posiłkami",
+    "Ins": "Posiłków",
+    "Gen": "Posiłkach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Zupa",
+    "Meaning": "Soup",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Zupa",
+    "Acc": "Zupę",
+    "Ins": "Zupą",
+    "Gen": "Zupy",
+    "Loc": "Zupie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Zupy",
+    "Nom": "Zupy",
+    "Acc": "Zupami",
+    "Ins": "Zup",
+    "Gen": "Zupach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Owoc",
+    "Meaning": "Fruit",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Owoc",
+    "Acc": "Owoc",
+    "Ins": "Owocem",
+    "Gen": "Owocu",
+    "Loc": "Owocu"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Owoce",
+    "Nom": "Owoce",
+    "Acc": "Owocami",
+    "Ins": "Owoców",
+    "Gen": "Owocach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Sok",
+    "Meaning": "Juice",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Sok",
+    "Acc": "Sok",
+    "Ins": "Sokiem",
+    "Gen": "Soku",
+    "Loc": "Soku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Soki",
+    "Nom": "Soki",
+    "Acc": "Sokami",
+    "Ins": "Soków",
+    "Gen": "Sokach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Warzywo",
+    "Meaning": "Vegetables",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Warzywo",
+    "Acc": "Warzywo",
+    "Ins": "Warzywem",
+    "Gen": "Warzywa",
+    "Loc": "Warzywie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Warzywa",
+    "Nom": "Warzywa",
+    "Acc": "Warzywami",
+    "Ins": "Warzyw",
+    "Gen": "Warzywach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Kanapka",
+    "Meaning": "Sandwich",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Kanapka",
+    "Acc": "Kanapkę",
+    "Ins": "Kanapką",
+    "Gen": "Kanapki",
+    "Loc": "Kanapce"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Kanapki",
+    "Nom": "Kanapki",
+    "Acc": "Kanapkami",
+    "Ins": "Kanapek",
+    "Gen": "Kanapkach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Pomidor",
+    "Meaning": "Tomato",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Pomidor",
+    "Acc": "Pomidor",
+    "Ins": "Pomidorem",
+    "Gen": "Pomidora",
+    "Loc": "Pomidorze"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Pomidory",
+    "Nom": "Pomidory",
+    "Acc": "Pomidorami",
+    "Ins": "Pomidorów",
+    "Gen": "Pomidorach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Ryba",
+    "Meaning": "Fish",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Ryba",
+    "Acc": "Rybę",
+    "Ins": "Rybą",
+    "Gen": "Ryby",
+    "Loc": "Rybie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Ryby",
+    "Nom": "Ryby",
+    "Acc": "Rybami",
+    "Ins": "Ryb",
+    "Gen": "Rybach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Ser",
+    "Meaning": "Cheese",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Ser",
+    "Acc": "Ser",
+    "Ins": "Serem",
+    "Gen": "Seru",
+    "Loc": "Serze"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Sery",
+    "Nom": "Sery",
+    "Acc": "Serami",
+    "Ins": "Serów",
+    "Gen": "Serach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Sernik",
+    "Meaning": "Cheesecake",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Sernik",
+    "Acc": "Sernik",
+    "Ins": "Sernikiem",
+    "Gen": "Sernika",
+    "Loc": "Serniku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Serniki",
+    "Nom": "Serniki",
+    "Acc": "Sernikami",
+    "Ins": "Serników",
+    "Gen": "Sernikach"
+  },
+  {
+    "Topic": "Food",
+    "Noun": "Mięso",
+    "Meaning": "Meat",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Mięso",
+    "Acc": "Mięso",
+    "Ins": "Mięsem",
+    "Gen": "Mięsa",
+    "Loc": "Mięsie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Mięsa",
+    "Nom": "Mięsa",
+    "Acc": "Mięsami",
+    "Ins": "Mięs",
+    "Gen": "Mięsach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Pies",
+    "Meaning": "Dog",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Pies",
+    "Acc": "Psa",
+    "Ins": "Psem",
+    "Gen": "Psa",
+    "Loc": "Psie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Psy",
+    "Nom": "Psy",
+    "Acc": "Psami",
+    "Ins": "Psów",
+    "Gen": "Piesach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Koń",
+    "Meaning": "Horse",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Kón",
+    "Acc": "Konia",
+    "Ins": "Koniem",
+    "Gen": "Konia",
+    "Loc": "Koniu"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Konie",
+    "Nom": "Konie",
+    "Acc": "Konami",
+    "Ins": "Koni",
+    "Gen": "Koniach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Kaczka",
+    "Meaning": "Duck",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Kaczka",
+    "Acc": "Kaczkę",
+    "Ins": "Kaczką",
+    "Gen": "Kaczki",
+    "Loc": "Kaczce"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Kaczki",
+    "Nom": "Kaczki",
+    "Acc": "Kaczkami",
+    "Ins": "Kaczek",
+    "Gen": "Kaczkach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Kot",
+    "Meaning": "Cat",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Kot",
+    "Acc": "Kota",
+    "Ins": "Kotem",
+    "Gen": "Kota",
+    "Loc": "Kocie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Koty",
+    "Nom": "Koty",
+    "Acc": "Kotami",
+    "Ins": "Kotów",
+    "Gen": "Kotach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Zwierzę",
+    "Meaning": "Animal",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Zwierzę",
+    "Acc": "Zwierzę",
+    "Ins": "Zwierzęciem",
+    "Gen": "Zwierzęcia",
+    "Loc": "Zwierzęciu"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Zwierzęta",
+    "Nom": "Zwierzęta",
+    "Acc": "Zwierzami",
+    "Ins": "Zwierząt",
+    "Gen": "Zwierzętach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Słoń",
+    "Meaning": "Elephant",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Słon",
+    "Acc": "Słonia",
+    "Ins": "Słoniem",
+    "Gen": "Słonia",
+    "Loc": "Słoniu"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Słonie",
+    "Nom": "Słonie",
+    "Acc": "Słoniami",
+    "Ins": "Słoni",
+    "Gen": "Słoniach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Krab",
+    "Meaning": "Crab",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Krab",
+    "Acc": "Kraba",
+    "Ins": "Krabem",
+    "Gen": "Kraba",
+    "Loc": "Krabie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Kraby",
+    "Nom": "Kraby",
+    "Acc": "Krabami",
+    "Ins": "Krabów",
+    "Gen": "Krabach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Mysz",
+    "Meaning": "Mouse",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Mysz",
+    "Acc": "Mysz",
+    "Ins": "Myszą",
+    "Gen": "Myszy",
+    "Loc": "Myszy"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Myszy",
+    "Nom": "Myszy",
+    "Acc": "Myszami",
+    "Ins": "Myszy",
+    "Gen": "Myszach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Lew",
+    "Meaning": "Lion",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Lew",
+    "Acc": "Lwa",
+    "Ins": "Lwem",
+    "Gen": "Lwa",
+    "Loc": "Lwie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Lwy",
+    "Nom": "Lwy",
+    "Acc": "Lwami",
+    "Ins": "Lwów",
+    "Gen": "Lwach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Pająk",
+    "Meaning": "Spider",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Pająk",
+    "Acc": "Pająka",
+    "Ins": "Pająkiem",
+    "Gen": "Pająka",
+    "Loc": "Pająku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Pająki",
+    "Nom": "Pająki",
+    "Acc": "Pająkami",
+    "Ins": "Pająków",
+    "Gen": "Pająkach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Tygrys",
+    "Meaning": "Tiger",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Tygrys",
+    "Acc": "Tygrysa",
+    "Ins": "Tygrysem",
+    "Gen": "Tygrysa",
+    "Loc": "Tygrysie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Tygrysy",
+    "Nom": "Tygrysy",
+    "Acc": "Tygrysami",
+    "Ins": "Tygrysów",
+    "Gen": "Tygrysach"
+  },
+  {
+    "Topic": "Animals",
+    "Noun": "Ptak",
+    "Meaning": "Bird",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Ptak",
+    "Acc": "Ptaka",
+    "Ins": "Ptakiem",
+    "Gen": "Ptaka",
+    "Loc": "Ptaku"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Ptaki",
+    "Nom": "Ptaki",
+    "Acc": "Ptakami",
+    "Ins": "Ptaków",
+    "Gen": "Ptakach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Ludzie",
+    "Meaning": "People",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "Człowiek",
+    "Acc": "-",
+    "Ins": "-",
+    "Gen": "-",
+    "Loc": "-",
+    "Voc": "-",
+    "Dat": "-"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Ludzie",
+    "Nom": "Ludzi",
+    "Acc": "Ludźmi",
+    "Ins": "Ludzi",
+    "Gen": "Ludziach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Płaszcz",
+    "Meaning": "Coat",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Płaszcz",
+    "Acc": "Płaszcz",
+    "Ins": "Płaszczem",
+    "Gen": "Płaszcza",
+    "Loc": "Płaszczu"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Płaszcze",
+    "Nom": "Płaszcze",
+    "Acc": "Płaszczami",
+    "Ins": "Płaszczy",
+    "Gen": "Płaszczach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Sukienka",
+    "Meaning": "Dress",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Sukienka",
+    "Acc": "Sukienkę",
+    "Ins": "Sukienką",
+    "Gen": "Sukienki",
+    "Loc": "Sukience"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Sukienki",
+    "Nom": "Sukienki",
+    "Acc": "Sukienkami",
+    "Ins": "Sukienek",
+    "Gen": "Sukienkach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Koszula",
+    "Meaning": "Shirt",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Koszula",
+    "Acc": "Koszulę",
+    "Ins": "Koszulą",
+    "Gen": "Koszuli",
+    "Loc": "Koszuli"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Koszule",
+    "Nom": "Koszule",
+    "Acc": "Koszulami",
+    "Ins": "Koszul",
+    "Gen": "Koszulach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Kapelusz",
+    "Meaning": "Rimmed hat",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Kapelusz",
+    "Acc": "Kapelusz",
+    "Ins": "Kapeluszem",
+    "Gen": "Kapelusza",
+    "Loc": "Kapeluszu"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Kapelusze",
+    "Nom": "Kapelusze",
+    "Acc": "Kapeluszami",
+    "Ins": "Kapeluszów",
+    "Gen": "Kapeluszach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Spódnica",
+    "Meaning": "Skirt",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Spódnica",
+    "Acc": "Spódnicę",
+    "Ins": "Spódnicą",
+    "Gen": "Spódnicy",
+    "Loc": "Spódnicy"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Spódnice",
+    "Nom": "Spódnice",
+    "Acc": "Spódnicami",
+    "Ins": "Spódnic",
+    "Gen": "Spódnicach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Ubrania",
+    "Meaning": "Clothes",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "-",
+    "Acc": "-",
+    "Ins": "-",
+    "Gen": "-",
+    "Loc": "-"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Ubrania",
+    "Nom": "Ubrania",
+    "Acc": "Ubraniami",
+    "Ins": "Ubrań",
+    "Gen": "Ubraniach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Spodnie",
+    "Meaning": "Trousers",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "-",
+    "Acc": "-",
+    "Ins": "-",
+    "Gen": "-",
+    "Loc": "-"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Spodnie",
+    "Nom": "Spodnie",
+    "Acc": "Spodniami",
+    "Ins": "Spodni",
+    "Gen": "Spodniach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Bluza",
+    "Meaning": "Sweatshirt",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Bluza",
+    "Acc": "Bluzę",
+    "Ins": "Bluzą",
+    "Gen": "Bluzy",
+    "Loc": "Bluzie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Bluzy",
+    "Nom": "Bluzy",
+    "Acc": "Bluzami",
+    "Ins": "Bluz",
+    "Gen": "Bluzach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "But",
+    "Meaning": "Shoe",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "But",
+    "Acc": "Buta",
+    "Ins": "Butem",
+    "Gen": "Buta",
+    "Loc": "Bucie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Buty",
+    "Nom": "Buty",
+    "Acc": "Butami",
+    "Ins": "Butów",
+    "Gen": "Butach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Kurtka",
+    "Meaning": "Jacket",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Kurtka",
+    "Acc": "Kurtkę",
+    "Ins": "Kurtką",
+    "Gen": "Kurtki",
+    "Loc": "Kurtcie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Kurtki",
+    "Nom": "Kurtki",
+    "Acc": "Kurtkami",
+    "Ins": "Kurtek",
+    "Gen": "Kurtkach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Czapka",
+    "Meaning": "Hat",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Czapka",
+    "Acc": "Czapkę",
+    "Ins": "Czapką",
+    "Gen": "Czapki",
+    "Loc": "Czapce"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Czapki",
+    "Nom": "Czapki",
+    "Acc": "Czapkami",
+    "Ins": "Czapek",
+    "Gen": "Czapkach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Skarpeta",
+    "Meaning": "Sock",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Skarpeta",
+    "Acc": "Skarpetę",
+    "Ins": "Skarpetą",
+    "Gen": "Skarpety",
+    "Loc": "Skarpecie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Skarpety",
+    "Nom": "Skarpety",
+    "Acc": "Skarpetami",
+    "Ins": "Skarpet",
+    "Gen": "Skarpetach"
+  },
+  {
+    "Topic": "Clothing",
+    "Noun": "Majtki",
+    "Meaning": "Underwear",
+    "Gender": "N",
+    "Single / Plural": "Singular",
+    "Nom": "-",
+    "Acc": "-",
+    "Ins": "-",
+    "Gen": "-",
+    "Loc": "-"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Majtki",
+    "Nom": "Majtki",
+    "Acc": "Majtkami",
+    "Ins": "Majtek",
+    "Gen": "Majtach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "List",
+    "Meaning": "Letter",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "List",
+    "Acc": "List",
+    "Ins": "Listem",
+    "Gen": "Listu",
+    "Loc": "Liscie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Listy",
+    "Nom": "Listy",
+    "Acc": "Listami",
+    "Ins": "Listów",
+    "Gen": "Listach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Książka",
+    "Meaning": "Book",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Książka",
+    "Acc": "Książkę",
+    "Ins": "Książką",
+    "Gen": "Książki",
+    "Loc": "Książce"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Książki",
+    "Nom": "Książki",
+    "Acc": "Książkami",
+    "Ins": "Książek",
+    "Gen": "Książkach"
+  },
+  {
+    "Topic": "Basics",
+    "Noun": "Głos",
+    "Meaning": "Voice / Vote",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Głos",
+    "Acc": "Głos",
+    "Ins": "Głosem",
+    "Gen": "Głosy",
+    "Loc": "Głosie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Głosy",
+    "Nom": "Głosy",
+    "Acc": "Głosami",
+    "Ins": "Głosów",
+    "Gen": "Głosach"
+  },
+  {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Noun": "Dom",
+    "Meaning": "House",
+    "Gender": "M",
+    "Single / Plural": "Singular",
+    "Nom": "Dom",
+    "Acc": "Dom",
+    "Ins": "Domem",
+    "Gen": "Domu",
+    "Loc": "Domie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Domy",
+    "Nom": "Domy",
+    "Acc": "Domami",
+    "Ins": "Domów",
+    "Gen": "Domach"
+  },
+  {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Noun": "Szkoła",
+    "Meaning": "School",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Szkoła",
+    "Acc": "Szkołę",
+    "Ins": "Szkołą",
+    "Gen": "Szkoły",
+    "Loc": "Szkole"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Szkoły",
+    "Nom": "Szkoły",
+    "Acc": "Szkołami",
+    "Ins": "Szkoł",
+    "Gen": "Szkłach"
+  },
+  {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Noun": "Muzyka",
+    "Meaning": "Music",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Nom": "Muzyka",
+    "Acc": "Muzykę",
+    "Ins": "Muzyką",
+    "Gen": "Muzyki",
+    "Loc": "Muzyce"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Muzyki",
+    "Nom": "Muzyki",
+    "Acc": "Muzykami",
+    "Ins": "Muzyk",
+    "Gen": "Muzykach"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Matka",
+    "Meaning": "Mother",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Mama",
+    "Meaning": "Mum",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Syn",
+    "Meaning": "Son",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Ojciec",
+    "Meaning": "Father",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Siostra",
+    "Meaning": "Sister",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Córka",
+    "Meaning": "Daughter",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Brat",
+    "Meaning": "Brother",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Rodzina",
+    "Meaning": "Family",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Żona",
+    "Meaning": "Wife",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Mąż",
+    "Meaning": "Husband",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Ciocia",
+    "Meaning": "Aunt",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Wujek",
+    "Meaning": "Uncle",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Tata",
+    "Meaning": "Dad",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Dziadek",
+    "Meaning": "Grandfather",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Babcia",
+    "Meaning": "Grandmother",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Małżeństwo",
+    "Meaning": "Marriage",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Rodzic",
+    "Meaning": "Parent",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Rodzice"
+  },
+  {
+    "Unit": 1.16,
+    "Topic": "Describe your family",
+    "Noun": "Rodzeństwo",
+    "Meaning": "Siblings",
+    "Single / Plural": "Singular",
+    "Nom": "-"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Kolor",
+    "Meaning": "Colour",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Żółty",
+    "Meaning": "Yellow",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Zielony",
+    "Meaning": "Green",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Czerwony",
+    "Meaning": "Red",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Czarny",
+    "Meaning": "Black",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Niebieski",
+    "Meaning": "Blue",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Biały",
+    "Meaning": "White",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Brązowy",
+    "Meaning": "Brown",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Pomarańczowy",
+    "Meaning": "Orange",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Fioletowy",
+    "Meaning": "Violet",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Różowy",
+    "Meaning": "Pink",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.01,
+    "Topic": "Talk about colours",
+    "Noun": "Szary",
+    "Meaning": "Grey",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.02,
+    "Topic": "Ask basic questions",
+    "Noun": "Pytanie",
+    "Meaning": "Question",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.02,
+    "Topic": "Ask basic questions",
+    "Noun": "Odpowiedź",
+    "Meaning": "Answer",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Noc",
+    "Meaning": "Night",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Wieczór",
+    "Meaning": "Evening",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Czas",
+    "Meaning": "Time",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Południe",
+    "Meaning": "Afternoon",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Dzień",
+    "Meaning": "A day",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural",
+    "Gender": "Dni"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Wiek",
+    "Meaning": "A week",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Godzina",
+    "Meaning": "An hour",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Rok",
+    "Meaning": "A year",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Tydzień",
+    "Meaning": "A week",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Miesiąc",
+    "Meaning": "A month",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Minuta",
+    "Meaning": "A minute",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Okres",
+    "Meaning": "Period",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Pory roku",
+    "Meaning": "A season",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Dekada",
+    "Meaning": "A decade",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Chwila",
+    "Meaning": "A moment",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Pokolenie",
+    "Meaning": "Generation",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Urodziny",
+    "Meaning": "Birthday",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Date",
+    "Meaning": "Date",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Kalendarz",
+    "Meaning": "Calender",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Impreza",
+    "Meaning": "Party",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Poniedziałek",
+    "Meaning": "Monday",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Wtorek",
+    "Meaning": "Tuesday",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Środa",
+    "Meaning": "Wednesday",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Czwartek",
+    "Meaning": "Thursday",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Piątek",
+    "Meaning": "Friday",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Sobota",
+    "Meaning": "Saturday",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Niedziela",
+    "Meaning": "Sunday",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Styczeń",
+    "Meaning": "January",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Luty",
+    "Meaning": "February",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Marzec",
+    "Meaning": "March",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Kwiecień",
+    "Meaning": "April",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Maj",
+    "Meaning": "May",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Czerwiec",
+    "Meaning": "June",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Lipiec",
+    "Meaning": "July",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Sierpień",
+    "Meaning": "August",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Wrzesień",
+    "Meaning": "September",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Październik",
+    "Meaning": "October",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Listopad",
+    "Meaning": "November",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Grudzień",
+    "Meaning": "December",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Wiosna",
+    "Meaning": "Spring",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Lato",
+    "Meaning": "Summer",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Jesień",
+    "Meaning": "Autumn",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.04,
+    "Topic": "Talk about time",
+    "Noun": "Zima",
+    "Meaning": "Winter",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Meaning": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Łyżka",
+    "Meaning": "Spoon",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Butelka",
+    "Meaning": "Bottle",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Miska",
+    "Meaning": "Bowl",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Krzesło",
+    "Meaning": "Chair",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Krzesła"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Fotel",
+    "Meaning": "Armchair",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Stoł",
+    "Meaning": "Table",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Radio",
+    "Meaning": "Radio",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Lustro",
+    "Meaning": "Mirror",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Telewizor",
+    "Meaning": "TV set",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Łóżko",
+    "Meaning": "Bed",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Komórki",
+    "Meaning": "Phone",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Lampa",
+    "Meaning": "Lamp",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Biurko",
+    "Meaning": "Desk",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Gąbka",
+    "Meaning": "Sponge",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Wanna",
+    "Meaning": "Bathtub",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Mydło",
+    "Meaning": "Soap",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Prysznic",
+    "Meaning": "Shower",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Prysznice"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Golarki",
+    "Meaning": "Razor",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Pasty do zębów",
+    "Meaning": "Toothpaste",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Szczoteczka do zębów",
+    "Meaning": "Toothbrush",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Basen",
+    "Meaning": "Swimming pool",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Torba",
+    "Meaning": "Bag",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Kosz",
+    "Meaning": "Basket",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Dywan",
+    "Meaning": "Rug",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Portfel",
+    "Meaning": "Wallet",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Pudelko",
+    "Meaning": "Box",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Parasol",
+    "Meaning": "Umbrella",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Rzecz",
+    "Meaning": "Thing",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Szafa",
+    "Meaning": "Wardrobe",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Ściana",
+    "Meaning": "Wall",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Klucz",
+    "Meaning": "Key",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Podłoga",
+    "Meaning": "Floor",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Nóż",
+    "Meaning": "Knife",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Kubek",
+    "Meaning": "Mug",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Szklanka",
+    "Meaning": "Glass",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Patelnia",
+    "Meaning": "Plate",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Talerz",
+    "Meaning": "Frying pan",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Lodówka",
+    "Meaning": "Fridge",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Widelca",
+    "Meaning": "Fork",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Kuchenka",
+    "Meaning": "Stove",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Nożyczki",
+    "Meaning": "Scissors",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Papier",
+    "Meaning": "Paper",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Kartka",
+    "Meaning": "A sheet (of paper)",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Czasopismo",
+    "Meaning": "Magazine",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Kawałek",
+    "Meaning": "A piece of",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Flaga",
+    "Meaning": "Flag",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Dzwonek",
+    "Meaning": "Bell",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Maszyna",
+    "Meaning": "Machine",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Przedmiot",
+    "Meaning": "Object / Subject",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Koc",
+    "Meaning": "Blanket",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Ekran",
+    "Meaning": "Screen",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Okulary",
+    "Meaning": "Glasses",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Zegar",
+    "Meaning": "Clock",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Zegarek",
+    "Meaning": "Watch",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Okno",
+    "Meaning": "Window",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Poduszka",
+    "Meaning": "Pillow",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Sofa",
+    "Meaning": "Sofa",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Dach",
+    "Meaning": "Roof",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.05,
+    "Topic": "Discuss your house",
+    "Noun": "Sufit",
+    "Meaning": "Ceiling",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Model",
+    "Meaning": "Model (male)",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Personel",
+    "Meaning": "Worker",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Studentka",
+    "Meaning": "Student (female)",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Modelka",
+    "Meaning": "Model (female)",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Lekarz",
+    "Meaning": "Doctor",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Zawód",
+    "Meaning": "Profession",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Policjant",
+    "Meaning": "Policeman",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Policjantka",
+    "Meaning": "Policewoman",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Artysta",
+    "Meaning": "Artist",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Prawnik",
+    "Meaning": "Lawyer",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Robotnik",
+    "Meaning": "Worker",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Uczeń",
+    "Meaning": "Pupil",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Dyrektorka",
+    "Meaning": "Director (female)",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Sekretarka",
+    "Meaning": "Secretary (female)",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Kapitan",
+    "Meaning": "Captain",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Szef",
+    "Meaning": "Boss",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Żołnierz",
+    "Meaning": "Soldier",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Pisarz",
+    "Meaning": "Writer",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Ochroniarz",
+    "Meaning": "Security guard",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Sędzia",
+    "Meaning": "Judge",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Rolnik",
+    "Meaning": "Farmer",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Kucharz",
+    "Meaning": "Cooker",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Kelner",
+    "Meaning": "Waiter",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Kelnerka",
+    "Meaning": "Waitress",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Noun": "Inżynier",
+    "Meaning": "Engineer",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.08,
+    "Topic": "Talk to someone formally",
+    "Noun": "Pan",
+    "Meaning": "Gentleman",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Panowie"
+  },
+  {
+    "Unit": 2.08,
+    "Topic": "Talk to someone formally",
+    "Noun": "Pani",
+    "Meaning": "Lady",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Panie"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Wieś",
+    "Meaning": "Village / Countryside",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Związek",
+    "Meaning": "Relationship / Bond",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Ofiara",
+    "Meaning": "Victim",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Kultura",
+    "Meaning": "Culture",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Osoba",
+    "Meaning": "Person / Character",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Naród",
+    "Meaning": "Nation",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Społeczeństwo",
+    "Meaning": "Society",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Partner",
+    "Meaning": "Partner",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Obywatel",
+    "Meaning": "Citizen",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Sąsiad",
+    "Meaning": "Neighbour",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Para",
+    "Meaning": "Pair",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Nazwisko",
+    "Meaning": "Surname",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Imię",
+    "Meaning": "First name",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Fundacja",
+    "Meaning": "Foundation",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Młodzież",
+    "Meaning": "Youth",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Gość",
+    "Meaning": "Guest",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Konferencja",
+    "Meaning": "Conference",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Przyjaciel",
+    "Meaning": "Good friend",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Wróg",
+    "Meaning": "Enemy",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Kolega",
+    "Meaning": "Friend",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Znajomy",
+    "Meaning": "Acquaintance",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Pracownik",
+    "Meaning": "Employee",
+    "Single / Plural": "Singular",
+    "Notes": "Pracownik tends to be more formal. Personel would be a more general sense for ‘staff’"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.1,
+    "Topic": "Talk about people",
+    "Noun": "Grupa",
+    "Meaning": "Group",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Ogród",
+    "Meaning": "Garden",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Kuchnia",
+    "Meaning": "Kitchen",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Sypialnia",
+    "Meaning": "Bedroom",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Łazienka",
+    "Meaning": "Bathroom",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Hotel",
+    "Meaning": "Hotel",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Mieszkanie",
+    "Meaning": "Apartment",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Korytarz",
+    "Meaning": "Corridor",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Plaża",
+    "Meaning": "Beach",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Restauracja",
+    "Meaning": "Restaurant",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Naród",
+    "Meaning": "Nation",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Lotnisko",
+    "Meaning": "Airport",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Kościół",
+    "Meaning": "Church",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Ulica",
+    "Meaning": "Street",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Miasto",
+    "Meaning": "City",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Kraj",
+    "Meaning": "Country",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Bank",
+    "Meaning": "Bank",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Sklep",
+    "Meaning": "Shop",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Zamek",
+    "Meaning": "Castle",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Biura",
+    "Meaning": "Office",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Szpital",
+    "Meaning": "Hospital",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Park",
+    "Meaning": "Park",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Budynek",
+    "Meaning": "Building",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Muzeum",
+    "Meaning": "Museum",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Adres",
+    "Meaning": "Address",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Okolica",
+    "Meaning": "Area",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Miejsce",
+    "Meaning": "Place",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Region",
+    "Meaning": "Region",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Kino",
+    "Meaning": "Cinema",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Wieża",
+    "Meaning": "Tower",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Dzielnica",
+    "Meaning": "District",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Przód",
+    "Meaning": "The front of",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Droga",
+    "Meaning": "Road",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Aleja",
+    "Meaning": "Alley",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Tył",
+    "Meaning": "The back of",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Więzienie",
+    "Meaning": "Prison",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Port",
+    "Meaning": "Port",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Obszar",
+    "Meaning": "Area",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Rynek",
+    "Meaning": "Market",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Zoo",
+    "Meaning": "Zoo",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Pałac",
+    "Meaning": "Palace",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Stolica",
+    "Meaning": "Capital",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Połnoc",
+    "Meaning": "North",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Południe",
+    "Meaning": "South",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Wschód",
+    "Meaning": "East",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Zachód",
+    "Meaning": "West",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Góra",
+    "Meaning": "Mountain / Upstairs / Top",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.13,
+    "Topic": "Refer to places",
+    "Noun": "Dół",
+    "Meaning": "Bottom / Downstairs",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Noun": "Suma",
+    "Meaning": "Sum",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Noun": "Liczba",
+    "Meaning": "Number",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Noun": "Cyfra",
+    "Meaning": "Digit",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Noun": "Lat / Lata ?",
+    "Single / Plural": "Singular",
+    "Notes": "Is this actually rok?"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Noun": "Połowa",
+    "Meaning": "Half",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Noun": "Większość",
+    "Meaning": "Majority",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Noun": "Mniejszość",
+    "Meaning": "Minority",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Samochód",
+    "Meaning": "Car",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Pociąg",
+    "Meaning": "Train",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Autobus",
+    "Meaning": "Bus",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Rower",
+    "Meaning": "Bicycle",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Samolot",
+    "Meaning": "Plane",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Motocykl",
+    "Meaning": "Motorbike",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Motor",
+    "Meaning": "Motorbike",
+    "Single / Plural": "Singular",
+    "Notes": "More casual version of Motocykl"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Statek",
+    "Meaning": "Ship",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Bilet",
+    "Meaning": "Ticket",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Wakacje",
+    "Meaning": "Vacation",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Pojazd",
+    "Meaning": "Vehicle",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Transport",
+    "Meaning": "Transport",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Metro",
+    "Meaning": "Subway",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Pasażer",
+    "Meaning": "Passenger",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Kierowca",
+    "Meaning": "Driver",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Noun": "Mapa",
+    "Meaning": "Map",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Sól",
+    "Meaning": "Salt",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Cukier",
+    "Meaning": "Sugar",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Pieprz",
+    "Meaning": "Pepper",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Cebula",
+    "Meaning": "Onion",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Ziemniak",
+    "Meaning": "Potato",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Papryka",
+    "Meaning": "Bell pepper",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Marchewka",
+    "Meaning": "Carrot",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Ryż",
+    "Meaning": "Rice",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Ciasto",
+    "Meaning": "Cake",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Masło",
+    "Meaning": "Butter",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Makaron",
+    "Meaning": "Pasta",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Cytryna",
+    "Meaning": "Lemon",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Banan",
+    "Meaning": "Banana",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Czekolada",
+    "Meaning": "Chocolate",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Smak",
+    "Meaning": "Taste",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Truskawka",
+    "Meaning": "Strawberry",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Pomarańcza",
+    "Meaning": "Orange",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Lody",
+    "Meaning": "Ice cream",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Jogurt",
+    "Meaning": "Yoghurt",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Frytki",
+    "Meaning": "Fries",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Single / Plural": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Cukierka",
+    "Meaning": "Candy",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Menu",
+    "Meaning": "Menu",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Piwo",
+    "Meaning": "Beer",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Alkohol",
+    "Meaning": "Alcohol",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Wołowina",
+    "Meaning": "Beef",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Kurczak",
+    "Meaning": "Chicken",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Olej",
+    "Meaning": "Oil",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Wieprzowina",
+    "Meaning": "Pork",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Grzyb",
+    "Meaning": "Mushroom",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Noun": "Wegetarianin",
+    "Meaning": "Vegetarian",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Pingwin",
+    "Meaning": "Penguin",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Wilk",
+    "Meaning": "Wolf",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Niedźwiedź",
+    "Meaning": "Bear",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Żółw",
+    "Meaning": "Turtle",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Wąż",
+    "Meaning": "Snake",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Byk",
+    "Meaning": "Bull",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Królik",
+    "Meaning": "Rabbit",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Mucha",
+    "Meaning": "Fly",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Małpa",
+    "Meaning": "Monkey",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Delfin",
+    "Meaning": "Dolphin",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Pszczoła",
+    "Meaning": "Bee",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Świnia",
+    "Meaning": "Pig",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Motyl",
+    "Meaning": "Butterfly",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Gęś",
+    "Meaning": "Goose",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Owca",
+    "Meaning": "Sheep",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.22,
+    "Topic": "Discuss animals",
+    "Noun": "Krowa",
+    "Meaning": "Cow",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Miłość",
+    "Meaning": "Love",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Nadzieja",
+    "Meaning": "Hope",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Siła",
+    "Meaning": "Strength",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Siły"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Śmierć",
+    "Meaning": "Death",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Życie",
+    "Meaning": "Life",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Myśl",
+    "Meaning": "Thought",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Przypadek",
+    "Meaning": "Case / Accident",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Przeszłość",
+    "Meaning": "Past",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Przyszłość",
+    "Meaning": "Future",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Projekt",
+    "Meaning": "Project",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Wina",
+    "Meaning": "Fault",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Błąd",
+    "Meaning": "Mistake",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Gra",
+    "Meaning": "Game",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Zmiana",
+    "Meaning": "Change",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Opis",
+    "Meaning": "Description",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Kontrola",
+    "Meaning": "Control",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Dźwięk",
+    "Meaning": "Sound",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Kształt",
+    "Meaning": "Shape",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Członek",
+    "Meaning": "Member / Part",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Problem",
+    "Meaning": "Problem",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Widok",
+    "Meaning": "View / Sight",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Wartość",
+    "Meaning": "Value / Worth",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Działanie",
+    "Meaning": "Action / Activity",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Zawartość",
+    "Meaning": "Content",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Ochrona",
+    "Meaning": "Protection",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Opcja",
+    "Meaning": "Option",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Zaleta",
+    "Meaning": "Advantage",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Rozwiązanie",
+    "Meaning": "Solution",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Produkcja",
+    "Meaning": "Production",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Wada",
+    "Meaning": "Disadvantage / Flaw",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Wynik",
+    "Meaning": "Execution / Performance",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Efekt",
+    "Meaning": "Effect / Result",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Jakość",
+    "Meaning": "Quality",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Ilość",
+    "Meaning": "Quantity",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Kolej",
+    "Meaning": "Turn",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Wolność",
+    "Meaning": "Freedom",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Szansa",
+    "Meaning": "Chance / Opportunity",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Wybór",
+    "Meaning": "Choice / Selection",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Rola",
+    "Meaning": "Role",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Zasada",
+    "Meaning": "Principle / Rule",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Cel",
+    "Meaning": "Goal / Purpose",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Sprawa",
+    "Meaning": "Matter / Case",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Nagroda",
+    "Meaning": "Reward / Prize",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Plecak",
+    "Meaning": "Backpack",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Ryzyko",
+    "Meaning": "Risk",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Władza",
+    "Meaning": "Power / Authority",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Porażka",
+    "Meaning": "Failure",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Możliwość",
+    "Meaning": "Possibility",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Wybór",
+    "Meaning": "Choice",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Przyczyna",
+    "Meaning": "Cause / Reason",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Nazwa",
+    "Meaning": "Name",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Sukces",
+    "Meaning": "Success",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Pomysł",
+    "Meaning": "Idea",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Odpoczynek",
+    "Meaning": "Rest / Relaxation",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Rada",
+    "Meaning": "Advice",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Temat",
+    "Meaning": "Topic / Subject",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Rodzaj",
+    "Meaning": "Kind / Type",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Doświadczenie",
+    "Meaning": "Experience",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.26,
+    "Topic": "Discuss abstract concepts",
+    "Noun": "Reszta",
+    "Meaning": "Rest / Remainder",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Historia",
+    "Meaning": "History",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Nauczyciel",
+    "Meaning": "Teacher",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Studia",
+    "Meaning": "Studies",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Lekcja",
+    "Meaning": "Lesson",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Edukacja",
+    "Meaning": "Education",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Biblioteka",
+    "Meaning": "Library",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Test",
+    "Meaning": "Test",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Kurs",
+    "Meaning": "Course",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Ocena",
+    "Meaning": "Grade",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Oceny"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Przykład",
+    "Meaning": "Example",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Klasa",
+    "Meaning": "Class",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Ćwiczenie",
+    "Meaning": "Exercise",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Ćwiczenia"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Długopis",
+    "Meaning": "Pen",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Ołówek",
+    "Meaning": "Pencil",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Słowo",
+    "Meaning": "Word",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Wiedza",
+    "Meaning": "Knowledge",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Strona",
+    "Meaning": "Page / Side",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Prezentacja",
+    "Meaning": "Presentation",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Tytuł",
+    "Meaning": "Title",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Rozdział",
+    "Meaning": "Chapter",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Profesor",
+    "Meaning": "Professor",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Semestr",
+    "Meaning": "Semester",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Wypracowanie",
+    "Meaning": "Essay",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Wykład",
+    "Meaning": "Lecture",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Uniwersytet",
+    "Meaning": "University",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Egzamin",
+    "Meaning": "Exam",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Szkoła podstawowa",
+    "Meaning": "Primary school",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Tekst",
+    "Meaning": "Text",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Słownik",
+    "Meaning": "Dictionary",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Nototka",
+    "Meaning": "Note",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Notatki"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Liceum",
+    "Meaning": "High School",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Dokument",
+    "Meaning": "Document",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Noun": "Przedszkole",
+    "Meaning": "Preschool",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Opieka",
+    "Meaning": "Healthcare / Protection",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Zdrowie",
+    "Meaning": "Health",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Chory\nChora\nChore",
+    "Meaning": "Sick",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Leczenie",
+    "Meaning": "Treatment",
+    "Single / Plural": "Singular",
+    "Nom": "Leczenie",
+    "Acc": "Leczenie",
+    "Ins": "Leczeniem",
+    "Gen": "Leczenia",
+    "Loc": "Leczeniu",
+    "Voc": "Leczenie",
+    "Dat": "Leczeniu"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Pacjent",
+    "Meaning": "Patient",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Nos",
+    "Meaning": "Nose",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Ucho",
+    "Meaning": "Ear",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Twarz",
+    "Meaning": "Face",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Twarze"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Oko",
+    "Meaning": "Eye",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Głowa",
+    "Meaning": "Head",
+    "Single / Plural": "Singular",
+    "Nom": "Głowa",
+    "Acc": "Głowę",
+    "Ins": "Głową",
+    "Gen": "Głowy",
+    "Loc": "Głowie",
+    "Voc": "Głowo",
+    "Dat": "Głowie"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Głowy",
+    "Nom": "Głowy",
+    "Acc": "Głowami",
+    "Ins": "Głów",
+    "Gen": "Głowach",
+    "Loc": "Głowy",
+    "Voc": "Głowom"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Ząb",
+    "Meaning": "Tooth",
+    "Single / Plural": "Singular",
+    "Nom": "Ząb",
+    "Acc": "Ząb",
+    "Ins": "Zębem",
+    "Gen": "Zęba",
+    "Loc": "Zębie",
+    "Voc": "Ząbie",
+    "Dat": "Zębowi"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Zęby",
+    "Nom": "Zęby",
+    "Acc": "Zębami",
+    "Ins": "Zębów",
+    "Gen": "Zębach",
+    "Loc": "Zęby",
+    "Voc": "Zębom"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Usta",
+    "Meaning": "Mouth / Lip",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Ręka",
+    "Meaning": "Arm / Hand",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Serce",
+    "Meaning": "Heart",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Noga",
+    "Meaning": "Leg",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Ciało",
+    "Meaning": "Body",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Choroba",
+    "Meaning": "Sickness / Disease",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Stopa",
+    "Meaning": "Foot",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Mózg",
+    "Meaning": "Brain",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Plecy",
+    "Meaning": "Back",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Karetka",
+    "Meaning": "Ambulance",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Dieta",
+    "Meaning": "Diet",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Diety"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Operacja",
+    "Meaning": "Operation",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Krew",
+    "Meaning": "Blood",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Lek",
+    "Meaning": "Medicine",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Wpadek",
+    "Meaning": "Accident",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Ból",
+    "Meaning": "Pain",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Wirus",
+    "Meaning": "Virus",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Niepełnosprawny",
+    "Meaning": "Disabled",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Włos",
+    "Meaning": "Hair",
+    "Single / Plural": "Singular",
+    "Nom": "Włos"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Włosy",
+    "Nom": "Włosy"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Brzuch",
+    "Meaning": "Stomach",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Szja",
+    "Meaning": "Neck",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Wizyta",
+    "Meaning": "Appointment",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Palec",
+    "Meaning": "Finger / Toe",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Stan",
+    "Meaning": "State / Condition",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Skóra",
+    "Meaning": "Skin",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Niebo",
+    "Meaning": "Sky",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Trawa",
+    "Meaning": "Grass",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Świat",
+    "Meaning": "The world",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Kwiat",
+    "Meaning": "Flower",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Las",
+    "Meaning": "Forest",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Drzewo",
+    "Meaning": "Tree",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Wiatr",
+    "Meaning": "Wind",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Chmura",
+    "Meaning": "Cloud",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Słońce",
+    "Meaning": "Sun",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Deszcz",
+    "Meaning": "Rain",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Burza",
+    "Meaning": "Storm",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Tęcza",
+    "Meaning": "Rainbow",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Śnieg",
+    "Meaning": "Snow",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Natura",
+    "Meaning": "Nature",
+    "Single / Plural": "Singular",
+    "Notes": "Refers to the nature of things, qualities, personalities etc"
+  },
+  {
+    "Gender": "Plural",
+    "Dat": "Refers to the natural world"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Przyroda",
+    "Meaning": "Nature",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Morze",
+    "Meaning": "Sea",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Pogoda",
+    "Meaning": "Weather",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Ogień",
+    "Meaning": "Fire",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Jezioro",
+    "Meaning": "Lake",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Rzeka",
+    "Meaning": "River",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Planeta",
+    "Meaning": "Planet",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Wyspa",
+    "Meaning": "Island",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Wybrzeże",
+    "Meaning": "Coast",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Ziemia",
+    "Meaning": "Earth",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Gwiazda",
+    "Meaning": "Star",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Księżyc",
+    "Meaning": "Moon",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Wszechświat",
+    "Meaning": "Universe",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Klimat",
+    "Meaning": "Climate",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Pole",
+    "Meaning": "Field",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Liść",
+    "Meaning": "Leaf",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Roślina",
+    "Meaning": "Plant",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Zboże",
+    "Meaning": "Grain / Cereal",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Powietrze",
+    "Meaning": "Air",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Dym",
+    "Meaning": "Smoke",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Kamień",
+    "Meaning": "Stone",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Krajobraz",
+    "Meaning": "Landscape",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Piasek",
+    "Meaning": "Sand",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Środowisko",
+    "Meaning": "Environment",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Horyzont",
+    "Meaning": "Horizon",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Noun": "Pustynia",
+    "Meaning": "Desert",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Wstyd",
+    "Meaning": "Shame",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Złość",
+    "Meaning": "Anger",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Uczucie",
+    "Meaning": "Feeling / Emotion",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Radość",
+    "Meaning": "Joy",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Smutek",
+    "Meaning": "Sadness",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Strach",
+    "Meaning": "Fear",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Nienawiść",
+    "Meaning": "Hatred",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Spokojny",
+    "Meaning": "Calm / Peaceful",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Samotny",
+    "Meaning": "Lonely",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Zapach",
+    "Meaning": "Smell",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Szczęśliwy",
+    "Meaning": "Happy / Fortunate",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Wspomnienie",
+    "Meaning": "Memory",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Wyobrażenie",
+    "Meaning": "Imagination",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Uśmiech",
+    "Meaning": "Smile",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Przyjaźń",
+    "Meaning": "Friendship",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Ochota",
+    "Meaning": "Desire",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Odwaga",
+    "Meaning": "Courage",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Humor",
+    "Meaning": "Humour / Mood",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Szacunek",
+    "Meaning": "Respect",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Niespodzianka",
+    "Meaning": "Surprise",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Potrzeba",
+    "Meaning": "A need",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Stres",
+    "Meaning": "Stress",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Wrażenie",
+    "Meaning": "Impression",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Wrażenia"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Noun": "Zdenerwowany",
+    "Meaning": "Nervous / Upset",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Chodzenie",
+    "Meaning": "Walking",
+    "Single / Plural": "Singular",
+    "Notes": "This section has nouns in their gerund form, in English the equivalent is -ing at the end of the verb. This creates a verbal noun"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Pływanie",
+    "Meaning": "Swimming",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Bieganie",
+    "Meaning": "Running",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Pisanie",
+    "Meaning": "Writing",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Czytanie",
+    "Meaning": "Reading",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Gotowanie",
+    "Meaning": "Cooking",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Czekanie",
+    "Meaning": "Waiting",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Picie",
+    "Meaning": "Drinking",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Podróżowanie",
+    "Meaning": "Travelling",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Siedzenie",
+    "Meaning": "Sitting",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Robienie",
+    "Meaning": "Making / Doing",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Mówienie",
+    "Meaning": "Speaking",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Pomaganie",
+    "Meaning": "Helping",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Wyjście",
+    "Meaning": "Exit",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Wejście",
+    "Meaning": "Entrance",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Sekret",
+    "Meaning": "Secret",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Kierunek",
+    "Meaning": "Direction",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Wysiłek",
+    "Meaning": "Effort / Exertion",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Zainteresowanie",
+    "Meaning": "Interest",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Rzeczywistość",
+    "Meaning": "Reality",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Pozwolenie",
+    "Meaning": "Permit / Permission",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Szczęście",
+    "Meaning": "Happiness / Fortune",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Charakter",
+    "Meaning": "Character / Personality",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Zachowanie",
+    "Meaning": "Behaviour",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Dawód",
+    "Meaning": "Evidence / Proof",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Życzenie",
+    "Meaning": "Wish",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Wątpliwość",
+    "Meaning": "Doubt",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Skutek",
+    "Meaning": "Consequence",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Odpowiedzialność",
+    "Meaning": "Responsibility / Accountability",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Relacja",
+    "Meaning": "Relationship",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Honor",
+    "Meaning": "Honour / Dignity",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Tradycja",
+    "Meaning": "Tradition",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Przysługa",
+    "Meaning": "Favour",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Proces",
+    "Meaning": "Process",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Przestrzeń",
+    "Meaning": "Space",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Obecność",
+    "Meaning": "Presence / Attendance",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Cień",
+    "Meaning": "Shadow",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Żart",
+    "Meaning": "Joke",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Kwestia",
+    "Meaning": "Issue / Matter",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Umysł",
+    "Meaning": "Mind",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Kategoria",
+    "Meaning": "Category",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Cisza",
+    "Meaning": "Silence",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Hałas",
+    "Meaning": "Noise",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Okazja",
+    "Meaning": "Occasion / Opportunity",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Prezent",
+    "Meaning": "Present / Gift",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Zadanie",
+    "Meaning": "Duty / Task",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Plan",
+    "Meaning": "Plan / Itinerary",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Cecha",
+    "Meaning": "Feature",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Różnica",
+    "Meaning": "Difference",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Sygnał",
+    "Meaning": "Signal",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Poczucie",
+    "Meaning": "Sense / Feeling",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Wygląd",
+    "Meaning": "Appearance",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Dolar",
+    "Meaning": "Dollar",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Pieniądze",
+    "Meaning": "Money",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Produkt",
+    "Meaning": "Product",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Złoty",
+    "Meaning": "Złoty",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Waluta",
+    "Meaning": "Currency",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Marka",
+    "Meaning": "Brand",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Cena",
+    "Meaning": "Price",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Oferta",
+    "Meaning": "Offer",
+    "Gender": "F",
+    "Single / Plural": "Singular",
+    "Gen": "Oferty"
+  },
+  {
+    "Gender": "Plural",
+    "Single / Plural": "Oferty"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Biznes",
+    "Meaning": "Business",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Karta kredytowa",
+    "Meaning": "Credit card",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Firma",
+    "Meaning": "Company",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Reklama",
+    "Meaning": "Advert",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Konkurencja",
+    "Meaning": "Competition",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Branża",
+    "Meaning": "Industry",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Stanowisko",
+    "Meaning": "Position / Job title",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Dział",
+    "Meaning": "Department",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Koszt",
+    "Meaning": "Cost",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Umowa",
+    "Meaning": "Agreement / Contract",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Spotkanie",
+    "Meaning": "Meeting",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Organizacja",
+    "Meaning": "Organisation",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Gospodarka",
+    "Meaning": "Economy",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Sprzedaż",
+    "Meaning": "Sale",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Rachunek",
+    "Meaning": "Bill",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Podpis",
+    "Meaning": "Signature",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Konto",
+    "Meaning": "Account",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Zamówienie",
+    "Meaning": "Order",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Inwestycja",
+    "Meaning": "Investment",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Sprzedawca",
+    "Meaning": "Shop assistant",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Fabryka",
+    "Meaning": "Factory",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Złoto",
+    "Meaning": "Gold",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Kariera",
+    "Meaning": "Career",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Ubezpieczenie",
+    "Meaning": "Insurance",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Usługa",
+    "Meaning": "Service",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Noun": "Klient",
+    "Meaning": "Client / Customer",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Telewizja",
+    "Meaning": "TV",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Komunikacja",
+    "Meaning": "Communication",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Rozmowa",
+    "Meaning": "Conversation",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Kontact",
+    "Meaning": "Contact",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Kanał",
+    "Meaning": "Channel",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Zdanie",
+    "Meaning": "Sentence",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Komentarz",
+    "Meaning": "Comment",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Informacja",
+    "Meaning": "Information",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Język",
+    "Meaning": "Language",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Paczka",
+    "Meaning": "Package / Parcel",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Tłumacz",
+    "Meaning": "Translator",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Zaproszenie",
+    "Meaning": "Invitation",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Wiadomość",
+    "Meaning": "Message",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Poczta",
+    "Meaning": "Post office / Mail",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Artykuł",
+    "Meaning": "Article / Story",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Opinia",
+    "Meaning": "Opinion",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Lista",
+    "Meaning": "List",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Sens",
+    "Meaning": "Meaning / Sense",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Dziennikarz",
+    "Meaning": "Journalist",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Prasa",
+    "Meaning": "The press",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Wywiad",
+    "Meaning": "Interview",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Dyskusja",
+    "Meaning": "Discussion",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Internet",
+    "Meaning": "Internet",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Hasło",
+    "Meaning": "Password / Entry",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Klawiatura",
+    "Meaning": "Keyboard",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Folder",
+    "Meaning": "Folder",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Strona internetowa",
+    "Meaning": "Website",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Plik",
+    "Meaning": "File",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Noun": "Dostęp",
+    "Meaning": "Access",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Nauka",
+    "Meaning": "Science",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Szczegół",
+    "Meaning": "Detail",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Energia",
+    "Meaning": "Energy",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Technologia",
+    "Meaning": "Technology",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Analiza",
+    "Meaning": "Analysis",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Badania",
+    "Meaning": "Research / Test",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Zjawisko",
+    "Meaning": "Phenomenon",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Biologia",
+    "Meaning": "Biology",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Matematyka",
+    "Meaning": "Mathematics",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Długość",
+    "Meaning": "Length",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Metoda",
+    "Meaning": "Method",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Definicja",
+    "Meaning": "Definition",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Teoria",
+    "Meaning": "Theory",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Ewolucja",
+    "Meaning": "Evolution",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Laboratorium",
+    "Meaning": "Labatory",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Prędkość",
+    "Meaning": "Speed",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Filozofia",
+    "Meaning": "Philosophy",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Fizyka",
+    "Meaning": "Physics",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Pojęcie",
+    "Meaning": "Concept",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Elektryczność",
+    "Meaning": "Electricity",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Ograniczenie prędkości",
+    "Meaning": "Speed limit",
+    "Gender": "-",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Geografia",
+    "Meaning": "Geography",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Naukowiec",
+    "Meaning": "Scientist",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Powierzchnia",
+    "Meaning": "Area / Surface",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Odległość",
+    "Meaning": "Distance",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Chemia",
+    "Meaning": "Chemistry",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Odkrycie",
+    "Meaning": "Discovery",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Funkcja",
+    "Meaning": "Function",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Wysokość",
+    "Meaning": "Height",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Wniosek",
+    "Meaning": "Conclusion",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Rozmiar",
+    "Meaning": "Size",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Gaz",
+    "Meaning": "Gas",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Państwo",
+    "Meaning": "Country",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Temperatura",
+    "Meaning": "Temperature",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Litr",
+    "Meaning": "Litre",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Kilometr",
+    "Meaning": "Kilometer",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Masa",
+    "Meaning": "Mass",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Centrymetr",
+    "Meaning": "Centimeter",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Noun": "Metr",
+    "Meaning": "Meter",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Sąd",
+    "Meaning": "Court",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Rząd",
+    "Meaning": "Government",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Prawo",
+    "Meaning": "Law",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Premier",
+    "Meaning": "Prime Minister",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Polityka",
+    "Meaning": "Policy / Politics",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Prezydent",
+    "Meaning": "President",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Budżet",
+    "Meaning": "Budget",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Podatek",
+    "Meaning": "Tax",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Król",
+    "Meaning": "King",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Wojsko",
+    "Meaning": "Army",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Wojna",
+    "Meaning": "War",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Strategia",
+    "Meaning": "Strategy",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Wybór",
+    "Meaning": "Election",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Poseł",
+    "Meaning": "MP",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Polityk",
+    "Meaning": "Politician",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Parlament",
+    "Meaning": "Parliament",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Przywódca",
+    "Meaning": "Leader",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Kandydat",
+    "Meaning": "Candidate",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Kampania",
+    "Meaning": "Campaign",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Broń",
+    "Meaning": "Weapon",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Przemoc",
+    "Meaning": "Violence",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Konflikt",
+    "Meaning": "Conflict",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Kryzys",
+    "Meaning": "Crisis",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Strajk",
+    "Meaning": "Strike",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Argument",
+    "Meaning": "Argument",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.06,
+    "Topic": "Talk about politics",
+    "Noun": "Przestępstwo",
+    "Meaning": "Crime / Offence",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Galeria",
+    "Meaning": "Gallery",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Film",
+    "Meaning": "Film",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Aparat",
+    "Meaning": "Apparatus / Camera",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Sztuka",
+    "Meaning": "Arts",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Fotografia",
+    "Meaning": "Photography",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Zdjęcia",
+    "Meaning": "Photo",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Obraz",
+    "Meaning": "Painting",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Kamera",
+    "Meaning": "Camera",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Scena",
+    "Meaning": "Stage / Scene",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Skrzypce",
+    "Meaning": "Violin",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Sława",
+    "Meaning": "Fame",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Taniec",
+    "Meaning": "Dancing",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Piosenka",
+    "Meaning": "Song",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Gitara",
+    "Meaning": "Guitar",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Moda",
+    "Meaning": "Fashion",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Literatura",
+    "Meaning": "Literature",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Poezja",
+    "Meaning": "Poetry",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Teatr",
+    "Meaning": "Theatre",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Styl",
+    "Meaning": "Style",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Rozrywka",
+    "Meaning": "Entertainment",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Architektura",
+    "Meaning": "Architecture",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Konkurs",
+    "Meaning": "Competition / Contest",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Zespół",
+    "Meaning": "Band",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Publiczność",
+    "Meaning": "Audience / Public",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Koncert",
+    "Meaning": "Concerts",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Wydarzenie",
+    "Meaning": "Event",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Noun": "Instrument",
+    "Meaning": "Instrument",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Bramka",
+    "Meaning": "Goal",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Zawodnik",
+    "Meaning": "Player",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Drużyna",
+    "Meaning": "Team",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Piłka",
+    "Meaning": "Ball",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Stadion",
+    "Meaning": "Stadium",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Wyścig",
+    "Meaning": "Race",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Mistrzostwo",
+    "Meaning": "Championship",
+    "Gender": "N",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Spacer",
+    "Meaning": "Walk",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Maraton",
+    "Meaning": "Marathon",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Trening",
+    "Meaning": "Training",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Trener",
+    "Meaning": "Trainer / Coach",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Noun": "Siłownia",
+    "Meaning": "Gym",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Symbol",
+    "Meaning": "Symbol",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Bóg",
+    "Meaning": "God",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Dusza",
+    "Meaning": "Soul",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Duch",
+    "Meaning": "Ghost / Spirit",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Wiara",
+    "Meaning": "Faith",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Modlitwa",
+    "Meaning": "Prayer",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Religia",
+    "Meaning": "Religion",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Ateista",
+    "Meaning": "Atheist",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Buddysta",
+    "Meaning": "Buddhist",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Ksiądz",
+    "Meaning": "Priest",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Muzułmanin",
+    "Meaning": "Muslim (M)",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Muzułmanka",
+    "Meaning": "Muslim (F)",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Chrześcijanin",
+    "Meaning": "Christian",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Medytacja",
+    "Meaning": "Meditation",
+    "Gender": "F",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Noun": "Żyd",
+    "Meaning": "Jew",
+    "Gender": "M",
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  },
+  {
+    "Single / Plural": "Singular"
+  },
+  {
+    "Gender": "Plural"
+  }
+]

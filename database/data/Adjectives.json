@@ -1,0 +1,2327 @@
+[
+  {
+    "Adjective": "Przymiotnik",
+    "Single / Plural": "Przykłady"
+  },
+  {
+    "Adjective": "Smaczny\nSmaczna\nSmaczne",
+    "Meaning": "Tasty",
+    "Single / Plural": "Singular",
+    "Nom": "Smaczny\nSmaczna\nSmaczne",
+    "Acc": "Smacznego / Smaczny\nSmaczną\nSmaczne",
+    "Ins": "Smacznym\nSmaczną\nSmacznym",
+    "Gen": "Smacznego\nSmacznej\nSmacznego",
+    "Loc": "Smacznym\nSmacznej\nSmacznym",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Nom": "Smaczni / Smaczne\nSmaczne",
+    "Acc": "Smacznych / Smaczne\nSmaczne",
+    "Ins": "Smacznymi",
+    "Gen": "Smacznych",
+    "Loc": "Smacznych",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Duży\nDuża\nDuże",
+    "Meaning": "Big",
+    "Single / Plural": "Singular",
+    "Nom": "Duży\nDuża\nDuże",
+    "Acc": "Dużego / Duży\nDużą\nDuże",
+    "Ins": "Dużym\nDużą\nDużym",
+    "Gen": "Dużego\nDużej\nDużego",
+    "Loc": "Dużym\nDużej\nDużym",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Nom": "Dużi / Duże\nDuże",
+    "Acc": "Dużych / Duże\nDuże",
+    "Ins": "Dużymi",
+    "Gen": "Dużych",
+    "Loc": "Dużych",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Mały\nMała\nMałe",
+    "Meaning": "Small",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Zły\nZła\nZłe",
+    "Meaning": "Bad\nEvil\nAngry",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Dobry\nDobra\nDobre",
+    "Meaning": "Good",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Nowy\nNowa\nNowe",
+    "Meaning": "New",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Stary\nStara\nStare",
+    "Meaning": "Old",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Kolorowy\nKolorowa\nKolorowe",
+    "Meaning": "Colourful",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Żółty\nŻółta\nŻółte",
+    "Meaning": "Yellow",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Zielony\nZielona\nZielone",
+    "Meaning": "Green",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Czerwony\nCzerwona\nCzerwone",
+    "Meaning": "Red",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Czarny\nCzarna\nCzarne",
+    "Meaning": "Black",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Niebieski\nNiebieska\nNiebieskie",
+    "Meaning": "Blue",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Biały\nBiała\nBiałe",
+    "Meaning": "White",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Brązowy\nBrązowa\nBrązowe",
+    "Meaning": "Brown",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Pomarańczowy\nPomarańczowa\nPomarańczowe",
+    "Meaning": "Orange",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Fioletowy\nFioletowa\nFioletowe",
+    "Meaning": "Violet",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Różowy\nRóżowa\nRóżowe",
+    "Meaning": "Pink",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Szary\nSzara\nSzare",
+    "Meaning": "Grey",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Następny\nNastępna\nNastępne",
+    "Meaning": "Next / Following",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Ważny\nWażna\nWażne",
+    "Meaning": "Important",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Bogaty\nBogata\nBogate",
+    "Meaning": "Rich",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Inny\nInna\nInne",
+    "Meaning": "Different",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Poprzedni\nPoprzednia\nPoprzednie",
+    "Meaning": "Previous",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Biedny\nBiedna\nBiedne",
+    "Meaning": "Poor",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Normalny\nNormalna\nNormalne",
+    "Meaning": "Normal",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Czysty\nCzysta\nCzyste",
+    "Meaning": "Clean",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Ciemny\nCiemna\nCiemne",
+    "Meaning": "Dark",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Cały\nCała\nCałe",
+    "Meaning": "Whole",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Idealny\nIdealna\nIdealne",
+    "Meaning": "Perfect",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Jasny\nJasna\nJasne",
+    "Meaning": "Bright",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Brudny\nBrudna\nBrudne",
+    "Meaning": "Dirty",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Młody\nMłoda\nMłode",
+    "Meaning": "Young",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Niski\nNiska\nNiskie",
+    "Meaning": "Low",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Miły\nMiła\nMiłe",
+    "Meaning": "Kind",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Popularny\nPopularna\nPopularne",
+    "Meaning": "Popular",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wysoki\nWysoka\nWysokie",
+    "Meaning": "Tall",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Krótki\nKrótka\nKrótkie",
+    "Meaning": "Short",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Piękny\nPiękna\nPiękne",
+    "Meaning": "Beautiful",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wspaniały\nWspaniała\nWspaniałe",
+    "Meaning": "Wonderful",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Długi\nDługa\nDługe",
+    "Meaning": "Long",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Brzydki\nBrzydka\nBrzydkie",
+    "Meaning": "Ugly",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Lekki\nLekka\nLekkie",
+    "Meaning": "Light",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Ciężki\nCiężka\nCiężkie",
+    "Meaning": "Heavy",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Ciekawy\nCiekawa\nCiekawe",
+    "Meaning": "Interesting",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Darmowy\nDarmowa\nDarmowe",
+    "Meaning": "Free",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Tani\nTania\nTanie",
+    "Meaning": "Cheap",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Nudny\nNudna\nNudne",
+    "Meaning": "Boring",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Drogi\nDroga\nDrogie",
+    "Meaning": "Expensive",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wygodny\nWygodna\nWygodne",
+    "Meaning": "Comfortable",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Smutny\nSmutna\nSmutne",
+    "Meaning": "Sad",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Mokry\nMokra\nMokre",
+    "Meaning": "Wet",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Słaby\nSłaba\nSłabe",
+    "Meaning": "Weak",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wesoły\nWesoła\nWesołe",
+    "Meaning": "Cheerful",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Silny\nSilna\nSilne",
+    "Meaning": "Strong",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Suchy\nSucha\nSuche",
+    "Meaning": "Dry",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Drewniany\nDrewniana\nDrewniane",
+    "Meaning": "Wooden",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wąski\nWąska\nWąskie",
+    "Meaning": "Narrow",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Sławny\nSławna\nSławne",
+    "Meaning": "Famous",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Plastikowy\nPlastikowa\nPlastikowe",
+    "Meaning": "Plastic",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Szeroki\nSzeroka\nSzerokie",
+    "Meaning": "Wide",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Metalowy\nMetalowa\nMetalowe",
+    "Meaning": "Metal",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Dorosły\nDorosła\nDorosłe",
+    "Meaning": "Adult",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Prawy\nPrawa\nPrawe",
+    "Meaning": "Right",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Lewy\nLewa\nLewe",
+    "Meaning": "Left",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Ostatni\nOstatnia\nOstatnie",
+    "Meaning": "Last",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wystarczający\nWystarczająca\nWystarczające",
+    "Meaning": "Sufficient",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Spragniony\nSpragniona\nSpragnione",
+    "Meaning": "Thirsty",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Głodny\nGłodna\nGłodne",
+    "Meaning": "Hungry",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Ulubiony\nUlubiona\nUlubione",
+    "Meaning": "Favourite",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Podstawowy\nPodstawowa\nPodstawowe",
+    "Meaning": "Basic / Fundamental",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Zmęczony\nZmęczona\nZmęczone",
+    "Meaning": "Tired",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Poważny\nPoważna\nPoważne",
+    "Meaning": "Serious",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Własny\nWłasna\nWłasne",
+    "Meaning": "Own",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Prawdziwy\nPrawdziwa\nPrawdziwe",
+    "Meaning": "True / Genuine",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Tradycyjny\nTradycyjna\nTradycyjne",
+    "Meaning": "Traditional",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Nowoczesny\nNowoczesna\nNowoczesne",
+    "Meaning": "Modern",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Słodki\nSłodka\nSłodkie",
+    "Meaning": "Sweet",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Mądry\nMądra\nMądre",
+    "Meaning": "Smart",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Potrzebny\nPotrzebna\nPotrzebne",
+    "Meaning": "Needed",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Otwarty\nOtwarta\nOtwarte",
+    "Meaning": "Open",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Świeży\nŚwieża\nŚwieże",
+    "Meaning": "Fresh",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Zamknięty\nZamknięta\nZamknięte",
+    "Meaning": "Closed",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Gotowy\nGotowa\nGotowe",
+    "Meaning": "Ready",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Ciepły\nCiepła\nCiepłe",
+    "Meaning": "Warm",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Trudny\nTrudna\nTrudne",
+    "Meaning": "Tough / Difficult",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Łatwy\nŁatwa\nŁatwe",
+    "Meaning": "Easy / Simple",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Taki\nTaka\nTakie",
+    "Meaning": "Such / Like that",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Nom": "Tacy",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Dziwny\nDziwna\nDziwne",
+    "Meaning": "Strange",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Zabawny\nZabawna\nZabawne",
+    "Meaning": "Funny",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Przydatny\nPrzydatna\nPrzydatne",
+    "Meaning": "Useful",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Szczupły\nSzczupła\nSzczupłe",
+    "Meaning": "Thin",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Zimny\nZimna\nZimne",
+    "Meaning": "Cold",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Straszny\nStraszna\nStraszne",
+    "Meaning": "Scary",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Gorący\nGorąca\nGorące",
+    "Meaning": "Hot",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Sam\nSama\nSame",
+    "Meaning": "Alone / By itself",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Możliwy\nMożliwa\nMożliwe",
+    "Meaning": "Possible",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Miękki\nMiękka\nMiękkie",
+    "Meaning": "Soft",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Pusty\nPusta\nPuste",
+    "Meaning": "Empty",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Twardy\nTwarda\nTwarde",
+    "Meaning": "Hard / Tough",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Pełny\nPełna\nPełne",
+    "Meaning": "Full",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Niemożliwy\nNiemożliwa\nNiemożliwe",
+    "Meaning": "Impossible",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Podobny\nPodobna\nPodobne",
+    "Meaning": "Similar",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wyspólny\nWyspólna\nWyspólne",
+    "Meaning": "Shared / Common",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Zawodowy\nZawodowa\nZawodowe",
+    "Meaning": "Professional",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Średni\nŚrednia\nŚrednie",
+    "Meaning": "Average / Medium",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Bezpieczny\nBezpieczna\nBezpieczne",
+    "Meaning": "Safe",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Niebezpieczny\nNiebezpieczna\nNiebezpieczne",
+    "Meaning": "Dangerous",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Prywatny\nPrywatna\nPrywatne",
+    "Meaning": "Private",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Dziki\nDzika\nDzikie",
+    "Meaning": "Wild",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Cichy\nCicha\nCiche",
+    "Meaning": "Quiet",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Głośny\nGłośna\nGłośne",
+    "Meaning": "Loud",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Zdrowy\nZdrowa\nZdrowe",
+    "Meaning": "Healthy",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najlepszy\nNajlepsza\nNajlepsze",
+    "Meaning": "Best",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najgorszy\nNajgorsza\nNajgorsze",
+    "Meaning": "Worst",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najmniejszy\nNajmniejsza\nNajmniejsze",
+    "Meaning": "Smallest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Mniejszy\nMniejsza\nMniejsze",
+    "Meaning": "Smaller",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Większy\nWiększa\nWiększe",
+    "Meaning": "Bigger",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Gorszy\nGorsza\nGorsze",
+    "Meaning": "Worse",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Lepszy\nLepsza\nLepsze",
+    "Meaning": "Better",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Młodszy\nMłodsza\nMłodsze",
+    "Meaning": "Younger",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najważniejszy\nNajważniejsza\nNajważniejsze",
+    "Meaning": "Most important",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Niższy\nNiższa\nNiższe",
+    "Meaning": "Shorter",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wyższy\nWyższa\nWyższe",
+    "Meaning": "Taller",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najstarszy\nNajstarsza\nNajstarsze",
+    "Meaning": "Oldest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najniższy\nNajniższa\nNajniższe",
+    "Meaning": "Shortest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Ważniejszy\nWażniejsza\nWażniejsze",
+    "Meaning": "More important",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Nowszy\nNowsza\nNowsze",
+    "Meaning": "Newer",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Krótszy\nKrótsza\nKrótsze",
+    "Meaning": "Shorter",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najtańszy\nNajtańsza\nNajtańsze",
+    "Meaning": "Cheapest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Dłuższy\nDłuższa\nDłuższe",
+    "Meaning": "Longer",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Droższy\nDroższa\nDroższe",
+    "Meaning": "More expensive",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najnowszy\nNajnowsza\nNajnowsze",
+    "Meaning": "Newest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najdłuższy\nNajdłuższa\nNajdłuższe",
+    "Meaning": "Longest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najdroższy\nNajdroższa\nNajdroższe",
+    "Meaning": "Most expensive",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najwyższy\nNajwyższa\nNajwyższe",
+    "Meaning": "Tallest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Słabszy\nSłabsza\nSłabsze",
+    "Meaning": "Weaker",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najsłabszy\nNajsłabsza\nNajsłabsze",
+    "Meaning": "Weakest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Łatwiejszy\nŁatwiejsza\nŁatwiejsze",
+    "Meaning": "Easier",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wolniejszy\nWolniejsza\nWolniejsze",
+    "Meaning": "Slower",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Silniejszy\nSilniejsza\nSilniejsze",
+    "Meaning": "Stronger",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najszybszy\nNajszybsza\nNajszybsze",
+    "Meaning": "Fastest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najsilniejszy\nNajsilniejsza\nNajsilniejsze",
+    "Meaning": "Strongest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Szybszy\nSzybsza\nSzybsze",
+    "Meaning": "Faster",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najwolniejszy\nNajwolniejsza\nNajwolniejsze",
+    "Meaning": "Slowest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najtrudniejszy\nNajtrudniejsza\nNajtrudniejsze",
+    "Meaning": "Most difficult",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Trudniejszy\nTrudniejsza\nTrudniejsze",
+    "Meaning": "More difficult",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Głęboki\nGłęboka\nGłębokie",
+    "Meaning": "Deep",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Głębszy\nGłębsza\nGłębsze",
+    "Meaning": "Deeper",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Najgłębszy\nNajgłębsza\nNajgłębsze",
+    "Meaning": "Deepest",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Wrażliwy\nWrażliwa\nWrażliwe",
+    "Meaning": "Sensitive",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Złoty\nZłota\nZłote",
+    "Meaning": "Golden",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Warty\nWarta\nWarte",
+    "Meaning": "Worth",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Adjective": "Święty\nŚwięta\nŚwięte",
+    "Meaning": "Holy",
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Singular",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Single / Plural": "Plural",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  }
+]

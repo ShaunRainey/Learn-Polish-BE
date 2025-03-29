@@ -1,0 +1,177 @@
+[
+  {
+    "Case": "Genitive",
+    "Preposition": "Bez",
+    "Meaning": "Without",
+    "Notes:": "All prepositions found here:\nhttps://courseofpolish.com/grammar/cases/cases-after-prepositions/list-of-prepositions"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Blisko",
+    "Meaning": "Near / Close to",
+    "Notes:": "Genitive prepositions are used to answer ‘Kogo’ or ‘Czego’. They are used to express possession, origin, absence, direction, or quantity"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Dla",
+    "Meaning": "For"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Do",
+    "Meaning": "To / Up to / Until"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Obok",
+    "Meaning": "Next to / Alongside"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Od",
+    "Meaning": "From / Away from"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Oprócz",
+    "Meaning": "Except for / Besides"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Podczas",
+    "Meaning": "During"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Wsród",
+    "Meaning": "Among"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Naprzeciwko",
+    "Meaning": "Across from / Opposite"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "U",
+    "Meaning": "At"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Według",
+    "Meaning": "According to"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Z",
+    "Meaning": "From / Out of"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Znad",
+    "Meaning": "From above"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Za",
+    "Meaning": "From behind"
+  },
+  {
+    "Case": "Genitive",
+    "Preposition": "Zamiast",
+    "Meaning": "Instead of"
+  },
+  {
+    "Case": "Accusative",
+    "Preposition": "Przez",
+    "Meaning": "Through",
+    "Notes:": "Accusative prepositions tend to be used with movement / dynamic existence. Used to answer the question ‘Dokąd?’ (where to?) and indicates direction"
+  },
+  {
+    "Case": "Accusative",
+    "Preposition": "W",
+    "Meaning": "Into"
+  },
+  {
+    "Case": "Accusative",
+    "Preposition": "Na",
+    "Meaning": "Onto"
+  },
+  {
+    "Case": "Accusative",
+    "Preposition": "Po",
+    "Meaning": "For / After"
+  },
+  {
+    "Case": "Accusative",
+    "Preposition": "O",
+    "Meaning": "Against"
+  },
+  {
+    "Case": "Accusative",
+    "Preposition": "Pod",
+    "Meaning": "To under / Beneath / Below"
+  },
+  {
+    "Case": "Accusative",
+    "Preposition": "Za",
+    "Meaning": "To behind"
+  },
+  {
+    "Case": "Instrumental",
+    "Preposition": "Z",
+    "Meaning": "With",
+    "Notes:": "Instrumental prepositions tend to indicate a location, answers the question ‘Gdzie?’"
+  },
+  {
+    "Case": "Instrumental",
+    "Preposition": "Pod",
+    "Meaning": "Under"
+  },
+  {
+    "Case": "Instrumental",
+    "Preposition": "Przed",
+    "Meaning": "In front of"
+  },
+  {
+    "Case": "Instrumental",
+    "Preposition": "Nad",
+    "Meaning": "Above / On top of"
+  },
+  {
+    "Case": "Instrumental",
+    "Preposition": "Za",
+    "Meaning": "Behind"
+  },
+  {
+    "Case": "Instrumental",
+    "Preposition": "Między",
+    "Meaning": "Between"
+  },
+  {
+    "Case": "Locative",
+    "Preposition": "Przy",
+    "Meaning": "During / At / Next to",
+    "Notes:": "Locative prepositions also indicate a static location or to discuss a topic. They are used to answer ‘Gdzie’ or ‘O czym?’"
+  },
+  {
+    "Case": "Locative",
+    "Preposition": "W",
+    "Meaning": "In / At"
+  },
+  {
+    "Case": "Locative",
+    "Preposition": "Na",
+    "Meaning": "On / At"
+  },
+  {
+    "Case": "Locative",
+    "Preposition": "Po",
+    "Meaning": "After / Over the surface of"
+  },
+  {
+    "Case": "Locative",
+    "Preposition": "O",
+    "Meaning": "About / At a time"
+  }
+]

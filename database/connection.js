@@ -7,7 +7,9 @@ if (!process.env.PGDATABASE) {
         throw new Error("No PGDatabase configured")
     }
     
-    const db = new Pool();
+const db = new Pool({
+  client_encoding: "UTF8",
+});
     
     // console.log(process.env.PGDATABASE)
 module.exports = db;

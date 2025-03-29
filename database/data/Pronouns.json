@@ -1,0 +1,318 @@
+[
+  {
+    "Index": "1. Personal Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Meaning": "Notes"
+  },
+  {
+    "Index": "ja / my",
+    "Meaning": "I / we"
+  },
+  {
+    "Index": "ty / wy",
+    "Meaning": "you (singular) / you (plural)"
+  },
+  {
+    "Index": "on / oni",
+    "Meaning": "he / they (masculine personal)"
+  },
+  {
+    "Index": "ona / one",
+    "Meaning": "she / they (non-masculine personal: feminine/neuter plural)"
+  },
+  {
+    "Index": "ono",
+    "Meaning": "it"
+  },
+  {
+    "Index": "2. Possessive Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "mój / nasz",
+    "Pronoun": "my / our",
+    "Nom": "Inflects for gender, number, and case."
+  },
+  {
+    "Index": "twój / wasz",
+    "Pronoun": "your (singular/plural)",
+    "Nom": "Informal."
+  },
+  {
+    "Index": "jego / ich",
+    "Pronoun": "his / their",
+    "Nom": "Does not inflect."
+  },
+  {
+    "Index": "jej",
+    "Pronoun": "her",
+    "Nom": "Does not inflect."
+  },
+  {
+    "Index": "3. Reflexive Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "się",
+    "Pronoun": "oneself",
+    "Nom": "Used for reflexive actions."
+  },
+  {
+    "Index": "siebie",
+    "Pronoun": "oneself",
+    "Nom": "Emphatic or object form of reflexive."
+  },
+  {
+    "Index": "4. Demonstrative Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "ten / ci",
+    "Pronoun": "this / these (masc.)",
+    "Nom": "Inflects for gender, number, and case."
+  },
+  {
+    "Index": "ta / te",
+    "Pronoun": "this / these (fem.)"
+  },
+  {
+    "Index": "to",
+    "Pronoun": "this (neuter)"
+  },
+  {
+    "Index": "tamten / tamci",
+    "Pronoun": "that / those (masc.)",
+    "Nom": "Refers to objects further away."
+  },
+  {
+    "Index": "tamta / tamte",
+    "Pronoun": "that / those (fem.)"
+  },
+  {
+    "Index": "tamto",
+    "Pronoun": "that (neuter)"
+  },
+  {
+    "Index": "5. Interrogative Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "kto / co",
+    "Pronoun": "who / what",
+    "Nom": "Kto for people, co for things.",
+    "Ins": "jak/gdzie/kiedy are adverbs, not pronouns"
+  },
+  {
+    "Index": "który / które",
+    "Pronoun": "which (masc./fem./neut.)",
+    "Nom": "Inflects for gender and case."
+  },
+  {
+    "Index": "czyj / czyja / czyje",
+    "Pronoun": "whose",
+    "Nom": "Inflects for gender, number, and case."
+  },
+  {
+    "Index": "6. Indefinite Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "ktoś / coś",
+    "Pronoun": "someone / something"
+  },
+  {
+    "Index": "jakiś / jakaś / jakieś",
+    "Pronoun": "some kind of",
+    "Nom": "Inflects for gender, number, and case."
+  },
+  {
+    "Index": "czyjś / czyjaś / czyjeś",
+    "Pronoun": "someone's"
+  },
+  {
+    "Index": "niektóry / niektóre",
+    "Pronoun": "some / certain"
+  },
+  {
+    "Index": "7. Negative Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "nikt / nic",
+    "Pronoun": "no one / nothing"
+  },
+  {
+    "Index": "żaden / żadna / żadne",
+    "Pronoun": "none / no",
+    "Nom": "Inflects for gender, number, and case."
+  },
+  {
+    "Index": "8. Relative Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "kto / co",
+    "Pronoun": "who / what"
+  },
+  {
+    "Index": "który / które",
+    "Pronoun": "which",
+    "Nom": "Inflects for gender, number, and case."
+  },
+  {
+    "Index": "czyj / czyja / czyje",
+    "Pronoun": "whose",
+    "Nom": "Inflects for gender and case."
+  },
+  {
+    "Index": "9. Reciprocal Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "nawzajem",
+    "Pronoun": "each other",
+    "Nom": "Often used reflexively."
+  },
+  {
+    "Index": "10. Emphatic Pronouns"
+  },
+  {
+    "Index": "Pronoun",
+    "Pronoun": "Meaning",
+    "Nom": "Notes"
+  },
+  {
+    "Index": "sam / sami / sama / same",
+    "Pronoun": "self / themselves",
+    "Nom": "Inflects for gender, number, and case."
+  },
+  {
+    "Index": "wiele",
+    "Pronoun": "Many / Much",
+    "Meaning": "Quantifier / Indefinite pronoun"
+  },
+  {
+    "Index": "Ile",
+    "Meaning": "Interrogative pronoun"
+  },
+  {
+    "Index": "Swój"
+  },
+  {
+    "Index": "Singular:"
+  },
+  {
+    "Index": "Case",
+    "Pronoun": "Masculine",
+    "Meaning": "Feminine",
+    "Nom": "Neuter"
+  },
+  {
+    "Index": "Nominative",
+    "Pronoun": "swój",
+    "Meaning": "swoja",
+    "Nom": "swoje"
+  },
+  {
+    "Index": "Genitive",
+    "Pronoun": "swojego",
+    "Meaning": "swojej",
+    "Nom": "swojego"
+  },
+  {
+    "Index": "Dative",
+    "Pronoun": "swojemu",
+    "Meaning": "swojej",
+    "Nom": "swojemu"
+  },
+  {
+    "Index": "Accusative",
+    "Pronoun": "swojego",
+    "Meaning": "swoją",
+    "Nom": "swoje"
+  },
+  {
+    "Index": "Instrumental",
+    "Pronoun": "swoim",
+    "Meaning": "swoją",
+    "Nom": "swoim"
+  },
+  {
+    "Index": "Locative",
+    "Pronoun": "swoim",
+    "Meaning": "swojej",
+    "Nom": "swoim"
+  },
+  {
+    "Index": "Plural:"
+  },
+  {
+    "Index": "Case",
+    "Pronoun": "Masculine Personal",
+    "Meaning": "Non-Masculine Personal"
+  },
+  {
+    "Index": "Nominative",
+    "Pronoun": "swoi",
+    "Meaning": "swoje"
+  },
+  {
+    "Index": "Genitive",
+    "Pronoun": "swoich",
+    "Meaning": "swoich"
+  },
+  {
+    "Index": "Dative",
+    "Pronoun": "swoim",
+    "Meaning": "swoim"
+  },
+  {
+    "Index": "Accusative",
+    "Pronoun": "swoich",
+    "Meaning": "swoje"
+  },
+  {
+    "Index": "Instrumental",
+    "Pronoun": "swoimi",
+    "Meaning": "swoimi"
+  },
+  {
+    "Index": "Locative",
+    "Pronoun": "swoich",
+    "Meaning": "swoich"
+  }
+]

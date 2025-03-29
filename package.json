@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon app.js",
-    "setup-db": "psql -f ./database/polish_data_entry.sql",
+    "setup-database": "psql -f ./database/polish_data_entry.sql",
+    "seed": "node database/run-seed.js",
     "test": "jest"
   },
   "keywords": [],
@@ -14,7 +15,9 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "pg": "^8.14.1"
+    "pg": "^8.14.1",
+    "pg-format": "^1.0.4",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "jest": "^29.7.0",

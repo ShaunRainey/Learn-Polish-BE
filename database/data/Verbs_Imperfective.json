@@ -1,0 +1,5346 @@
+[
+  {
+    "Verb": "Czasownik",
+    "Tense": "Przykłady"
+  },
+  {
+    "Unit": 1.01,
+    "Topic": "Basics",
+    "Verb": "Być",
+    "Meaning": "To be",
+    "Conjugation": "Irregular",
+    "Tense": "Present",
+    "Ja": "Jestem",
+    "Ty": "Jesteś",
+    "On/Ona": "Jest",
+    "My": "Jesteśmy",
+    "Wy": "Jesteście",
+    "Oni/One": "Są",
+    "Examples": "- Jestem chłopcem (I am a boy)\n- Ty jesteś kobietą (You are a woman)\n- Ona jest dziewczynką (She is a girl)\n- Nie jesteśmy dziecmi (We are not children)\n- Jesteście ludźmi (You are people)\n- Oni są źli (They are evil)",
+    "Notes": "Followed by Narzędnik / Instrumental case\nWhen talking about the future, we use będę, będzie etc which are forms of być. Though będę forms are often better translated as ‘will’ than ‘will be’"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Byłem / Byłam",
+    "Ty": "Byłeś / Byłaś",
+    "On/Ona": "Był / Była",
+    "My": "Byliśmy / Byłyśmy",
+    "Wy": "Byliście / Byłyście",
+    "Oni/One": "Byli / Były"
+  },
+  {
+    "Tense": "Conditional",
+    "Ja": "Byłbym / Byłabym",
+    "Ty": "Byłbyś / Byłbyś",
+    "On/Ona": "Byłby / Byłaby",
+    "My": "Bylibyśmy / Byłybyśmy",
+    "Wy": "Bylibyście / Byłybyście",
+    "Oni/One": "Byliby / Byłyby"
+  },
+  {
+    "Verb": "Pić",
+    "Meaning": "To drink",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Piję",
+    "Ty": "Pijesz",
+    "On/Ona": "Pije",
+    "My": "Pijemy",
+    "Wy": "Pijecie",
+    "Oni/One": "Piją",
+    "Examples": "- Ja piję mleko (I am drinking milk)\n- Ty pijesz wino (You are drinking wine)\n- On pije wodę (He is drinking water)\n- Pijemy kawę (We are drinking coffee)\n- Pijecie sok pomarańczowy (You are drinking orange juice)\n- Piją wódkę (They are drinking vodka)",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Piłem / Piłam",
+    "Tense": "Piłeś / Pyłaś",
+    "Ja": "Pił / Piła",
+    "Ty": "Piliśmy / Piłyśmy",
+    "On/Ona": "Piliście / Piłyście",
+    "My": "Pili / Piły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Jeść",
+    "Meaning": "To eat",
+    "Tense": "Present",
+    "Ja": "Jem",
+    "Ty": "Jesz",
+    "On/Ona": "Je",
+    "My": "Jemy",
+    "Wy": "Jecie",
+    "Oni/One": "Jedzą",
+    "Examples": "- Jem sernik (I am eating cheesecake)\n- Jesz jajko (You are eating an egg)\n- Kobieta je (A woman is eating)\n- Jemy kanapki z szynką (We are eating ham sandwiches)\n- Jecie owoce (You are eating fruit)\n- Jedzą warzywa (They are eating vegetables)",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Jadłem / Jadłam",
+    "Tense": "Jadłeś / Jadłaś",
+    "Ja": "Jadł / Jadła",
+    "Ty": "Jedliśmy / Jedłyśmy",
+    "On/Ona": "Jedliście / Jedłyście",
+    "My": "Jedli / Jedły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Mieć",
+    "Meaning": "To have",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Mam",
+    "Ty": "Masz",
+    "On/Ona": "Ma",
+    "My": "Mamy",
+    "Wy": "Macie",
+    "Oni/One": "Mają",
+    "Examples": "- Mam psa (I have a dog)\n- Masz mleko (You have milk)\n- On ma ciasteczka (He has cookies)\n- Mamy problem (We have a problem)\n- Macie smażonego kurczaka (You have fried chicken)\n- Mają wino (They have wine)",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Miałem / Miałam",
+    "Tense": "Miałeś / Miałaś",
+    "Ja": "Miał / Miała",
+    "Ty": "Mieliśmy / Miełyśmy",
+    "On/Ona": "Mieliście / Miełyście",
+    "My": "Mieli / Mieły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Dziękować",
+    "Meaning": "To thank",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Dziękuję",
+    "Ty": "Dziękujesz",
+    "On/Ona": "Dziękuje",
+    "My": "Dziękuemy",
+    "Wy": "Dziękujecie",
+    "Oni/One": "Dziękują",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Dative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Dziękowałem / Dziękowałam",
+    "Tense": "Dziękowałeś / Dziękowałaś",
+    "Ja": "Dziękował / Dziękowała",
+    "Ty": "Dziękowaliśmy / Dziękowałyśmy",
+    "On/Ona": "Dziękowaliście / Dziękowałyście",
+    "My": "Dziękowali / Dziękowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Lubić",
+    "Meaning": "To like",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Lubię",
+    "Ty": "Lubisz",
+    "On/Ona": "Lubi",
+    "My": "Lubimy",
+    "Wy": "Lubicie",
+    "Oni/One": "Lubią",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Lubiłem / Lubiłam",
+    "Tense": "Lubiłeś / Lubiłaś",
+    "Ja": "Lubił / Lubiła",
+    "Ty": "Lubiliśmy / Lubiłyśmy",
+    "On/Ona": "Lubiliście / Lubiłyście",
+    "My": "Lubili / Lubiły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Przepraszać",
+    "Meaning": "To apologise",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Przepraszam",
+    "Ty": "Przepraszasz",
+    "On/Ona": "Przeprasza",
+    "My": "Przepraszamy",
+    "Wy": "Przepraszacie",
+    "Oni/One": "Przepraszają",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Przepraszałem / Przepraszałam",
+    "Tense": "Przepraszałeś / Przepraszałaś",
+    "Ja": "Przepraszał / Przepraszała",
+    "Ty": "Przepraszaliśmy / Przepraszałyśmy",
+    "On/Ona": "Przepraszaliście / Przepraszłyście",
+    "My": "Przepraszali / Przepraszały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Mówić",
+    "Meaning": "To speak",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Mówię",
+    "Ty": "Mówisz",
+    "On/Ona": "Mówi",
+    "My": "Mówimy",
+    "Wy": "Mówicie",
+    "Oni/One": "Mówią",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Mówiłem / Mówiłam",
+    "Ty": "Mówiłeś / Mówiłaś",
+    "On/Ona": "Mówił / Mówiła",
+    "My": "Mówiliśmy / Mówiłyśmy",
+    "Wy": "Mówiliście / Mówiłyście",
+    "Oni/One": "Mówili / Mówiły"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Mówiłbym / Mówiłabym",
+    "Tense": "Mówiłbyś / Mówiłabyś",
+    "Ja": "Mówiłby / Mówiłaby",
+    "Ty": "Mówiłibyśmy / Mówiłybyśmy",
+    "On/Ona": "Mówiłibyście / Mówiłybyście",
+    "My": "Mówiłiby / Mówiłyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Nosić",
+    "Meaning": "To wear",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Noszę",
+    "Ty": "Nosisz",
+    "On/Ona": "Nosi",
+    "My": "Nosimy",
+    "Wy": "Nosicie",
+    "Oni/One": "Noszą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case\nCan also be used to mean ‘to carry’, used when referring to a repeated / habitual carrying of an item"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Nosiłem / Nosiłam",
+    "Tense": "Nosiłeś / Nosiłaś",
+    "Ja": "Nosił / Nosiła",
+    "Ty": "Nosiliśmy / Nosiłyśmy",
+    "On/Ona": "Nosiliście / Nosiłyście",
+    "My": "Nosili / Nosiły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Widzić",
+    "Meaning": "To see",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Widzę",
+    "Ty": "Widzisz",
+    "On/Ona": "Widzi",
+    "My": "Widzimy",
+    "Wy": "Widzicie",
+    "Oni/One": "Widzą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Widziałem / Widziałam",
+    "Tense": "Widziałeś / Widziałaś",
+    "Ja": "Widział / Widziała",
+    "Ty": "Widzieliśmy / Widziałyśmy",
+    "On/Ona": "Widzieliście / Widziałyście",
+    "My": "Widzieli / Widziały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Kochać",
+    "Meaning": "To love",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Kocham",
+    "Ty": "Kochasz",
+    "On/Ona": "Kocha",
+    "My": "Kochamy",
+    "Wy": "Kochacie",
+    "Oni/One": "Kochają",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Kochałem / Kochałam",
+    "Tense": "Kochałeś / Kochałaś",
+    "Ja": "Kochał / Kochała",
+    "Ty": "Kochaliśmy / Kochałyśmy",
+    "On/Ona": "Kochaliście / Kochałyście",
+    "My": "Kochali / Kochały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Znać",
+    "Meaning": "To know",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Znam",
+    "Ty": "Znasz",
+    "On/Ona": "Zna",
+    "My": "Znamy",
+    "Wy": "Znacie",
+    "Oni/One": "Znają",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Znałem / Znałam",
+    "Tense": "Znałeś / Znałaś",
+    "Ja": "Znał / Znała",
+    "Ty": "Znaliśmy / Znałyśmy",
+    "On/Ona": "Znaliście / Znałyście",
+    "My": "Znali / Znały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Pisać",
+    "Meaning": "To write",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Piszę",
+    "Ty": "Piszesz",
+    "On/Ona": "Pisze",
+    "My": "Piszemy",
+    "Wy": "Piszecie",
+    "Oni/One": "Piszą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Pisałem / Pisałam",
+    "Ty": "Pisałeś / Pisałaś",
+    "On/Ona": "Pisał / Pisała",
+    "My": "Pisaliśmy / Pisałyśmy",
+    "Wy": "Pisaliście / Pisałyście",
+    "Oni/One": "Pisali / Pisały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pisałbym / Pisałabym",
+    "Tense": "Pisałbyś / Pisałabyś",
+    "Ja": "Pisałby / Pisałaby",
+    "Ty": "Pisalibyśmy / Pisałybyśmy",
+    "On/Ona": "Pisalibyście / Pisałybyście",
+    "My": "Pisaliby / Pisałyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Verb": "Słyszeć",
+    "Meaning": "To hear",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Słyszę",
+    "Ty": "Słyszysz",
+    "On/Ona": "Słysze",
+    "My": "Słyszymy",
+    "Wy": "Słyszycie",
+    "Oni/One": "Słyszą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Followed by Biernik / Accusative case"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Słyszałem / Słyszałam",
+    "Tense": "Słyszałeś / Słyszałaś",
+    "Ja": "Słyszał / Słyszała",
+    "Ty": "Słyszeliśmy / Słyszałyśmy",
+    "On/Ona": "Słyszeliście / Słyszałyście",
+    "My": "Słyszeli / Słyszały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Verb": "Iść",
+    "Meaning": "To walk/go",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Idę",
+    "Ty": "Idziesz",
+    "On/Ona": "Idzie",
+    "My": "Idziemy",
+    "Wy": "Idziecie",
+    "Oni/One": "Idą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Used to describe a single, one time trip that hasn’t yet been completed"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Szedłem / Szłam",
+    "Tense": "Szedłeś / Szłaś",
+    "Ja": "Szedł / Szła",
+    "Ty": "Szliśmy / Szłyśmy",
+    "On/Ona": "Szliście / Szłyście",
+    "My": "Szli / Szły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Verb": "Chodzić",
+    "Meaning": "To walk/go",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Chodzę",
+    "Ty": "Chodzisz",
+    "On/Ona": "Chodzi",
+    "My": "Chodzimy",
+    "Wy": "Chodzicie",
+    "Oni/One": "Chodzą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Used to describe general/multiple trips. A repeated/habitual action"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Chodziłem / Chodziłam",
+    "Tense": "Chodziłeś / Chodziłaś",
+    "Ja": "Chodził / Chodziła",
+    "Ty": "Chodziliśmy / Chodziłyśmy",
+    "On/Ona": "Chodziliście / Chodziłyście",
+    "My": "Chodzili / Chodziły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Verb": "Potrzebować",
+    "Meaning": "To need",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Potrzebuję",
+    "Ty": "Potrzebujesz",
+    "On/Ona": "Potrzebuje",
+    "My": "Potrzebujemy",
+    "Wy": "Potrzebujecie",
+    "Oni/One": "Potrzebują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Potrzebowałem / Potrzebowałam",
+    "Tense": "Potrzebowałeś / Potrzebowałaś",
+    "Ja": "Potrzebował / Potrzebowała",
+    "Ty": "Potrzebowaliśmy / Potrzebowałyśmy",
+    "On/Ona": "Potrzebowaliście / Potrzebowałyście",
+    "My": "Potrzebowali / Potrzebowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Verb": "Słuchać",
+    "Meaning": "To listen",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Słucham",
+    "Ty": "Słuchasz",
+    "On/Ona": "Słucha",
+    "My": "Słuchamy",
+    "Wy": "Słuchacie",
+    "Oni/One": "Słuchają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Słuchałem / Słuchałam",
+    "Tense": "Słuchałeś / Słuchałaś",
+    "Ja": "Słuchał / Słuchała",
+    "Ty": "Słuchaliśmy / Słuchałyśmy",
+    "On/Ona": "Słuchaliście / Słuchałyście",
+    "My": "Słuchali / Słuchały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Spać",
+    "Meaning": "To sleep",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Śpię",
+    "Ty": "Śpisz",
+    "On/Ona": "Śpi",
+    "My": "Śpimy",
+    "Wy": "Śpicie",
+    "Oni/One": "Śpią",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Spałem / Spałam",
+    "Tense": "Spałeś / Spałaś",
+    "Ja": "Spał / Spała",
+    "Ty": "Spaliśmy / Spałyśmy",
+    "On/Ona": "Spaliście / Spałyście",
+    "My": "Spali / Spały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Kroić",
+    "Meaning": "To cut",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Kroję",
+    "Ty": "Kroisz",
+    "On/Ona": "Kroi",
+    "My": "Kroimy",
+    "Wy": "Kroicie",
+    "Oni/One": "Kroją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Kroiłem / Kroiłam",
+    "Tense": "Kroiłeś / Kroiłaś",
+    "Ja": "Kroił / Kroiła",
+    "Ty": "Kroiliśmy / Kroiłyśmy",
+    "On/Ona": "Kroiliście / Kroiłyście",
+    "My": "Kroili / Kroiły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Szukać",
+    "Meaning": "To look for",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Szukam",
+    "Ty": "Szukasz",
+    "On/Ona": "Szuka",
+    "My": "Szukamy",
+    "Wy": "Szukacie",
+    "Oni/One": "Szukają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Szukałem / Szukałam",
+    "Tense": "Szukałeś / Szukałaś",
+    "Ja": "Szukał / Szukała",
+    "Ty": "Szukaliśmy / Szukałyśmy",
+    "On/Ona": "Szukaliście / Szukałyście",
+    "My": "Szukali / Szukały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Pamiętać",
+    "Meaning": "To remember",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Pamiętam",
+    "Ty": "Pamiętasz",
+    "On/Ona": "Pamięta",
+    "My": "Pamiętamy",
+    "Wy": "Pamiętacie",
+    "Oni/One": "Pamiętają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pamiętałem / Pamiętałam",
+    "Tense": "Pamiętałeś / Pamiętałaś",
+    "Ja": "Pamiętał / Pamiętała",
+    "Ty": "Pamiętaliśmy / Pamiętałyśmy",
+    "On/Ona": "Pamiętaliście / Pamiętałyście",
+    "My": "Pamiętali / Pamiętały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Czytać",
+    "Meaning": "To read",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Czytam",
+    "Ty": "Czytasz",
+    "On/Ona": "Czyta",
+    "My": "Czytamy",
+    "Wy": "Czytacie",
+    "Oni/One": "Czytają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Czytałem / Czytałam",
+    "Ty": "Czytałeś / Czytałaś",
+    "On/Ona": "Czytał / Czytała",
+    "My": "Czytaliśmy / Czytałyśmy",
+    "Wy": "Czytaliście / Czytałyście",
+    "Oni/One": "Czytali / Czytały"
+  },
+  {
+    "Tense": "Conditional",
+    "Ja": "Czytałbym / Czytałabym",
+    "Ty": "Czytałbyś / Czytałabyś",
+    "On/Ona": "Czytałby / Czytałaby",
+    "My": "Czytalibyśmy / Czytałybyśmy",
+    "Wy": "Czytalibyście / Czytałybyście",
+    "Oni/One": "Czytaliby / Czytałyby"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Szanować",
+    "Meaning": "To respect",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Szanuję",
+    "Ty": "Szanujesz",
+    "On/Ona": "Szanuje",
+    "My": "Szanujemy",
+    "Wy": "Szanujecie",
+    "Oni/One": "Szanują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Szanowałem / Szanowałam",
+    "Tense": "Szanowałeś / Szanowałaś",
+    "Ja": "Szanował / Szanowała",
+    "Ty": "Szanowaliśmy / Szanowałyśmy",
+    "On/Ona": "Szanowaliście / Szanowałyście",
+    "My": "Szanowali / Szanowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Gotować",
+    "Meaning": "To cook",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Gotuję",
+    "Ty": "Gotujesz",
+    "On/Ona": "Gotuje",
+    "My": "Gotujemy",
+    "Wy": "Gotujecie",
+    "Oni/One": "Gotują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Gotowałem / Gotowałam",
+    "Tense": "Gotowałeś / Gotowałaś",
+    "Ja": "Gotował / Gotowała",
+    "Ty": "Gotowaliśmy / Gotowałyśmy",
+    "On/Ona": "Gotowaliście / Gotowałyście",
+    "My": "Gotowali / Gotowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Pokazywać",
+    "Meaning": "To show",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Pokazuję",
+    "Ty": "Pokazujesz",
+    "On/Ona": "Pokazuje",
+    "My": "Pokazujemy",
+    "Wy": "Pokazujecie",
+    "Oni/One": "Pokazują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pokazywałem / Pokazywałam",
+    "Tense": "Pokazywałeś / Pokazywałaś",
+    "Ja": "Pokazywał / Pokazywała",
+    "Ty": "Pokazywaliśmy / Pokazywałyśmy",
+    "On/Ona": "Pokazywaliście / Pokazywałyście",
+    "My": "Pokazywali / Pokazywały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Brać",
+    "Meaning": "To take",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Biorę",
+    "Ty": "Bierzesz",
+    "On/Ona": "Bierze",
+    "My": "Bierzemy",
+    "Wy": "Bierzecie",
+    "Oni/One": "Biorą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Brałem / Brałam",
+    "Tense": "Brałeś / Brałaś",
+    "Ja": "Brał / Brała",
+    "Ty": "Braliśmy / Brałyśmy",
+    "On/Ona": "Braliście / Brałyście",
+    "My": "Brali / Brały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Sprzedawać",
+    "Meaning": "To sell",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Sprzedaję",
+    "Ty": "Sprzedajesz",
+    "On/Ona": "Sprzedaje",
+    "My": "Sprzedajemy",
+    "Wy": "Sprzedajecie",
+    "Oni/One": "Sprzedają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Sprzedawałem / Sprzedawałam",
+    "Tense": "Sprzedawałeś / Sprzedawałaś",
+    "Ja": "Sprzedawał / Sprzedawała",
+    "Ty": "Sprzedawaliśmy / Sprzedawałyśmy",
+    "On/Ona": "Sprzedawaliście / Sprzedawałyście",
+    "My": "Sprzedawali / Sprzedawały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Wychowywać",
+    "Meaning": "To raise / educate",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Wychowuję",
+    "Ty": "Wychowujesz",
+    "On/Ona": "Wychowuje",
+    "My": "Wychowujemy",
+    "Wy": "Wychowujecie",
+    "Oni/One": "Wychowują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wychowywałem / Wychowywałam",
+    "Tense": "Wychowywałeś / Wychowywałaś",
+    "Ja": "Wychowywał / Wychowywała",
+    "Ty": "Wychowywaliśmy / Wychowywałyśmy",
+    "On/Ona": "Wychowywaliście / Wychowywałyście",
+    "My": "Wychowywali / Wychowywały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Robić",
+    "Meaning": "To do",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Robię",
+    "Ty": "Robisz",
+    "On/Ona": "Robi",
+    "My": "Robimy",
+    "Wy": "Robicie",
+    "Oni/One": "Robią",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Robiłem / Robiłam",
+    "Tense": "Robiłeś / Robiłaś",
+    "Ja": "Robił / Robiła",
+    "Ty": "Robiliśmy / Robiłyśmy",
+    "On/Ona": "Robiliście / Robiłyście",
+    "My": "Robili / Robiły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Nieść",
+    "Meaning": "To carry",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Niosę",
+    "Ty": "Niesiesz",
+    "On/Ona": "Niesie",
+    "My": "Niesiemy",
+    "Wy": "Niesiecie",
+    "Oni/One": "Niosą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Used to indicate a one time/current carrying of an item"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Niośłem / Niośłam",
+    "Tense": "Niośłeś / Niośłaś",
+    "Ja": "Niośł / Niośła",
+    "Ty": "Niośliśmy / Niośłyśmy",
+    "On/Ona": "Niośliście / Niośłyście",
+    "My": "Niośli / Niośły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Dotykać",
+    "Meaning": "To touch",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Dotykam",
+    "Ty": "Dotykasz",
+    "On/Ona": "Dotyka",
+    "My": "Dotykamy",
+    "Wy": "Dotykacie",
+    "Oni/One": "Dotykają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Dotykałem / Dotykałam",
+    "Tense": "Dotykałeś / Dotykałaś",
+    "Ja": "Dotykał / Dotykała",
+    "Ty": "Dotykaliśmy / Dotykałyśmy",
+    "On/Ona": "Dotykaliście / Dotykałyście",
+    "My": "Dotykali / Dotykały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Odwiedzać",
+    "Meaning": "To visit",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Odwiedzam",
+    "Ty": "Odwiedzasz",
+    "On/Ona": "Odwiedza",
+    "My": "Odwiedzamy",
+    "Wy": "Odwiedzacie",
+    "Oni/One": "Odwiedzają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Odwiedzałem / Odwiedzałam",
+    "Tense": "Odwiedzałeś / Odwiedzałaś",
+    "Ja": "Odwiedzał / Odwiedzała",
+    "Ty": "Odwiedzaliśmy / Odwiedzałyśmy",
+    "On/Ona": "Odwiedzaliście / Odwiedzałyście",
+    "My": "Odwiedzali / Odwiedzały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Wspierać",
+    "Meaning": "To support",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Wspieram",
+    "Ty": "Wspierasz",
+    "On/Ona": "Wspiera",
+    "My": "Wspieramy",
+    "Wy": "Wspieracie",
+    "Oni/One": "Wspierają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wspierałem / Wspierałam",
+    "Tense": "Wspierałeś / Wspierałaś",
+    "Ja": "Wspierał / Wspierała",
+    "Ty": "Wspieraliśmy / Wspierałyśmy",
+    "On/Ona": "Wspieraliście / Wspierałyście",
+    "My": "Wspierali / Wspierały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Produkować",
+    "Meaning": "To produce",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Produkuję",
+    "Ty": "Produkujesz",
+    "On/Ona": "Produkuje",
+    "My": "Produkujemy",
+    "Wy": "Produkujecie",
+    "Oni/One": "Produkują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Produkowałem / Produkowałam",
+    "Tense": "Produkowałeś / Produkowałaś",
+    "Ja": "Produkował / Produkowała",
+    "Ty": "Produkowaliśmy / Produkowałyśmy",
+    "On/Ona": "Produkowaliście / Produkowałyście",
+    "My": "Produkowali / Produkowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Kupować",
+    "Meaning": "To buy",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Kupuję",
+    "Ty": "Kupujesz",
+    "On/Ona": "Kupuje",
+    "My": "Kupujemy",
+    "Wy": "Kupujecie",
+    "Oni/One": "Kupują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Kupowałem / Kupowałam",
+    "Tense": "Kupowałeś / Kupowałaś",
+    "Ja": "Kupował / Kupowała",
+    "Ty": "Kupowaliśmy / Kupowałyśmy",
+    "On/Ona": "Kupowaliście / Kupowałyście",
+    "My": "Kupowali / Kupowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Dostawać",
+    "Meaning": "To get",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Dostaję",
+    "Ty": "Dostajesz",
+    "On/Ona": "Dostaje",
+    "My": "Dostajemy",
+    "Wy": "Dostajecie",
+    "Oni/One": "Dostają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Dostawałem / Dostawałam",
+    "Tense": "Dostawałeś / Dostawałaś",
+    "Ja": "Dostawał / Dostawała",
+    "Ty": "Dostawaliśmy / Dostawałyśmy",
+    "On/Ona": "Dostawaliście / Dostawałyście",
+    "My": "Dostawali / Dostawały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Verb": "Dostarczać",
+    "Meaning": "To deliver",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Dostarczam",
+    "Ty": "Dostarczasz",
+    "On/Ona": "Dostarcza",
+    "My": "Dostarczamy",
+    "Wy": "Dostarczacie",
+    "Oni/One": "Dostarczają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Dostarczałem / Dostarczałam",
+    "Tense": "Dostarczałeś / Dostarczałaś",
+    "Ja": "Dostarczał / Dostarczała",
+    "Ty": "Dostarczaliśmy / Dostarczałyśmy",
+    "On/Ona": "Dostarczaliście / Dostarczałyście",
+    "My": "Dostarczali / Dostarczały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.06,
+    "Topic": "Use prepositions",
+    "Verb": "Stać",
+    "Meaning": "To stand",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Stoję",
+    "Ty": "Stoisz",
+    "On/Ona": "Stoi",
+    "My": "Stoimy",
+    "Wy": "Stoicie",
+    "Oni/One": "Stoją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Stałem / Stałam",
+    "Tense": "Stałeś / Stałaś",
+    "Ja": "Stał / Stała",
+    "Ty": "Staliśmy / Stałyśmy",
+    "On/Ona": "Staliście / Stałyście",
+    "My": "Stali / Stały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Verb": "Zatrudniać",
+    "Meaning": "To employ",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zatrudniam",
+    "Ty": "Zatrudniasz",
+    "On/Ona": "Zatrudnia",
+    "My": "Zatrudniamy",
+    "Wy": "Zatrudniacie",
+    "Oni/One": "Zatrudniają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zatrudniłem / Zatrudniłam",
+    "Tense": "Zatrudniłeś / Zatrudniłaś",
+    "Ja": "Zatrudnił / Zatrudniła",
+    "Ty": "Zatrudniliśmy / Zatrudniłyśmy",
+    "On/Ona": "Zatrudniliście / Zatrudniłyście",
+    "My": "Zatrudnili / Zatrudniłyś",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Wracać",
+    "Meaning": "To return",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Wracam",
+    "Ty": "Wracasz",
+    "On/Ona": "Wraca",
+    "My": "Wracamy",
+    "Wy": "Wracacie",
+    "Oni/One": "Wracają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wracałem / Wracałam",
+    "Tense": "Wracałeś / Wracałaś",
+    "Ja": "Wracał / Wracała",
+    "Ty": "Wracaliśmy / Wracałyśmy",
+    "On/Ona": "Wracaliście / Wracałyście",
+    "My": "Wracali / Wracały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Patrzeć",
+    "Meaning": "To look at",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Patrzę",
+    "Ty": "Patrzysz",
+    "On/Ona": "Patrzy",
+    "My": "Patrzymy",
+    "Wy": "Patrzycie",
+    "Oni/One": "Patrzą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Patrzyłem / Patrzyłam",
+    "Tense": "Patrzyłeś / Patrzyłaś",
+    "Ja": "Patrzył / Patrzyła",
+    "Ty": "Patrzyliśmy / Patrzyłyśmy",
+    "On/Ona": "Patrzyliście / Patrzyłyście",
+    "My": "Patrzyli / Patrzyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Myśleć",
+    "Meaning": "To think",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Myślę",
+    "Ty": "Myślisz",
+    "On/Ona": "Myśli",
+    "My": "Myślimy",
+    "Wy": "Myślicie",
+    "Oni/One": "Myślą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Myślałem / Myślałam",
+    "Tense": "Myślałeś / Myślałaś",
+    "Ja": "Myślał / Myślała",
+    "Ty": "Myśleliśmy / Myślałyśmy",
+    "On/Ona": "Myśleliście / Myślałyście",
+    "My": "Myśleli / Myślały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Tęsknić",
+    "Meaning": "To miss",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Tęsknię",
+    "Ty": "Tęsknisz",
+    "On/Ona": "Tęskni",
+    "My": "Tęsknimy",
+    "Wy": "Tęsknicie",
+    "Oni/One": "Tęsknią",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Tęskniłem / Tęskniłam",
+    "Tense": "Tęskniłeś / Tęskniłaś",
+    "Ja": "Tęsknił / Tęskniła",
+    "Ty": "Tęskniliśmy / Tęskniłyśmy",
+    "On/Ona": "Tęskniliście / Tęskniłyście",
+    "My": "Tęsknili / Tęskniły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Otwierać",
+    "Meaning": "To open",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Otwieram",
+    "Ty": "Otwierasz",
+    "On/Ona": "Otwiera",
+    "My": "Otwieramy",
+    "Wy": "Otwieracie",
+    "Oni/One": "Otwierają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Otwierałem / Otwierałam",
+    "Tense": "Otwierałeś / Otwierałaś",
+    "Ja": "Otwierał / Otwierała",
+    "Ty": "Otwieraliśmy / Otwierałyśmy",
+    "On/Ona": "Otwieraliście / Otwierałyście",
+    "My": "Otwierali / Otwierały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Zmieniać",
+    "Meaning": "To change",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zmieniam",
+    "Ty": "Zmieniasz",
+    "On/Ona": "Zmienia",
+    "My": "Zmieniamy",
+    "Wy": "Zmieniacie",
+    "Oni/One": "Zmieniają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zmieniałem / Zmieniałam",
+    "Tense": "Zmieniałeś / Zmieniałaś",
+    "Ja": "Zmieniał / Zmieniała",
+    "Ty": "Zmienialiśmy / Zmieniałyśmy",
+    "On/Ona": "Zmienialiście / Zmieniałyście",
+    "My": "Zmieniali / Zmieniały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Oferować",
+    "Meaning": "To offer",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Oferuję",
+    "Ty": "Oferujesz",
+    "On/Ona": "Oferuje",
+    "My": "Oferujemy",
+    "Wy": "Oferujecie",
+    "Oni/One": "Oferują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Oferowałem / Oferowałam",
+    "Tense": "Oferowałeś / Oferowałaś",
+    "Ja": "Oferował / Oferowała",
+    "Ty": "Oferowaliśmy / Oferowałyśmy",
+    "On/Ona": "Oferowaliście / Oferowałyście",
+    "My": "Oferowali / Oferowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Wierzyć",
+    "Meaning": "To believe",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Wierzę",
+    "Ty": "Wierzysz",
+    "On/Ona": "Wierzy",
+    "My": "Wierzymy",
+    "Wy": "Wierzycie",
+    "Oni/One": "Wierzą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wierzyłem / Wierzyłam",
+    "Tense": "Wierzyłeś / Wierzyłaś",
+    "Ja": "Wierzył / Wierzyła",
+    "Ty": "Wierzyliśmy / Wierzyłyśmy",
+    "On/Ona": "Wierzyliście / Wierzyłyście",
+    "My": "Wierzyli / Wierzyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Ufać",
+    "Meaning": "To trust",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Ufam",
+    "Ty": "Ufasz",
+    "On/Ona": "Ufa",
+    "My": "Ufamy",
+    "Wy": "Ufacie",
+    "Oni/One": "Ufają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Ufałem / Ufałam",
+    "Tense": "Ufałeś / Ufałaś",
+    "Ja": "Ufał / Ufała",
+    "Ty": "Ufaliśmy / Ufałyśmy",
+    "On/Ona": "Ufaliście / Ufałyście",
+    "My": "Ufali / Ufały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Pomagać",
+    "Meaning": "To help",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Pomagam",
+    "Ty": "Pomagasz",
+    "On/Ona": "Pomaga",
+    "My": "Pomagamy",
+    "Wy": "Pomagacie",
+    "Oni/One": "Pomagają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Pomagałem / Pomagałam",
+    "Ty": "Pomagałeś / Pomagałaś",
+    "On/Ona": "Pomagał / Pomagała",
+    "My": "Pomagaliśmy / Pomagałyśmy",
+    "Wy": "Pomagaliście / Pomagałyście",
+    "Oni/One": "Pomagali / Pomagały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pomógłbym / Pomogłabym",
+    "Tense": "Pomógłbyś / Pomogłabyś",
+    "Ja": "Pomógłby / Pomogłaby",
+    "Ty": "Pomoglibyśmy / Pomogłybyśmy",
+    "On/Ona": "Pomoglibyście / Pomogłybyście",
+    "My": "Pomogliby / Pomogłyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Dawać",
+    "Meaning": "To give",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Daję",
+    "Ty": "Dajesz",
+    "On/Ona": "Daje",
+    "My": "Dajemy",
+    "Wy": "Dajecie",
+    "Oni/One": "Dają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Dawałem / Dawałam",
+    "Tense": "Dawałeś / Dawałaś",
+    "Ja": "Dawał / Dawała",
+    "Ty": "Dawaliśmy / Dawałyśmy",
+    "On/Ona": "Dawaliście / Dawałyście",
+    "My": "Dawali / Dawały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Podawać",
+    "Meaning": "To pass",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Podaję",
+    "Ty": "Podajesz",
+    "On/Ona": "Podaje",
+    "My": "Podajemy",
+    "Wy": "Podajecie",
+    "Oni/One": "Podają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Podawałem / Podawałam",
+    "Tense": "Podawałeś / Podawałaś",
+    "Ja": "Podawał / Podawała",
+    "Ty": "Podawaliśmy / Podawałyśmy",
+    "On/Ona": "Podawaliście / Podawałyście",
+    "My": "Podawali / Podawały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Wysyłać",
+    "Meaning": "To send",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Wysyłam",
+    "Ty": "Wysyłasz",
+    "On/Ona": "Wysyła",
+    "My": "Wysyłamy",
+    "Wy": "Wysyłacie",
+    "Oni/One": "Wysyłają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wysyłałem / Wysyłałam",
+    "Tense": "Wysyłałeś / Wysyłałaś",
+    "Ja": "Wysyłał / Wysyłała",
+    "Ty": "Wysyłaliśmy / Wysyłałyśmy",
+    "On/Ona": "Wysyłaliście / Wysyłałyście",
+    "My": "Wysyłali / Wysyłały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Przynosić",
+    "Meaning": "To bring",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Przynoszę",
+    "Ty": "Przynosisz",
+    "On/Ona": "Przynosi",
+    "My": "Przynosimy",
+    "Wy": "Przynosicie",
+    "Oni/One": "Przynoszą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Przynosiłem / Przynosiłam",
+    "Tense": "Przynosiłeś / Przynosiłaś",
+    "Ja": "Przynosił / Przynosiła",
+    "Ty": "Przynosiliśmy / Przynosiłyśmy",
+    "On/Ona": "Przynosiliście / Przynosiłyście",
+    "My": "Przynosili / Przynosiły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Pożyczać",
+    "Meaning": "To borrow / To lend",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Pożyczam",
+    "Ty": "Pożyczasz",
+    "On/Ona": "Pożycza",
+    "My": "Pożyczamy",
+    "Wy": "Pożyczacie",
+    "Oni/One": "Pożyczają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pożyczałem / Pożyczałam",
+    "Tense": "Pożyczałeś / Pożyczałaś",
+    "Ja": "Pożyczał / Pożyczała",
+    "Ty": "Pożyczaliśmy / Pożyczałyśmy",
+    "On/Ona": "Pożyczaliście / Pożyczałyście",
+    "My": "Pożyczali / Pożyczały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Odpowiadać",
+    "Meaning": "To reply / To answer",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Odpowiadam",
+    "Ty": "Odpowiadasz",
+    "On/Ona": "Odpowiada",
+    "My": "Odpowiadamy",
+    "Wy": "Odpowiadacie",
+    "Oni/One": "Odpowiadają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Odpowiadałem / Odpowiadałam",
+    "Tense": "Odpowiadałeś / Odpowiadałaś",
+    "Ja": "Odpowiadał / Odpowiadała",
+    "Ty": "Odpowiadaliśmy / Odpowiadałyśmy",
+    "On/Ona": "Odpowiadaliście / Odpowiadałyście",
+    "My": "Odpowiadali / Odpowiadały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Rozmawiać",
+    "Meaning": "To speak with",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Rozmawiam",
+    "Ty": "Rozmawiasz",
+    "On/Ona": "Rozmawia",
+    "My": "Rozmawiamy",
+    "Wy": "Rozmawiacie",
+    "Oni/One": "Rozmawiają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Rozmawiałem / Rozmawiałam",
+    "Tense": "Rozmawiałeś / Rozmawiałaś",
+    "Ja": "Rozmawiał / Rozmawiała",
+    "Ty": "Rozmawialiśmy / Rozmawiałyśmy",
+    "On/Ona": "Rozmawialiście / Rozmawiałyście",
+    "My": "Rozmawiali / Rozmawiały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Dzwonić",
+    "Meaning": "To phone",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Dzwonię",
+    "Ty": "Dzwonisz",
+    "On/Ona": "Dzwoni",
+    "My": "Dzwonimy",
+    "Wy": "Dzwonicie",
+    "Oni/One": "Dzwonią",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Dzwoniłem / Dzwoniłam",
+    "Tense": "Dzwoniłeś / Dzwoniłaś",
+    "Ja": "Dzwonił / Dzwoniła",
+    "Ty": "Dzwoniliśmy / Dzwoniłyśmy",
+    "On/Ona": "Dzwoniliście / Dzwoniłyście",
+    "My": "Dzwonili / Dzwoniły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Mieszkać",
+    "Meaning": "To live in",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Mieszkam",
+    "Ty": "Mieszkasz",
+    "On/Ona": "Mieszka",
+    "My": "Mieszkamy",
+    "Wy": "Mieszkacie",
+    "Oni/One": "Mieszkają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Mieszkałem / Mieszkałam",
+    "Tense": "Mieszkałeś / Mieszkałaś",
+    "Ja": "Mieszkał / Mieszkała",
+    "Ty": "Mieszkaliśmy / Mieszkałyśmy",
+    "On/Ona": "Mieszkaliście / Mieszkałyście",
+    "My": "Mieszkali / Mieszkały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Odpoczywać",
+    "Meaning": "To rest",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Odpoczywam",
+    "Ty": "Odpoczywasz",
+    "On/Ona": "Odpoczywa",
+    "My": "Odpoczywamy",
+    "Wy": "Odpoczywacie",
+    "Oni/One": "Odpoczywają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Odpoczywałem / Odpoczywałam",
+    "Tense": "Odpoczywałeś / Odpoczywałaś",
+    "Ja": "Odpoczywał / Odpoczywała",
+    "Ty": "Odpoczywaliśmy / Odpoczywałyśmy",
+    "On/Ona": "Odpoczywaliście / Odpoczywałyście",
+    "My": "Odpoczywali / Odpoczywały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Zostawiać",
+    "Meaning": "To leave",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zostawiam",
+    "Ty": "Zostawiasz",
+    "On/Ona": "Zostawia",
+    "My": "Zostawiamy",
+    "Wy": "Zostawiacie",
+    "Oni/One": "Zostawiają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zostawiałem / Zostawiałam",
+    "Tense": "Zostawiałeś / Zostawiałaś",
+    "Ja": "Zostawiał / Zostawiała",
+    "Ty": "Zostawialiśmy / Zostawiałyśmy",
+    "On/Ona": "Zostawialiście / Zostawiałyście",
+    "My": "Zostawiali / Zostawiały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Żyć",
+    "Meaning": "To be alive",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Zyję",
+    "Ty": "Żyjesz",
+    "On/Ona": "Żyje",
+    "My": "Żyjemy",
+    "Wy": "Żyjecie",
+    "Oni/One": "Żyją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Żyłem / Żyłam",
+    "Tense": "Żyłeś / Żyłaś",
+    "Ja": "Żył / Żyła",
+    "Ty": "Żyliśmy / Żyłyśmy",
+    "On/Ona": "Żyliście / Żyłyście",
+    "My": "Żyli / Żyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Używać",
+    "Meaning": "To use",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Używam",
+    "Ty": "Używasz",
+    "On/Ona": "Używa",
+    "My": "Używamy",
+    "Wy": "Używacie",
+    "Oni/One": "Używają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Używałem / Używałam",
+    "Tense": "Używałeś / Używałaś",
+    "Ja": "Używał / Używała",
+    "Ty": "Używaliśmy / Używałyśmy",
+    "On/Ona": "Używaliście / Używałyście",
+    "My": "Używali / Używały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Pytać",
+    "Meaning": "To ask",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Pytam",
+    "Ty": "Pytasz",
+    "On/Ona": "Pyta",
+    "My": "Pytamy",
+    "Wy": "Pytacie",
+    "Oni/One": "Pytają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pytałem / Pytałam",
+    "Tense": "Pytałeś / Pytałaś",
+    "Ja": "Pytał / Pytała",
+    "Ty": "Pytaliśmy / Pytałyśmy",
+    "On/Ona": "Pytaliście / Pytałyście",
+    "My": "Pytali / Pytały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Sprzątać",
+    "Meaning": "To clean / To tidy",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Sprzątam",
+    "Ty": "Sprzątasz",
+    "On/Ona": "Sprząta",
+    "My": "Sprzątamy",
+    "Wy": "Sprzątacie",
+    "Oni/One": "Sprzątają",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Usually used to mean tidying / arranging as things should be"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Sprzątałem / Sprzątałam",
+    "Tense": "Sprzątałeś / Sprzątałaś",
+    "Ja": "Sprzątał / Sprzątała",
+    "Ty": "Sprzątaliśmy / Sprzątałyśmy",
+    "On/Ona": "Sprzątaliście / Sprzątałyście",
+    "My": "Sprzątali / Sprzątały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Śpiewać",
+    "Meaning": "To sing",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Śpiewam",
+    "Ty": "Śpiewasz",
+    "On/Ona": "Śpiewa",
+    "My": "Śpiewamy",
+    "Wy": "Śpiewacie",
+    "Oni/One": "Śpiewają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Śpiewałem / Śpiewałam",
+    "Tense": "Śpiewałeś / Śpiewałaś",
+    "Ja": "Śpiewał / Śpiewała",
+    "Ty": "Śpiewaliśmy / Śpiewałyśmy",
+    "On/Ona": "Śpiewaliście / Śpiewałyście",
+    "My": "Śpiewali / Śpiewały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Wiedzieć",
+    "Meaning": "To know",
+    "Conjugation": "- em / - esz",
+    "Tense": "Present",
+    "Ja": "Wiem",
+    "Ty": "Wiedziesz",
+    "On/Ona": "Wiedzi",
+    "My": "Wiedziemy",
+    "Wy": "Wiedziecie",
+    "Oni/One": "Wiedzą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wiedziałem / Wiedziałam",
+    "Tense": "Wiedziełeś / Wiedziełaś",
+    "Ja": "Wiedzieł / Wiedzieła",
+    "Ty": "Wiedzieliśmy / Wiedziełyśmy",
+    "On/Ona": "Wiedzieliście / Wiedziełyście",
+    "My": "Wiedzieli / Wiedzieły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Tańczyć",
+    "Meaning": "To dance",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Tańczę",
+    "Ty": "Tańczysz",
+    "On/Ona": "Tańczy",
+    "My": "Tańczymy",
+    "Wy": "Tańczycie",
+    "Oni/One": "Tańczą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Tańczyłem / Tańczyłam",
+    "Tense": "Tańczyłeś / Tańczyłaś",
+    "Ja": "Tańczył / Tańczyła",
+    "Ty": "Tańczyliśmy / Tańczyłyśmy",
+    "On/Ona": "Tańczyliście / Tańczyłyście",
+    "My": "Tańczyli / Tańczyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Kłaść",
+    "Meaning": "To put",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Kładę",
+    "Ty": "Kładziesz",
+    "On/Ona": "Kładzie",
+    "My": "Kładziemy",
+    "Wy": "Kładziecie",
+    "Oni/One": "Kładą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Kładłem / Kładłam",
+    "Tense": "Kładłeś / Kładłaś",
+    "Ja": "Kładł / Kładła",
+    "Ty": "Kładliśmy / Kładłyśmy",
+    "On/Ona": "Kładliście / Kładłyście",
+    "My": "Kładli / Kładły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Podnosić",
+    "Meaning": "To pick up",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Podnoszę",
+    "Ty": "Podnosisz",
+    "On/Ona": "Podnosi",
+    "My": "Podnosimy",
+    "Wy": "Podnosicie",
+    "Oni/One": "Podnoszą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Podnosiłem / Podnosiłam",
+    "Tense": "Podnosiłeś / Podnosiłaś",
+    "Ja": "Podnosił / Podnosiła",
+    "Ty": "Podnosiliśmy / Podnosiłyśmy",
+    "On/Ona": "Podnosiliście / Podnosiłyście",
+    "My": "Podnosili / Podnosiły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Naprawiać",
+    "Meaning": "To repair",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Naprawiam",
+    "Ty": "Naprawiasz",
+    "On/Ona": "Naprawia",
+    "My": "Naprawiamy",
+    "Wy": "Naprawiacie",
+    "Oni/One": "Naprawiają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Naprawiałem / Naprawiałam",
+    "Tense": "Naprawiałeś / Naprawiałaś",
+    "Ja": "Naprawiał / Naprawiała",
+    "Ty": "Naprawialiśmy / Naprawiałyśmy",
+    "On/Ona": "Naprawialiście / Naprawiałyście",
+    "My": "Naprawiali / Naprawiały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Czekać",
+    "Meaning": "To wait",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Czekam",
+    "Ty": "Czekasz",
+    "On/Ona": "Czeka",
+    "My": "Czekamy",
+    "Wy": "Czekacie",
+    "Oni/One": "Czakają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Czekałem / Czekałam",
+    "Tense": "Czekałeś / Czekałaś",
+    "Ja": "Czekał / Czekała",
+    "Ty": "Czekaliśmy / Czekałyśmy",
+    "On/Ona": "Czekaliście / Czekałyście",
+    "My": "Czekali / Czekały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Zapominać",
+    "Meaning": "To forget",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zapominam",
+    "Ty": "Zapominasz",
+    "On/Ona": "Zapomina",
+    "My": "Zapominamy",
+    "Wy": "Zapominacie",
+    "Oni/One": "Zapominają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zapominałem / Zapominałam",
+    "Tense": "Zapominałeś / Zapominałaś",
+    "Ja": "Zapominał / Zapominała",
+    "Ty": "Zapominaliśmy / Zapominałyśmy",
+    "On/Ona": "Zapominaliście / Zapominałyście",
+    "My": "Zapominali / Zapominały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Oglądać",
+    "Meaning": "To watch",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Oglądam",
+    "Ty": "Oglądasz",
+    "On/Ona": "Ogląda",
+    "My": "Oglądamy",
+    "Wy": "Oglądacie",
+    "Oni/One": "Oglądają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Oglądałem / Oglądałam",
+    "Tense": "Oglądałeś / Oglądałaś",
+    "Ja": "Oglądał / Oglądała",
+    "Ty": "Oglądaliśmy / Oglądałyśmy",
+    "On/Ona": "Oglądaliście / Oglądałyście",
+    "My": "Oglądali / Oglądały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Siedzić",
+    "Meaning": "To sit",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Siedzę",
+    "Ty": "Siedziesz",
+    "On/Ona": "Siedzi",
+    "My": "Siedziemy",
+    "Wy": "Siedziecie",
+    "Oni/One": "Siedzą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Siedziałem / Siedziałam",
+    "Tense": "Siedziałeś / Siedziałaś",
+    "Ja": "Siedział / Siedziała",
+    "Ty": "Siedzialiśmy / Siedziałyśmy",
+    "On/Ona": "Siedzialiście / Siedziałyście",
+    "My": "Siedziali / Siedziały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Wkładać",
+    "Meaning": "To insert",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Wkładam",
+    "Ty": "Wkładasz",
+    "On/Ona": "Wkłada",
+    "My": "Wkładamy",
+    "Wy": "Wkładacie",
+    "Oni/One": "Wkładają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wkładałem / Wkładałam",
+    "Tense": "Wkładałeś / Wkładałaś",
+    "Ja": "Wkładał / Wkładała",
+    "Ty": "Wkładaliśmy / Wkładałyśmy",
+    "On/Ona": "Wkładaliście / Wkładałyście",
+    "My": "Wkładali / Wkładały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Wyjaśniać",
+    "Meaning": "To explain",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Wyjaśniam",
+    "Ty": "Wyjaśniasz",
+    "On/Ona": "Wyjaśnia",
+    "My": "Wyjaśniamy",
+    "Wy": "Wyjaśniacie",
+    "Oni/One": "Wyjaśniają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wyjaśniłem / Wyjaśniłam",
+    "Tense": "Wyjaśniłeś / Wyjaśniłaś",
+    "Ja": "Wyjaśnił / Wyjaśniła",
+    "Ty": "Wyjaśniliśmy / Wyjaśniłyśmy",
+    "On/Ona": "Wyjaśniliście / Wyjaśniłyście",
+    "My": "Wyjaśnili / Wyjaśniły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Rysować",
+    "Meaning": "To draw",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Rysuję",
+    "Ty": "Rysujesz",
+    "On/Ona": "Rysuje",
+    "My": "Rysujemy",
+    "Wy": "Rysujecie",
+    "Oni/One": "Rysują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Rysowałem / Rysowałam",
+    "Tense": "Rysowałeś / Rysowałaś",
+    "Ja": "Rysował / Rysowała",
+    "Ty": "Rysowaliśmy / Rysowałyśmy",
+    "On/Ona": "Rysowaliście / Rysowałyście",
+    "My": "Rysowali / Rysowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Zapraszać",
+    "Meaning": "To invite",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zapraszam",
+    "Ty": "Zapraszasz",
+    "On/Ona": "Zaprasza",
+    "My": "Zapraszamy",
+    "Wy": "Zapraszacie",
+    "Oni/One": "Zapraszają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zapraszałem / Zapreaszałam",
+    "Tense": "Zapraszałeś / Zapreaszałaś",
+    "Ja": "Zapraszał / Zapreaszała",
+    "Ty": "Zapraszaliśmy / Zapreaszałyśmy",
+    "On/Ona": "Zapraszaliście / Zapreaszałyście",
+    "My": "Zapraszali / Zapreaszały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Zamykać",
+    "Meaning": "To close / To lock",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zamykam",
+    "Ty": "Zamykasz",
+    "On/Ona": "Zamyka",
+    "My": "Zamykamy",
+    "Wy": "Zamykacie",
+    "Oni/One": "Zamykają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zamykałem / Zamykałam",
+    "Tense": "Zamykałeś / Zamykałaś",
+    "Ja": "Zamykał / Zamykała",
+    "Ty": "Zamykaliśmy / Zamykałyśmy",
+    "On/Ona": "Zamykaliście / Zamykałyście",
+    "My": "Zamykali / Zamykały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Rozumieć",
+    "Meaning": "To understand",
+    "Conjugation": "- em / - esz",
+    "Tense": "Present",
+    "Ja": "Rozumiem",
+    "Ty": "Rozumiesz",
+    "On/Ona": "Rozumie",
+    "My": "Rozumiemy",
+    "Wy": "Rozumiecie",
+    "Oni/One": "Rozumieją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Rozumiałem / Rozumiałam",
+    "Tense": "Rozumiałeś / Rozumiałaś",
+    "Ja": "Rozumiał / Rozumiała",
+    "Ty": "Rozumialiśmy / Rozumiałyśmy",
+    "On/Ona": "Rozumialiście / Rozumiałyście",
+    "My": "Rozumiali / Rozumiały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Verb": "Uważać",
+    "Meaning": "To consider / To think",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Uważam",
+    "Ty": "Uważasz",
+    "On/Ona": "Uważa",
+    "My": "Uważamy",
+    "Wy": "Uważacie",
+    "Oni/One": "Uważają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Uważałem / Uważałam",
+    "Tense": "Uważałeś / Uważałaś",
+    "Ja": "Uważał / Uważała",
+    "Ty": "Uważaliśmy / Uważałyśmy",
+    "On/Ona": "Uważaliście / Uważałyście",
+    "My": "Uważali / Uważały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Verb": "Wystarczać",
+    "Meaning": "To be enough",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Wystarczam",
+    "Ty": "Wystarczasz",
+    "On/Ona": "Wystarcza",
+    "My": "Wystarczamy",
+    "Wy": "Wystarczacie",
+    "Oni/One": "Wystarczają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wystarczałem / Wystarczałam",
+    "Tense": "Wystarczałeś / Wystarczałaś",
+    "Ja": "Wystarczał / Wystarczała",
+    "Ty": "Wystarczaliśmy / Wystarczałyśmy",
+    "On/Ona": "Wystarczaliście / Wystarczałyście",
+    "My": "Wystarczali / Wystarczały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Verb": "Odjeżdżać",
+    "Meaning": "To depart",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Odjeżdżam",
+    "Ty": "Odjeżdżasz",
+    "On/Ona": "Odjeżdża",
+    "My": "Odjeżdżamy",
+    "Wy": "Odjeżdżacie",
+    "Oni/One": "Odjeżdżają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Odjeżdżałem / Odjeżdżałam",
+    "Tense": "Odjeżdżałeś / Odjeżdżałaś",
+    "Ja": "Odjeżdżał / Odjeżdżała",
+    "Ty": "Odjeżdżaliśmy / Odjeżdżałyśmy",
+    "On/Ona": "Odjeżdżaliście / Odjeżdżałyście",
+    "My": "Odjeżdżali / Odjeżdżały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Verb": "Przyjeżdżać",
+    "Meaning": "To arrive",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Przyjeżdżam",
+    "Ty": "Przyjeżdżasz",
+    "On/Ona": "Przyjeżdża",
+    "My": "Przyjeżdżamy",
+    "Wy": "Przyjeżdżacie",
+    "Oni/One": "Przyjeżdżają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Verb": "Conditional",
+    "Meaning": "Przyjeżdżałem / Przyjeżdżałam",
+    "Conjugation": "Przyjeżdżałeś / Przyjeżdżałaś",
+    "Tense": "Przyjeżdżał / Przyjeżdżała",
+    "Ja": "Przyjeżdżaliśmy / Przyjeżdżałyśmy",
+    "Ty": "Przyjeżdżaliście / Przyjeżdżałyście",
+    "On/Ona": "Przyjeżdżali / Przyjeżdżały",
+    "My": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Verb": "Jeździć",
+    "Meaning": "To go",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Jeżdżę",
+    "Ty": "Jeździsz",
+    "On/Ona": "Jeździ",
+    "My": "Jeździmy",
+    "Wy": "Jeździcie",
+    "Oni/One": "Jeżdżą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Jeździłem / Jeździłam",
+    "Tense": "Jeździłeś / Jeździłaś",
+    "Ja": "Jeździł / Jeździła",
+    "Ty": "Jeździliśmy / Jeździłyśmy",
+    "On/Ona": "Jeździliście / Jeździłyście",
+    "My": "Jeździli / Jeździły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Verb": "Prowadzić",
+    "Meaning": "To drive",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Prowadzę",
+    "Ty": "Prowadzisz",
+    "On/Ona": "Prowadzi",
+    "My": "Prowadzimy",
+    "Wy": "Prowadzicie",
+    "Oni/One": "Prowadzą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Prowadziłem / Prowadziłam",
+    "Tense": "Prowadziłeś / Prowadziłaś",
+    "Ja": "Prowadził / Prowadziła",
+    "Ty": "Prowadziliśmy / Prowadziłyśmy",
+    "On/Ona": "Prowadziliście / Prowadziłyście",
+    "My": "Prowadzili / Prowadziły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Verb": "Lecieć",
+    "Meaning": "To fly",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Lecę",
+    "Ty": "Lecisz",
+    "On/Ona": "Leci",
+    "My": "Lecimy",
+    "Wy": "Lecicie",
+    "Oni/One": "Lecą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Leciałem / Leciałam",
+    "Tense": "Leciałem / Leciałam",
+    "Ja": "Leciał / Leciała",
+    "Ty": "Lecialiśmy / Leciałyśmy",
+    "On/Ona": "Lecialiście / Leciałyście",
+    "My": "Leciali / Leciały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Verb": "Płynąć",
+    "Meaning": "To swim",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Płynę",
+    "Ty": "Płyniesz",
+    "On/Ona": "Płynie",
+    "My": "Płyniemy",
+    "Wy": "Płyniecie",
+    "Oni/One": "Płyną",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Single once off action"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Płynąłem / Płynęłam",
+    "Tense": "Płynąłeś / Płynęłaś",
+    "Ja": "Płynął  / Płynęła",
+    "Ty": "Płynęliśmy / Płynęłyśmy",
+    "On/Ona": "Płynęliście / Płynęłyście",
+    "My": "Płynęli / Płynęły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Verb": "Pływać",
+    "Meaning": "To swim",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Pływam",
+    "Ty": "Pływasz",
+    "On/Ona": "Pływa",
+    "My": "Pływamy",
+    "Wy": "Pływacie",
+    "Oni/One": "Pływają",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Repeated action"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pływałem / Pływałam",
+    "Tense": "Pływałeś / Pływałaś",
+    "Ja": "Pływał / Pływała",
+    "Ty": "Pływaliśmy / Pływałyśmy",
+    "On/Ona": "Pływaliście / Pływałyście",
+    "My": "Pływali / Pływały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Verb": "Nienawidzić",
+    "Meaning": "To hate",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Nienawidzę",
+    "Ty": "Nienawidzisz",
+    "On/Ona": "Nienawidzi",
+    "My": "Nienawidzimy",
+    "Wy": "Nienawidzicie",
+    "Oni/One": "Nienawidzą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Nienawidziłem / Nienawidziłam",
+    "Tense": "Nienawidziłeś / Nienawidziłaś",
+    "Ja": "Nienawidził / Nienawidziła",
+    "Ty": "Nienawidziliśmy / Nienawidziłyśmy",
+    "On/Ona": "Nienawidziliście / Nienawidziłyście",
+    "My": "Nienawidzili / Nienawidziły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Verb": "Chcieć",
+    "Meaning": "To want",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Chcę",
+    "Ty": "Chcesz",
+    "On/Ona": "Chce",
+    "My": "Chcemy",
+    "Wy": "Chcecie",
+    "Oni/One": "Chcą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Modal verb – it requires an infinitive verb to complete it’s role"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Chciałem / Chciałam",
+    "Ty": "Chciałeś / Chciałaś",
+    "On/Ona": "Chciał / Chciała",
+    "My": "Chcieliśmy / Chciałyśmy",
+    "Wy": "Chcieliście / Chciałyście",
+    "Oni/One": "Chcieli / Chciały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Chciałbym / Chciałabym",
+    "Tense": "Chciałbyś / Chciałabyś",
+    "Ja": "Chciałby / Chciałaby",
+    "Ty": "Chcielibyśmy / Chciałybyśmy",
+    "On/Ona": "Chcielibyście / Chciałybyście",
+    "My": "Chcieliby / Chciałyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Verb": "Umieć",
+    "Meaning": "To know",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Umiem",
+    "Ty": "Umiesz",
+    "On/Ona": "Umie",
+    "My": "Umiemy",
+    "Wy": "Umiecie",
+    "Oni/One": "Umieją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Umiałem / Umiałam",
+    "Tense": "Umiałeś / Umiałaś",
+    "Ja": "Umiał / Umiała",
+    "Ty": "Umieliśmy / Umiałyśmy",
+    "On/Ona": "Umieliście / Umiałyście",
+    "My": "Umieli / Umiały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Verb": "Liczyć",
+    "Meaning": "To count",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Liczę",
+    "Ty": "Liczysz",
+    "On/Ona": "Liczy",
+    "My": "Liczymy",
+    "Wy": "Liczycie",
+    "Oni/One": "Liczą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Liczyłem / Liczyłam",
+    "Tense": "Liczyłeś / Liczyłaś",
+    "Ja": "Liczył / Liczyła",
+    "Ty": "Liczyliśmy / Liczyłyśmy",
+    "On/Ona": "Liczyliście / Liczyłyście",
+    "My": "Liczyli / Liczyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Verb": "Pozwalać",
+    "Meaning": "To allow",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Pozwalam",
+    "Ty": "Pozwalasz",
+    "On/Ona": "Pozwala",
+    "My": "Pozwalamy",
+    "Wy": "Pozwalacie",
+    "Oni/One": "Pozwalają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pozwalałem / Pozwalałam",
+    "Tense": "Pozwalałeś / Pozwalałaś",
+    "Ja": "Pozwalał / Pozwalała",
+    "Ty": "Pozwalaliśmy / Pozwalałyśmy",
+    "On/Ona": "Pozwalaliście / Pozwalałyście",
+    "My": "Pozwalali / Pozwalały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Verb": "Móc",
+    "Meaning": "To be able to / Can do",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Mogę",
+    "Ty": "Możesz",
+    "On/Ona": "Może",
+    "My": "Możemy",
+    "Wy": "Możecie",
+    "Oni/One": "Mogą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Modal verb – it requires an infinitive verb to complete it’s role"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Mogłem / Mogłam",
+    "Ty": "Mogłeś / Mogłaś",
+    "On/Ona": "Mogł / Mogła",
+    "My": "Mogliśmy / Mogłyśmy",
+    "Wy": "Mogliście / Mogłyście",
+    "Oni/One": "Mogli / Mogły"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Mógłbym / Mogłabym",
+    "Tense": "Mógłbyś / Mogłabyś",
+    "Ja": "Mógłby / Mogłaby",
+    "Ty": "Moglibyśmy / Mogłybyśmy",
+    "On/Ona": "Mogłibyście / Mogłybyśmy",
+    "My": "Mogliby / Mogłyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Verb": "Musieć",
+    "Meaning": "To have to",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Muszę",
+    "Ty": "Musisz",
+    "On/Ona": "Musi",
+    "My": "Musimy",
+    "Wy": "Musicie",
+    "Oni/One": "Muszą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Modal verb – it requires an infinitive verb to complete it’s role"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Musiałem / Musiałam",
+    "Ty": "Musiałeś / Musiałaś",
+    "On/Ona": "Musiał / Musiała",
+    "My": "Musieliśmy / Musiałyśmy",
+    "Wy": "Musieliście / Musiałyście",
+    "Oni/One": "Musieli / Musiały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Musiałbym / Musiałabym",
+    "Tense": "Musiałbyś / Musiałabyś",
+    "Ja": "Musiałby / Musiałaby",
+    "Ty": "Musielibyśmy / Musiałybyśmy",
+    "On/Ona": "Musielibyście / Musiałybyście",
+    "My": "Musieliby / Musiałyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Verb": "Powinien",
+    "Meaning": "Should",
+    "Conjugation": "-",
+    "Tense": "Present",
+    "Ja": "Powinienem / Powinnam",
+    "Ty": "Powinieneś / Powinnaś",
+    "On/Ona": "Powinien / Powinna",
+    "My": "Powinniśmy / Powinnyśmy",
+    "Wy": "Powinniście / Powinnyście",
+    "Oni/One": "Powinni / Powinny",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Modal verb – it requires an infinitive verb to complete it’s role. Also has no past tense, the verb that follows will set the tense"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "-",
+    "Tense": "-",
+    "Ja": "-",
+    "Ty": "-",
+    "On/Ona": "-",
+    "My": "-",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Verb": "Smażyć",
+    "Meaning": "To fry",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Smażę",
+    "Ty": "Smażysz",
+    "On/Ona": "Smaży",
+    "My": "Smażymy",
+    "Wy": "Smażycie",
+    "Oni/One": "Smażą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Smażyłem / Smażyłam",
+    "Tense": "Smażyłeś / Smażyłaś",
+    "Ja": "Smażył / Smażyła",
+    "Ty": "Smażyliśmy / Smażyłyśmy",
+    "On/Ona": "Smażyliście / Smażyłyście",
+    "My": "Smażyli / Smażyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Przedstawiać",
+    "Meaning": "To introduce / To present",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Przedstawiam",
+    "Ty": "Przedstawiasz",
+    "On/Ona": "Przedstawia",
+    "My": "Przedstawiamy",
+    "Wy": "Przedstawiacie",
+    "Oni/One": "Przedstawiają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Przedstawiałem / Przedstawiałam",
+    "Tense": "Przedstawiałeś / Przedstawiałaś",
+    "Ja": "Przedstawiał / Przedstawiała",
+    "Ty": "Przedstawialiśmy / Przedstawiałyśmy",
+    "On/Ona": "Przedstawialiście / Przedstawiałyście",
+    "My": "Przedstawiali / Przedstawiały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.25,
+    "Topic": "Describe activities",
+    "Verb": "Biegać",
+    "Meaning": "To run",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Biegam",
+    "Ty": "Biegasz",
+    "On/Ona": "Biega",
+    "My": "Biegamy",
+    "Wy": "Biegacie",
+    "Oni/One": "Biegają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Biegałem / Biegałam",
+    "Tense": "Biegałeś / Biegałaś",
+    "Ja": "Biegał / Biegała",
+    "Ty": "Biegaliśmy / Biegałyśmy",
+    "On/Ona": "Biegaliście / Biegałyście",
+    "My": "Biegali / Biegały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.25,
+    "Topic": "Describe activities",
+    "Verb": "Jechać",
+    "Meaning": "To go (by vehicle)",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Jadę",
+    "Ty": "Jedziesz",
+    "On/Ona": "Jedzie",
+    "My": "Jedziemy",
+    "Wy": "Jedziecie",
+    "Oni/One": "Jadą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Meaning": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Jechałem / Jechałam",
+    "Tense": "Jechałeś / Jechałaś",
+    "Ja": "Jechał / Jechała",
+    "Ty": "Jechaliśmy / Jechałyśmy",
+    "On/Ona": "Jechaliście / Jechałyście",
+    "My": "Jechali / Jechały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Bać",
+    "Meaning": "To fear",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Boję",
+    "Ty": "Boisz",
+    "On/Ona": "Boi",
+    "My": "Boimy",
+    "Wy": "Boicie",
+    "Oni/One": "Boją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Bałem / Bałam",
+    "Tense": "Bałeś / Bałaś",
+    "Ja": "Bał / Bała",
+    "Ty": "Baliśmy / Bałyśmy",
+    "On/Ona": "Baliście / Bałyście",
+    "My": "Bali / Bały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Śmiać",
+    "Meaning": "To laugh",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Śmieję",
+    "Ty": "Śmiejesz",
+    "On/Ona": "Śmieje",
+    "My": "Śmiejemy",
+    "Wy": "Śmiejecie",
+    "Oni/One": "Śmieją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Śmiałem / Śmiałam",
+    "Tense": "Śmiałeś / Śmiałaś",
+    "Ja": "Śmiał / Śmiała",
+    "Ty": "Śmialiśmy / Śmiałyśmy",
+    "On/Ona": "Śmialiście / Śmiałyście",
+    "My": "Śmiali / Śmiały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Czuć",
+    "Meaning": "To feel",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Czuję",
+    "Ty": "Czujesz",
+    "On/Ona": "Czuje",
+    "My": "Czujemy",
+    "Wy": "Czujecie",
+    "Oni/One": "Czują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Czułem / Czułam",
+    "Tense": "Czułeś / Czułaś",
+    "Ja": "Czuł / Czuła",
+    "Ty": "Czuliśmy / Czułyśmy",
+    "On/Ona": "Czuliście / Czułyście",
+    "My": "Czuli / Czuły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Cieszyć",
+    "Meaning": "To rejoice / To be happy",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Cieszę",
+    "Ty": "Cieszysz",
+    "On/Ona": "Cieszy",
+    "My": "Cieszymy",
+    "Wy": "Cieszycie",
+    "Oni/One": "Cieszą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Cieszyłem / Cieszyłam",
+    "Tense": "Cieszyłeś / Cieszyłaś",
+    "Ja": "Cieszył / Cieszyła",
+    "Ty": "Cieszyliśmy / Cieszyłyśmy",
+    "On/Ona": "Cieszyliście / Cieszyłyście",
+    "My": "Cieszyli / Cieszyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Wydawać",
+    "Meaning": "To spend / To publish",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Wydaję",
+    "Ty": "Wydajesz",
+    "On/Ona": "Wydaje",
+    "My": "Wydajemy",
+    "Wy": "Wydajecie",
+    "Oni/One": "Wydają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wydawałem / Wydawałam",
+    "Tense": "Wydawałeś / Wydawałaś",
+    "Ja": "Wydawał / Wydawała",
+    "Ty": "Wydawaliśmy / Wydawałyśmy",
+    "On/Ona": "Wydawaliście / Wydawałyście",
+    "My": "Wydawali / Wydawały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Wydawać się",
+    "Meaning": "To seem / To appear",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Wydaję się",
+    "Ty": "Wydajesz się",
+    "On/Ona": "Wydaje się",
+    "My": "Wydajemy się",
+    "Wy": "Wydajecie się",
+    "Oni/One": "Wydają się",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wydawałem się / Wydawałam się",
+    "Tense": "Wydawałeś się / Wydawałaś się",
+    "Ja": "Wydawał się / Wydawała się",
+    "Ty": "Wydawaliśmy się / Wydawałyśmy się",
+    "On/Ona": "Wydawaliście się / Wydawałyście się",
+    "My": "Wydawali się / Wydawały się",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Podobać",
+    "Meaning": "To please",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Podobam",
+    "Ty": "Podobasz",
+    "On/Ona": "Podoba",
+    "My": "Podobamy",
+    "Wy": "Podobacie",
+    "Oni/One": "Podobają",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "It is used in an impersonal way, where the subject of the sentence (the thing that is liked) is in the nominative case, and the person who likes it is expressed in the dative case."
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Podobałem / Podobałam",
+    "Tense": "Podobałeś / Podobałaś",
+    "Ja": "Podobał / Podobała",
+    "Ty": "Podobaliśmy / Podobałyśmy",
+    "On/Ona": "Podobaliście / Podobałyście",
+    "My": "Podobali / Podobały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Dziać się",
+    "Meaning": "To happen",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Dzieję się",
+    "Ty": "Dziejesz się",
+    "On/Ona": "Dzieje się",
+    "My": "Dziejemy się",
+    "Wy": "Dziejecie się",
+    "Oni/One": "Dzieją się",
+    "Examples": "- Ja się dzieje coś dziwnego (Something strange is happening to me)\n- Ty się dzieje coś ciekawego (Something interesting is happening to you (singular))\n- Ona się dzieje z nią coś złego (Something bad is happening to her)\n- My się dzieje wiele rzeczy (A lot of things are happening to us)\n- Wy się dzieje coś podejrzanego (Something suspicious is happening to you (plural))\n- Oni się dzieje jak zawsze (They are happening as usual)",
+    "Notes": "Impersonal verb, so it doesn’t have any gendered version. Past tense translates to ‘what was happening’. For impersonal verbs, się preceeds the verb.The verb conjugation then indicates who something is happening to"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Działo się",
+    "Tense": "Działo się",
+    "Ja": "Działo się",
+    "Ty": "Działo się",
+    "On/Ona": "Działo się",
+    "My": "Działo się",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Myć",
+    "Meaning": "To wash",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Myję",
+    "Ty": "Myjesz",
+    "On/Ona": "Myje",
+    "My": "Myjemy",
+    "Wy": "Myjecie",
+    "Oni/One": "Myją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Myłem / Myłam",
+    "Tense": "Myłeś / Myłaś",
+    "Ja": "Mył / Myła",
+    "Ty": "Myliśmy / Myłyśmy",
+    "On/Ona": "Myliście / Myłyście",
+    "My": "Myli / Myły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Uśmiechać",
+    "Meaning": "To smile",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Uśmiecham",
+    "Ty": "Uśmiechasz",
+    "On/Ona": "Uśmiecha",
+    "My": "Uśmiechamy",
+    "Wy": "Uśmiechacie",
+    "Oni/One": "Uśmiechają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Uśmiechałem / Uśmiechałam",
+    "Tense": "Uśmiechałeś / Uśmiechałaś",
+    "Ja": "Uśmiechał / Uśmiechała",
+    "Ty": "Uśmiechaliśmy / Uśmiechałyśmy",
+    "On/Ona": "Uśmiechaliście / Uśmiechałyście",
+    "My": "Uśmiechali / Uśmiechały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Bawić się",
+    "Meaning": "To have fun",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Bawię się",
+    "Ty": "Bawisz się",
+    "On/Ona": "Bawi się",
+    "My": "Bawimy się",
+    "Wy": "Bawicie się",
+    "Oni/One": "Bawią się",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Bawiłem się / Bawiłam się",
+    "Tense": "Bawiłeś się / Bawiłaś się",
+    "Ja": "Bawił się / Bawiła się",
+    "Ty": "Bawiliśmy się / Bawiłyśmy się",
+    "On/Ona": "Bawiliście się / Bawiłyście się",
+    "My": "Bawili się / Bawiły się",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Troszczyć się",
+    "Meaning": "To take care of",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Troszczę się",
+    "Ty": "Troszczysz się",
+    "On/Ona": "Troszczy się",
+    "My": "Troszczymy się",
+    "Wy": "Troszczycie się",
+    "Oni/One": "Troszczą się",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Used more for emotional / mental wellbeing"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Troszczyłem się / Troszczyłam się",
+    "Tense": "Troszczyłeś się / Troszczyłaś się",
+    "Ja": "Troszczył się / Troszczyła się",
+    "Ty": "Troszczyliśmy się / Troszczyłyśmy się",
+    "On/Ona": "Troszczyliście się / Troszczyłyście się",
+    "My": "Troszczyli się / Troszczyły się",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Nudzić się",
+    "Meaning": "To be bored",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Nudzę się",
+    "Ty": "Nudzisz się",
+    "On/Ona": "Nudzi się",
+    "My": "Nudzimy się",
+    "Wy": "Nudzicie się",
+    "Oni/One": "Nudzą się",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Nudziłem się / Nudziłam się",
+    "Tense": "Nudziłeś się / Nudziłaś się",
+    "Ja": "Nudził się / Nudziła się",
+    "Ty": "Nudziliśmy się / Nudziłyśmy się",
+    "On/Ona": "Nudziliście się / Nudziłyście się",
+    "My": "Nudzili się / Nudziły się",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Kończyć",
+    "Meaning": "To finish",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Kończę",
+    "Ty": "Kończysz",
+    "On/Ona": "Kończy",
+    "My": "Kończymy",
+    "Wy": "Kończycie",
+    "Oni/One": "Kończą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Kończyłem / Kończyłam",
+    "Tense": "Kończyłeś / Kończyłaś",
+    "Ja": "Kończył / Kończyła",
+    "Ty": "Kończyliśmy / Kończyłyśmy",
+    "On/Ona": "Kończyliście / Kończyłyście",
+    "My": "Kończyli / Kończyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Zaczynać",
+    "Meaning": "To start",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zaczynam",
+    "Ty": "Zaczynasz",
+    "On/Ona": "Zaczyna",
+    "My": "Zaczynamy",
+    "Wy": "Zaczynacie",
+    "Oni/One": "Zaczynają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zaczynałem / Zaczynałam",
+    "Tense": "Zaczynałeś / Zaczynałaś",
+    "Ja": "Zaczynał / Zaczynała",
+    "Ty": "Zaczynaliśmy / Zaczynałyśmy",
+    "On/Ona": "Zaczynaliście / Zaczynałyście",
+    "My": "Zaczynali / Zaczynały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Golić",
+    "Meaning": "To shave",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Golę",
+    "Ty": "Golisz",
+    "On/Ona": "Goli",
+    "My": "Golimy",
+    "Wy": "Golicie",
+    "Oni/One": "Golą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Goliłem / Goliłam",
+    "Tense": "Goliłeś / Goliłaś",
+    "Ja": "Golił / Goliła",
+    "Ty": "Goliliśmy / Goliłyśmy",
+    "On/Ona": "Goliliście / Goliłyście",
+    "My": "Golili / Goliły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Verb": "Uczyć",
+    "Meaning": "To teach",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Uczę",
+    "Ty": "Uczysz",
+    "On/Ona": "Uczy",
+    "My": "Uczymy",
+    "Wy": "Uczycie",
+    "Oni/One": "Uczą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Uczyłem / Uczyłam",
+    "Tense": "Uczyłeś / Uczyłaś",
+    "Ja": "Uczył / Uczyła",
+    "Ty": "Uczyliśmy / Uczyłyśmy",
+    "On/Ona": "Uczyliście / Uczyłyście",
+    "My": "Uczyli / Uczyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Verb": "Uczyć się",
+    "Meaning": "To learn",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Uczę się",
+    "Ty": "Uczysz się",
+    "On/Ona": "Uczy się",
+    "My": "Uczymy się",
+    "Wy": "Uczycie się",
+    "Oni/One": "Uczą się",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Uczyłem się / Uczyłam się",
+    "Tense": "Uczyłeś się / Uczyłaś się",
+    "Ja": "Uczył się / Uczyła się",
+    "Ty": "Uczyliśmy się / Uczyłyśmy się",
+    "On/Ona": "Uczyliście się / Uczyłyście się",
+    "My": "Uczyli się / Uczyły się",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Verb": "Boleć",
+    "Meaning": "To hurt / To ache",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Bolę",
+    "Ty": "Bolisz",
+    "On/Ona": "Boli",
+    "My": "Bolimy",
+    "Wy": "Bolicie",
+    "Oni/One": "Bolą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Bolałem / Bolałam",
+    "Tense": "Bolałeś / Bolałaś",
+    "Ja": "Bolał / Bolała",
+    "Ty": "Boleliśmy / Bolałyśmy",
+    "On/Ona": "Boleliście / Bolałyście",
+    "My": "Boleli / Bolały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Verb": "Dbać",
+    "Meaning": "To take care of",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Dbam",
+    "Ty": "Dbasz",
+    "On/Ona": "Dba",
+    "My": "Dbamy",
+    "Wy": "Dbacie",
+    "Oni/One": "Dbają",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Used for physical wellbeing"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Dbałem / Dbałam",
+    "Tense": "Dbałeś / Dbałaś",
+    "Ja": "Dbał / Dbała",
+    "Ty": "Dbaliśmy / Dbałyśmy",
+    "On/Ona": "Dbaliście / Dbałyście",
+    "My": "Dbali / Dbały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Verb": "Rosnąć",
+    "Meaning": "To grow",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Rosnę",
+    "Ty": "Rośniesz",
+    "On/Ona": "Rośnie",
+    "My": "Rośniemy",
+    "Wy": "Rośniecie",
+    "Oni/One": "Rosną",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Rosłem / Rosłam",
+    "Tense": "Rosłeś / Rosłaś",
+    "Ja": "Rosł / Rosła",
+    "Ty": "Rosliśmy / Rosłyśmy",
+    "On/Ona": "Rosliście / Rosłyście",
+    "My": "Rosli / Rosły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Verb": "Płakać",
+    "Meaning": "To cry",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Płaczę",
+    "Ty": "Płaczesz",
+    "On/Ona": "Płacze",
+    "My": "Płaczemy",
+    "Wy": "Płaczecie",
+    "Oni/One": "Płaczą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Płakałem / Płakałam",
+    "Tense": "Płakałeś / Płakałaś",
+    "Ja": "Płakał / Płakała",
+    "Ty": "Płakaliśmy / Płakałyśmy",
+    "On/Ona": "Płakaliście / Płakałyście",
+    "My": "Płakali / Płakały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Verb": "Martwić",
+    "Meaning": "To worry",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Martwię",
+    "Ty": "Martwiesz",
+    "On/Ona": "Martwi",
+    "My": "Martwimy",
+    "Wy": "Martwicie",
+    "Oni/One": "Martwią",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Martwiłem / Martwiłam",
+    "Tense": "Martwiłeś / Martwiłaś",
+    "Ja": "Martwił / Martwiła",
+    "Ty": "Martwiliśmy / Martwiłyśmy",
+    "On/Ona": "Martwiliście / Martwiłyście",
+    "My": "Martwili / Martwiły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Verb": "Cierpieć",
+    "Meaning": "To suffer",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Cierpię",
+    "Ty": "Cierpisz",
+    "On/Ona": "Cierpi",
+    "My": "Cierpimy",
+    "Wy": "Cierpicie",
+    "Oni/One": "Cierpią",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Cierpiałem / Cierpiałam",
+    "Tense": "Cierpiałeś / Cierpiałaś",
+    "Ja": "Cierpiał / Cierpiała",
+    "Ty": "Cierpieliśmy / Cierpiałyśmy",
+    "On/Ona": "Cierpieliście / Cierpiałyście",
+    "My": "Cierpieli / Cierpiały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Trzymać",
+    "Meaning": "To hold / To keep",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Trzymam",
+    "Ty": "Trzymasz",
+    "On/Ona": "Trzyma",
+    "My": "Trzymamy",
+    "Wy": "Trzymacie",
+    "Oni/One": "Trzymają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Trzymałem / Trzymałam",
+    "Tense": "Trzymałeś / Trzymałaś",
+    "Ja": "Trzymał / Trzymała",
+    "Ty": "Trzymaliśmy / Trzymałyśmy",
+    "On/Ona": "Trzymaliście / Trzymałyście",
+    "My": "Trzymali / Trzymały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Woleć",
+    "Meaning": "To prefer",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Wolę",
+    "Ty": "Wolisz",
+    "On/Ona": "Woli",
+    "My": "Wolimy",
+    "Wy": "Wolicie",
+    "Oni/One": "Wolą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Wolałem / Wolałam",
+    "Ty": "Wolałeś / Wolałaś",
+    "On/Ona": "Wolał / Wolała",
+    "My": "Woleliśmy / Wolałyśmy",
+    "Wy": "Woleliście / Wolałyście",
+    "Oni/One": "Woleli / Wolały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wolałbym / Wolałabym",
+    "Tense": "Wolałbyś / Wolałabyś",
+    "Ja": "Wolałby / Wolałaby",
+    "Ty": "Wolelibyśmy / Wolałybyśmy",
+    "On/Ona": "Wolelibyście / Wolałybyście",
+    "My": "Woleliby / Wolałyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Spotkać",
+    "Meaning": "To meet",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Spotkam",
+    "Ty": "Spotkasz",
+    "On/Ona": "Spotka",
+    "My": "Spotkamy",
+    "Wy": "Spotkacie",
+    "Oni/One": "Spotkają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Spotkałem / Spotkałam",
+    "Tense": "Spotkałeś / Spotkałaś",
+    "Ja": "Spotkał / Spotkała",
+    "Ty": "Spotkaliśmy / Spotkałyśmy",
+    "On/Ona": "Spotkaliście / Spotkałyście",
+    "My": "Spotkali / Spotkały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Wątpić",
+    "Meaning": "To doubt",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Wątpię",
+    "Ty": "Wątpisz",
+    "On/Ona": "Wątpi",
+    "My": "Wątpimy",
+    "Wy": "Wątpicie",
+    "Oni/One": "Wątpią",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wątpiłem / Wątpiłam",
+    "Tense": "Wątpiłeś / Wątpiłaś",
+    "Ja": "Wątpił / Wątpiła",
+    "Ty": "Wątpiliśmy / Wątpiłyśmy",
+    "On/Ona": "Wątpiliście / Wątpiłyście",
+    "My": "Wątpili / Wątpiły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Wyglądać",
+    "Meaning": "To look / To appear",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Wyglądam",
+    "Ty": "Wyglądasz",
+    "On/Ona": "Wygląda",
+    "My": "Wyglądamy",
+    "Wy": "Wyglądacie",
+    "Oni/One": "Wyglądają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Wyglądałem / Wyglądałam",
+    "Tense": "Wyglądałeś / Wyglądałaś",
+    "Ja": "Wyglądał / Wyglądała",
+    "Ty": "Wyglądaliśmy / Wyglądałyśmy",
+    "On/Ona": "Wyglądaliście / Wyglądałyście",
+    "My": "Wyglądali / Wyglądały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Istnieć",
+    "Meaning": "To exist",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Istnieję",
+    "Ty": "Istniejesz",
+    "On/Ona": "Istnieje",
+    "My": "Istniejemy",
+    "Wy": "Istniejecie",
+    "Oni/One": "Istnieją",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Istniałem / Istniałam  ",
+    "Tense": "Istniałeś / Istniałaś",
+    "Ja": "Istniał / Istniała",
+    "Ty": "Istnieliśmy / Istniałyśmy",
+    "On/Ona": "Istnieliście / Istniałyście",
+    "My": "Istnieli / Istniały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Obiecywać",
+    "Meaning": "To promise",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Obiecuję",
+    "Ty": "Obiecujesz",
+    "On/Ona": "Obiecuje",
+    "My": "Obiecujemy",
+    "Wy": "Obiecujecie",
+    "Oni/One": "Obiecują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Obiecywałem / Obiecywałam",
+    "Tense": "Obiecywałeś / Obiecywałaś",
+    "Ja": "Obiecywał / Obiecywała",
+    "Ty": "Obiecywaliśmy / Obiecywałyśmy",
+    "On/Ona": "Obiecywaliście / Obiecywałyście",
+    "My": "Obiecywali / Obiecywały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Dotyczyć",
+    "Meaning": "To concern",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Dotyczę",
+    "Ty": "Dotyczysz",
+    "On/Ona": "Dotyczy",
+    "My": "Dotyczymy",
+    "Wy": "Dotyczycie",
+    "Oni/One": "Dotyczą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Dotyczyłem / Dotyczyłam",
+    "Tense": "Dotyczyłeś / Dotyczyłaś",
+    "Ja": "Dotyczył / Dotyczyła",
+    "Ty": "Dotyczyliśmy / Dotyczyłyśmy",
+    "On/Ona": "Dotyczyliście / Dotyczyłyście",
+    "My": "Dotyczyli / Dotyczyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Planować",
+    "Meaning": "To plan",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Planuję",
+    "Ty": "Planujesz",
+    "On/Ona": "Planuje",
+    "My": "Planujemy",
+    "Wy": "Planujecie",
+    "Oni/One": "Planują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Planowałem / Planowałam",
+    "Tense": "Planowałeś / Planowałaś",
+    "Ja": "Planował / Planowała",
+    "Ty": "Planowaliśmy / Planowałyśmy",
+    "On/Ona": "Planowaliście / Planowałyście",
+    "My": "Planowali / Planowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Należeć",
+    "Meaning": "To belong",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Należę",
+    "Ty": "Należysz",
+    "On/Ona": "Należy",
+    "My": "Należymy",
+    "Wy": "Należycie",
+    "Oni/One": "Należą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Należałem / Należałam",
+    "Tense": "Należałeś / Należałaś",
+    "Ja": "Należał / Należała",
+    "Ty": "Należaliśmy / Należałyśmy",
+    "On/Ona": "Należaliście / Należałyście",
+    "My": "Należali / Należały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Mieszać",
+    "Meaning": "To stir / To mix",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Mieszam",
+    "Ty": "Mieszasz",
+    "On/Ona": "Miesza",
+    "My": "Mieszamy",
+    "Wy": "Mieszacie",
+    "Oni/One": "Mieszają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Mieszałem / Mieszałam",
+    "Tense": "Mieszałeś / Mieszałaś",
+    "Ja": "Mieszał / Mieszała",
+    "Ty": "Mieszaliśmy / Mieszałyśmy",
+    "On/Ona": "Mieszaliście / Mieszałyście",
+    "My": "Mieszali / Mieszały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Włączać",
+    "Meaning": "To switch",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Włączam",
+    "Ty": "Włączasz",
+    "On/Ona": "Włącza",
+    "My": "Włączamy",
+    "Wy": "Włączacie",
+    "Oni/One": "Włączają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Włączałem / Włączałam",
+    "Tense": "Włączałeś / Włączałaś",
+    "Ja": "Włączał / Włączała",
+    "Ty": "Włączaliśmy / Włączałyśmy",
+    "On/Ona": "Włączaliście / Włączałyście",
+    "My": "Włączali / Włączały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Tworzyć",
+    "Meaning": "To create",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Tworzę",
+    "Ty": "Tworzysz",
+    "On/Ona": "Tworzy",
+    "My": "Tworzymy",
+    "Wy": "Tworzycie",
+    "Oni/One": "Tworzą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Tworzyłem / Tworzyłam",
+    "Tense": "Tworzyłeś / Tworzyłaś",
+    "Ja": "Tworzył / Tworzyła",
+    "Ty": "Tworzyliśmy / Tworzyłyśmy",
+    "On/Ona": "Tworzyliście / Tworzyłyście",
+    "My": "Tworzyli / Tworzyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Pochodzić",
+    "Meaning": "To originate / To come from",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Pochodzę",
+    "Ty": "Pochodzisz",
+    "On/Ona": "Pochodzi",
+    "My": "Pochodzimy",
+    "Wy": "Pochodzicie",
+    "Oni/One": "Pochodzą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Pochodziłem / Pochodziłam",
+    "Tense": "Pochodziłeś / Pochodziłaś",
+    "Ja": "Pochodził / Pochodziła",
+    "Ty": "Pochodziliśmy / Pochodziłyśmy",
+    "On/Ona": "Pochodziliście / Pochodziłyście",
+    "My": "Pochodzili / Pochodziły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Akceptować",
+    "Meaning": "To accept",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Akceptuję",
+    "Ty": "Akceptujesz",
+    "On/Ona": "Akceptuje",
+    "My": "Akceptujemy",
+    "Wy": "Akceptujecie",
+    "Oni/One": "Akceptują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Akceptowałem / Akceptowałam",
+    "Tense": "Akceptowałeś / Akceptowałaś",
+    "Ja": "Akceptował / Akceptowała",
+    "Ty": "Akceptowaliśmy / Akceptowałyśmy",
+    "On/Ona": "Akceptowaliście / Akceptowałyście",
+    "My": "Akceptowali / Akceptowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Czyścić",
+    "Meaning": "To clean",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Czyszczę",
+    "Ty": "Czyścisz",
+    "On/Ona": "Czyści",
+    "My": "Czyścimy",
+    "Wy": "Czyścicie",
+    "Oni/One": "Czyszczą",
+    "Examples": "-\n-\n-\n-\n-\n-",
+    "Notes": "Usually used to mean removing dirt / grease etc"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Czyściłem / Czyściłam",
+    "Tense": "Czyściłeś / Czyściłaś",
+    "Ja": "Czyścił / Czyściła",
+    "Ty": "Czyściliśmy / Czyściłyśmy",
+    "On/Ona": "Czyściliście / Czyściłyście",
+    "My": "Czyścili / Czyściły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Spadać",
+    "Meaning": "To fall",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Spadam",
+    "Ty": "Spadasz",
+    "On/Ona": "Spada",
+    "My": "Spadamy",
+    "Wy": "Spadacie",
+    "Oni/One": "Spadają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Spadałem / Spadałam",
+    "Tense": "Spadałeś / Spadałaś",
+    "Ja": "Spadał / Spadała",
+    "Ty": "Spadaliśmy / Spadałyśmy",
+    "On/Ona": "Spadaliście / Spadałyście",
+    "My": "Spadali / Spadały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Zawierać",
+    "Meaning": "To contain",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zawieram",
+    "Ty": "Zawierasz",
+    "On/Ona": "Zawiera",
+    "My": "Zawieramy",
+    "Wy": "Zawieracie",
+    "Oni/One": "Zawierają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zawierałem / Zawierałam",
+    "Tense": "Zawierałeś / Zawierałaś",
+    "Ja": "Zawierał / Zawierała",
+    "Ty": "Zawieraliśmy / Zawierałyśmy",
+    "On/Ona": "Zawieraliście / Zawierałyście",
+    "My": "Zawierali / Zawierały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Napełniać",
+    "Meaning": "To fill",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Napełniam",
+    "Ty": "Napełniasz",
+    "On/Ona": "Napełnia",
+    "My": "Napełniamy",
+    "Wy": "Napełniacie",
+    "Oni/One": "Napełniają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Napełniałem / Napełniałam",
+    "Tense": "Napełniałeś / Napełniałaś",
+    "Ja": "Napełniał / Napełniała",
+    "Ty": "Napełnialiśmy / Napełniałyśmy",
+    "On/Ona": "Napełnialiście / Napełniałyście",
+    "My": "Napełniali / Napełniały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Powodować",
+    "Meaning": "To cause",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Powoduję",
+    "Ty": "Powodujesz",
+    "On/Ona": "Powoduje",
+    "My": "Powodujemy",
+    "Wy": "Powodujecie",
+    "Oni/One": "Powodują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Powodowałem / Powodowałam",
+    "Tense": "Powodowałeś / Powodowałaś",
+    "Ja": "Powodował / Powodowała",
+    "Ty": "Powodowaliśmy / Powodowałyśmy",
+    "On/Ona": "Powodowaliście / Powodowałyście",
+    "My": "Powodowali / Powodowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Spędzać",
+    "Meaning": "To spend",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Spędzam",
+    "Ty": "Spędzasz",
+    "On/Ona": "Spędza",
+    "My": "Spędzamy",
+    "Wy": "Spędzacie",
+    "Oni/One": "Spędzają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Spędzałem / Spędzałam",
+    "Tense": "Spędzałeś / Spędzałaś",
+    "Ja": "Spędzał / Spędzała",
+    "Ty": "Spędzaliśmy / Spędzałyśmy",
+    "On/Ona": "Spędzaliście / Spędzałyście",
+    "My": "Spędzali / Spędzały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Porównywać",
+    "Meaning": "To compare",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Porównuję",
+    "Ty": "Porównujesz",
+    "On/Ona": "Porównuje",
+    "My": "Porównujemy",
+    "Wy": "Porównujecie",
+    "Oni/One": "Porównują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Porównywałem / Porównywałam",
+    "Tense": "Porównywałeś / Porównywałaś",
+    "Ja": "Porównywał / Porównywała",
+    "Ty": "Porównywaliśmy / Porównywałyśmy",
+    "On/Ona": "Porównywaliście / Porównywałyście",
+    "My": "Porównywali / Porównywały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Sprawdzać",
+    "Meaning": "To check",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Sprawdzam",
+    "Ty": "Sprawdzasz",
+    "On/Ona": "Sprawdza",
+    "My": "Sprawdzamy",
+    "Wy": "Sprawdzacie",
+    "Oni/One": "Sprawdzają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Sprawdzałem / Sprawdzałam",
+    "Tense": "Sprawdzałeś / Sprawdzałaś",
+    "Ja": "Sprawdzał / Sprawdzała",
+    "Ty": "Sprawdzaliśmy / Sprawdzałyśmy",
+    "On/Ona": "Sprawdzaliście / Sprawdzałyście",
+    "My": "Sprawdzali / Sprawdzały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Verb": "Kosztować",
+    "Meaning": "Cost",
+    "Conjugation": "- e / - esz",
+    "Tense": "Present",
+    "Ja": "Kosztuję",
+    "Ty": "Kosztujesz",
+    "On/Ona": "Kosztuje",
+    "My": "Kosztujemy",
+    "Wy": "Kosztujecie",
+    "Oni/One": "Kosztują",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Kosztowałem / Kosztowałam",
+    "Tense": "Kosztowałeś / Kosztowałaś",
+    "Ja": "Kosztował / Kosztowała",
+    "Ty": "Kosztowaliśmy / Kosztowałyśmy",
+    "On/Ona": "Kosztowaliście / Kosztowałyście",
+    "My": "Kosztowali / Kosztowały",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Verb": "Płacić",
+    "Meaning": "To pay",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Płacę",
+    "Ty": "Płacisz",
+    "On/Ona": "Płaci",
+    "My": "Płacimy",
+    "Wy": "Płacicie",
+    "Oni/One": "Płacą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Płaciłem / Płaciłam",
+    "Ty": "Płaciłeś / Płaciłaś",
+    "On/Ona": "Płacił / Płaciła",
+    "My": "Płaciliśmy / Płaciłyśmy",
+    "Wy": "Płaciliście / Płaciłyście",
+    "Oni/One": "Płacili / Płaciły"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Verb": "Zarabiać",
+    "Meaning": "To earn",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zarabiam",
+    "Ty": "Zarabiasz",
+    "On/Ona": "Zarabia",
+    "My": "Zarabiamy",
+    "Wy": "Zarabiacie",
+    "Oni/One": "Zarabiają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Zarabiałem / Zarabiałam",
+    "Ty": "Zarabiałeś / Zarabiałaś",
+    "On/Ona": "Zarabiał / Zarabiała",
+    "My": "Zarabialiśmy / Zarabiałyśmy",
+    "Wy": "Zarabialiście / Zarabiałyście",
+    "Oni/One": "Zarabiali / Zarabiały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Verb": "Zmniejszać",
+    "Meaning": "To reduce",
+    "Conjugation": "- am / - asz",
+    "Tense": "Present",
+    "Ja": "Zmniejszam",
+    "Ty": "Zmniejszasz",
+    "On/Ona": "Zmniejsza",
+    "My": "Zmniejszamy",
+    "Wy": "Zmniejszacie",
+    "Oni/One": "Zmniejszają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Zmniejszałem / Zmniejszałam",
+    "Ty": "Zmniejszałeś / Zmniejszałaś",
+    "On/Ona": "Zmniejszał / Zmniejszała",
+    "My": "Zmniejszaliśmy / Zmniejszałyśmy",
+    "Wy": "Zmniejszaliście / Zmniejszałyście",
+    "Oni/One": "Zmniejszali / Zmniejszały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Zmniejszałbym / Zmniejszałabym",
+    "Tense": "Zmniejszałbyś / Zmniejszałabyś",
+    "Ja": "Zmniejszałby / Zmniejszałaby",
+    "Ty": "Zmniejszalibyśmy / Zmniejszałybyśmy",
+    "On/Ona": "Zmniejszalibyście / Zmniejszałybyście",
+    "My": "Zmniejszaliby / Zmniejszałyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Verb": "Ważyć",
+    "Meaning": "To weigh",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Ważę",
+    "Ty": "Ważysz",
+    "On/Ona": "Waży",
+    "My": "Ważymy",
+    "Wy": "Ważycie",
+    "Oni/One": "Ważą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Ważyłem / Ważyłam",
+    "Ty": "Ważyłeś / Ważyłaś",
+    "On/Ona": "Ważył / Ważyła",
+    "My": "Ważyliśmy / Ważyłyśmy",
+    "Wy": "Ważyliście / Ważyłyście",
+    "Oni/One": "Ważyli / Ważyły"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Ważyłbym / Ważyłabym",
+    "Tense": "Ważyłbyś / Ważyłbyś",
+    "Ja": "Ważyłby / Ważyłaby",
+    "Ty": "Ważylibyśmy / Ważyłybyśmy",
+    "On/Ona": "Ważylibyście / Ważyłybyście",
+    "My": "Ważyliby / Ważyłyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Verb": "Grać",
+    "Meaning": "To play",
+    "Conjugation": "- m / - asz",
+    "Tense": "Present",
+    "Ja": "Gram",
+    "Ty": "Grasz",
+    "On/Ona": "Gra",
+    "My": "Gramy",
+    "Wy": "Gracie",
+    "Oni/One": "Grają",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Verb": "Kopać",
+    "Meaning": "To kick",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Kopię",
+    "Ty": "Kopiesz",
+    "On/Ona": "Kopie",
+    "My": "Kopiemy",
+    "Wy": "Kopiecie",
+    "Oni/One": "Kopią",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Kopałem / Kopałam",
+    "Ty": "Kopałeś / Kopałaś",
+    "On/Ona": "Kopał / Kopała",
+    "My": "Kopaliśmy / Kopałyśmy",
+    "Wy": "Kopaliście / Kopałyście",
+    "Oni/One": "Kopali / Kopały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Kopałbym / Kopałabym",
+    "Tense": "Kopałbyś / Kopałabyś",
+    "Ja": "Kopałby / Kopałaby",
+    "Ty": "Kopalibyśmy / Kopałybyśmy",
+    "On/Ona": "Kopalibyście / Kopałybyście",
+    "My": "Kopaliby / Kopałyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Verb": "Skakać",
+    "Meaning": "To jump",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Present",
+    "Ja": "Skaczę",
+    "Ty": "Skaczesz",
+    "On/Ona": "Skacze",
+    "My": "Skaczemy",
+    "Wy": "Skaczecie",
+    "Oni/One": "Skaczą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Skakałem / Skakałam",
+    "Ty": "Skakałeś / Skakałaś",
+    "On/Ona": "Skakał / Skakała",
+    "My": "Skakaliśmy / Skakałyśmy",
+    "Wy": "Skakaliście / Skakałyście",
+    "Oni/One": "Skakali / Skakały"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Skakałbym / Skakałabym",
+    "Tense": "Skakałbyś / Skakałabyś",
+    "Ja": "Skakałby / Skakałaby",
+    "Ty": "Skakalibyśmy / Skakałybyśmy",
+    "On/Ona": "Skakalibyście / Skakałybyście",
+    "My": "Skakaliby / Skakałyby",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Verb": "Ćwiczyć",
+    "Meaning": "To exercise",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Present",
+    "Ja": "Ćwiczę",
+    "Ty": "Ćwiczysz",
+    "On/Ona": "Ćwiczy",
+    "My": "Ćwiczymy",
+    "Wy": "Ćwiczycie",
+    "Oni/One": "Ćwiczą",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Ćwiczyłem / Ćwiczyłam",
+    "Ty": "Ćwiczyłeś / Ćwiczyłaś",
+    "On/Ona": "Ćwiczył / Ćwiczyła",
+    "My": "Ćwiczyliśmy / Ćwiczyłyśmy",
+    "Wy": "Ćwiczyliście / Ćwiczyłyście",
+    "Oni/One": "Ćwiczyli / Ćwiczyły"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Ćwiczyłbym / Ćwiczyłabym",
+    "Tense": "Ćwiczyłbyś / Ćwiczyłabyś",
+    "Ja": "Ćwiczyłby / Ćwiczyłaby",
+    "Ty": "Ćwiczylibyśmy / Ćwiczyłybyśmy",
+    "On/Ona": "Ćwiczylibyście / Ćwiczyłybyście",
+    "My": "Ćwiczyli / Ćwiczyły",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Verb": "Modlić się",
+    "Meaning": "To pray",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Present",
+    "Ja": "Modlę się",
+    "Ty": "Modlisz się",
+    "On/Ona": "Modli się",
+    "My": "Modlimy się",
+    "Wy": "Modlicie się",
+    "Oni/One": "Modlą się",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past",
+    "Ja": "Modliłem się / Modliłam się",
+    "Ty": "Modliłeś się / Modliłaś się",
+    "On/Ona": "Modlił się / Modliła się",
+    "My": "Modliliśmy się / Modliłyśmy się",
+    "Wy": "Modliliście się / Modliłyście się",
+    "Oni/One": "Modlili się / Modliły się",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Meaning": "Conditional",
+    "Conjugation": "Modliłbym się / Modliłabym się",
+    "Tense": "Modliłbyś się / Modliłabyś się",
+    "Ja": "Modliłby się / Modliłaby się",
+    "Ty": "Modlilibyśmy się / Modliłybyśmy się",
+    "On/Ona": "Modlilibyście się / Modliłybyście się",
+    "My": "Modliliby się / Modliłyby się",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Present",
+    "Examples": "-\n-\n-\n-\n-\n-"
+  },
+  {
+    "Tense": "Past"
+  },
+  {
+    "Meaning": "Conditional",
+    "Wy": "-\n-\n-\n-\n-\n-"
+  }
+]

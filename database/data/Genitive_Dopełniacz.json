@@ -1,0 +1,73 @@
+[
+  {
+    "Rodzaj Męski": "Żywotne\nAnimate",
+    "__EMPTY_2": "Nieżywotne\nInanimate"
+  },
+  {
+    "__EMPTY": "Liczba pojedyncza\nSingular",
+    "__EMPTY_1": "Przymiotnik",
+    "Rodzaj Męski": "- ego\n- iego",
+    "Rodzaj Zeński": "- ej\n- iej",
+    "Rodzaj Niyaki": "- ego\n- iego",
+    "When to use Genitive:": "1. To specify who is the owner of something or what something belongs to:\nEg: To jest ołówek mojego kolegi"
+  },
+  {
+    "__EMPTY_1": "Rzeczownik",
+    "Rodzaj Męski": "- a *\n- y (usually after a soft consonant)",
+    "__EMPTY_2": "- u *\n- a *",
+    "Rodzaj Zeński": "- y\n- i (after k, g, l, j, si, zi, ci, dzi, ni)",
+    "Rodzaj Niyaki": "- a\n- um",
+    "When to use Genitive:": "2. In sentences with certain verbs, expressing negation -\nEg:\nSzukamy mojego brata\nNie lubię mojej siostry"
+  },
+  {
+    "__EMPTY": "Przykłady\nExamples",
+    "Rodzaj Męski": "- Nie lubię tego mężczyzny\n- Szukam nowego samochodu\n- Nie widzę starego brata",
+    "Rodzaj Zeński": "- Nie mam pięknej siostry\n- Książka mojej matki",
+    "Rodzaj Niyaki": "- Potrzebuję czystego okna",
+    "When to use Genitive:": "3. After certain prepositions - Common uses are: Indicate absence (bez), motion away from (z, od), expressing possesion (do – to/for), indicating quantity (wiele, mało, dużo) etc"
+  },
+  {
+    "__EMPTY": "Liczba mnoga\nPlural",
+    "__EMPTY_1": "Przymiotnik\nAdjective",
+    "Rodzaj Męski": "- ych\n- ich",
+    "Rodzaj Zeński": "- ych\n- ich",
+    "Rodzaj Niyaki": "- ych\n- ich",
+    "When to use Genitive:": "4. After a number used with a noun -\nEg: pięć domów"
+  },
+  {
+    "__EMPTY_1": "Rzeczownik\nNoun",
+    "Rodzaj Męski": "- ów *\n- y (after sz, ż/rz, cz, dż, c, dz) *\n- i (after ś, ż, ć, dź, ń, l, j) *",
+    "Rodzaj Zeński": "- stripped to last consonant **\n- y (after sz, ż/rz, cz, dż, c, dz)\n- i (after ś, ż, ć, dź, ń, l, j)",
+    "Rodzaj Niyaki": "- stripped to last consonant\n- ów",
+    "When to use Genitive:": "* When using the declensions, the following changes will also happen:\n- mobile ‘e’ removed => Budynek becomes Budynku\n- mobile ‘ie’ removed => Cukier becomes Cukru\n- ó becomes o => Samochód becomes Samochodu\n- ą becomes ę => Krąg becomes Kręg"
+  },
+  {
+    "__EMPTY": "Przykłady\nExamples",
+    "Rodzaj Męski": "- Potrzebuję dobrych piekarzy\n- Szukam nowych samochodów\n- Nie widzę starych braci",
+    "Rodzaj Zeński": "- Nie mam pięknych sióstr\n- Nie mam żadnych dobrych myśli",
+    "Rodzaj Niyaki": "- Potrzebuję czystych okien\n- Nie znam żadnych museów",
+    "When to use Genitive:": "** If the last consonant is a k, prefix it with an e. Eg sukienka => Sukienek"
+  },
+  {
+    "__EMPTY": "Interrogative Words",
+    "__EMPTY_1": "Kogo, Czego",
+    "Rodzaj Męski": "Interrogative words when used in a sentence are governed by what verb is being focussed on. For example szukać requires genitive, so the question would be Czego szukamy?"
+  },
+  {
+    "__EMPTY": "Examples",
+    "__EMPTY_1": "Kogo nie lubisz?\nWho do you see?",
+    "Rodzaj Męski": "Nie lubię mojej siostry\nI don’t like my sister"
+  },
+  {
+    "__EMPTY_1": "Czego szukasz?\nWhat are you looking for?",
+    "Rodzaj Męski": "Szukam klucza\nI’m looking for a key"
+  },
+  {
+    "__EMPTY_1": "Czego nie masz?\nWhat don’t you have?",
+    "Rodzaj Męski": "Nie mam żadnych ksiązek\nI don’t have any books"
+  },
+  {
+    "__EMPTY_1": "Kogo szukasz?\nWho are you looking for?",
+    "Rodzaj Męski": "Szukam moich przyjaciół\nI’m looking for my friends"
+  }
+]

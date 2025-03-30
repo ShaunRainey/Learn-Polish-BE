@@ -53,3 +53,9 @@ Project step by step:
     - this is the library that will read the ods (spreadsheet) file data
 
 - npm install pg-format
+
+- created seed file and run seed
+    
+    - there are utility functions within the seed file that are single use. As a result, seperating them into a utility function file would be
+      unneccessary, so the testing for these would be covered by the integration testing
+    

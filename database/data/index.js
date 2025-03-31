@@ -17,7 +17,6 @@ const extractedData = Object.entries(sheetData).reduce((acc, [key, value]) => {
 }, {});
 // iterate through each key of sheetData and create a variable using the key name, assigning this variable the value of the keys data
 
-// Export all dynamically
 module.exports = {
   ...extractedData,
 };

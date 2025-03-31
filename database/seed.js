@@ -25,6 +25,8 @@ function createSentences() {
         );`);
 }
 
+// need to make formatSentenceData more generic, so that it returns multiple formatted values
+
 function formatSentenceData() {
     const sentenceData = JSON.parse(fs.readFileSync(`database/data/Sentences.json`, "utf-8"));
     

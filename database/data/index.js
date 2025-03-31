@@ -20,3 +20,6 @@ const extractedData = Object.entries(sheetData).reduce((acc, [key, value]) => {
 module.exports = {
   ...extractedData,
 };
+
+
+console.log(Object.entries(sheetData))

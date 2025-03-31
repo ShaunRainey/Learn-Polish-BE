@@ -18,8 +18,3 @@ sheets.forEach((sheet) => {
     const data = getSheetData(sheet);
     fs.writeFileSync(`database/data/${sheet}.json`, JSON.stringify(data, null, 2),'utf8');
 })
-
-console.log(getSheetData(sheets[0])[0])
-console.log(getSheetData(sheets[0])[1]);
-console.log(getSheetData(sheets[0])[2]);
-console.log(getSheetData(sheets[0])[3]);

@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon app.js",
     "setup-database": "psql -f ./database/polish_data_entry.sql",
+    "setup-spreadsheet-files": "node ./database/extractData.js",
     "seed": "node database/run-seed.js",
     "test": "jest"
   },

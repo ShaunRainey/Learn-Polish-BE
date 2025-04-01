@@ -15,11 +15,13 @@ const extractedData = Object.entries(sheetData).reduce((acc, [key, value]) => {
   acc[`${key}Data`] = value;
   return acc;
 }, {});
+
+// Object.entries effectively turns an object into an array, using key, value pairs. In this case, an array of arrays
+// You can also turn an array of this form into an object using Object.fromEntries(array)
+
+
 // iterate through each key of sheetData and create a variable using the key name, assigning this variable the value of the keys data
 
 module.exports = {
   ...extractedData,
 };
-
-
-console.log(Object.entries(sheetData))

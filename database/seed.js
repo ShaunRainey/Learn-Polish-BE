@@ -1,6 +1,27 @@
 const db = require("./connection");
-const fs = require("fs");
 const format = require("pg-format");
+const {
+  Verbs_ImperfectiveData,
+  Verbs_PerfectiveData,
+  AdjectivesData,
+  AdverbsData,
+  NounsData,
+  SentencesData,
+  ConjunctionsData,
+  PrepositionsData,
+  DeterminersData,
+  MiscData,
+  ParticlesData,
+  PronounsData,
+  App_functionsData,
+  ImperativeData,
+  Nominative_MianownikData,
+  Instrumental_NarzędnikData,
+  Accusative_BiernikData,
+  Genitive_DopełniaczData,
+  Locative_MiejscownikData,
+} = require("./data/index");
+const { formatSentenceData } = require("./utils")
 
 function seed() {
     return db
@@ -9,10 +30,10 @@ function seed() {
             return createSentences()
         })
         .then(() => {
-            return formatSentenceData();
+            return formatSentenceData(SentencesData);
         })
-        .then((sentenceData) => {
-            return insertSentenceData(sentenceData)
+        .then((newData) => {
+            return insertSentenceData(newData)
         })
 }
 
@@ -23,18 +44,6 @@ function createSentences() {
         Polish VARCHAR(200),
         English VARCHAR(200)
         );`);
-}
-
-// need to make formatSentenceData more generic, so that it returns multiple formatted values
-
-function formatSentenceData() {
-    const sentenceData = JSON.parse(fs.readFileSync(`database/data/Sentences.json`, "utf-8"));
-    
-    const formattedData = sentenceData.map((sentence) => {
-        return [sentence.Unit, sentence.Topic, sentence.Polish, sentence.English];
-    })
-
-    return formattedData;
 }
 
 function insertSentenceData(sentenceData) {

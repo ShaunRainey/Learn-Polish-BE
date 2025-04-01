@@ -10,8 +10,8 @@ app.get('/api/healthcheck', (req, res) => {
 
 app.get("/api/sentences", getSentences);
 
-// app.listen(9001, () => {
-//     console.log("Big Brother is watching ... ")
-// })
+app.listen(9001, () => {
+    console.log("Big Brother is watching ... ")
+})
 
 module.exports = app;

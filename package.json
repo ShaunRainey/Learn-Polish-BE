@@ -8,7 +8,10 @@
     "setup-database": "psql -f ./database/polish_data_entry.sql",
     "setup-spreadsheet-files": "node ./database/extractData.js",
     "seed": "node database/run-seed.js",
-    "test": "jest"
+    "all-tests": "npx jest",
+    "test-seed": "npx jest ./__tests__/seed.test.js",
+    "test-integration": "npx jest ./__tests__/integration.test.js",
+    "test-utils": "npx jest ./__tests__/utils.test.js"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +25,7 @@
   },
   "devDependencies": {
     "jest": "^29.7.0",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "supertest": "^7.1.0"
   }
 }

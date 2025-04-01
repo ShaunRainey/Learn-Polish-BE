@@ -39,6 +39,7 @@ function seed() {
 
 function createSentences() {
     return db.query(`CREATE TABLE sentences(
+        sentence_id SERIAL PRIMARY KEY,
         Unit FLOAT,
         Topic VARCHAR(40),
         Polish VARCHAR(200),

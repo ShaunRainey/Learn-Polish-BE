@@ -20,8 +20,12 @@ const {
   Locative_MiejscownikData,
 } = require("./data/index");
 
-function formatSentenceData(data) {
-  const formattedSentenceData = data.map((sentence) => {
+function formatSentenceData(input) {
+
+  const formattedSentenceData = input.map((sentence) => {
+    if (!sentence.Unit || !sentence.Topic || !sentence.Polish || !sentence.English) {
+      throw new Error('Invalid data: all fields must be present');
+    }
     return [sentence.Unit, sentence.Topic, sentence.Polish, sentence.English];
   });
 

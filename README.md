@@ -6,14 +6,6 @@ Project step by step:
 
 - npm install express
 
-- npm install jest -D 
-
-    - Predominantly used for UNIT TESTING, so testing utility functions 
-    - Supertest will be used for INTEGRATION TESTING, supertest is specifically for HTTP requests as it allows you to send fake requests
-      to an API without the need for a real client like Postman or Insomnia
-
-- change scripts in package.json to use jest
-
 - create git ignore
 
     - .env is of importance to not allow public visibility of sensitive data
@@ -57,7 +49,16 @@ Project step by step:
 - npm install pg-format
 
 - created seed file and run seed
-    
-    - there are utility functions within the seed file that are single use. As a result, seperating them into a utility function file would be
-      unneccessary, so the testing for these would be covered by the integration testing
+
+# Testing
+
+- npm install jest -D 
+
+    - Predominantly used for UNIT TESTING, so testing utility functions 
+    - Supertest will be used for INTEGRATION TESTING, supertest is specifically for HTTP requests as it allows you to send fake requests
+      to an API without the need for a real client like Postman or Insomnia
+
+- change scripts in package.json to use jest
+
+- npm install supertest -D
     

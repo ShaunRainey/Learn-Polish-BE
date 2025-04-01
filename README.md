@@ -1,3 +1,5 @@
+Every step that follows assumes the current location is the root directory, i.e \Learn-Polish
+
 Project step by step:
 
 - npm init -y #This will create a package.json 

@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon app.js",
-    "setup-database": "psql -f ./database/polish_data_entry.sql",
     "setup-spreadsheet-files": "node ./database/extractData.js",
+    "setup-database": "psql -f ./database/polish_data_entry.sql",
     "seed": "node database/run-seed.js",
     "all-tests": "npx jest",
     "test-seed": "npx jest ./__tests__/seed.test.js",

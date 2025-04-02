@@ -38,6 +38,8 @@
     "Oni/One": "Byliby / Byłyby"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Pić",
     "Meaning": "To drink",
     "Conjugation": "- ę / - esz",
@@ -52,21 +54,30 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Piłem / Piłam",
+    "Ty": "Piłeś / Pyłaś",
+    "On/Ona": "Pił / Piła",
+    "My": "Piliśmy / Piłyśmy",
+    "Wy": "Piliście / Piłyście",
+    "Oni/One": "Pili / Piły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Piłem / Piłam",
-    "Tense": "Piłeś / Pyłaś",
-    "Ja": "Pił / Piła",
-    "Ty": "Piliśmy / Piłyśmy",
-    "On/Ona": "Piliście / Piłyście",
-    "My": "Pili / Piły",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Piłbym / Piłabym",
+    "Ty": "Piłbyś / Piłabyś",
+    "On/Ona": "Piłby / Piłaby",
+    "My": "Pilibyśmy / Piłybyśmy",
+    "Wy": "Pilibyście / Piłybyście",
+    "Oni/One": "Piliby / Piłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Jeść",
     "Meaning": "To eat",
+    "Conjugation": "Irregular",
     "Tense": "Present",
     "Ja": "Jem",
     "Ty": "Jesz",
@@ -78,19 +89,27 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Jadłem / Jadłam",
+    "Ty": "Jadłeś / Jadłaś",
+    "On/Ona": "Jadł / Jadła",
+    "My": "Jedliśmy / Jedłyśmy",
+    "Wy": "Jedliście / Jedłyście",
+    "Oni/One": "Jedli / Jedły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Jadłem / Jadłam",
-    "Tense": "Jadłeś / Jadłaś",
-    "Ja": "Jadł / Jadła",
-    "Ty": "Jedliśmy / Jedłyśmy",
-    "On/Ona": "Jedliście / Jedłyście",
-    "My": "Jedli / Jedły",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Jadłbym / Jadłabym",
+    "Ty": "Jadłbyś / Jadłabyś",
+    "On/Ona": "Jadłby / Jadłaby",
+    "My": "Jedlibyśmy / Jedłybyśmy",
+    "Wy": "Jedlibyście / Jedłybyście",
+    "Oni/One": "Jedliby / Jedłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Mieć",
     "Meaning": "To have",
     "Conjugation": "- am / - asz",
@@ -105,19 +124,27 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Miałem / Miałam",
+    "Ty": "Miałeś / Miałaś",
+    "On/Ona": "Miał / Miała",
+    "My": "Mieliśmy / Miałyśmy",
+    "Wy": "Mieliście / Miałyście",
+    "Oni/One": "Mieli / Miały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Miałem / Miałam",
-    "Tense": "Miałeś / Miałaś",
-    "Ja": "Miał / Miała",
-    "Ty": "Mieliśmy / Miełyśmy",
-    "On/Ona": "Mieliście / Miełyście",
-    "My": "Mieli / Mieły",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Miałbym / Miałabym",
+    "Ty": "Miałbyś / Miałabyś",
+    "On/Ona": "Miałby / Miałaby",
+    "My": "Mielibyśmy / Miałybyśmy",
+    "Wy": "Mielibyście / Miałybyście",
+    "Oni/One": "Mieliby / Miałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Dziękować",
     "Meaning": "To thank",
     "Conjugation": "- ę / - esz",
@@ -132,19 +159,27 @@
     "Notes": "Followed by Dative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Dziękowałem / Dziękowałam",
+    "Ty": "Dziękowałeś / Dziękowałaś",
+    "On/Ona": "Dziękował / Dziękowała",
+    "My": "Dziękowaliśmy / Dziękowałyśmy",
+    "Wy": "Dziękowaliście / Dziękowałyście",
+    "Oni/One": "Dziękowali / Dziękowały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Dziękowałem / Dziękowałam",
-    "Tense": "Dziękowałeś / Dziękowałaś",
-    "Ja": "Dziękował / Dziękowała",
-    "Ty": "Dziękowaliśmy / Dziękowałyśmy",
-    "On/Ona": "Dziękowaliście / Dziękowałyście",
-    "My": "Dziękowali / Dziękowały",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Dziękowałbym / Dziękowałabym",
+    "Ty": "Dziękowałbyś / Dziękowałabyś",
+    "On/Ona": "Dziękowałby / Dziękowałaby",
+    "My": "Dziękowalibyśmy / Dziękowałybyśmy",
+    "Wy": "Dziękowalibyście / Dziękowałybyście",
+    "Oni/One": "Dziękowaliby / Dziękowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Lubić",
     "Meaning": "To like",
     "Conjugation": "- ę / - isz",
@@ -159,19 +194,27 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Lubiłem / Lubiłam",
+    "Ty": "Lubiłeś / Lubiłaś",
+    "On/Ona": "Lubił / Lubiła",
+    "My": "Lubiliśmy / Lubiłyśmy",
+    "Wy": "Lubiliście / Lubiłyście",
+    "Oni/One": "Lubili / Lubiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Lubiłem / Lubiłam",
-    "Tense": "Lubiłeś / Lubiłaś",
-    "Ja": "Lubił / Lubiła",
-    "Ty": "Lubiliśmy / Lubiłyśmy",
-    "On/Ona": "Lubiliście / Lubiłyście",
-    "My": "Lubili / Lubiły",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Lubiłbym / Lubiłabym",
+    "Ty": "Lubiłbyś / Lubiłabyś",
+    "On/Ona": "Lubiłby / Lubiłaby",
+    "My": "Lubilibyśmy / Lubiłybyśmy",
+    "Wy": "Lubilibyście / Lubiłybyście",
+    "Oni/One": "Lubiliby / Lubiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Przepraszać",
     "Meaning": "To apologise",
     "Conjugation": "- am / - asz",
@@ -186,19 +229,21 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Przepraszałem / Przepraszałam",
+    "Ty": "Przepraszałeś / Przepraszałaś",
+    "On/Ona": "Przepraszał / Przepraszała",
+    "My": "Przepraszaliśmy / Przepraszałyśmy",
+    "Wy": "Przepraszaliście / Przepraszłyście",
+    "Oni/One": "Przepraszali / Przepraszały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Przepraszałem / Przepraszałam",
-    "Tense": "Przepraszałeś / Przepraszałaś",
-    "Ja": "Przepraszał / Przepraszała",
-    "Ty": "Przepraszaliśmy / Przepraszałyśmy",
-    "On/Ona": "Przepraszaliście / Przepraszłyście",
-    "My": "Przepraszali / Przepraszały",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Mówić",
     "Meaning": "To speak",
     "Conjugation": "- ę / - isz",
@@ -222,16 +267,18 @@
     "Oni/One": "Mówili / Mówiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Mówiłbym / Mówiłabym",
-    "Tense": "Mówiłbyś / Mówiłabyś",
-    "Ja": "Mówiłby / Mówiłaby",
-    "Ty": "Mówiłibyśmy / Mówiłybyśmy",
-    "On/Ona": "Mówiłibyście / Mówiłybyście",
-    "My": "Mówiłiby / Mówiłyby",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Mówiłbym / Mówiłabym",
+    "Ty": "Mówiłbyś / Mówiłabyś",
+    "On/Ona": "Mówiłby / Mówiłaby",
+    "My": "Mówiłibyśmy / Mówiłybyśmy",
+    "Wy": "Mówiłibyście / Mówiłybyście",
+    "Oni/One": "Mówiłiby / Mówiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Nosić",
     "Meaning": "To wear",
     "Conjugation": "- ę / - isz",
@@ -246,19 +293,27 @@
     "Notes": "Followed by Biernik / Accusative case\nCan also be used to mean ‘to carry’, used when referring to a repeated / habitual carrying of an item"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Nosiłem / Nosiłam",
+    "Ty": "Nosiłeś / Nosiłaś",
+    "On/Ona": "Nosił / Nosiła",
+    "My": "Nosiliśmy / Nosiłyśmy",
+    "Wy": "Nosiliście / Nosiłyście",
+    "Oni/One": "Nosili / Nosiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Nosiłem / Nosiłam",
-    "Tense": "Nosiłeś / Nosiłaś",
-    "Ja": "Nosił / Nosiła",
-    "Ty": "Nosiliśmy / Nosiłyśmy",
-    "On/Ona": "Nosiliście / Nosiłyście",
-    "My": "Nosili / Nosiły",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Nosiłbym / Nosiłabym",
+    "Ty": "Nosiłbyś / Nosiłabyś",
+    "On/Ona": "Nosiłby / Nosiłaby",
+    "My": "Nosilibyśmy / Nosiłybyśmy",
+    "Wy": "Nosilibyście / Nosiłybyście",
+    "Oni/One": "Nosiliby / Nosiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Widzić",
     "Meaning": "To see",
     "Conjugation": "- ę / - isz",
@@ -273,19 +328,27 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Widziałem / Widziałam",
+    "Ty": "Widziałeś / Widziałaś",
+    "On/Ona": "Widział / Widziała",
+    "My": "Widzieliśmy / Widziałyśmy",
+    "Wy": "Widzieliście / Widziałyście",
+    "Oni/One": "Widzieli / Widziały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Widziałem / Widziałam",
-    "Tense": "Widziałeś / Widziałaś",
-    "Ja": "Widział / Widziała",
-    "Ty": "Widzieliśmy / Widziałyśmy",
-    "On/Ona": "Widzieliście / Widziałyście",
-    "My": "Widzieli / Widziały",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Widziałbym / Widziałabym",
+    "Ty": "Widziałbyś / Widziałabyś",
+    "On/Ona": "Widziałby / Widziałaby",
+    "My": "Widzielibyśmy / Widziałybyśmy",
+    "Wy": "Widzielibyście / Widziałybyście",
+    "Oni/One": "Widzieliby / Widziałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Kochać",
     "Meaning": "To love",
     "Conjugation": "- am / - asz",
@@ -300,19 +363,27 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Kochałem / Kochałam",
+    "Ty": "Kochałeś / Kochałaś",
+    "On/Ona": "Kochał / Kochała",
+    "My": "Kochaliśmy / Kochałyśmy",
+    "Wy": "Kochaliście / Kochałyście",
+    "Oni/One": "Kochali / Kochały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Kochałem / Kochałam",
-    "Tense": "Kochałeś / Kochałaś",
-    "Ja": "Kochał / Kochała",
-    "Ty": "Kochaliśmy / Kochałyśmy",
-    "On/Ona": "Kochaliście / Kochałyście",
-    "My": "Kochali / Kochały",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Kochałbym / Kochałabym",
+    "Ty": "Kochałbyś / Kochałabyś",
+    "On/Ona": "Kochałby / Kochałaby",
+    "My": "Kochalibyśmy / Kochałybyśmy",
+    "Wy": "Kochalibyście / Kochałybyście",
+    "Oni/One": "Kochaliby / Kochałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Znać",
     "Meaning": "To know",
     "Conjugation": "- am / - asz",
@@ -327,19 +398,27 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Znałem / Znałam",
+    "Ty": "Znałeś / Znałaś",
+    "On/Ona": "Znał / Znała",
+    "My": "Znaliśmy / Znałyśmy",
+    "Wy": "Znaliście / Znałyście",
+    "Oni/One": "Znali / Znały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Znałem / Znałam",
-    "Tense": "Znałeś / Znałaś",
-    "Ja": "Znał / Znała",
-    "Ty": "Znaliśmy / Znałyśmy",
-    "On/Ona": "Znaliście / Znałyście",
-    "My": "Znali / Znały",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Znałbym / Znałabym",
+    "Ty": "Znałbyś / Znałabyś",
+    "On/Ona": "Znałby / Znałaby",
+    "My": "Znalibyśmy / Znałybyśmy",
+    "Wy": "Znalibyście / Znałybyście",
+    "Oni/One": "Znaliby / Znałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Pisać",
     "Meaning": "To write",
     "Conjugation": "- ę / - esz",
@@ -363,16 +442,18 @@
     "Oni/One": "Pisali / Pisały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Pisałbym / Pisałabym",
-    "Tense": "Pisałbyś / Pisałabyś",
-    "Ja": "Pisałby / Pisałaby",
-    "Ty": "Pisalibyśmy / Pisałybyśmy",
-    "On/Ona": "Pisalibyście / Pisałybyście",
-    "My": "Pisaliby / Pisałyby",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Pisałbym / Pisałabym",
+    "Ty": "Pisałbyś / Pisałabyś",
+    "On/Ona": "Pisałby / Pisałaby",
+    "My": "Pisalibyśmy / Pisałybyśmy",
+    "Wy": "Pisalibyście / Pisałybyście",
+    "Oni/One": "Pisaliby / Pisałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Verb": "Słyszeć",
     "Meaning": "To hear",
     "Conjugation": "- ę / - ysz",
@@ -387,17 +468,23 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Słyszałem / Słyszałam",
+    "Ty": "Słyszałeś / Słyszałaś",
+    "On/Ona": "Słyszał / Słyszała",
+    "My": "Słyszeliśmy / Słyszałyśmy",
+    "Wy": "Słyszeliście / Słyszałyście",
+    "Oni/One": "Słyszeli / Słyszały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Słyszałem / Słyszałam",
-    "Tense": "Słyszałeś / Słyszałaś",
-    "Ja": "Słyszał / Słyszała",
-    "Ty": "Słyszeliśmy / Słyszałyśmy",
-    "On/Ona": "Słyszeliście / Słyszałyście",
-    "My": "Słyszeli / Słyszały",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Tense": "Conditional",
+    "Ja": "Słyszałbym / Słyszałabym",
+    "Ty": "Słyszałbyś / Słyszałabyś",
+    "On/Ona": "Słyszałby / Słyszałaby",
+    "My": "Słyszelibyśmy / Słyszałybyśmy",
+    "Wy": "Słyszelibyście / Słyszałybyście",
+    "Oni/One": "Słyszeliby / Słyszałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 1.15,
@@ -416,16 +503,22 @@
     "Notes": "Used to describe a single, one time trip that hasn’t yet been completed"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Szedłem / Szłam",
+    "Ty": "Szedłeś / Szłaś",
+    "On/Ona": "Szedł / Szła",
+    "My": "Szliśmy / Szłyśmy",
+    "Wy": "Szliście / Szłyście",
+    "Oni/One": "Szli / Szły"
   },
   {
     "Meaning": "Conditional",
-    "Conjugation": "Szedłem / Szłam",
-    "Tense": "Szedłeś / Szłaś",
-    "Ja": "Szedł / Szła",
-    "Ty": "Szliśmy / Szłyśmy",
-    "On/Ona": "Szliście / Szłyście",
-    "My": "Szli / Szły",
+    "Conjugation": "Szedłbym / Szłabym",
+    "Tense": "Szedłbyś / Szłabyś",
+    "Ja": "Szedłby / Szłaby",
+    "Ty": "Szlibyśmy / Szłybyśmy",
+    "On/Ona": "Szlibyście / Szłybyście",
+    "My": "Szliby / Szłyby",
     "Wy": "-\n-\n-\n-\n-\n-"
   },
   {
@@ -445,16 +538,22 @@
     "Notes": "Used to describe general/multiple trips. A repeated/habitual action"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Chodziłem / Chodziłam",
+    "Ty": "Chodziłeś / Chodziłaś",
+    "On/Ona": "Chodził / Chodziła",
+    "My": "Chodziliśmy / Chodziłyśmy",
+    "Wy": "Chodziliście / Chodziłyście",
+    "Oni/One": "Chodzili / Chodziły"
   },
   {
     "Meaning": "Conditional",
-    "Conjugation": "Chodziłem / Chodziłam",
-    "Tense": "Chodziłeś / Chodziłaś",
-    "Ja": "Chodził / Chodziła",
-    "Ty": "Chodziliśmy / Chodziłyśmy",
-    "On/Ona": "Chodziliście / Chodziłyście",
-    "My": "Chodzili / Chodziły",
+    "Conjugation": "Chodziłbym / Chodziłabym",
+    "Tense": "Chodziłbyś / Chodziłabyś",
+    "Ja": "Chodziłby / Chodziłaby",
+    "Ty": "Chodzilibyśmy / Chodziłybyśmy",
+    "On/Ona": "Chodzilibyście / Chodziłybyście",
+    "My": "Chodziliby / Chodziłyby",
     "Wy": "-\n-\n-\n-\n-\n-"
   },
   {
@@ -473,16 +572,22 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Potrzebowałem / Potrzebowałam",
+    "Ty": "Potrzebowałeś / Potrzebowałaś",
+    "On/Ona": "Potrzebował / Potrzebowała",
+    "My": "Potrzebowaliśmy / Potrzebowałyśmy",
+    "Wy": "Potrzebowaliście / Potrzebowałyście",
+    "Oni/One": "Potrzebowali / Potrzebowały"
   },
   {
     "Meaning": "Conditional",
-    "Conjugation": "Potrzebowałem / Potrzebowałam",
-    "Tense": "Potrzebowałeś / Potrzebowałaś",
-    "Ja": "Potrzebował / Potrzebowała",
-    "Ty": "Potrzebowaliśmy / Potrzebowałyśmy",
-    "On/Ona": "Potrzebowaliście / Potrzebowałyście",
-    "My": "Potrzebowali / Potrzebowały",
+    "Conjugation": "Potrzebowałbym / Potrzebowałabym",
+    "Tense": "Potrzebowałbyś / Potrzebowałabyś",
+    "Ja": "Potrzebowałby / Potrzebowałaby",
+    "Ty": "Potrzebowalibyśmy / Potrzebowałybyśmy",
+    "On/Ona": "Potrzebowalibyście / Potrzebowałybyście",
+    "My": "Potrzebowaliby / Potrzebowałyby",
     "Wy": "-\n-\n-\n-\n-\n-"
   },
   {
@@ -501,16 +606,22 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
-    "Tense": "Past"
+    "Tense": "Past",
+    "Ja": "Słuchałem / Słuchałam",
+    "Ty": "Słuchałeś / Słuchałaś",
+    "On/Ona": "Słuchał / Słuchała",
+    "My": "Słuchaliśmy / Słuchałyśmy",
+    "Wy": "Słuchaliście / Słuchałyście",
+    "Oni/One": "Słuchali / Słuchały"
   },
   {
     "Meaning": "Conditional",
-    "Conjugation": "Słuchałem / Słuchałam",
-    "Tense": "Słuchałeś / Słuchałaś",
-    "Ja": "Słuchał / Słuchała",
-    "Ty": "Słuchaliśmy / Słuchałyśmy",
-    "On/Ona": "Słuchaliście / Słuchałyście",
-    "My": "Słuchali / Słuchały",
+    "Conjugation": "Słuchałbym / Słuchałabym",
+    "Tense": "Słuchałbyś / Słuchałabyś",
+    "Ja": "Słuchałby / Słuchałaby",
+    "Ty": "Słuchalibyśmy / Słuchałybyśmy",
+    "On/Ona": "Słuchalibyście / Słuchałybyście",
+    "My": "Słuchaliby / Słuchałyby",
     "Wy": "-\n-\n-\n-\n-\n-"
   },
   {

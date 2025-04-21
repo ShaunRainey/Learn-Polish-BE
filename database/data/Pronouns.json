@@ -1,318 +1,918 @@
 [
   {
-    "Index": "1. Personal Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Meaning": "Notes"
-  },
-  {
-    "Index": "ja / my",
-    "Meaning": "I / we"
-  },
-  {
-    "Index": "ty / wy",
-    "Meaning": "you (singular) / you (plural)"
-  },
-  {
-    "Index": "on / oni",
-    "Meaning": "he / they (masculine personal)"
-  },
-  {
-    "Index": "ona / one",
-    "Meaning": "she / they (non-masculine personal: feminine/neuter plural)"
-  },
-  {
-    "Index": "ono",
-    "Meaning": "it"
-  },
-  {
-    "Index": "2. Possessive Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "mój / nasz",
-    "Pronoun": "my / our",
-    "Nom": "Inflects for gender, number, and case."
-  },
-  {
-    "Index": "twój / wasz",
-    "Pronoun": "your (singular/plural)",
-    "Nom": "Informal."
-  },
-  {
-    "Index": "jego / ich",
-    "Pronoun": "his / their",
-    "Nom": "Does not inflect."
-  },
-  {
-    "Index": "jej",
-    "Pronoun": "her",
-    "Nom": "Does not inflect."
-  },
-  {
-    "Index": "3. Reflexive Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "się",
-    "Pronoun": "oneself",
-    "Nom": "Used for reflexive actions."
-  },
-  {
-    "Index": "siebie",
-    "Pronoun": "oneself",
-    "Nom": "Emphatic or object form of reflexive."
-  },
-  {
-    "Index": "4. Demonstrative Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "ten / ci",
-    "Pronoun": "this / these (masc.)",
-    "Nom": "Inflects for gender, number, and case."
-  },
-  {
-    "Index": "ta / te",
-    "Pronoun": "this / these (fem.)"
-  },
-  {
-    "Index": "to",
-    "Pronoun": "this (neuter)"
-  },
-  {
-    "Index": "tamten / tamci",
-    "Pronoun": "that / those (masc.)",
-    "Nom": "Refers to objects further away."
-  },
-  {
-    "Index": "tamta / tamte",
-    "Pronoun": "that / those (fem.)"
-  },
-  {
-    "Index": "tamto",
-    "Pronoun": "that (neuter)"
-  },
-  {
-    "Index": "5. Interrogative Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "kto / co",
-    "Pronoun": "who / what",
-    "Nom": "Kto for people, co for things.",
-    "Ins": "jak/gdzie/kiedy are adverbs, not pronouns"
-  },
-  {
-    "Index": "który / które",
-    "Pronoun": "which (masc./fem./neut.)",
-    "Nom": "Inflects for gender and case."
-  },
-  {
-    "Index": "czyj / czyja / czyje",
-    "Pronoun": "whose",
-    "Nom": "Inflects for gender, number, and case."
-  },
-  {
-    "Index": "6. Indefinite Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "ktoś / coś",
-    "Pronoun": "someone / something"
-  },
-  {
-    "Index": "jakiś / jakaś / jakieś",
-    "Pronoun": "some kind of",
-    "Nom": "Inflects for gender, number, and case."
-  },
-  {
-    "Index": "czyjś / czyjaś / czyjeś",
-    "Pronoun": "someone's"
-  },
-  {
-    "Index": "niektóry / niektóre",
-    "Pronoun": "some / certain"
-  },
-  {
-    "Index": "7. Negative Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "nikt / nic",
-    "Pronoun": "no one / nothing"
-  },
-  {
-    "Index": "żaden / żadna / żadne",
-    "Pronoun": "none / no",
-    "Nom": "Inflects for gender, number, and case."
-  },
-  {
-    "Index": "8. Relative Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "kto / co",
-    "Pronoun": "who / what"
-  },
-  {
-    "Index": "który / które",
-    "Pronoun": "which",
-    "Nom": "Inflects for gender, number, and case."
-  },
-  {
-    "Index": "czyj / czyja / czyje",
-    "Pronoun": "whose",
-    "Nom": "Inflects for gender and case."
-  },
-  {
-    "Index": "9. Reciprocal Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "nawzajem",
-    "Pronoun": "each other",
-    "Nom": "Often used reflexively."
-  },
-  {
-    "Index": "10. Emphatic Pronouns"
-  },
-  {
-    "Index": "Pronoun",
-    "Pronoun": "Meaning",
-    "Nom": "Notes"
-  },
-  {
-    "Index": "sam / sami / sama / same",
-    "Pronoun": "self / themselves",
-    "Nom": "Inflects for gender, number, and case."
-  },
-  {
-    "Index": "wiele",
-    "Pronoun": "Many / Much",
-    "Meaning": "Quantifier / Indefinite pronoun"
-  },
-  {
-    "Index": "Ile",
-    "Meaning": "Interrogative pronoun"
-  },
-  {
-    "Index": "Swój"
-  },
-  {
-    "Index": "Singular:"
-  },
-  {
-    "Index": "Case",
-    "Pronoun": "Masculine",
-    "Meaning": "Feminine",
-    "Nom": "Neuter"
-  },
-  {
-    "Index": "Nominative",
-    "Pronoun": "swój",
-    "Meaning": "swoja",
-    "Nom": "swoje"
-  },
-  {
-    "Index": "Genitive",
-    "Pronoun": "swojego",
-    "Meaning": "swojej",
-    "Nom": "swojego"
-  },
-  {
-    "Index": "Dative",
-    "Pronoun": "swojemu",
-    "Meaning": "swojej",
-    "Nom": "swojemu"
-  },
-  {
-    "Index": "Accusative",
-    "Pronoun": "swojego",
-    "Meaning": "swoją",
-    "Nom": "swoje"
-  },
-  {
-    "Index": "Instrumental",
-    "Pronoun": "swoim",
-    "Meaning": "swoją",
-    "Nom": "swoim"
-  },
-  {
-    "Index": "Locative",
-    "Pronoun": "swoim",
-    "Meaning": "swojej",
-    "Nom": "swoim"
-  },
-  {
-    "Index": "Plural:"
-  },
-  {
-    "Index": "Case",
-    "Pronoun": "Masculine Personal",
-    "Meaning": "Non-Masculine Personal"
-  },
-  {
-    "Index": "Nominative",
-    "Pronoun": "swoi",
-    "Meaning": "swoje"
-  },
-  {
-    "Index": "Genitive",
-    "Pronoun": "swoich",
-    "Meaning": "swoich"
-  },
-  {
-    "Index": "Dative",
-    "Pronoun": "swoim",
-    "Meaning": "swoim"
-  },
-  {
-    "Index": "Accusative",
-    "Pronoun": "swoich",
-    "Meaning": "swoje"
-  },
-  {
-    "Index": "Instrumental",
-    "Pronoun": "swoimi",
-    "Meaning": "swoimi"
-  },
-  {
-    "Index": "Locative",
-    "Pronoun": "swoich",
-    "Meaning": "swoich"
+    "Category": "Personal",
+    "Noun\nRzeczownik": "Ja",
+    "Gender": "N/a",
+    "Singular / Plural": "Singular",
+    "Meaning": "I",
+    "Nom": "Ja",
+    "Acc": "Mnie",
+    "Ins": "Mną",
+    "Gen": "Mnie",
+    "Loc": "Mnie",
+    "Dat": "Mi"
+  },
+  {
+    "Category": "Personal",
+    "Noun\nRzeczownik": "Ty",
+    "Gender": "N/a",
+    "Singular / Plural": "Singular",
+    "Meaning": "You (singular)",
+    "Nom": "Ty",
+    "Acc": "Cię",
+    "Ins": "Tobą",
+    "Gen": "Ciebie",
+    "Loc": "Tobie",
+    "Dat": "Ci"
+  },
+  {
+    "Category": "Personal",
+    "Noun\nRzeczownik": "On",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "He",
+    "Nom": "On",
+    "Acc": "Go",
+    "Ins": "Nim",
+    "Gen": "Jego",
+    "Loc": "Nim",
+    "Dat": "Mu"
+  },
+  {
+    "Category": "Personal",
+    "Noun\nRzeczownik": "Ona",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "She",
+    "Nom": "Ona",
+    "Acc": "Ją",
+    "Ins": "Nią",
+    "Gen": "Jej",
+    "Loc": "Niej",
+    "Dat": "Jej"
+  },
+  {
+    "Category": "Personal",
+    "Noun\nRzeczownik": "Ono",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "It",
+    "Nom": "Ono",
+    "Acc": "Je",
+    "Ins": "Nim",
+    "Gen": "Jego",
+    "Loc": "Nim",
+    "Dat": "Mu"
+  },
+  {
+    "Category": "Personal",
+    "Noun\nRzeczownik": "My",
+    "Gender": "N/a",
+    "Singular / Plural": "Plural",
+    "Meaning": "We",
+    "Nom": "My",
+    "Acc": "Nas",
+    "Ins": "Nami",
+    "Gen": "Nas",
+    "Loc": "Nas",
+    "Dat": "Nam"
+  },
+  {
+    "Category": "Personal",
+    "Noun\nRzeczownik": "Wy",
+    "Gender": "N/a",
+    "Singular / Plural": "Plural",
+    "Meaning": "You (plural)",
+    "Nom": "Wy",
+    "Acc": "Was",
+    "Ins": "Wami",
+    "Gen": "Was",
+    "Loc": "Was",
+    "Dat": "Wam"
+  },
+  {
+    "Category": "Personal",
+    "Noun\nRzeczownik": "Oni",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "They (male)",
+    "Nom": "Oni",
+    "Acc": "Ich",
+    "Ins": "Nimi",
+    "Gen": "Ich",
+    "Loc": "Nich",
+    "Dat": "Im"
+  },
+  {
+    "Category": "Personal",
+    "Noun\nRzeczownik": "One",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "They (non male)",
+    "Nom": "One",
+    "Acc": "Je",
+    "Ins": "Nimi",
+    "Gen": "Ich",
+    "Loc": "Nich",
+    "Dat": "Im"
+  },
+  {
+    "Category": "Reflexive",
+    "Noun\nRzeczownik": "Się",
+    "Gender": "N/a",
+    "Singular / Plural": "Singular",
+    "Meaning": "Oneself",
+    "Nom": "Się",
+    "Acc": "Się",
+    "Ins": "Sobą",
+    "Gen": "Siebie",
+    "Loc": "Sobie",
+    "Dat": "Sobie"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Ten",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "This (male)",
+    "Nom": "Ten",
+    "Acc": "Tego",
+    "Ins": "Tym",
+    "Gen": "Tego",
+    "Loc": "Tym",
+    "Dat": "Temu"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Ta",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "This (female)",
+    "Nom": "Ta",
+    "Acc": "Tę",
+    "Ins": "Tą",
+    "Gen": "Tej",
+    "Loc": "Tej",
+    "Dat": "Tej"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "To",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "This (neuter)",
+    "Nom": "To",
+    "Acc": "To",
+    "Ins": "Tym",
+    "Gen": "Tego",
+    "Loc": "Tym",
+    "Dat": "Temu"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Ci",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "These (male plural)",
+    "Nom": "Ci",
+    "Acc": "Ich",
+    "Ins": "Tymi",
+    "Gen": "Ich",
+    "Loc": "Ich",
+    "Dat": "Im"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Te",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "These (non-male plural)",
+    "Nom": "Te",
+    "Acc": "Te",
+    "Ins": "Tymi",
+    "Gen": "Tych",
+    "Loc": "Tych",
+    "Dat": "Tym"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Tamten",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "That (male)",
+    "Nom": "Tamten",
+    "Acc": "Tamtego",
+    "Ins": "Tamtym",
+    "Gen": "Tamtego",
+    "Loc": "Tamtym",
+    "Dat": "Tamtemu"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Tamta",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "That (female)",
+    "Nom": "Tamta",
+    "Acc": "Tamtą",
+    "Ins": "Tamtą",
+    "Gen": "Tamtej",
+    "Loc": "Tamtej",
+    "Dat": "Tamtej"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Tamto",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "That (neuter)",
+    "Nom": "Tamto",
+    "Acc": "Tamto",
+    "Ins": "Tamtym",
+    "Gen": "Tamtego",
+    "Loc": "Tamtym",
+    "Dat": "Tamtemu"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Tamci",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Those (male plural)",
+    "Nom": "Tamci",
+    "Acc": "Tamtych",
+    "Ins": "Tamtymi",
+    "Gen": "Tamtych",
+    "Loc": "Tamtych",
+    "Dat": "Tamtym"
+  },
+  {
+    "Category": "Demonstrative",
+    "Noun\nRzeczownik": "Tamte",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Those (non-male plural)",
+    "Nom": "Tamte",
+    "Acc": "Tamte",
+    "Ins": "Tamtymi",
+    "Gen": "Tamtych",
+    "Loc": "Tamtych",
+    "Dat": "Tamtym"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Mój",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "My (male singular)",
+    "Nom": "Mój",
+    "Acc": "Mój",
+    "Ins": "Moim",
+    "Gen": "Mojego",
+    "Loc": "Moim",
+    "Dat": "Mojemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Twój",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "Your (male singular)",
+    "Nom": "Twój",
+    "Acc": "Twój",
+    "Ins": "Twoim",
+    "Gen": "Twojego",
+    "Loc": "Twoim",
+    "Dat": "Twojemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Jego",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "His",
+    "Nom": "Jego",
+    "Acc": "Jego",
+    "Ins": "Jego",
+    "Gen": "Jego",
+    "Loc": "Jego",
+    "Dat": "Jego"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Jej",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "Her",
+    "Nom": "Jej",
+    "Acc": "Jej",
+    "Ins": "Jej",
+    "Gen": "Jej",
+    "Loc": "Jej",
+    "Dat": "Jej"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Nasz",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Our (male singular)",
+    "Nom": "Nasz",
+    "Acc": "Nasz",
+    "Ins": "Naszym",
+    "Gen": "Naszego",
+    "Loc": "Naszym",
+    "Dat": "Naszemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Wasz",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Your (male plural)",
+    "Nom": "Wasz",
+    "Acc": "Wasz",
+    "Ins": "Waszym",
+    "Gen": "Waszego",
+    "Loc": "Waszym",
+    "Dat": "Waszemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Ich",
+    "Gender": "N/a",
+    "Singular / Plural": "Plural",
+    "Meaning": "Their",
+    "Nom": "Ich",
+    "Acc": "Ich",
+    "Ins": "Ich",
+    "Gen": "Ich",
+    "Loc": "Ich",
+    "Dat": "Ich"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Moja",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "My (female singular)",
+    "Nom": "Moja",
+    "Acc": "Moją",
+    "Ins": "Moją",
+    "Gen": "Mojej",
+    "Loc": "Mojej",
+    "Dat": "Mojej"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Twoja",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "Your (female singular)",
+    "Nom": "Twoja",
+    "Acc": "Twoją",
+    "Ins": "Twoją",
+    "Gen": "Twojej",
+    "Loc": "Twojej",
+    "Dat": "Twojej"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Nasza",
+    "Gender": "Female",
+    "Singular / Plural": "Plural",
+    "Meaning": "Our (female singular)",
+    "Nom": "Nasza",
+    "Acc": "Naszą",
+    "Ins": "Naszą",
+    "Gen": "Naszej",
+    "Loc": "Naszej",
+    "Dat": "Naszej"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Wasza",
+    "Gender": "Female",
+    "Singular / Plural": "Plural",
+    "Meaning": "Your (female plural)",
+    "Nom": "Wasza",
+    "Acc": "Waszą",
+    "Ins": "Waszą",
+    "Gen": "Waszej",
+    "Loc": "Waszej",
+    "Dat": "Waszej"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Moje",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "My (neuter singular)",
+    "Nom": "Moje",
+    "Acc": "Moje",
+    "Ins": "Moim",
+    "Gen": "Mojego",
+    "Loc": "Moim",
+    "Dat": "Mojemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Twoje",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "Your (neuter singular)",
+    "Nom": "Twoje",
+    "Acc": "Twoje",
+    "Ins": "Twoim",
+    "Gen": "Twojego",
+    "Loc": "Twoim",
+    "Dat": "Twojemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Nasze",
+    "Gender": "Neuter",
+    "Singular / Plural": "Plural",
+    "Meaning": "Our (neuter singular)",
+    "Nom": "Nasze",
+    "Acc": "Nasze",
+    "Ins": "Naszym",
+    "Gen": "Naszego",
+    "Loc": "Naszym",
+    "Dat": "Naszemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Wasze",
+    "Gender": "Neuter",
+    "Singular / Plural": "Plural",
+    "Meaning": "Your (neuter plural)",
+    "Nom": "Wasze",
+    "Acc": "Wasze",
+    "Ins": "Waszym",
+    "Gen": "Waszego",
+    "Loc": "Waszym",
+    "Dat": "Waszemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Moi",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "My (male plural)",
+    "Nom": "Moi",
+    "Acc": "Moich",
+    "Ins": "Moimi",
+    "Gen": "Moich",
+    "Loc": "Moich",
+    "Dat": "Moim"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Twoi",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Your (male plural)",
+    "Nom": "Twoi",
+    "Acc": "Twoich",
+    "Ins": "Twoimi",
+    "Gen": "Twoich",
+    "Loc": "Twoich",
+    "Dat": "Twoim"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Nasi",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Our (male plural)",
+    "Nom": "Nasi",
+    "Acc": "Naszych",
+    "Ins": "Naszymi",
+    "Gen": "Naszych",
+    "Loc": "Naszych",
+    "Dat": "Naszym",
+    "Notes": "In Polish, possessive adjectives like nasz/nasi must agree with the thing being possessed, not with the people who are doing the possessing.\nSo even if it's a group of 10 people saying \"our,\" if they're talking about one dog → it's nasz pies."
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Wasi",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Your (male plural)",
+    "Nom": "Wasi",
+    "Acc": "Waszych",
+    "Ins": "Waszymi",
+    "Gen": "Waszych",
+    "Loc": "Waszych",
+    "Dat": "Waszym"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Moje",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "My (non-male plural)",
+    "Nom": "Moje",
+    "Acc": "Moje",
+    "Ins": "Moimi",
+    "Gen": "Moich",
+    "Loc": "Moich",
+    "Dat": "Moim"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Twoje",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Your (non-male plural)",
+    "Nom": "Twoje",
+    "Acc": "Twoje",
+    "Ins": "Twoimi",
+    "Gen": "Twoich",
+    "Loc": "Twoich",
+    "Dat": "Twoim"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Nasze",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Our (non-male plural)",
+    "Nom": "Nasze",
+    "Acc": "Nasze",
+    "Ins": "Naszymi",
+    "Gen": "Naszych",
+    "Loc": "Naszych",
+    "Dat": "Naszym"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Wasze",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Your (non-male plural)",
+    "Nom": "Wasze",
+    "Acc": "Wasze",
+    "Ins": "Waszymi",
+    "Gen": "Waszych",
+    "Loc": "Waszych",
+    "Dat": "Waszym"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Swój",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "One’s own (male singular)",
+    "Nom": "Swój",
+    "Acc": "Swój",
+    "Ins": "Swoim",
+    "Gen": "Swojego",
+    "Loc": "Swoim",
+    "Dat": "Swemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Swoja",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "One’s own (female singular)",
+    "Nom": "Swoja",
+    "Acc": "Swoją",
+    "Ins": "Swoją",
+    "Gen": "Swojej",
+    "Loc": "Swojej",
+    "Dat": "Swojej"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Swoje",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "One’s own (neuter singular)",
+    "Nom": "Swoje",
+    "Acc": "Swoje",
+    "Ins": "Swoim",
+    "Gen": "Swojego",
+    "Loc": "Swoim",
+    "Dat": "Swemu"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Swoi",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "One’s own (male plural)",
+    "Nom": "Swoi",
+    "Acc": "Swoich",
+    "Ins": "Swoimi",
+    "Gen": "Swoich",
+    "Loc": "Swoich",
+    "Dat": "Swoim"
+  },
+  {
+    "Category": "Possessive",
+    "Noun\nRzeczownik": "Swoje",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "One’s own (non-male plural)",
+    "Nom": "Swoje",
+    "Acc": "Swoje",
+    "Ins": "Swoimi",
+    "Gen": "Swoich",
+    "Loc": "Swoich",
+    "Dat": "Swoim"
+  },
+  {
+    "Category": "Interrogative",
+    "Noun\nRzeczownik": "Jaki",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "What kind of (male singular)",
+    "Nom": "Jaki",
+    "Acc": "Jaki",
+    "Ins": "Jakim",
+    "Gen": "Jakiego",
+    "Loc": "Jakim",
+    "Dat": "Jakiemu",
+    "Notes": "Polish grammar classifies jaki and its forms as pronouns because they stand in for (or point to) a noun — but they behave like adjectives because they agree with a noun in gender, number, and case.\nInterrogative pronoun: Asks a question about a noun. e.g Jaki film lubisz? – What kind of movie do you like? Adjective-like pronoun\nInterrogative pronoun (substantive): Stands alone, replacing the noun. e.g. Jaki lubisz? – Which one do you like?\tTrue pronoun"
+  },
+  {
+    "Category": "Interrogative",
+    "Noun\nRzeczownik": "Jaka",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "What kind of (female singular)",
+    "Nom": "Jaka",
+    "Acc": "Jaką",
+    "Ins": "Jaką",
+    "Gen": "Jakiej",
+    "Loc": "Jakiej",
+    "Dat": "Jakiej"
+  },
+  {
+    "Category": "Interrogative",
+    "Noun\nRzeczownik": "Jakie",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "What kind of (neuter singular)",
+    "Nom": "Jakie",
+    "Acc": "Jakie",
+    "Ins": "Jakim",
+    "Gen": "Jakiego",
+    "Loc": "Jakim",
+    "Dat": "Jakiemu"
+  },
+  {
+    "Category": "Interrogative",
+    "Noun\nRzeczownik": "Jacy",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "What kind of (male plural)",
+    "Nom": "Jacy",
+    "Acc": "Jakich",
+    "Ins": "Jakimi",
+    "Gen": "Jakich",
+    "Loc": "Jakich",
+    "Dat": "Jakim"
+  },
+  {
+    "Category": "Interrogative",
+    "Noun\nRzeczownik": "Jakie",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "What kind of (non-male plural)",
+    "Nom": "Jakie",
+    "Acc": "Jakie",
+    "Ins": "Jakimi",
+    "Gen": "Jakich",
+    "Loc": "Jakich",
+    "Dat": "Jakim"
+  },
+  {
+    "Category": "Relative",
+    "Noun\nRzeczownik": "Który",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "Which (male singular)",
+    "Nom": "Który",
+    "Acc": "Którego",
+    "Ins": "Którym",
+    "Gen": "Którego",
+    "Loc": "Którym",
+    "Dat": "Któremu",
+    "Notes": "Relative pronouns function similarly to interrogative. They can function as an adjective that supports a noun, or as a full pronoun"
+  },
+  {
+    "Category": "Relative",
+    "Noun\nRzeczownik": "Która",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "Which (female singular)",
+    "Nom": "Która",
+    "Acc": "Którą",
+    "Ins": "Którą",
+    "Gen": "Której",
+    "Loc": "Której",
+    "Dat": "Której"
+  },
+  {
+    "Category": "Relative",
+    "Noun\nRzeczownik": "Które",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "Which (neuter singular)",
+    "Nom": "Które",
+    "Acc": "Które",
+    "Ins": "Którym",
+    "Gen": "Którego",
+    "Loc": "Którym",
+    "Dat": "Któremu"
+  },
+  {
+    "Category": "Relative",
+    "Noun\nRzeczownik": "Którzy",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Which (male plural)",
+    "Nom": "Którzy",
+    "Acc": "Których",
+    "Ins": "Którymi",
+    "Gen": "Których",
+    "Loc": "Których",
+    "Dat": "Którym"
+  },
+  {
+    "Category": "Relative",
+    "Noun\nRzeczownik": "Które",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Which (non-male plural)",
+    "Nom": "Które",
+    "Acc": "Które",
+    "Ins": "Którymi",
+    "Gen": "Których",
+    "Loc": "Których",
+    "Dat": "Którym"
+  },
+  {
+    "Category": "Indefinite",
+    "Noun\nRzeczownik": "Jakiś",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "Some kind of (male singular)",
+    "Nom": "Jakiś",
+    "Acc": "Jakiegoś",
+    "Ins": "Jakimś",
+    "Gen": "Jakiegoś",
+    "Loc": "Jakimś",
+    "Dat": "Jakiemuś"
+  },
+  {
+    "Category": "Indefinite",
+    "Noun\nRzeczownik": "Jakaś",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "Some kind of (female singular)",
+    "Nom": "Jakaś",
+    "Acc": "Jakąś",
+    "Ins": "Jakąś",
+    "Gen": "Jakiejś",
+    "Loc": "Jakiejś",
+    "Dat": "Jakiejś"
+  },
+  {
+    "Category": "Indefinite",
+    "Noun\nRzeczownik": "Jakieś",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "Some kind of (neuter singular)",
+    "Nom": "Jakieś",
+    "Acc": "Jakieś",
+    "Ins": "Jakimś",
+    "Gen": "Jakiegoś",
+    "Loc": "Jakimś",
+    "Dat": "Jakiemuś"
+  },
+  {
+    "Category": "Indefinite",
+    "Noun\nRzeczownik": "Jacyś",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Some kind of (male plural)",
+    "Nom": "Jacyś",
+    "Acc": "Jakichś",
+    "Ins": "Jakimiś",
+    "Gen": "Jakichś",
+    "Loc": "Jakichś",
+    "Dat": "Jakimś"
+  },
+  {
+    "Category": "Indefinite",
+    "Noun\nRzeczownik": "Jakieś",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "Some kind of (non-male plural)",
+    "Nom": "Jakieś",
+    "Acc": "Jakieś",
+    "Ins": "Jakimiś",
+    "Gen": "Jakichś",
+    "Loc": "Jakichś",
+    "Dat": "Jakimś"
+  },
+  {
+    "Category": "Negative",
+    "Noun\nRzeczownik": "Żaden",
+    "Gender": "Male",
+    "Singular / Plural": "Singular",
+    "Meaning": "None (male singular)",
+    "Nom": "Żaden",
+    "Acc": "Żadnego",
+    "Ins": "Żadnym",
+    "Gen": "Żadnego",
+    "Loc": "Żadnym",
+    "Dat": "Żadnemu"
+  },
+  {
+    "Category": "Negative",
+    "Noun\nRzeczownik": "Żadna",
+    "Gender": "Female",
+    "Singular / Plural": "Singular",
+    "Meaning": "None (female singular)",
+    "Nom": "Żadna",
+    "Acc": "Żadną",
+    "Ins": "Żadną",
+    "Gen": "Żadnej",
+    "Loc": "Żadnej",
+    "Dat": "Żadnej"
+  },
+  {
+    "Category": "Negative",
+    "Noun\nRzeczownik": "Żadne",
+    "Gender": "Neuter",
+    "Singular / Plural": "Singular",
+    "Meaning": "None (neuter singular)",
+    "Nom": "Żadne",
+    "Acc": "Żadne",
+    "Ins": "Żadnym",
+    "Gen": "Żadnego",
+    "Loc": "Żadnym",
+    "Dat": "Żadnemu"
+  },
+  {
+    "Category": "Negative",
+    "Noun\nRzeczownik": "Żadni",
+    "Gender": "Male",
+    "Singular / Plural": "Plural",
+    "Meaning": "None (male plural)",
+    "Nom": "Żadni",
+    "Acc": "Żadnych",
+    "Ins": "Żadnymi",
+    "Gen": "Żadnych",
+    "Loc": "Żadnych",
+    "Dat": "Żadnym"
+  },
+  {
+    "Category": "Negative",
+    "Noun\nRzeczownik": "Żadne",
+    "Gender": "Non-male",
+    "Singular / Plural": "Plural",
+    "Meaning": "None (non-male plural)",
+    "Nom": "Żadne",
+    "Acc": "Żadne",
+    "Ins": "Żadnymi",
+    "Gen": "Żadnych",
+    "Loc": "Żadnych",
+    "Dat": "Żadnym",
+    "Notes": "Can be seen more as: not a single…. e.g:\nŻadne z tych książek nie były dobre.\n(None of these books were good.\nŻaden człowiek nie przyszedł.\n(Not a single person came.)"
+  },
+  {
+    "Category": "Negative",
+    "Noun\nRzeczownik": "Nikt",
+    "Gender": "N/a",
+    "Singular / Plural": "N/a",
+    "Meaning": "No-one",
+    "Nom": "Nikt",
+    "Acc": "Nikt",
+    "Ins": "Nikim",
+    "Gen": "Nikogo",
+    "Loc": "Nikim",
+    "Dat": "Nikomu",
+    "Notes": "Used when talking about people"
+  },
+  {
+    "Category": "Negative",
+    "Noun\nRzeczownik": "Nic",
+    "Gender": "N/a",
+    "Singular / Plural": "N/a",
+    "Meaning": "Nothing",
+    "Nom": "Nic",
+    "Acc": "Nic",
+    "Ins": "Nic",
+    "Gen": "Nic",
+    "Loc": "Nic",
+    "Dat": "Nic",
+    "Notes": "Used when talking about objects or abstract concepts"
   }
 ]

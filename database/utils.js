@@ -32,4 +32,76 @@ function formatSentenceData(input) {
   return formattedSentenceData;
 }
 
-module.exports = {formatSentenceData}
+function generateImperfectiveVerbData(input) {
+  let verbArray = [];
+
+  for (let i = 0; i < input.length; i += 3){
+    verbArray.push(input.slice(i, i + 3));
+  }
+
+  let pastTenseVerbs = [];
+  let presentTenseVerbs = [];
+  let conditionalTenseVerbs = [];
+
+  verbArray.forEach((verb) => {
+    pastTenseVerbs.push({
+      "Unit": verb[0]["Unit"],
+      "Topic": verb[0]["Topic"],
+      "Verb": verb[0]["Verb"],
+      "Meaning": verb[0]["Meaning"],
+      "Conjugation": verb[0]["Conjugation"],
+      "Ja": verb[1]["Ja"],
+      "Ty": verb[1]["Ty"],
+      "On/Ona": verb[1]["On/Ona"],
+      "My": verb[1]["My"],
+      "Wy": verb[1]["Wy"],
+      "Oni/One": verb[1]["Oni/One"],
+    })
+    presentTenseVerbs.push({
+      "Unit": verb[0]["Unit"],
+      "Topic": verb[0]["Topic"],
+      "Verb": verb[0]["Verb"],
+      "Meaning": verb[0]["Meaning"],
+      "Conjugation": verb[0]["Conjugation"],
+      "Ja": verb[0]["Ja"],
+      "Ty": verb[0]["Ty"],
+      "On/Ona": verb[0]["On/Ona"],
+      "My": verb[0]["My"],
+      "Wy": verb[0]["Wy"],
+      "Oni/One": verb[0]["Oni/One"],
+    })
+    conditionalTenseVerbs.push({
+      "Unit": verb[0]["Unit"],
+      "Topic": verb[0]["Topic"],
+      "Verb": verb[0]["Verb"],
+      "Meaning": verb[0]["Meaning"],
+      "Conjugation": verb[0]["Conjugation"],
+      "Ja": verb[2]["Ja"],
+      "Ty": verb[2]["Ty"],
+      "On/Ona": verb[2]["On/Ona"],
+      "My": verb[2]["My"],
+      "Wy": verb[2]["Wy"],
+      "Oni/One": verb[2]["Oni/One"],
+    })
+  })
+
+  return {presentTenseVerbs, pastTenseVerbs, conditionalTenseVerbs}
+}
+
+function formatImperfectiveVerbData() {
+  const verbObject = generateImperfectiveVerbData(Verbs_ImperfectiveData);
+  const formattedPastVerbs = verbObject.pastTenseVerbs.map((verb) => {
+    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+  })
+  const formattedPresentVerbs = verbObject.presentTenseVerbs.map((verb) => {
+    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+    })
+  const formattedConditionalVerbs = verbObject.conditionalTenseVerbs.map((verb) => {
+    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+  })
+
+  return {formattedPastVerbs, formattedPresentVerbs, formattedConditionalVerbs}
+  
+}
+
+module.exports = { formatSentenceData , formatImperfectiveVerbData}

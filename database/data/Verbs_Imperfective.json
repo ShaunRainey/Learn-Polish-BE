@@ -1,9 +1,5 @@
 [
   {
-    "Verb": "Czasownik",
-    "Tense": "Przykłady"
-  },
-  {
     "Unit": 1.01,
     "Topic": "Basics",
     "Verb": "Być",
@@ -20,6 +16,11 @@
     "Notes": "Followed by Narzędnik / Instrumental case\nWhen talking about the future, we use będę, będzie etc which are forms of być. Though będę forms are often better translated as ‘will’ than ‘will be’"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
+    "Verb": "Być",
+    "Meaning": "To be",
+    "Conjugation": "Irregular",
     "Tense": "Past",
     "Ja": "Byłem / Byłam",
     "Ty": "Byłeś / Byłaś",
@@ -29,6 +30,11 @@
     "Oni/One": "Byli / Były"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
+    "Verb": "Być",
+    "Meaning": "To be",
+    "Conjugation": "Irregular",
     "Tense": "Conditional",
     "Ja": "Byłbym / Byłabym",
     "Ty": "Byłbyś / Byłbyś",
@@ -54,6 +60,11 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 2.01,
+    "Topic": "Basics",
+    "Verb": "Pić",
+    "Meaning": "To drink",
+    "Conjugation": "- ę / - esz",
     "Tense": "Past",
     "Ja": "Piłem / Piłam",
     "Ty": "Piłeś / Pyłaś",
@@ -63,6 +74,11 @@
     "Oni/One": "Pili / Piły"
   },
   {
+    "Unit": 3.01,
+    "Topic": "Basics",
+    "Verb": "Pić",
+    "Meaning": "To drink",
+    "Conjugation": "- ę / - esz",
     "Tense": "Conditional",
     "Ja": "Piłbym / Piłabym",
     "Ty": "Piłbyś / Piłabyś",
@@ -89,6 +105,11 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 2.01,
+    "Topic": "Basics",
+    "Verb": "Jeść",
+    "Meaning": "To eat",
+    "Conjugation": "Irregular",
     "Tense": "Past",
     "Ja": "Jadłem / Jadłam",
     "Ty": "Jadłeś / Jadłaś",
@@ -98,6 +119,11 @@
     "Oni/One": "Jedli / Jedły"
   },
   {
+    "Unit": 3.01,
+    "Topic": "Basics",
+    "Verb": "Jeść",
+    "Meaning": "To eat",
+    "Conjugation": "Irregular",
     "Tense": "Conditional",
     "Ja": "Jadłbym / Jadłabym",
     "Ty": "Jadłbyś / Jadłabyś",
@@ -124,6 +150,10 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 2.01,
+    "Topic": "Basics",
+    "Verb": "Mieć",
+    "Meaning": "To have",
     "Tense": "Past",
     "Ja": "Miałem / Miałam",
     "Ty": "Miałeś / Miałaś",
@@ -133,6 +163,10 @@
     "Oni/One": "Mieli / Miały"
   },
   {
+    "Unit": 3.01,
+    "Topic": "Basics",
+    "Verb": "Mieć",
+    "Meaning": "To have",
     "Tense": "Conditional",
     "Ja": "Miałbym / Miałabym",
     "Ty": "Miałbyś / Miałabyś",
@@ -159,6 +193,11 @@
     "Notes": "Followed by Dative case"
   },
   {
+    "Unit": 2.01,
+    "Topic": "Basics",
+    "Verb": "Dziękować",
+    "Meaning": "To thank",
+    "Conjugation": "- ę / - esz",
     "Tense": "Past",
     "Ja": "Dziękowałem / Dziękowałam",
     "Ty": "Dziękowałeś / Dziękowałaś",
@@ -168,6 +207,11 @@
     "Oni/One": "Dziękowali / Dziękowały"
   },
   {
+    "Unit": 3.01,
+    "Topic": "Basics",
+    "Verb": "Dziękować",
+    "Meaning": "To thank",
+    "Conjugation": "- ę / - esz",
     "Tense": "Conditional",
     "Ja": "Dziękowałbym / Dziękowałabym",
     "Ty": "Dziękowałbyś / Dziękowałabyś",
@@ -194,6 +238,8 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Lubiłem / Lubiłam",
     "Ty": "Lubiłeś / Lubiłaś",
@@ -203,6 +249,8 @@
     "Oni/One": "Lubili / Lubiły"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Lubiłbym / Lubiłabym",
     "Ty": "Lubiłbyś / Lubiłabyś",
@@ -229,6 +277,8 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Przepraszałem / Przepraszałam",
     "Ty": "Przepraszałeś / Przepraszałaś",
@@ -238,6 +288,8 @@
     "Oni/One": "Przepraszali / Przepraszały"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Przepraszałbym / Przepraszałabym",
     "Ty": "Przepraszałbyś / Przepraszałabyś",
@@ -264,6 +316,8 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Mówiłem / Mówiłam",
     "Ty": "Mówiłeś / Mówiłaś",
@@ -273,6 +327,8 @@
     "Oni/One": "Mówili / Mówiły"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Mówiłbym / Mówiłabym",
     "Ty": "Mówiłbyś / Mówiłabyś",
@@ -299,6 +355,8 @@
     "Notes": "Followed by Biernik / Accusative case\nCan also be used to mean ‘to carry’, used when referring to a repeated / habitual carrying of an item"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Nosiłem / Nosiłam",
     "Ty": "Nosiłeś / Nosiłaś",
@@ -308,6 +366,8 @@
     "Oni/One": "Nosili / Nosiły"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Nosiłbym / Nosiłabym",
     "Ty": "Nosiłbyś / Nosiłabyś",
@@ -334,6 +394,8 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Widziałem / Widziałam",
     "Ty": "Widziałeś / Widziałaś",
@@ -343,6 +405,8 @@
     "Oni/One": "Widzieli / Widziały"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Widziałbym / Widziałabym",
     "Ty": "Widziałbyś / Widziałabyś",
@@ -369,6 +433,8 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Kochałem / Kochałam",
     "Ty": "Kochałeś / Kochałaś",
@@ -378,6 +444,8 @@
     "Oni/One": "Kochali / Kochały"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Kochałbym / Kochałabym",
     "Ty": "Kochałbyś / Kochałabyś",
@@ -404,6 +472,8 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Znałem / Znałam",
     "Ty": "Znałeś / Znałaś",
@@ -413,6 +483,8 @@
     "Oni/One": "Znali / Znały"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Znałbym / Znałabym",
     "Ty": "Znałbyś / Znałabyś",
@@ -439,6 +511,8 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Pisałem / Pisałam",
     "Ty": "Pisałeś / Pisałaś",
@@ -448,6 +522,8 @@
     "Oni/One": "Pisali / Pisały"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Pisałbym / Pisałabym",
     "Ty": "Pisałbyś / Pisałabyś",
@@ -474,6 +550,8 @@
     "Notes": "Followed by Biernik / Accusative case"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Past",
     "Ja": "Słyszałem / Słyszałam",
     "Ty": "Słyszałeś / Słyszałaś",
@@ -483,6 +561,8 @@
     "Oni/One": "Słyszeli / Słyszały"
   },
   {
+    "Unit": 1.01,
+    "Topic": "Basics",
     "Tense": "Conditional",
     "Ja": "Słyszałbym / Słyszałabym",
     "Ty": "Słyszałbyś / Słyszałabyś",
@@ -509,6 +589,11 @@
     "Notes": "Used to describe a single, one time trip that hasn’t yet been completed"
   },
   {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Verb": "Iść",
+    "Meaning": "To walk/go",
+    "Conjugation": "- ę / - esz",
     "Tense": "Past",
     "Ja": "Szedłem / Szłam",
     "Ty": "Szedłeś / Szłaś",
@@ -518,14 +603,19 @@
     "Oni/One": "Szli / Szły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Szedłbym / Szłabym",
-    "Ja": "Szedłbyś / Szłabyś",
-    "Ty": "Szedłby / Szłaby",
-    "On/Ona": "Szlibyśmy / Szłybyśmy",
-    "My": "Szlibyście / Szłybyście",
-    "Wy": "Szliby / Szłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Verb": "Iść",
+    "Meaning": "To walk/go",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Szedłbym / Szłabym",
+    "Ty": "Szedłbyś / Szłabyś",
+    "On/Ona": "Szedłby / Szłaby",
+    "My": "Szlibyśmy / Szłybyśmy",
+    "Wy": "Szlibyście / Szłybyście",
+    "Oni/One": "Szliby / Szłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 1.15,
@@ -544,6 +634,8 @@
     "Notes": "Used to describe general/multiple trips. A repeated/habitual action"
   },
   {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
     "Tense": "Past",
     "Ja": "Chodziłem / Chodziłam",
     "Ty": "Chodziłeś / Chodziłaś",
@@ -553,14 +645,16 @@
     "Oni/One": "Chodzili / Chodziły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Chodziłbym / Chodziłabym",
-    "Ja": "Chodziłbyś / Chodziłabyś",
-    "Ty": "Chodziłby / Chodziłaby",
-    "On/Ona": "Chodzilibyśmy / Chodziłybyśmy",
-    "My": "Chodzilibyście / Chodziłybyście",
-    "Wy": "Chodziliby / Chodziłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Tense": "Conditional",
+    "Ja": "Chodziłbym / Chodziłabym",
+    "Ty": "Chodziłbyś / Chodziłabyś",
+    "On/Ona": "Chodziłby / Chodziłaby",
+    "My": "Chodzilibyśmy / Chodziłybyśmy",
+    "Wy": "Chodzilibyście / Chodziłybyście",
+    "Oni/One": "Chodziliby / Chodziłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 1.15,
@@ -578,6 +672,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
     "Tense": "Past",
     "Ja": "Potrzebowałem / Potrzebowałam",
     "Ty": "Potrzebowałeś / Potrzebowałaś",
@@ -587,14 +683,16 @@
     "Oni/One": "Potrzebowali / Potrzebowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Potrzebowałbym / Potrzebowałabym",
-    "Ja": "Potrzebowałbyś / Potrzebowałabyś",
-    "Ty": "Potrzebowałby / Potrzebowałaby",
-    "On/Ona": "Potrzebowalibyśmy / Potrzebowałybyśmy",
-    "My": "Potrzebowalibyście / Potrzebowałybyście",
-    "Wy": "Potrzebowaliby / Potrzebowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Tense": "Conditional",
+    "Ja": "Potrzebowałbym / Potrzebowałabym",
+    "Ty": "Potrzebowałbyś / Potrzebowałabyś",
+    "On/Ona": "Potrzebowałby / Potrzebowałaby",
+    "My": "Potrzebowalibyśmy / Potrzebowałybyśmy",
+    "Wy": "Potrzebowalibyście / Potrzebowałybyście",
+    "Oni/One": "Potrzebowaliby / Potrzebowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 1.15,
@@ -612,6 +710,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
     "Tense": "Past",
     "Ja": "Słuchałem / Słuchałam",
     "Ty": "Słuchałeś / Słuchałaś",
@@ -621,14 +721,16 @@
     "Oni/One": "Słuchali / Słuchały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Słuchałbym / Słuchałabym",
-    "Ja": "Słuchałbyś / Słuchałabyś",
-    "Ty": "Słuchałby / Słuchałaby",
-    "On/Ona": "Słuchalibyśmy / Słuchałybyśmy",
-    "My": "Słuchalibyście / Słuchałybyście",
-    "Wy": "Słuchaliby / Słuchałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 1.15,
+    "Topic": "Talk about things you do",
+    "Tense": "Conditional",
+    "Ja": "Słuchałbym / Słuchałabym",
+    "Ty": "Słuchałbyś / Słuchałabyś",
+    "On/Ona": "Słuchałby / Słuchałaby",
+    "My": "Słuchalibyśmy / Słuchałybyśmy",
+    "Wy": "Słuchalibyście / Słuchałybyście",
+    "Oni/One": "Słuchaliby / Słuchałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -646,6 +748,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Spałem / Spałam",
     "Ty": "Spałeś / Spałaś",
@@ -655,14 +759,16 @@
     "Oni/One": "Spali / Spały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Spałbym / Spałabym",
-    "Ja": "Spałbyś / Spałabyś",
-    "Ty": "Spałby / Spałaby",
-    "On/Ona": "Spalibyśmy / Spałybyśmy",
-    "My": "Spalibyście / Spałybyście",
-    "Wy": "Spaliby / Spałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Spałbym / Spałabym",
+    "Ty": "Spałbyś / Spałabyś",
+    "On/Ona": "Spałby / Spałaby",
+    "My": "Spalibyśmy / Spałybyśmy",
+    "Wy": "Spalibyście / Spałybyście",
+    "Oni/One": "Spaliby / Spałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -680,6 +786,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Kroiłem / Kroiłam",
     "Ty": "Kroiłeś / Kroiłaś",
@@ -689,14 +797,16 @@
     "Oni/One": "Kroili / Kroiły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Kroiłbym / Kroiłam",
-    "Ja": "Kroiłbyś / Kroiłabyś",
-    "Ty": "Kroiłby / Kroiłaby",
-    "On/Ona": "Kroilibyśmy / Kroiłybyśmy",
-    "My": "Kroilibyście / Kroiłybyście",
-    "Wy": "Kroiliby / Kroiłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Kroiłbym / Kroiłam",
+    "Ty": "Kroiłbyś / Kroiłabyś",
+    "On/Ona": "Kroiłby / Kroiłaby",
+    "My": "Kroilibyśmy / Kroiłybyśmy",
+    "Wy": "Kroilibyście / Kroiłybyście",
+    "Oni/One": "Kroiliby / Kroiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -714,6 +824,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Szukałem / Szukałam",
     "Ty": "Szukałeś / Szukałaś",
@@ -723,14 +835,16 @@
     "Oni/One": "Szukali / Szukały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Szukałbym / Szukałabym",
-    "Ja": "Szukałbyś / Szukałabyś",
-    "Ty": "Szukałby / Szukałaby",
-    "On/Ona": "Szukalibyśmy / Szukałybyśmy",
-    "My": "Szukalibyście / Szukałybyście",
-    "Wy": "Szukaliby / Szukałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Szukałbym / Szukałabym",
+    "Ty": "Szukałbyś / Szukałabyś",
+    "On/Ona": "Szukałby / Szukałaby",
+    "My": "Szukalibyśmy / Szukałybyśmy",
+    "Wy": "Szukalibyście / Szukałybyście",
+    "Oni/One": "Szukaliby / Szukałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -748,6 +862,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Pamiętałem / Pamiętałam",
     "Ty": "Pamiętałeś / Pamiętałaś",
@@ -757,14 +873,16 @@
     "Oni/One": "Pamiętali / Pamiętały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Pamiętałbym / Pamiętałabym",
-    "Ja": "Pamiętałbyś / Pamiętałabyś",
-    "Ty": "Pamiętałby / Pamiętałaby",
-    "On/Ona": "Pamiętalibyśmy / Pamiętałybyśmy",
-    "My": "Pamiętalibyście / Pamiętałybyście",
-    "Wy": "Pamiętaliby / Pamiętałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Pamiętałbym / Pamiętałabym",
+    "Ty": "Pamiętałbyś / Pamiętałabyś",
+    "On/Ona": "Pamiętałby / Pamiętałaby",
+    "My": "Pamiętalibyśmy / Pamiętałybyśmy",
+    "Wy": "Pamiętalibyście / Pamiętałybyście",
+    "Oni/One": "Pamiętaliby / Pamiętałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -782,6 +900,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Czytałem / Czytałam",
     "Ty": "Czytałeś / Czytałaś",
@@ -791,6 +911,8 @@
     "Oni/One": "Czytali / Czytały"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Conditional",
     "Ja": "Czytałbym / Czytałabym",
     "Ty": "Czytałbyś / Czytałabyś",
@@ -815,6 +937,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Szanowałem / Szanowałam",
     "Ty": "Szanowałeś / Szanowałaś",
@@ -824,14 +948,16 @@
     "Oni/One": "Szanowali / Szanowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Szanowałbym / Szanowałabym",
-    "Ja": "Szanowałbyś / Szanowałabyś",
-    "Ty": "Szanowałby / Szanowałaby",
-    "On/Ona": "Szanowalibyśmy / Szanowałybyśmy",
-    "My": "Szanowalibyście / Szanowałybyście",
-    "Wy": "Szanowaliby / Szanowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Szanowałbym / Szanowałabym",
+    "Ty": "Szanowałbyś / Szanowałabyś",
+    "On/Ona": "Szanowałby / Szanowałaby",
+    "My": "Szanowalibyśmy / Szanowałybyśmy",
+    "Wy": "Szanowalibyście / Szanowałybyście",
+    "Oni/One": "Szanowaliby / Szanowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -849,6 +975,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Gotowałem / Gotowałam",
     "Ty": "Gotowałeś / Gotowałaś",
@@ -858,14 +986,16 @@
     "Oni/One": "Gotowali / Gotowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Gotowałbym / Gotowałabym",
-    "Ja": "Gotowałbyś / Gotowałabyś",
-    "Ty": "Gotowałby / Gotowałaby",
-    "On/Ona": "Gotowalibyśmy / Gotowałybyśmy",
-    "My": "Gotowalibyście / Gotowałybyście",
-    "Wy": "Gotowaliby / Gotowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Gotowałbym / Gotowałabym",
+    "Ty": "Gotowałbyś / Gotowałabyś",
+    "On/Ona": "Gotowałby / Gotowałaby",
+    "My": "Gotowalibyśmy / Gotowałybyśmy",
+    "Wy": "Gotowalibyście / Gotowałybyście",
+    "Oni/One": "Gotowaliby / Gotowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -883,6 +1013,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Pokazywałem / Pokazywałam",
     "Ty": "Pokazywałeś / Pokazywałaś",
@@ -892,14 +1024,16 @@
     "Oni/One": "Pokazywali / Pokazywały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Pokazywałbym / Pokazywałabym",
-    "Ja": "Pokazywałbyś / Pokazywałabyś",
-    "Ty": "Pokazywałby / Pokazywałaby",
-    "On/Ona": "Pokazywalibyśmy / Pokazywałybyśmy",
-    "My": "Pokazywalibyście / Pokazywałybyście",
-    "Wy": "Pokazywaliby / Pokazywałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Pokazywałbym / Pokazywałabym",
+    "Ty": "Pokazywałbyś / Pokazywałabyś",
+    "On/Ona": "Pokazywałby / Pokazywałaby",
+    "My": "Pokazywalibyśmy / Pokazywałybyśmy",
+    "Wy": "Pokazywalibyście / Pokazywałybyście",
+    "Oni/One": "Pokazywaliby / Pokazywałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -917,6 +1051,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Brałem / Brałam",
     "Ty": "Brałeś / Brałaś",
@@ -926,14 +1062,16 @@
     "Oni/One": "Brali / Brały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Brałbym / Brałabym",
-    "Ja": "Brałbyś / Brałabyś",
-    "Ty": "Brałby / Brałaby",
-    "On/Ona": "Bralibyśmy / Brałybyśmy",
-    "My": "Bralibyście / Brałybyście",
-    "Wy": "Braliby / Brałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Brałbym / Brałabym",
+    "Ty": "Brałbyś / Brałabyś",
+    "On/Ona": "Brałby / Brałaby",
+    "My": "Bralibyśmy / Brałybyśmy",
+    "Wy": "Bralibyście / Brałybyście",
+    "Oni/One": "Braliby / Brałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -951,6 +1089,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Sprzedawałem / Sprzedawałam",
     "Ty": "Sprzedawałeś / Sprzedawałaś",
@@ -960,14 +1100,16 @@
     "Oni/One": "Sprzedawali / Sprzedawały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Sprzedawałbym / Sprzedawałabym",
-    "Ja": "Sprzedawałbyś / Sprzedawałabyś",
-    "Ty": "Sprzedawałby / Sprzedawałaby",
-    "On/Ona": "Sprzedawalibyśmy / Sprzedawałybyśmy",
-    "My": "Sprzedawalibyście / Sprzedawałybyście",
-    "Wy": "Sprzedawaliby / Sprzedawałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Sprzedawałbym / Sprzedawałabym",
+    "Ty": "Sprzedawałbyś / Sprzedawałabyś",
+    "On/Ona": "Sprzedawałby / Sprzedawałaby",
+    "My": "Sprzedawalibyśmy / Sprzedawałybyśmy",
+    "Wy": "Sprzedawalibyście / Sprzedawałybyście",
+    "Oni/One": "Sprzedawaliby / Sprzedawałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -985,6 +1127,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Wychowywałem / Wychowywałam",
     "Ty": "Wychowywałeś / Wychowywałaś",
@@ -994,14 +1138,16 @@
     "Oni/One": "Wychowywali / Wychowywały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wychowywałbym / Wychowywałabym",
-    "Ja": "Wychowywałbyś / Wychowywałabyś",
-    "Ty": "Wychowywałby / Wychowywałaby",
-    "On/Ona": "Wychowywalibyśmy / Wychowywałybyśmy",
-    "My": "Wychowywalibyście / Wychowywałybyście",
-    "Wy": "Wychowywaliby / Wychowywałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Wychowywałbym / Wychowywałabym",
+    "Ty": "Wychowywałbyś / Wychowywałabyś",
+    "On/Ona": "Wychowywałby / Wychowywałaby",
+    "My": "Wychowywalibyśmy / Wychowywałybyśmy",
+    "Wy": "Wychowywalibyście / Wychowywałybyście",
+    "Oni/One": "Wychowywaliby / Wychowywałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1019,6 +1165,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Robiłem / Robiłam",
     "Ty": "Robiłeś / Robiłaś",
@@ -1028,14 +1176,16 @@
     "Oni/One": "Robili / Robiły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Robiłbym / Robiłabym",
-    "Ja": "Robiłbyś / Robiłabyś",
-    "Ty": "Robiłby / Robiłaby",
-    "On/Ona": "Robilibyśmy / Robiłybyśmy",
-    "My": "Robilibyście / Robiłybyście",
-    "Wy": "Robiliby / Robiłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Robiłbym / Robiłabym",
+    "Ty": "Robiłbyś / Robiłabyś",
+    "On/Ona": "Robiłby / Robiłaby",
+    "My": "Robilibyśmy / Robiłybyśmy",
+    "Wy": "Robilibyście / Robiłybyście",
+    "Oni/One": "Robiliby / Robiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1054,6 +1204,8 @@
     "Notes": "Used to indicate a one time/current carrying of an item"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Niośłem / Niośłam",
     "Ty": "Niośłeś / Niośłaś",
@@ -1063,14 +1215,16 @@
     "Oni/One": "Niośli / Niośły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Niósłbym / Niosłabym",
-    "Ja": "Niósłbyś / Niosłabyś",
-    "Ty": "Niósłby / Niosłaby",
-    "On/Ona": "Nieślibyśmy / Niosłybyśmy",
-    "My": "Nieślibyście / Niosłybyście",
-    "Wy": "Nieśliby / Niosłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Niósłbym / Niosłabym",
+    "Ty": "Niósłbyś / Niosłabyś",
+    "On/Ona": "Niósłby / Niosłaby",
+    "My": "Nieślibyśmy / Niosłybyśmy",
+    "Wy": "Nieślibyście / Niosłybyście",
+    "Oni/One": "Nieśliby / Niosłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1088,6 +1242,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Dotykałem / Dotykałam",
     "Ty": "Dotykałeś / Dotykałaś",
@@ -1097,14 +1253,16 @@
     "Oni/One": "Dotykali / Dotykały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Dotykałbym / Dotykałabym",
-    "Ja": "Dotykałbyś / Dotykałabyś",
-    "Ty": "Dotykałby / Dotykałaby",
-    "On/Ona": "Dotykalibyśmy / Dotykałybyśmy",
-    "My": "Dotykalibyście / Dotykałybyście",
-    "Wy": "Dotykaliby / Dotykałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Dotykałbym / Dotykałabym",
+    "Ty": "Dotykałbyś / Dotykałabyś",
+    "On/Ona": "Dotykałby / Dotykałaby",
+    "My": "Dotykalibyśmy / Dotykałybyśmy",
+    "Wy": "Dotykalibyście / Dotykałybyście",
+    "Oni/One": "Dotykaliby / Dotykałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1122,6 +1280,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Odwiedzałem / Odwiedzałam",
     "Ty": "Odwiedzałeś / Odwiedzałaś",
@@ -1131,14 +1291,16 @@
     "Oni/One": "Odwiedzali / Odwiedzały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Odwiedzałbym / Odwiedzałabym",
-    "Ja": "Odwiedzałbyś / Odwiedzałabyś",
-    "Ty": "Odwiedzałby / Odwiedzałaby",
-    "On/Ona": "Odwiedzalibyśmy / Odwiedzałybyśmy",
-    "My": "Odwiedzalibyście / Odwiedzałybyście",
-    "Wy": "Odwiedzaliby / Odwiedzałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Odwiedzałbym / Odwiedzałabym",
+    "Ty": "Odwiedzałbyś / Odwiedzałabyś",
+    "On/Ona": "Odwiedzałby / Odwiedzałaby",
+    "My": "Odwiedzalibyśmy / Odwiedzałybyśmy",
+    "Wy": "Odwiedzalibyście / Odwiedzałybyście",
+    "Oni/One": "Odwiedzaliby / Odwiedzałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1156,6 +1318,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Wspierałem / Wspierałam",
     "Ty": "Wspierałeś / Wspierałaś",
@@ -1165,14 +1329,16 @@
     "Oni/One": "Wspierali / Wspierały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wspierałbym / Wspierałabym",
-    "Ja": "Wspierałbyś / Wspierałabyś",
-    "Ty": "Wspierałby / Wspierałaby",
-    "On/Ona": "Wspieralibyśmy / Wspierałybyśmy",
-    "My": "Wspieralibyście / Wspierałybyście",
-    "Wy": "Wspieraliby / Wspierałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Wspierałbym / Wspierałabym",
+    "Ty": "Wspierałbyś / Wspierałabyś",
+    "On/Ona": "Wspierałby / Wspierałaby",
+    "My": "Wspieralibyśmy / Wspierałybyśmy",
+    "Wy": "Wspieralibyście / Wspierałybyście",
+    "Oni/One": "Wspieraliby / Wspierałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1190,6 +1356,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Produkowałem / Produkowałam",
     "Ty": "Produkowałeś / Produkowałaś",
@@ -1199,14 +1367,16 @@
     "Oni/One": "Produkowali / Produkowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Produkowałbym / Produkowałabym",
-    "Ja": "Produkowałbyś / Produkowałabyś",
-    "Ty": "Produkowałby / Produkowałaby",
-    "On/Ona": "Produkowalibyśmy / Produkowałybyśmy",
-    "My": "Produkowalibyście / Produkowałybyście",
-    "Wy": "Produkowaliby / Produkowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Produkowałbym / Produkowałabym",
+    "Ty": "Produkowałbyś / Produkowałabyś",
+    "On/Ona": "Produkowałby / Produkowałaby",
+    "My": "Produkowalibyśmy / Produkowałybyśmy",
+    "Wy": "Produkowalibyście / Produkowałybyście",
+    "Oni/One": "Produkowaliby / Produkowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1224,6 +1394,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Kupowałem / Kupowałam",
     "Ty": "Kupowałeś / Kupowałaś",
@@ -1233,14 +1405,16 @@
     "Oni/One": "Kupowali / Kupowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Kupowałbym / Kupowałabym",
-    "Ja": "Kupowałbyś / Kupowałabyś",
-    "Ty": "Kupowałby / Kupowałaby",
-    "On/Ona": "Kupowalibyśmy / Kupowałybyśmy",
-    "My": "Kupowalibyście / Kupowałybyście",
-    "Wy": "Kupowaliby / Kupowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Kupowałbym / Kupowałabym",
+    "Ty": "Kupowałbyś / Kupowałabyś",
+    "On/Ona": "Kupowałby / Kupowałaby",
+    "My": "Kupowalibyśmy / Kupowałybyśmy",
+    "Wy": "Kupowalibyście / Kupowałybyście",
+    "Oni/One": "Kupowaliby / Kupowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1258,6 +1432,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Dostawałem / Dostawałam",
     "Ty": "Dostawałeś / Dostawałaś",
@@ -1267,14 +1443,16 @@
     "Oni/One": "Dostawali / Dostawały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Dostawałbym / Dostawałabym",
-    "Ja": "Dostawałbyś / Dostawałabyś",
-    "Ty": "Dostawałby / Dostawałaby",
-    "On/Ona": "Dostawalibyśmy / Dostawałybyśmy",
-    "My": "Dostawalibyście / Dostawałybyście",
-    "Wy": "Dostawaliby / Dostawałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Dostawałbym / Dostawałabym",
+    "Ty": "Dostawałbyś / Dostawałabyś",
+    "On/Ona": "Dostawałby / Dostawałaby",
+    "My": "Dostawalibyśmy / Dostawałybyśmy",
+    "Wy": "Dostawalibyście / Dostawałybyście",
+    "Oni/One": "Dostawaliby / Dostawałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.03,
@@ -1292,6 +1470,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
     "Tense": "Past",
     "Ja": "Dostarczałem / Dostarczałam",
     "Ty": "Dostarczałeś / Dostarczałaś",
@@ -1301,14 +1481,16 @@
     "Oni/One": "Dostarczali / Dostarczały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Dostarczałbym / Dostarczałabym",
-    "Ja": "Dostarczałbyś / Dostarczałabyś",
-    "Ty": "Dostarczałby / Dostarczałaby",
-    "On/Ona": "Dostarczalibyśmy / Dostarczałybyśmy",
-    "My": "Dostarczalibyście / Dostarczałybyście",
-    "Wy": "Dostarczaliby / Dostarczałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.03,
+    "Topic": "Discuss Activities",
+    "Tense": "Conditional",
+    "Ja": "Dostarczałbym / Dostarczałabym",
+    "Ty": "Dostarczałbyś / Dostarczałabyś",
+    "On/Ona": "Dostarczałby / Dostarczałaby",
+    "My": "Dostarczalibyśmy / Dostarczałybyśmy",
+    "Wy": "Dostarczalibyście / Dostarczałybyście",
+    "Oni/One": "Dostarczaliby / Dostarczałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.06,
@@ -1326,6 +1508,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.06,
+    "Topic": "Use prepositions",
     "Tense": "Past",
     "Ja": "Stałem / Stałam",
     "Ty": "Stałeś / Stałaś",
@@ -1335,14 +1519,16 @@
     "Oni/One": "Stali / Stały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Stałbym / Stałabym",
-    "Ja": "Stałbyś / Stałabyś",
-    "Ty": "Stałby / Stałaby",
-    "On/Ona": "Stalibyśmy / Stałybyśmy",
-    "My": "Stalibyście / Stałybyście",
-    "Wy": "Staliby / Stałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.06,
+    "Topic": "Use prepositions",
+    "Tense": "Conditional",
+    "Ja": "Stałbym / Stałabym",
+    "Ty": "Stałbyś / Stałabyś",
+    "On/Ona": "Stałby / Stałaby",
+    "My": "Stalibyśmy / Stałybyśmy",
+    "Wy": "Stalibyście / Stałybyście",
+    "Oni/One": "Staliby / Stałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.07,
@@ -1360,6 +1546,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
     "Tense": "Past",
     "Ja": "Zatrudniłem / Zatrudniłam",
     "Ty": "Zatrudniłeś / Zatrudniłaś",
@@ -1369,14 +1557,16 @@
     "Oni/One": "Zatrudnili / Zatrudniłyś"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zatrudniałbym / Zatrudniałabym",
-    "Ja": "Zatrudniałbyś / Zatrudniałabyś",
-    "Ty": "Zatrudniałby / Zatrudniałaby",
-    "On/Ona": "Zatrudnialibyśmy / Zatrudniałybyśmy",
-    "My": "Zatrudnialibyście / Zatrudniałybyście",
-    "Wy": "Zatrudnialiby / Zatrudniałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.07,
+    "Topic": "Discuss jobs",
+    "Tense": "Conditional",
+    "Ja": "Zatrudniałbym / Zatrudniałabym",
+    "Ty": "Zatrudniałbyś / Zatrudniałabyś",
+    "On/Ona": "Zatrudniałby / Zatrudniałaby",
+    "My": "Zatrudnialibyśmy / Zatrudniałybyśmy",
+    "Wy": "Zatrudnialibyście / Zatrudniałybyście",
+    "Oni/One": "Zatrudnialiby / Zatrudniałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1394,6 +1584,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Wracałem / Wracałam",
     "Ty": "Wracałeś / Wracałaś",
@@ -1403,14 +1595,16 @@
     "Oni/One": "Wracali / Wracały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wracałbym / Wracałabym",
-    "Ja": "Wracałbyś / Wracałabyś",
-    "Ty": "Wracałby / Wracałaby",
-    "On/Ona": "Wracalibyśmy / Wracałybyśmy",
-    "My": "Wracalibyście / Wracałybyście",
-    "Wy": "Wracaliby / Wracałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Wracałbym / Wracałabym",
+    "Ty": "Wracałbyś / Wracałabyś",
+    "On/Ona": "Wracałby / Wracałaby",
+    "My": "Wracalibyśmy / Wracałybyśmy",
+    "Wy": "Wracalibyście / Wracałybyście",
+    "Oni/One": "Wracaliby / Wracałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1428,6 +1622,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Patrzyłem / Patrzyłam",
     "Ty": "Patrzyłeś / Patrzyłaś",
@@ -1437,14 +1633,16 @@
     "Oni/One": "Patrzyli / Patrzyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Patrzyłbym / Patrzyłabym",
-    "Ja": "Patrzyłbyś / Patrzyłabyś",
-    "Ty": "Patrzyłby / Patrzyłaby",
-    "On/Ona": "Patrzylibyśmy / Patrzyłybyśmy",
-    "My": "Patrzylibyście / Patrzyłybyście",
-    "Wy": "Patrzyliby / Patrzyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Patrzyłbym / Patrzyłabym",
+    "Ty": "Patrzyłbyś / Patrzyłabyś",
+    "On/Ona": "Patrzyłby / Patrzyłaby",
+    "My": "Patrzylibyśmy / Patrzyłybyśmy",
+    "Wy": "Patrzylibyście / Patrzyłybyście",
+    "Oni/One": "Patrzyliby / Patrzyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1462,6 +1660,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Myślałem / Myślałam",
     "Ty": "Myślałeś / Myślałaś",
@@ -1471,14 +1671,16 @@
     "Oni/One": "Myśleli / Myślały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Myślałbym / Myślałabym",
-    "Ja": "Myślałbyś / Myślałabyś",
-    "Ty": "Myślałby / Myślałaby",
-    "On/Ona": "Myślelibyśmy / Myślałybyśmy",
-    "My": "Myślelibyście / Myślałybyście",
-    "Wy": "Myśleliby / Myślałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Myślałbym / Myślałabym",
+    "Ty": "Myślałbyś / Myślałabyś",
+    "On/Ona": "Myślałby / Myślałaby",
+    "My": "Myślelibyśmy / Myślałybyśmy",
+    "Wy": "Myślelibyście / Myślałybyście",
+    "Oni/One": "Myśleliby / Myślałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1496,6 +1698,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Tęskniłem / Tęskniłam",
     "Ty": "Tęskniłeś / Tęskniłaś",
@@ -1505,14 +1709,16 @@
     "Oni/One": "Tęsknili / Tęskniły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Tęskniłbym / Tęskniłabym",
-    "Ja": "Tęskniłbyś / Tęskniłabyś",
-    "Ty": "Tęskniłby / Tęskniłaby",
-    "On/Ona": "Tęsknilibyśmy / Tęskniłybyśmy",
-    "My": "Tęsknilibyście / Tęskniłybyście",
-    "Wy": "Tęskniliby / Tęskniłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Tęskniłbym / Tęskniłabym",
+    "Ty": "Tęskniłbyś / Tęskniłabyś",
+    "On/Ona": "Tęskniłby / Tęskniłaby",
+    "My": "Tęsknilibyśmy / Tęskniłybyśmy",
+    "Wy": "Tęsknilibyście / Tęskniłybyście",
+    "Oni/One": "Tęskniliby / Tęskniłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1530,6 +1736,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Otwierałem / Otwierałam",
     "Ty": "Otwierałeś / Otwierałaś",
@@ -1539,14 +1747,16 @@
     "Oni/One": "Otwierali / Otwierały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Otwierałbym / Otwierałabym",
-    "Ja": "Otwierałbyś / Otwierałabyś",
-    "Ty": "Otwierałby / Otwierałaby",
-    "On/Ona": "Otwieralibyśmy / Otwierałybyśmy",
-    "My": "Otwieralibyście / Otwierałybyście",
-    "Wy": "Otwieraliby / Otwierałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Otwierałbym / Otwierałabym",
+    "Ty": "Otwierałbyś / Otwierałabyś",
+    "On/Ona": "Otwierałby / Otwierałaby",
+    "My": "Otwieralibyśmy / Otwierałybyśmy",
+    "Wy": "Otwieralibyście / Otwierałybyście",
+    "Oni/One": "Otwieraliby / Otwierałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1564,6 +1774,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Zmieniałem / Zmieniałam",
     "Ty": "Zmieniałeś / Zmieniałaś",
@@ -1573,14 +1785,16 @@
     "Oni/One": "Zmieniali / Zmieniały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zmieniałbym / Zmieniałabym",
-    "Ja": "Zmieniałbyś / Zmieniałabyś",
-    "Ty": "Zmieniałby / Zmieniałaby",
-    "On/Ona": "Zmienialibyśmy / Zmieniałybyśmy",
-    "My": "Zmienialibyście / Zmieniałybyście",
-    "Wy": "Zmienialiby / Zmieniałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Zmieniałbym / Zmieniałabym",
+    "Ty": "Zmieniałbyś / Zmieniałabyś",
+    "On/Ona": "Zmieniałby / Zmieniałaby",
+    "My": "Zmienialibyśmy / Zmieniałybyśmy",
+    "Wy": "Zmienialibyście / Zmieniałybyście",
+    "Oni/One": "Zmienialiby / Zmieniałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1598,6 +1812,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Oferowałem / Oferowałam",
     "Ty": "Oferowałeś / Oferowałaś",
@@ -1607,14 +1823,16 @@
     "Oni/One": "Oferowali / Oferowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Oferowałbym / Oferowałabym",
-    "Ja": "Oferowałbyś / Oferowałabyś",
-    "Ty": "Oferowałby / Oferowałaby",
-    "On/Ona": "Oferowalibyśmy / Oferowałybyśmy",
-    "My": "Oferowalibyście / Oferowałybyście",
-    "Wy": "Oferowaliby / Oferowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Oferowałbym / Oferowałabym",
+    "Ty": "Oferowałbyś / Oferowałabyś",
+    "On/Ona": "Oferowałby / Oferowałaby",
+    "My": "Oferowalibyśmy / Oferowałybyśmy",
+    "Wy": "Oferowalibyście / Oferowałybyście",
+    "Oni/One": "Oferowaliby / Oferowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1632,6 +1850,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Wierzyłem / Wierzyłam",
     "Ty": "Wierzyłeś / Wierzyłaś",
@@ -1641,14 +1861,16 @@
     "Oni/One": "Wierzyli / Wierzyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wierzyłbym / Wierzyłabym",
-    "Ja": "Wierzyłbyś / Wierzyłabyś",
-    "Ty": "Wierzyłby / Wierzyłaby",
-    "On/Ona": "Wierzylibyśmy / Wierzyłybyśmy",
-    "My": "Wierzylibyście / Wierzyłybyście",
-    "Wy": "Wierzyliby / Wierzyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Wierzyłbym / Wierzyłabym",
+    "Ty": "Wierzyłbyś / Wierzyłabyś",
+    "On/Ona": "Wierzyłby / Wierzyłaby",
+    "My": "Wierzylibyśmy / Wierzyłybyśmy",
+    "Wy": "Wierzylibyście / Wierzyłybyście",
+    "Oni/One": "Wierzyliby / Wierzyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1666,6 +1888,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Ufałem / Ufałam",
     "Ty": "Ufałeś / Ufałaś",
@@ -1675,14 +1899,16 @@
     "Oni/One": "Ufali / Ufały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Ufałbym / Ufałabym",
-    "Ja": "Ufałbyś / Ufałabyś",
-    "Ty": "Ufałby / Ufałaby",
-    "On/Ona": "Ufalibyśmy / Ufałybyśmy",
-    "My": "Ufalibyście / Ufałybyście",
-    "Wy": "Ufaliby / Ufałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Ufałbym / Ufałabym",
+    "Ty": "Ufałbyś / Ufałabyś",
+    "On/Ona": "Ufałby / Ufałaby",
+    "My": "Ufalibyśmy / Ufałybyśmy",
+    "Wy": "Ufalibyście / Ufałybyście",
+    "Oni/One": "Ufaliby / Ufałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1700,6 +1926,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Pomagałem / Pomagałam",
     "Ty": "Pomagałeś / Pomagałaś",
@@ -1709,14 +1937,16 @@
     "Oni/One": "Pomagali / Pomagały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Pomógłbym / Pomogłabym",
-    "Ja": "Pomógłbyś / Pomogłabyś",
-    "Ty": "Pomógłby / Pomogłaby",
-    "On/Ona": "Pomoglibyśmy / Pomogłybyśmy",
-    "My": "Pomoglibyście / Pomogłybyście",
-    "Wy": "Pomogliby / Pomogłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Pomógłbym / Pomogłabym",
+    "Ty": "Pomógłbyś / Pomogłabyś",
+    "On/Ona": "Pomógłby / Pomogłaby",
+    "My": "Pomoglibyśmy / Pomogłybyśmy",
+    "Wy": "Pomoglibyście / Pomogłybyście",
+    "Oni/One": "Pomogliby / Pomogłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1734,6 +1964,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Dawałem / Dawałam",
     "Ty": "Dawałeś / Dawałaś",
@@ -1743,14 +1975,16 @@
     "Oni/One": "Dawali / Dawały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Dawałbym / Dawałabym",
-    "Ja": "Dawałbyś / Dawałabyś",
-    "Ty": "Dawałby / Dawałaby",
-    "On/Ona": "Dawalibyśmy / Dawałybyśmy",
-    "My": "Dawalibyście / Dawałybyście",
-    "Wy": "Dawaliby / Dawałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Dawałbym / Dawałabym",
+    "Ty": "Dawałbyś / Dawałabyś",
+    "On/Ona": "Dawałby / Dawałaby",
+    "My": "Dawalibyśmy / Dawałybyśmy",
+    "Wy": "Dawalibyście / Dawałybyście",
+    "Oni/One": "Dawaliby / Dawałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1768,6 +2002,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Podawałem / Podawałam",
     "Ty": "Podawałeś / Podawałaś",
@@ -1777,14 +2013,16 @@
     "Oni/One": "Podawali / Podawały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Podawałbym / Podawałabym",
-    "Ja": "Podawałbyś / Podawałabyś",
-    "Ty": "Podawałby / Podawałaby",
-    "On/Ona": "Podawalibyśmy / Podawałybyśmy",
-    "My": "Podawalibyście / Podawałybyście",
-    "Wy": "Podawaliby / Podawałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Podawałbym / Podawałabym",
+    "Ty": "Podawałbyś / Podawałabyś",
+    "On/Ona": "Podawałby / Podawałaby",
+    "My": "Podawalibyśmy / Podawałybyśmy",
+    "Wy": "Podawalibyście / Podawałybyście",
+    "Oni/One": "Podawaliby / Podawałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1802,6 +2040,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Wysyłałem / Wysyłałam",
     "Ty": "Wysyłałeś / Wysyłałaś",
@@ -1811,14 +2051,16 @@
     "Oni/One": "Wysyłali / Wysyłały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wysyłałbym / Wysyłałabym",
-    "Ja": "Wysyłałbyś / Wysyłałabyś",
-    "Ty": "Wysyłałby / Wysyłałaby",
-    "On/Ona": "Wysyłalibyśmy / Wysyłałybyśmy",
-    "My": "Wysyłalibyście / Wysyłałybyście",
-    "Wy": "Wysyłaliby / Wysyłałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Wysyłałbym / Wysyłałabym",
+    "Ty": "Wysyłałbyś / Wysyłałabyś",
+    "On/Ona": "Wysyłałby / Wysyłałaby",
+    "My": "Wysyłalibyśmy / Wysyłałybyśmy",
+    "Wy": "Wysyłalibyście / Wysyłałybyście",
+    "Oni/One": "Wysyłaliby / Wysyłałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1836,6 +2078,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Przynosiłem / Przynosiłam",
     "Ty": "Przynosiłeś / Przynosiłaś",
@@ -1845,14 +2089,16 @@
     "Oni/One": "Przynosili / Przynosiły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Przynosiłbym / Przynosiłabym",
-    "Ja": "Przynosiłbyś / Przynosiłabyś",
-    "Ty": "Przynosiłby / Przynosiłaby",
-    "On/Ona": "Przynosilibyśmy / Przynosiłybyśmy",
-    "My": "Przynosilibyście / Przynosiłybyście",
-    "Wy": "Przynosiliby / Przynosiłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Przynosiłbym / Przynosiłabym",
+    "Ty": "Przynosiłbyś / Przynosiłabyś",
+    "On/Ona": "Przynosiłby / Przynosiłaby",
+    "My": "Przynosilibyśmy / Przynosiłybyśmy",
+    "Wy": "Przynosilibyście / Przynosiłybyście",
+    "Oni/One": "Przynosiliby / Przynosiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1870,6 +2116,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Pożyczałem / Pożyczałam",
     "Ty": "Pożyczałeś / Pożyczałaś",
@@ -1879,14 +2127,16 @@
     "Oni/One": "Pożyczali / Pożyczały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Pożyczałbym / Pożyczałabym",
-    "Ja": "Pożyczałbyś / Pożyczałabyś",
-    "Ty": "Pożyczałby / Pożyczałaby",
-    "On/Ona": "Pożyczalibyśmy / Pożyczałybyśmy",
-    "My": "Pożyczalibyście / Pożyczałybyście",
-    "Wy": "Pożyczaliby / Pożyczałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Pożyczałbym / Pożyczałabym",
+    "Ty": "Pożyczałbyś / Pożyczałabyś",
+    "On/Ona": "Pożyczałby / Pożyczałaby",
+    "My": "Pożyczalibyśmy / Pożyczałybyśmy",
+    "Wy": "Pożyczalibyście / Pożyczałybyście",
+    "Oni/One": "Pożyczaliby / Pożyczałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1904,6 +2154,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Odpowiadałem / Odpowiadałam",
     "Ty": "Odpowiadałeś / Odpowiadałaś",
@@ -1913,14 +2165,16 @@
     "Oni/One": "Odpowiadali / Odpowiadały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Odpowiadałbym / Odpowiadałabym",
-    "Ja": "Odpowiadałbyś / Odpowiadałabyś",
-    "Ty": "Odpowiadałby / Odpowiadałaby",
-    "On/Ona": "Odpowiadalibyśmy / Odpowiadałybyśmy",
-    "My": "Odpowiadalibyście / Odpowiadałybyście",
-    "Wy": "Odpowiadaliby / Odpowiadałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Odpowiadałbym / Odpowiadałabym",
+    "Ty": "Odpowiadałbyś / Odpowiadałabyś",
+    "On/Ona": "Odpowiadałby / Odpowiadałaby",
+    "My": "Odpowiadalibyśmy / Odpowiadałybyśmy",
+    "Wy": "Odpowiadalibyście / Odpowiadałybyście",
+    "Oni/One": "Odpowiadaliby / Odpowiadałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1938,6 +2192,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Rozmawiałem / Rozmawiałam",
     "Ty": "Rozmawiałeś / Rozmawiałaś",
@@ -1947,14 +2203,16 @@
     "Oni/One": "Rozmawiali / Rozmawiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Rozmawiałbym / Rozmawiałabym",
-    "Ja": "Rozmawiałbyś / Rozmawiałabyś",
-    "Ty": "Rozmawiałby / Rozmawiałaby",
-    "On/Ona": "Rozmawialibyśmy / Rozmawiałybyśmy",
-    "My": "Rozmawialibyście / Rozmawiałybyście",
-    "Wy": "Rozmawialiby / Rozmawiałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Rozmawiałbym / Rozmawiałabym",
+    "Ty": "Rozmawiałbyś / Rozmawiałabyś",
+    "On/Ona": "Rozmawiałby / Rozmawiałaby",
+    "My": "Rozmawialibyśmy / Rozmawiałybyśmy",
+    "Wy": "Rozmawialibyście / Rozmawiałybyście",
+    "Oni/One": "Rozmawialiby / Rozmawiałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -1972,6 +2230,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Dzwoniłem / Dzwoniłam",
     "Ty": "Dzwoniłeś / Dzwoniłaś",
@@ -1981,14 +2241,16 @@
     "Oni/One": "Dzwonili / Dzwoniły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Dzwoniłbym / Dzwoniłabym",
-    "Ja": "Dzwoniłbyś / Dzwoniłabyś",
-    "Ty": "Dzwoniłby / Dzwoniłaby",
-    "On/Ona": "Dzwonilibyśmy / Dzwoniłybyśmy",
-    "My": "Dzwonilibyście / Dzwoniłybyście",
-    "Wy": "Dzwoniliby / Dzwoniłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Dzwoniłbym / Dzwoniłabym",
+    "Ty": "Dzwoniłbyś / Dzwoniłabyś",
+    "On/Ona": "Dzwoniłby / Dzwoniłaby",
+    "My": "Dzwonilibyśmy / Dzwoniłybyśmy",
+    "Wy": "Dzwonilibyście / Dzwoniłybyście",
+    "Oni/One": "Dzwoniliby / Dzwoniłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2006,6 +2268,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Mieszkałem / Mieszkałam",
     "Ty": "Mieszkałeś / Mieszkałaś",
@@ -2015,14 +2279,16 @@
     "Oni/One": "Mieszkali / Mieszkały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Mieszkałbym / Mieszkałabym",
-    "Ja": "Mieszkałbyś / Mieszkałabyś",
-    "Ty": "Mieszkałby / Mieszkałaby",
-    "On/Ona": "Mieszkalibyśmy / Mieszkałybyśmy",
-    "My": "Mieszkalibyście / Mieszkałybyście",
-    "Wy": "Mieszkaliby / Mieszkałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Mieszkałbym / Mieszkałabym",
+    "Ty": "Mieszkałbyś / Mieszkałabyś",
+    "On/Ona": "Mieszkałby / Mieszkałaby",
+    "My": "Mieszkalibyśmy / Mieszkałybyśmy",
+    "Wy": "Mieszkalibyście / Mieszkałybyście",
+    "Oni/One": "Mieszkaliby / Mieszkałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2040,6 +2306,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Odpoczywałem / Odpoczywałam",
     "Ty": "Odpoczywałeś / Odpoczywałaś",
@@ -2049,14 +2317,16 @@
     "Oni/One": "Odpoczywali / Odpoczywały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Odpoczywałbym / Odpoczywałabym",
-    "Ja": "Odpoczywałbyś / Odpoczywałabyś",
-    "Ty": "Odpoczywałby / Odpoczywałaby",
-    "On/Ona": "Odpoczywalibyśmy / Odpoczywałybyśmy",
-    "My": "Odpoczywalibyście / Odpoczywałybyście",
-    "Wy": "Odpoczywaliby / Odpoczywałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Odpoczywałbym / Odpoczywałabym",
+    "Ty": "Odpoczywałbyś / Odpoczywałabyś",
+    "On/Ona": "Odpoczywałby / Odpoczywałaby",
+    "My": "Odpoczywalibyśmy / Odpoczywałybyśmy",
+    "Wy": "Odpoczywalibyście / Odpoczywałybyście",
+    "Oni/One": "Odpoczywaliby / Odpoczywałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2074,6 +2344,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Zostawiałem / Zostawiałam",
     "Ty": "Zostawiałeś / Zostawiałaś",
@@ -2083,14 +2355,16 @@
     "Oni/One": "Zostawiali / Zostawiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zostawiłbym / Zostawiłabym",
-    "Ja": "Zostawiłbyś / Zostawiłabyś",
-    "Ty": "Zostawiłby / Zostawiłaby",
-    "On/Ona": "Zostawilibyśmy / Zostawiłybyśmy",
-    "My": "Zostawilibyście / Zostawiłybyście",
-    "Wy": "Zostawiliby / Zostawiłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Zostawiłbym / Zostawiłabym",
+    "Ty": "Zostawiłbyś / Zostawiłabyś",
+    "On/Ona": "Zostawiłby / Zostawiłaby",
+    "My": "Zostawilibyśmy / Zostawiłybyśmy",
+    "Wy": "Zostawilibyście / Zostawiłybyście",
+    "Oni/One": "Zostawiliby / Zostawiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2108,6 +2382,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Żyłem / Żyłam",
     "Ty": "Żyłeś / Żyłaś",
@@ -2117,14 +2393,16 @@
     "Oni/One": "Żyli / Żyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Żyłbym / Żyłabym",
-    "Ja": "Żyłbyś / Żyłabyś",
-    "Ty": "Żyłby / Żyłaby",
-    "On/Ona": "Żylibyśmy / Żyłybyśmy",
-    "My": "Żylibyście / Żyłybyście",
-    "Wy": "Żyliby / Żyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Żyłbym / Żyłabym",
+    "Ty": "Żyłbyś / Żyłabyś",
+    "On/Ona": "Żyłby / Żyłaby",
+    "My": "Żylibyśmy / Żyłybyśmy",
+    "Wy": "Żylibyście / Żyłybyście",
+    "Oni/One": "Żyliby / Żyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2142,6 +2420,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Używałem / Używałam",
     "Ty": "Używałeś / Używałaś",
@@ -2151,14 +2431,16 @@
     "Oni/One": "Używali / Używały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Używałbym / Używałabym",
-    "Ja": "Używałbyś / Używałabyś",
-    "Ty": "Używałby / Używałaby",
-    "On/Ona": "Używalibyśmy / Używałybyśmy",
-    "My": "Używalibyście / Używałybyście",
-    "Wy": "Używaliby / Używałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Używałbym / Używałabym",
+    "Ty": "Używałbyś / Używałabyś",
+    "On/Ona": "Używałby / Używałaby",
+    "My": "Używalibyśmy / Używałybyśmy",
+    "Wy": "Używalibyście / Używałybyście",
+    "Oni/One": "Używaliby / Używałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2176,6 +2458,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Pytałem / Pytałam",
     "Ty": "Pytałeś / Pytałaś",
@@ -2185,14 +2469,16 @@
     "Oni/One": "Pytali / Pytały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Pytałbym / Pytałabym",
-    "Ja": "Pytałbyś / Pytałabyś",
-    "Ty": "Pytałby / Pytałaby",
-    "On/Ona": "Pytalibyśmy / Pytałybyśmy",
-    "My": "Pytalibyście / Pytałybyście",
-    "Wy": "Pytaliby / Pytałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Pytałbym / Pytałabym",
+    "Ty": "Pytałbyś / Pytałabyś",
+    "On/Ona": "Pytałby / Pytałaby",
+    "My": "Pytalibyśmy / Pytałybyśmy",
+    "Wy": "Pytalibyście / Pytałybyście",
+    "Oni/One": "Pytaliby / Pytałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2211,6 +2497,8 @@
     "Notes": "Usually used to mean tidying / arranging as things should be"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Sprzątałem / Sprzątałam",
     "Ty": "Sprzątałeś / Sprzątałaś",
@@ -2220,14 +2508,16 @@
     "Oni/One": "Sprzątali / Sprzątały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Sprzątałbym / Sprzątałabym",
-    "Ja": "Sprzątałbyś / Sprzątałabyś",
-    "Ty": "Sprzątałby / Sprzątałaby",
-    "On/Ona": "Sprzątalibyśmy / Sprzątałybyśmy",
-    "My": "Sprzątalibyście / Sprzątałybyście",
-    "Wy": "Sprzątaliby / Sprzątałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Sprzątałbym / Sprzątałabym",
+    "Ty": "Sprzątałbyś / Sprzątałabyś",
+    "On/Ona": "Sprzątałby / Sprzątałaby",
+    "My": "Sprzątalibyśmy / Sprzątałybyśmy",
+    "Wy": "Sprzątalibyście / Sprzątałybyście",
+    "Oni/One": "Sprzątaliby / Sprzątałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2245,6 +2535,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Śpiewałem / Śpiewałam",
     "Ty": "Śpiewałeś / Śpiewałaś",
@@ -2254,14 +2546,16 @@
     "Oni/One": "Śpiewali / Śpiewały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Śpiewałbym / Śpiewałabym",
-    "Ja": "Śpiewałbyś / Śpiewałabyś",
-    "Ty": "Śpiewałby / Śpiewałaby",
-    "On/Ona": "Śpiewalibyśmy / Śpiewałybyśmy",
-    "My": "Śpiewalibyście / Śpiewałybyście",
-    "Wy": "Śpiewaliby / Śpiewałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Śpiewałbym / Śpiewałabym",
+    "Ty": "Śpiewałbyś / Śpiewałabyś",
+    "On/Ona": "Śpiewałby / Śpiewałaby",
+    "My": "Śpiewalibyśmy / Śpiewałybyśmy",
+    "Wy": "Śpiewalibyście / Śpiewałybyście",
+    "Oni/One": "Śpiewaliby / Śpiewałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2279,6 +2573,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Wiedziałem / Wiedziałam",
     "Ty": "Wiedziełeś / Wiedziełaś",
@@ -2288,14 +2584,16 @@
     "Oni/One": "Wiedzieli / Wiedzieły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wiedziałbym / Wiedziałabym",
-    "Ja": "Wiedziałbyś / Wiedziałabyś",
-    "Ty": "Wiedziałby / Wiedziałaby",
-    "On/Ona": "Wiedzielibyśmy / Wiedziałybyśmy",
-    "My": "Wiedzielibyście / Wiedziałybyście",
-    "Wy": "Wiedzieliby / Wiedziałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Wiedziałbym / Wiedziałabym",
+    "Ty": "Wiedziałbyś / Wiedziałabyś",
+    "On/Ona": "Wiedziałby / Wiedziałaby",
+    "My": "Wiedzielibyśmy / Wiedziałybyśmy",
+    "Wy": "Wiedzielibyście / Wiedziałybyście",
+    "Oni/One": "Wiedzieliby / Wiedziałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2313,6 +2611,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Tańczyłem / Tańczyłam",
     "Ty": "Tańczyłeś / Tańczyłaś",
@@ -2322,14 +2622,16 @@
     "Oni/One": "Tańczyli / Tańczyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Tańczyłbym / Tańczyłabym",
-    "Ja": "Tańczyłbyś / Tańczyłabyś",
-    "Ty": "Tańczyłby / Tańczyłaby",
-    "On/Ona": "Tańczylibyśmy / Tańczyłybyśmy",
-    "My": "Tańczylibyście / Tańczyłybyście",
-    "Wy": "Tańczyliby / Tańczyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Tańczyłbym / Tańczyłabym",
+    "Ty": "Tańczyłbyś / Tańczyłabyś",
+    "On/Ona": "Tańczyłby / Tańczyłaby",
+    "My": "Tańczylibyśmy / Tańczyłybyśmy",
+    "Wy": "Tańczylibyście / Tańczyłybyście",
+    "Oni/One": "Tańczyliby / Tańczyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2347,6 +2649,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Kładłem / Kładłam",
     "Ty": "Kładłeś / Kładłaś",
@@ -2356,14 +2660,16 @@
     "Oni/One": "Kładli / Kładły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Kładłbym / Kładłabym",
-    "Ja": "Kładłbyś / Kładłabyś",
-    "Ty": "Kładłby / Kładłaby",
-    "On/Ona": "Kładlibyśmy / Kładłybyśmy",
-    "My": "Kładlibyście / Kładłybyście",
-    "Wy": "Kładliby / Kładłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Kładłbym / Kładłabym",
+    "Ty": "Kładłbyś / Kładłabyś",
+    "On/Ona": "Kładłby / Kładłaby",
+    "My": "Kładlibyśmy / Kładłybyśmy",
+    "Wy": "Kładlibyście / Kładłybyście",
+    "Oni/One": "Kładliby / Kładłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2381,6 +2687,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Podnosiłem / Podnosiłam",
     "Ty": "Podnosiłeś / Podnosiłaś",
@@ -2390,14 +2698,16 @@
     "Oni/One": "Podnosili / Podnosiły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Podnosiłbym / Podnosiłabym",
-    "Ja": "Podnosiłbyś / Podnosiłabyś",
-    "Ty": "Podnosiłby / Podnosiłaby",
-    "On/Ona": "Podnosilibyśmy / Podnosiłybyśmy",
-    "My": "Podnosilibyście / Podnosiłybyście",
-    "Wy": "Podnosiliby / Podnosiłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Podnosiłbym / Podnosiłabym",
+    "Ty": "Podnosiłbyś / Podnosiłabyś",
+    "On/Ona": "Podnosiłby / Podnosiłaby",
+    "My": "Podnosilibyśmy / Podnosiłybyśmy",
+    "Wy": "Podnosilibyście / Podnosiłybyście",
+    "Oni/One": "Podnosiliby / Podnosiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2415,6 +2725,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Naprawiałem / Naprawiałam",
     "Ty": "Naprawiałeś / Naprawiałaś",
@@ -2424,14 +2736,16 @@
     "Oni/One": "Naprawiali / Naprawiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Naprawiałbym / Naprawiałabym",
-    "Ja": "Naprawiałbyś / Naprawiałabyś",
-    "Ty": "Naprawiałby / Naprawiałaby",
-    "On/Ona": "Naprawialibyśmy / Naprawiałybyśmy",
-    "My": "Naprawialibyście / Naprawiałybyście",
-    "Wy": "Naprawialiby / Naprawiałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Naprawiałbym / Naprawiałabym",
+    "Ty": "Naprawiałbyś / Naprawiałabyś",
+    "On/Ona": "Naprawiałby / Naprawiałaby",
+    "My": "Naprawialibyśmy / Naprawiałybyśmy",
+    "Wy": "Naprawialibyście / Naprawiałybyście",
+    "Oni/One": "Naprawialiby / Naprawiałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2449,6 +2763,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Czekałem / Czekałam",
     "Ty": "Czekałeś / Czekałaś",
@@ -2458,14 +2774,16 @@
     "Oni/One": "Czekali / Czekały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Czekałbym / Czekałabym",
-    "Ja": "Czekałbyś / Czekałabyś",
-    "Ty": "Czekałby / Czekałaby",
-    "On/Ona": "Czekalibyśmy / Czekałybyśmy",
-    "My": "Czekalibyście / Czekałybyście",
-    "Wy": "Czekaliby / Czekałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Czekałbym / Czekałabym",
+    "Ty": "Czekałbyś / Czekałabyś",
+    "On/Ona": "Czekałby / Czekałaby",
+    "My": "Czekalibyśmy / Czekałybyśmy",
+    "Wy": "Czekalibyście / Czekałybyście",
+    "Oni/One": "Czekaliby / Czekałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2483,6 +2801,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Zapominałem / Zapominałam",
     "Ty": "Zapominałeś / Zapominałaś",
@@ -2492,14 +2812,16 @@
     "Oni/One": "Zapominali / Zapominały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zapomniałbym / Zapomniałabym",
-    "Ja": "Zapomniałbyś / Zapomniałabyś",
-    "Ty": "Zapomniałby / Zapomniałaby",
-    "On/Ona": "Zapomnielibyśmy / Zapomniałybyśmy",
-    "My": "Zapomnielibyście / Zapomniałybyście",
-    "Wy": "Zapomnieliby / Zapomniałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Zapomniałbym / Zapomniałabym",
+    "Ty": "Zapomniałbyś / Zapomniałabyś",
+    "On/Ona": "Zapomniałby / Zapomniałaby",
+    "My": "Zapomnielibyśmy / Zapomniałybyśmy",
+    "Wy": "Zapomnielibyście / Zapomniałybyście",
+    "Oni/One": "Zapomnieliby / Zapomniałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2517,6 +2839,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Oglądałem / Oglądałam",
     "Ty": "Oglądałeś / Oglądałaś",
@@ -2526,14 +2850,16 @@
     "Oni/One": "Oglądali / Oglądały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Oglądałbym / Oglądałabym",
-    "Ja": "Oglądałbyś / Oglądałabyś",
-    "Ty": "Oglądałby / Oglądałaby",
-    "On/Ona": "Oglądalibyśmy / Oglądałybyśmy",
-    "My": "Oglądalibyście / Oglądałybyście",
-    "Wy": "Oglądaliby / Oglądałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Oglądałbym / Oglądałabym",
+    "Ty": "Oglądałbyś / Oglądałabyś",
+    "On/Ona": "Oglądałby / Oglądałaby",
+    "My": "Oglądalibyśmy / Oglądałybyśmy",
+    "Wy": "Oglądalibyście / Oglądałybyście",
+    "Oni/One": "Oglądaliby / Oglądałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2551,6 +2877,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Siedziałem / Siedziałam",
     "Ty": "Siedziałeś / Siedziałaś",
@@ -2560,14 +2888,16 @@
     "Oni/One": "Siedziali / Siedziały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Siedziałbym / Siedziałabym",
-    "Ja": "Siedziałbyś / Siedziałabyś",
-    "Ty": "Siedziałby / Siedziałaby",
-    "On/Ona": "Siedzielibyśmy / Siedziałybyśmy",
-    "My": "Siedzielibyście / Siedziałybyście",
-    "Wy": "Siedzieliby / Siedziałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Siedziałbym / Siedziałabym",
+    "Ty": "Siedziałbyś / Siedziałabyś",
+    "On/Ona": "Siedziałby / Siedziałaby",
+    "My": "Siedzielibyśmy / Siedziałybyśmy",
+    "Wy": "Siedzielibyście / Siedziałybyście",
+    "Oni/One": "Siedzieliby / Siedziałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2585,6 +2915,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Wkładałem / Wkładałam",
     "Ty": "Wkładałeś / Wkładałaś",
@@ -2594,14 +2926,16 @@
     "Oni/One": "Wkładali / Wkładały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wkładałbym / Wkładałabym",
-    "Ja": "Wkładałbyś / Wkładałabyś",
-    "Ty": "Wkładałby / Wkładałaby",
-    "On/Ona": "Wkładalibyśmy / Wkładałybyśmy",
-    "My": "Wkładalibyście / Wkładałybyście",
-    "Wy": "Wkładaliby / Wkładałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Wkładałbym / Wkładałabym",
+    "Ty": "Wkładałbyś / Wkładałabyś",
+    "On/Ona": "Wkładałby / Wkładałaby",
+    "My": "Wkładalibyśmy / Wkładałybyśmy",
+    "Wy": "Wkładalibyście / Wkładałybyście",
+    "Oni/One": "Wkładaliby / Wkładałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2619,6 +2953,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Wyjaśniłem / Wyjaśniłam",
     "Ty": "Wyjaśniłeś / Wyjaśniłaś",
@@ -2628,14 +2964,16 @@
     "Oni/One": "Wyjaśnili / Wyjaśniły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wyjaśniałbym / Wyjaśniałabym",
-    "Ja": "Wyjaśniałbyś / Wyjaśniałabyś",
-    "Ty": "Wyjaśniałby / Wyjaśniałaby",
-    "On/Ona": "Wyjaśnialibyśmy / Wyjaśniałybyśmy",
-    "My": "Wyjaśnialibyście / Wyjaśniałybyście",
-    "Wy": "Wyjaśnialiby / Wyjaśniałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Wyjaśniałbym / Wyjaśniałabym",
+    "Ty": "Wyjaśniałbyś / Wyjaśniałabyś",
+    "On/Ona": "Wyjaśniałby / Wyjaśniałaby",
+    "My": "Wyjaśnialibyśmy / Wyjaśniałybyśmy",
+    "Wy": "Wyjaśnialibyście / Wyjaśniałybyście",
+    "Oni/One": "Wyjaśnialiby / Wyjaśniałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2653,6 +2991,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Rysowałem / Rysowałam",
     "Ty": "Rysowałeś / Rysowałaś",
@@ -2662,14 +3002,16 @@
     "Oni/One": "Rysowali / Rysowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Rysowałbym / Rysowałabym",
-    "Ja": "Rysowałbyś / Rysowałabyś",
-    "Ty": "Rysowałby / Rysowałaby",
-    "On/Ona": "Rysowalibyśmy / Rysowałybyśmy",
-    "My": "Rysowalibyście / Rysowałybyście",
-    "Wy": "Rysowaliby / Rysowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Rysowałbym / Rysowałabym",
+    "Ty": "Rysowałbyś / Rysowałabyś",
+    "On/Ona": "Rysowałby / Rysowałaby",
+    "My": "Rysowalibyśmy / Rysowałybyśmy",
+    "Wy": "Rysowalibyście / Rysowałybyście",
+    "Oni/One": "Rysowaliby / Rysowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2687,6 +3029,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Zapraszałem / Zapreaszałam",
     "Ty": "Zapraszałeś / Zapreaszałaś",
@@ -2696,14 +3040,16 @@
     "Oni/One": "Zapraszali / Zapreaszały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zapraszałbym / Zapraszałabym",
-    "Ja": "Zapraszałbyś / Zapraszałabyś",
-    "Ty": "Zapraszałby / Zapraszałaby",
-    "On/Ona": "Zapraszalibyśmy / Zapraszałybyśmy",
-    "My": "Zapraszalibyście / Zapraszałybyście",
-    "Wy": "Zapraszaliby / Zapraszałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Zapraszałbym / Zapraszałabym",
+    "Ty": "Zapraszałbyś / Zapraszałabyś",
+    "On/Ona": "Zapraszałby / Zapraszałaby",
+    "My": "Zapraszalibyśmy / Zapraszałybyśmy",
+    "Wy": "Zapraszalibyście / Zapraszałybyście",
+    "Oni/One": "Zapraszaliby / Zapraszałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2721,6 +3067,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Zamykałem / Zamykałam",
     "Ty": "Zamykałeś / Zamykałaś",
@@ -2730,14 +3078,16 @@
     "Oni/One": "Zamykali / Zamykały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zamykałbym / Zamykałabym",
-    "Ja": "Zamykałbyś / Zamykałabyś",
-    "Ty": "Zamykałby / Zamykałaby",
-    "On/Ona": "Zamykalibyśmy / Zamykałybyśmy",
-    "My": "Zamykalibyście / Zamykałybyście",
-    "Wy": "Zamykaliby / Zamykałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Zamykałbym / Zamykałabym",
+    "Ty": "Zamykałbyś / Zamykałabyś",
+    "On/Ona": "Zamykałby / Zamykałaby",
+    "My": "Zamykalibyśmy / Zamykałybyśmy",
+    "Wy": "Zamykalibyście / Zamykałybyście",
+    "Oni/One": "Zamykaliby / Zamykałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2755,6 +3105,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Rozumiałem / Rozumiałam",
     "Ty": "Rozumiałeś / Rozumiałaś",
@@ -2764,14 +3116,16 @@
     "Oni/One": "Rozumiali / Rozumiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Rozumiałbym / Rozumiałabym",
-    "Ja": "Rozumiałbyś / Rozumiałabyś",
-    "Ty": "Rozumiałby / Rozumiałaby",
-    "On/Ona": "Rozumielibyśmy / Rozumiałybyśmy",
-    "My": "Rozumielibyście / Rozumiałybyście",
-    "Wy": "Rozumieliby / Rozumiałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Rozumiałbym / Rozumiałabym",
+    "Ty": "Rozumiałbyś / Rozumiałabyś",
+    "On/Ona": "Rozumiałby / Rozumiałaby",
+    "My": "Rozumielibyśmy / Rozumiałybyśmy",
+    "Wy": "Rozumielibyście / Rozumiałybyście",
+    "Oni/One": "Rozumieliby / Rozumiałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.15,
@@ -2789,6 +3143,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
     "Tense": "Past",
     "Ja": "Uważałem / Uważałam",
     "Ty": "Uważałeś / Uważałaś",
@@ -2798,14 +3154,16 @@
     "Oni/One": "Uważali / Uważały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Uważałbym / Uważałabym",
-    "Ja": "Uważałbyś / Uważałabyś",
-    "Ty": "Uważałby / Uważałaby",
-    "On/Ona": "Uważalibyśmy / Uważałybyśmy",
-    "My": "Uważalibyście / Uważałybyście",
-    "Wy": "Uważaliby / Uważałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.15,
+    "Topic": "Talk about the present",
+    "Tense": "Conditional",
+    "Ja": "Uważałbym / Uważałabym",
+    "Ty": "Uważałbyś / Uważałabyś",
+    "On/Ona": "Uważałby / Uważałaby",
+    "My": "Uważalibyśmy / Uważałybyśmy",
+    "Wy": "Uważalibyście / Uważałybyście",
+    "Oni/One": "Uważaliby / Uważałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.16,
@@ -2823,6 +3181,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.16,
+    "Topic": "Use numbers",
     "Tense": "Past",
     "Ja": "Wystarczałem / Wystarczałam",
     "Ty": "Wystarczałeś / Wystarczałaś",
@@ -2832,14 +3192,16 @@
     "Oni/One": "Wystarczali / Wystarczały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wystarczałbym / Wystarczałabym",
-    "Ja": "Wystarczałbyś / Wystarczałabyś",
-    "Ty": "Wystarczałby / Wystarczałaby",
-    "On/Ona": "Wystarczalibyśmy / Wystarczałybyśmy",
-    "My": "Wystarczalibyście / Wystarczałybyście",
-    "Wy": "Wystarczaliby / Wystarczałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.16,
+    "Topic": "Use numbers",
+    "Tense": "Conditional",
+    "Ja": "Wystarczałbym / Wystarczałabym",
+    "Ty": "Wystarczałbyś / Wystarczałabyś",
+    "On/Ona": "Wystarczałby / Wystarczałaby",
+    "My": "Wystarczalibyśmy / Wystarczałybyśmy",
+    "Wy": "Wystarczalibyście / Wystarczałybyście",
+    "Oni/One": "Wystarczaliby / Wystarczałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.18,
@@ -2857,6 +3219,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
     "Tense": "Past",
     "Ja": "Odjeżdżałem / Odjeżdżałam",
     "Ty": "Odjeżdżałeś / Odjeżdżałaś",
@@ -2866,14 +3230,16 @@
     "Oni/One": "Odjeżdżali / Odjeżdżały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Odjechałbym / Odjechałabym",
-    "Ja": "Odjechałbyś / Odjechałabyś",
-    "Ty": "Odjechałby / Odjechałaby",
-    "On/Ona": "Odjechalibyśmy / Odjechałybyśmy",
-    "My": "Odjechalibyście / Odjechałybyście",
-    "Wy": "Odjechaliby / Odjechałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Tense": "Conditional",
+    "Ja": "Odjechałbym / Odjechałabym",
+    "Ty": "Odjechałbyś / Odjechałabyś",
+    "On/Ona": "Odjechałby / Odjechałaby",
+    "My": "Odjechalibyśmy / Odjechałybyśmy",
+    "Wy": "Odjechalibyście / Odjechałybyście",
+    "Oni/One": "Odjechaliby / Odjechałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.18,
@@ -2891,6 +3257,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
     "Tense": "Past",
     "Ja": "Przyjeżdżałem / Przyjeżdżałam",
     "Ty": "Przyjeżdżałeś / Przyjeżdżałaś",
@@ -2900,14 +3268,16 @@
     "Oni/One": "Przyjeżdżali / Przyjeżdżały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Przyjechałbym / Przyjechałabym",
-    "Ja": "Przyjechałbyś / Przyjechałabyś",
-    "Ty": "Przyjechałby / Przyjechałaby",
-    "On/Ona": "Przyjechalibyśmy / Przyjechałybyśmy",
-    "My": "Przyjechalibyście / Przyjechałybyście",
-    "Wy": "Przyjechaliby / Przyjechałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Tense": "Conditional",
+    "Ja": "Przyjechałbym / Przyjechałabym",
+    "Ty": "Przyjechałbyś / Przyjechałabyś",
+    "On/Ona": "Przyjechałby / Przyjechałaby",
+    "My": "Przyjechalibyśmy / Przyjechałybyśmy",
+    "Wy": "Przyjechalibyście / Przyjechałybyście",
+    "Oni/One": "Przyjechaliby / Przyjechałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.18,
@@ -2925,6 +3295,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
     "Tense": "Past",
     "Ja": "Jeździłem / Jeździłam",
     "Ty": "Jeździłeś / Jeździłaś",
@@ -2934,14 +3306,16 @@
     "Oni/One": "Jeździli / Jeździły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Jeździłbym / Jeździłabym",
-    "Ja": "Jeździłbyś / Jeździłabyś",
-    "Ty": "Jeździłby / Jeździłaby",
-    "On/Ona": "Jeździlibyśmy / Jeździłybyśmy",
-    "My": "Jeździlibyście / Jeździłybyście",
-    "Wy": "Jeździliby / Jeździłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Tense": "Conditional",
+    "Ja": "Jeździłbym / Jeździłabym",
+    "Ty": "Jeździłbyś / Jeździłabyś",
+    "On/Ona": "Jeździłby / Jeździłaby",
+    "My": "Jeździlibyśmy / Jeździłybyśmy",
+    "Wy": "Jeździlibyście / Jeździłybyście",
+    "Oni/One": "Jeździliby / Jeździłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.18,
@@ -2959,6 +3333,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
     "Tense": "Past",
     "Ja": "Prowadziłem / Prowadziłam",
     "Ty": "Prowadziłeś / Prowadziłaś",
@@ -2968,14 +3344,16 @@
     "Oni/One": "Prowadzili / Prowadziły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Prowadziłbym / Prowadziłabym",
-    "Ja": "Prowadziłbyś / Prowadziłabyś",
-    "Ty": "Prowadziłby / Prowadziłaby",
-    "On/Ona": "Prowadzilibyśmy / Prowadziłybyśmy",
-    "My": "Prowadzilibyście / Prowadziłybyście",
-    "Wy": "Prowadziliby / Prowadziłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Tense": "Conditional",
+    "Ja": "Prowadziłbym / Prowadziłabym",
+    "Ty": "Prowadziłbyś / Prowadziłabyś",
+    "On/Ona": "Prowadziłby / Prowadziłaby",
+    "My": "Prowadzilibyśmy / Prowadziłybyśmy",
+    "Wy": "Prowadzilibyście / Prowadziłybyście",
+    "Oni/One": "Prowadziliby / Prowadziłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.18,
@@ -2993,6 +3371,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
     "Tense": "Past",
     "Ja": "Leciałem / Leciałam",
     "Ty": "Leciałem / Leciałam",
@@ -3002,14 +3382,16 @@
     "Oni/One": "Leciali / Leciały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Leciałbym / Leciałabym",
-    "Ja": "Leciałbyś / Leciałabyś",
-    "Ty": "Leciałby / Leciałaby",
-    "On/Ona": "Lecielibyśmy / Leciałybyśmy",
-    "My": "Lecielibyście / Leciałybyście",
-    "Wy": "Lecieliby / Leciałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Tense": "Conditional",
+    "Ja": "Leciałbym / Leciałabym",
+    "Ty": "Leciałbyś / Leciałabyś",
+    "On/Ona": "Leciałby / Leciałaby",
+    "My": "Lecielibyśmy / Leciałybyśmy",
+    "Wy": "Lecielibyście / Leciałybyście",
+    "Oni/One": "Lecieliby / Leciałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.18,
@@ -3028,6 +3410,8 @@
     "Notes": "Single once off action"
   },
   {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
     "Tense": "Past",
     "Ja": "Płynąłem / Płynęłam",
     "Ty": "Płynąłeś / Płynęłaś",
@@ -3037,14 +3421,16 @@
     "Oni/One": "Płynęli / Płynęły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Płynąłbym / Płynęłabym",
-    "Ja": "Płynąłbyś / Płynęłabyś",
-    "Ty": "Płynąłby / Płynęłaby",
-    "On/Ona": "Płynęlibyśmy / Płynęłybyśmy",
-    "My": "Płynęlibyście / Płynęłybyście",
-    "Wy": "Płynęliby / Płynęłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Tense": "Conditional",
+    "Ja": "Płynąłbym / Płynęłabym",
+    "Ty": "Płynąłbyś / Płynęłabyś",
+    "On/Ona": "Płynąłby / Płynęłaby",
+    "My": "Płynęlibyśmy / Płynęłybyśmy",
+    "Wy": "Płynęlibyście / Płynęłybyście",
+    "Oni/One": "Płynęliby / Płynęłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.18,
@@ -3063,6 +3449,8 @@
     "Notes": "Repeated action"
   },
   {
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
     "Tense": "Past",
     "Ja": "Pływałem / Pływałam",
     "Ty": "Pływałeś / Pływałaś",
@@ -3072,14 +3460,16 @@
     "Oni/One": "Pływali / Pływały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Pływałbym / Pływałabym",
-    "Ja": "Pływałbyś / Pływałabyś",
-    "Ty": "Pływałby / Pływałaby",
-    "On/Ona": "Pływalibyśmy / Pływałybyśmy",
-    "My": "Pływalibyście / Pływałybyście",
-    "Wy": "Pływaliby / Pływałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.18,
+    "Topic": "Talk about travel",
+    "Tense": "Conditional",
+    "Ja": "Pływałbym / Pływałabym",
+    "Ty": "Pływałbyś / Pływałabyś",
+    "On/Ona": "Pływałby / Pływałaby",
+    "My": "Pływalibyśmy / Pływałybyśmy",
+    "Wy": "Pływalibyście / Pływałybyście",
+    "Oni/One": "Pływaliby / Pływałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.19,
@@ -3097,6 +3487,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
     "Tense": "Past",
     "Ja": "Nienawidziłem / Nienawidziłam",
     "Ty": "Nienawidziłeś / Nienawidziłaś",
@@ -3106,14 +3498,16 @@
     "Oni/One": "Nienawidzili / Nienawidziły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Nienawidziłbym / Nienawidziłabym",
-    "Ja": "Nienawidziłbyś / Nienawidziłabyś",
-    "Ty": "Nienawidziłby / Nienawidziłaby",
-    "On/Ona": "Nienawidzilibyśmy / Nienawidziłybyśmy",
-    "My": "Nienawidzilibyście / Nienawidziłybyście",
-    "Wy": "Nienawidziliby / Nienawidziłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Tense": "Conditional",
+    "Ja": "Nienawidziłbym / Nienawidziłabym",
+    "Ty": "Nienawidziłbyś / Nienawidziłabyś",
+    "On/Ona": "Nienawidziłby / Nienawidziłaby",
+    "My": "Nienawidzilibyśmy / Nienawidziłybyśmy",
+    "Wy": "Nienawidzilibyście / Nienawidziłybyście",
+    "Oni/One": "Nienawidziliby / Nienawidziłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.19,
@@ -3132,6 +3526,8 @@
     "Notes": "Modal verb – it requires an infinitive verb to complete it’s role"
   },
   {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
     "Tense": "Past",
     "Ja": "Chciałem / Chciałam",
     "Ty": "Chciałeś / Chciałaś",
@@ -3141,14 +3537,16 @@
     "Oni/One": "Chcieli / Chciały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Chciałbym / Chciałabym",
-    "Ja": "Chciałbyś / Chciałabyś",
-    "Ty": "Chciałby / Chciałaby",
-    "On/Ona": "Chcielibyśmy / Chciałybyśmy",
-    "My": "Chcielibyście / Chciałybyście",
-    "Wy": "Chcieliby / Chciałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Tense": "Conditional",
+    "Ja": "Chciałbym / Chciałabym",
+    "Ty": "Chciałbyś / Chciałabyś",
+    "On/Ona": "Chciałby / Chciałaby",
+    "My": "Chcielibyśmy / Chciałybyśmy",
+    "Wy": "Chcielibyście / Chciałybyście",
+    "Oni/One": "Chcieliby / Chciałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.19,
@@ -3166,6 +3564,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
     "Tense": "Past",
     "Ja": "Umiałem / Umiałam",
     "Ty": "Umiałeś / Umiałaś",
@@ -3175,14 +3575,16 @@
     "Oni/One": "Umieli / Umiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Umiałbym / Umiałabym",
-    "Ja": "Umiałbyś / Umiałabyś",
-    "Ty": "Umiałby / Umiałaby",
-    "On/Ona": "Umielibyśmy / Umiałybyśmy",
-    "My": "Umielibyście / Umiałybyście",
-    "Wy": "Umieliby / Umiałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Tense": "Conditional",
+    "Ja": "Umiałbym / Umiałabym",
+    "Ty": "Umiałbyś / Umiałabyś",
+    "On/Ona": "Umiałby / Umiałaby",
+    "My": "Umielibyśmy / Umiałybyśmy",
+    "Wy": "Umielibyście / Umiałybyście",
+    "Oni/One": "Umieliby / Umiałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.19,
@@ -3200,6 +3602,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
     "Tense": "Past",
     "Ja": "Liczyłem / Liczyłam",
     "Ty": "Liczyłeś / Liczyłaś",
@@ -3209,14 +3613,16 @@
     "Oni/One": "Liczyli / Liczyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Liczyłbym / Liczyłabym",
-    "Ja": "Liczyłbyś / Liczyłabyś",
-    "Ty": "Liczyłby / Liczyłaby",
-    "On/Ona": "Liczylibyśmy / Liczyłybyśmy",
-    "My": "Liczylibyście / Liczyłybyście",
-    "Wy": "Liczyliby / Liczyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Tense": "Conditional",
+    "Ja": "Liczyłbym / Liczyłabym",
+    "Ty": "Liczyłbyś / Liczyłabyś",
+    "On/Ona": "Liczyłby / Liczyłaby",
+    "My": "Liczylibyśmy / Liczyłybyśmy",
+    "Wy": "Liczylibyście / Liczyłybyście",
+    "Oni/One": "Liczyliby / Liczyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.19,
@@ -3234,6 +3640,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
     "Tense": "Past",
     "Ja": "Pozwalałem / Pozwalałam",
     "Ty": "Pozwalałeś / Pozwalałaś",
@@ -3243,14 +3651,16 @@
     "Oni/One": "Pozwalali / Pozwalały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Pozwalałbym / Pozwalałabym",
-    "Ja": "Pozwalałbyś / Pozwalałabyś",
-    "Ty": "Pozwalałby / Pozwalałaby",
-    "On/Ona": "Pozwalalibyśmy / Pozwalałybyśmy",
-    "My": "Pozwalalibyście / Pozwalałybyście",
-    "Wy": "Pozwalaliby / Pozwalałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Tense": "Conditional",
+    "Ja": "Pozwalałbym / Pozwalałabym",
+    "Ty": "Pozwalałbyś / Pozwalałabyś",
+    "On/Ona": "Pozwalałby / Pozwalałaby",
+    "My": "Pozwalalibyśmy / Pozwalałybyśmy",
+    "Wy": "Pozwalalibyście / Pozwalałybyście",
+    "Oni/One": "Pozwalaliby / Pozwalałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.19,
@@ -3269,6 +3679,8 @@
     "Notes": "Modal verb – it requires an infinitive verb to complete it’s role"
   },
   {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
     "Tense": "Past",
     "Ja": "Mogłem / Mogłam",
     "Ty": "Mogłeś / Mogłaś",
@@ -3278,14 +3690,16 @@
     "Oni/One": "Mogli / Mogły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Mógłbym / Mogłabym",
-    "Ja": "Mógłbyś / Mogłabyś",
-    "Ty": "Mógłby / Mogłaby",
-    "On/Ona": "Moglibyśmy / Mogłybyśmy",
-    "My": "Mogłibyście / Mogłybyśmy",
-    "Wy": "Mogliby / Mogłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Tense": "Conditional",
+    "Ja": "Mógłbym / Mogłabym",
+    "Ty": "Mógłbyś / Mogłabyś",
+    "On/Ona": "Mógłby / Mogłaby",
+    "My": "Moglibyśmy / Mogłybyśmy",
+    "Wy": "Mogłibyście / Mogłybyśmy",
+    "Oni/One": "Mogliby / Mogłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.19,
@@ -3304,6 +3718,8 @@
     "Notes": "Modal verb – it requires an infinitive verb to complete it’s role"
   },
   {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
     "Tense": "Past",
     "Ja": "Musiałem / Musiałam",
     "Ty": "Musiałeś / Musiałaś",
@@ -3313,14 +3729,16 @@
     "Oni/One": "Musieli / Musiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Musiałbym / Musiałabym",
-    "Ja": "Musiałbyś / Musiałabyś",
-    "Ty": "Musiałby / Musiałaby",
-    "On/Ona": "Musielibyśmy / Musiałybyśmy",
-    "My": "Musielibyście / Musiałybyście",
-    "Wy": "Musieliby / Musiałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Tense": "Conditional",
+    "Ja": "Musiałbym / Musiałabym",
+    "Ty": "Musiałbyś / Musiałabyś",
+    "On/Ona": "Musiałby / Musiałaby",
+    "My": "Musielibyśmy / Musiałybyśmy",
+    "Wy": "Musielibyście / Musiałybyście",
+    "Oni/One": "Musieliby / Musiałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.19,
@@ -3339,6 +3757,8 @@
     "Notes": "Modal verb – it requires an infinitive verb to complete it’s role. Also has no past tense, the verb that follows will set the tense"
   },
   {
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
     "Tense": "Past",
     "Ja": "-",
     "Ty": "-",
@@ -3349,14 +3769,16 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "-",
+    "Unit": 2.19,
+    "Topic": "Use infinitives",
+    "Tense": "Conditional",
     "Ja": "-",
     "Ty": "-",
     "On/Ona": "-",
     "My": "-",
     "Wy": "-",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Oni/One": "-",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.2,
@@ -3374,6 +3796,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
     "Tense": "Past",
     "Ja": "Smażyłem / Smażyłam",
     "Ty": "Smażyłeś / Smażyłaś",
@@ -3383,14 +3807,16 @@
     "Oni/One": "Smażyli / Smażyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Smażyłbym / Smażyłabym",
-    "Ja": "Smażyłbyś / Smażyłabyś",
-    "Ty": "Smażyłby / Smażyłaby",
-    "On/Ona": "Smażylibyśmy / Smażyłybyśmy",
-    "My": "Smażylibyście / Smażyłybyście",
-    "Wy": "Smażyliby / Smażyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.2,
+    "Topic": "Talk about food and drink",
+    "Tense": "Conditional",
+    "Ja": "Smażyłbym / Smażyłabym",
+    "Ty": "Smażyłbyś / Smażyłabyś",
+    "On/Ona": "Smażyłby / Smażyłaby",
+    "My": "Smażylibyśmy / Smażyłybyśmy",
+    "Wy": "Smażylibyście / Smażyłybyście",
+    "Oni/One": "Smażyliby / Smażyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.24,
@@ -3408,6 +3834,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
     "Tense": "Past",
     "Ja": "Przedstawiałem / Przedstawiałam",
     "Ty": "Przedstawiałeś / Przedstawiałaś",
@@ -3417,14 +3845,16 @@
     "Oni/One": "Przedstawiali / Przedstawiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Mieszałbym / Mieszałabym",
-    "Ja": "Mieszałbyś / Mieszałabyś",
-    "Ty": "Mieszałby / Mieszałaby",
-    "On/Ona": "Mieszalibyśmy / Mieszałybyśmy",
-    "My": "Mieszalibyście / Mieszałybyście",
-    "Wy": "Mieszaliby / Mieszałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Tense": "Conditional",
+    "Ja": "Mieszałbym / Mieszałabym",
+    "Ty": "Mieszałbyś / Mieszałabyś",
+    "On/Ona": "Mieszałby / Mieszałaby",
+    "My": "Mieszalibyśmy / Mieszałybyśmy",
+    "Wy": "Mieszalibyście / Mieszałybyście",
+    "Oni/One": "Mieszaliby / Mieszałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.25,
@@ -3442,6 +3872,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.25,
+    "Topic": "Describe activities",
     "Tense": "Past",
     "Ja": "Biegałem / Biegałam",
     "Ty": "Biegałeś / Biegałaś",
@@ -3451,14 +3883,16 @@
     "Oni/One": "Biegali / Biegały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Biegałbym / Biegałabym",
-    "Ja": "Biegałbyś / Biegałabyś",
-    "Ty": "Biegałby / Biegałaby",
-    "On/Ona": "Biegalibyśmy / Biegałybyśmy",
-    "My": "Biegalibyście / Biegałybyście",
-    "Wy": "Biegaliby / Biegałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.25,
+    "Topic": "Describe activities",
+    "Tense": "Conditional",
+    "Ja": "Biegałbym / Biegałabym",
+    "Ty": "Biegałbyś / Biegałabyś",
+    "On/Ona": "Biegałby / Biegałaby",
+    "My": "Biegalibyśmy / Biegałybyśmy",
+    "Wy": "Biegalibyście / Biegałybyście",
+    "Oni/One": "Biegaliby / Biegałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.25,
@@ -3476,23 +3910,27 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Jechałem / Jechałam",
-    "Tense": "Jechałeś / Jechałaś",
-    "Ja": "Jechał / Jechała",
-    "Ty": "Jechaliśmy / Jechałyśmy",
-    "On/Ona": "Jechaliście / Jechałyście",
-    "My": "Jechali / Jechały"
+    "Unit": 2.25,
+    "Topic": "Describe activities",
+    "Tense": "Past",
+    "Ja": "Jechałem / Jechałam",
+    "Ty": "Jechałeś / Jechałaś",
+    "On/Ona": "Jechał / Jechała",
+    "My": "Jechaliśmy / Jechałyśmy",
+    "Wy": "Jechaliście / Jechałyście",
+    "Oni/One": "Jechali / Jechały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Jechałbym / Jechałabym",
-    "Tense": "Jechałbyś / Jechałabyś",
-    "Ja": "Jechałby / Jechałaby",
-    "Ty": "Jechalibyśmy / Jechałybyśmy",
-    "On/Ona": "Jechalibyście / Jechałybyście",
-    "My": "Jechaliby / Jechałyby",
-    "Wy": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.25,
+    "Topic": "Describe activities",
+    "Tense": "Conditional",
+    "Ja": "Jechałbym / Jechałabym",
+    "Ty": "Jechałbyś / Jechałabyś",
+    "On/Ona": "Jechałby / Jechałaby",
+    "My": "Jechalibyśmy / Jechałybyśmy",
+    "Wy": "Jechalibyście / Jechałybyście",
+    "Oni/One": "Jechaliby / Jechałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3510,6 +3948,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Bałem / Bałam",
     "Ty": "Bałeś / Bałaś",
@@ -3519,14 +3959,16 @@
     "Oni/One": "Bali / Bały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Bałbym / Bałabym",
-    "Ja": "Bałbyś / Bałabyś",
-    "Ty": "Bałby / Bałaby",
-    "On/Ona": "Balibyśmy / Bałybyśmy",
-    "My": "Balibyście / Bałybyście",
-    "Wy": "Baliby / Bałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Bałbym / Bałabym",
+    "Ty": "Bałbyś / Bałabyś",
+    "On/Ona": "Bałby / Bałaby",
+    "My": "Balibyśmy / Bałybyśmy",
+    "Wy": "Balibyście / Bałybyście",
+    "Oni/One": "Baliby / Bałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3544,6 +3986,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Śmiałem / Śmiałam",
     "Ty": "Śmiałeś / Śmiałaś",
@@ -3553,14 +3997,16 @@
     "Oni/One": "Śmiali / Śmiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Śmiałbym / Śmiałabym",
-    "Ja": "Śmiałbyś / Śmiałabyś",
-    "Ty": "Śmiałby / Śmiałaby",
-    "On/Ona": "Śmielibyśmy / Śmiałybyśmy",
-    "My": "Śmielibyście / Śmiałybyście",
-    "Wy": "Śmieliby / Śmiałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Śmiałbym / Śmiałabym",
+    "Ty": "Śmiałbyś / Śmiałabyś",
+    "On/Ona": "Śmiałby / Śmiałaby",
+    "My": "Śmielibyśmy / Śmiałybyśmy",
+    "Wy": "Śmielibyście / Śmiałybyście",
+    "Oni/One": "Śmieliby / Śmiałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3578,6 +4024,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Czułem / Czułam",
     "Ty": "Czułeś / Czułaś",
@@ -3587,14 +4035,16 @@
     "Oni/One": "Czuli / Czuły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Czułbym / Czułabym",
-    "Ja": "Czułbyś / Czułabyś",
-    "Ty": "Czułby / Czułaby",
-    "On/Ona": "Czuliśmy / Czułybyśmy",
-    "My": "Czuliście / Czułybyście",
-    "Wy": "Czuli / Czuły",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Czułbym / Czułabym",
+    "Ty": "Czułbyś / Czułabyś",
+    "On/Ona": "Czułby / Czułaby",
+    "My": "Czuliśmy / Czułybyśmy",
+    "Wy": "Czuliście / Czułybyście",
+    "Oni/One": "Czuli / Czuły",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3612,6 +4062,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Cieszyłem / Cieszyłam",
     "Ty": "Cieszyłeś / Cieszyłaś",
@@ -3621,14 +4073,16 @@
     "Oni/One": "Cieszyli / Cieszyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Cieszyłbym / Cieszyłabym",
-    "Ja": "Cieszyłbyś / Cieszyłabyś",
-    "Ty": "Cieszyłby / Cieszyłaby",
-    "On/Ona": "Cieszyliśmy / Cieszyłybyśmy",
-    "My": "Cieszyliście / Cieszyłybyście",
-    "Wy": "Cieszyli / Cieszyły",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Cieszyłbym / Cieszyłabym",
+    "Ty": "Cieszyłbyś / Cieszyłabyś",
+    "On/Ona": "Cieszyłby / Cieszyłaby",
+    "My": "Cieszyliśmy / Cieszyłybyśmy",
+    "Wy": "Cieszyliście / Cieszyłybyście",
+    "Oni/One": "Cieszyli / Cieszyły",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3646,6 +4100,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Wydawałem / Wydawałam",
     "Ty": "Wydawałeś / Wydawałaś",
@@ -3655,14 +4111,16 @@
     "Oni/One": "Wydawali / Wydawały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wydawałbym / Wydawałabym",
-    "Ja": "Wydawałbyś / Wydawałabyś",
-    "Ty": "Wydawałby / Wydawałaby",
-    "On/Ona": "Wydawalibyśmy / Wydawałybyśmy",
-    "My": "Wydawalibyście / Wydawałybyście",
-    "Wy": "Wydawaliby / Wydawałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Wydawałbym / Wydawałabym",
+    "Ty": "Wydawałbyś / Wydawałabyś",
+    "On/Ona": "Wydawałby / Wydawałaby",
+    "My": "Wydawalibyśmy / Wydawałybyśmy",
+    "Wy": "Wydawalibyście / Wydawałybyście",
+    "Oni/One": "Wydawaliby / Wydawałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3680,6 +4138,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Wydawałem się / Wydawałam się",
     "Ty": "Wydawałeś się / Wydawałaś się",
@@ -3689,14 +4149,16 @@
     "Oni/One": "Wydawali się / Wydawały się"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wydawałbym się / Wydawałabym się",
-    "Ja": "Wydawałbyś się / Wydawałabyś się",
-    "Ty": "Wydawałby się / Wydawałaby się",
-    "On/Ona": "Wydawalibyśmy się / Wydawałybyśmy się",
-    "My": "Wydawalibyście się / Wydawałybyście się",
-    "Wy": "Wydawaliby się / Wydawałyby się",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Wydawałbym się / Wydawałabym się",
+    "Ty": "Wydawałbyś się / Wydawałabyś się",
+    "On/Ona": "Wydawałby się / Wydawałaby się",
+    "My": "Wydawalibyśmy się / Wydawałybyśmy się",
+    "Wy": "Wydawalibyście się / Wydawałybyście się",
+    "Oni/One": "Wydawaliby się / Wydawałyby się",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3715,6 +4177,8 @@
     "Notes": "It is used in an impersonal way, where the subject of the sentence (the thing that is liked) is in the nominative case, and the person who likes it is expressed in the dative case."
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Podobałem / Podobałam",
     "Ty": "Podobałeś / Podobałaś",
@@ -3724,14 +4188,16 @@
     "Oni/One": "Podobali / Podobały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Podobałbym / Podobałabym",
-    "Ja": "Podobałbyś / Podobałabyś",
-    "Ty": "Podobałby / Podobałaby",
-    "On/Ona": "Podobalibyśmy / Podobałybyśmy",
-    "My": "Podobalibyście / Podobałybyście",
-    "Wy": "Podobaliby / Podobałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Podobałbym / Podobałabym",
+    "Ty": "Podobałbyś / Podobałabyś",
+    "On/Ona": "Podobałby / Podobałaby",
+    "My": "Podobalibyśmy / Podobałybyśmy",
+    "Wy": "Podobalibyście / Podobałybyście",
+    "Oni/One": "Podobaliby / Podobałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3750,6 +4216,8 @@
     "Notes": "Impersonal verb, so it doesn’t have any gendered version. Past tense translates to ‘what was happening’. For impersonal verbs, się preceeds the verb.The verb conjugation then indicates who something is happening to"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Działo się",
     "Ty": "Działo się",
@@ -3759,14 +4227,16 @@
     "Oni/One": "Działo się"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Działo się / Działałbym / Działałabym",
-    "Ja": "Działo byś się / Działałabyś",
-    "Ty": "Działałby / Działała",
-    "On/Ona": "Dzialibyśmy / Dzialałybyśmy",
-    "My": "Dzialibyście / Dzialałybyście",
-    "Wy": "Dzialiby / Dzialałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Działo się / Działałbym / Działałabym",
+    "Ty": "Działo byś się / Działałabyś",
+    "On/Ona": "Działałby / Działała",
+    "My": "Dzialibyśmy / Dzialałybyśmy",
+    "Wy": "Dzialibyście / Dzialałybyście",
+    "Oni/One": "Dzialiby / Dzialałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3784,6 +4254,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Myłem / Myłam",
     "Ty": "Myłeś / Myłaś",
@@ -3793,14 +4265,16 @@
     "Oni/One": "Myli / Myły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Myłbym / Myłabym",
-    "Ja": "Myłbyś / Myłabyś",
-    "Ty": "Myłby / Myłaby",
-    "On/Ona": "Mylibyśmy / Myłybyśmy",
-    "My": "Mylibyście / Myłybyście",
-    "Wy": "Myliby / Myłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Myłbym / Myłabym",
+    "Ty": "Myłbyś / Myłabyś",
+    "On/Ona": "Myłby / Myłaby",
+    "My": "Mylibyśmy / Myłybyśmy",
+    "Wy": "Mylibyście / Myłybyście",
+    "Oni/One": "Myliby / Myłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3818,6 +4292,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Uśmiechałem / Uśmiechałam",
     "Ty": "Uśmiechałeś / Uśmiechałaś",
@@ -3827,14 +4303,16 @@
     "Oni/One": "Uśmiechali / Uśmiechały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Uśmiechałbym / Uśmiechałabym",
-    "Ja": "Uśmiechałbyś / Uśmiechałabyś",
-    "Ty": "Uśmiechałby / Uśmiechałaby",
-    "On/Ona": "Uśmiechalibyśmy / Uśmiechałybyśmy",
-    "My": "Uśmiechalibyście / Uśmiechałybyście",
-    "Wy": "Uśmiechaliby / Uśmiechałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Uśmiechałbym / Uśmiechałabym",
+    "Ty": "Uśmiechałbyś / Uśmiechałabyś",
+    "On/Ona": "Uśmiechałby / Uśmiechałaby",
+    "My": "Uśmiechalibyśmy / Uśmiechałybyśmy",
+    "Wy": "Uśmiechalibyście / Uśmiechałybyście",
+    "Oni/One": "Uśmiechaliby / Uśmiechałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3852,6 +4330,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Bawiłem się / Bawiłam się",
     "Ty": "Bawiłeś się / Bawiłaś się",
@@ -3861,14 +4341,16 @@
     "Oni/One": "Bawili się / Bawiły się"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Bawiłbym się / Bawiłabym się",
-    "Ja": "Bawiłbyś się / Bawiłabyś się",
-    "Ty": "Bawiłby się / Bawiłaby się",
-    "On/Ona": "Bawilibyśmy się / Bawiłybyśmy się",
-    "My": "Bawilibyście się / Bawiłybyście się",
-    "Wy": "Bawiliby się / Bawiłyby się",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Bawiłbym się / Bawiłabym się",
+    "Ty": "Bawiłbyś się / Bawiłabyś się",
+    "On/Ona": "Bawiłby się / Bawiłaby się",
+    "My": "Bawilibyśmy się / Bawiłybyśmy się",
+    "Wy": "Bawilibyście się / Bawiłybyście się",
+    "Oni/One": "Bawiliby się / Bawiłyby się",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3887,6 +4369,8 @@
     "Notes": "Used more for emotional / mental wellbeing"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Troszczyłem się / Troszczyłam się",
     "Ty": "Troszczyłeś się / Troszczyłaś się",
@@ -3896,14 +4380,16 @@
     "Oni/One": "Troszczyli się / Troszczyły się"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Troszczyłbym się / Troszczyłabym się",
-    "Ja": "Troszczyłbyś się / Troszczyłabyś się",
-    "Ty": "Troszczyłby się / Troszczyłaby się",
-    "On/Ona": "Troszczylibyśmy się / Troszczyłybyśmy się",
-    "My": "Troszczylibyście się / Troszczyłybyście się",
-    "Wy": "Troszczyliby się / Troszczyłyby się",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Troszczyłbym się / Troszczyłabym się",
+    "Ty": "Troszczyłbyś się / Troszczyłabyś się",
+    "On/Ona": "Troszczyłby się / Troszczyłaby się",
+    "My": "Troszczylibyśmy się / Troszczyłybyśmy się",
+    "Wy": "Troszczylibyście się / Troszczyłybyście się",
+    "Oni/One": "Troszczyliby się / Troszczyłyby się",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3921,6 +4407,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Nudziłem się / Nudziłam się",
     "Ty": "Nudziłeś się / Nudziłaś się",
@@ -3930,14 +4418,16 @@
     "Oni/One": "Nudzili się / Nudziły się"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Nudziłbym się / Nudziłabym się",
-    "Ja": "Nudziłbyś się / Nudziłabyś się",
-    "Ty": "Nudziłby się / Nudziłaby się",
-    "On/Ona": "Nudzilibyśmy się / Nudziłybyśmy się",
-    "My": "Nudzilibyście się / Nudziłybyście się",
-    "Wy": "Nudziliby się / Nudziłyby się",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Nudziłbym się / Nudziłabym się",
+    "Ty": "Nudziłbyś się / Nudziłabyś się",
+    "On/Ona": "Nudziłby się / Nudziłaby się",
+    "My": "Nudzilibyśmy się / Nudziłybyśmy się",
+    "Wy": "Nudzilibyście się / Nudziłybyście się",
+    "Oni/One": "Nudziliby się / Nudziłyby się",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3955,6 +4445,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Kończyłem / Kończyłam",
     "Ty": "Kończyłeś / Kończyłaś",
@@ -3964,14 +4456,16 @@
     "Oni/One": "Kończyli / Kończyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Kończyłbym / Kończyłabym",
-    "Ja": "Kończyłbyś / Kończyłabyś",
-    "Ty": "Kończyłby / Kończyłaby",
-    "On/Ona": "Kończylibyśmy / Kończyłybyśmy",
-    "My": "Kończylibyście / Kończyłybyście",
-    "Wy": "Kończyliby / Kończyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Kończyłbym / Kończyłabym",
+    "Ty": "Kończyłbyś / Kończyłabyś",
+    "On/Ona": "Kończyłby / Kończyłaby",
+    "My": "Kończylibyśmy / Kończyłybyśmy",
+    "Wy": "Kończylibyście / Kończyłybyście",
+    "Oni/One": "Kończyliby / Kończyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -3989,6 +4483,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Zaczynałem / Zaczynałam",
     "Ty": "Zaczynałeś / Zaczynałaś",
@@ -3998,14 +4494,16 @@
     "Oni/One": "Zaczynali / Zaczynały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zaczynałbym / Zaczynałabym",
-    "Ja": "Zaczynałbyś / Zaczynałabyś",
-    "Ty": "Zaczynałby / Zaczynałaby",
-    "On/Ona": "Zaczynalibyśmy / Zaczynałybyśmy",
-    "My": "Zaczynalibyście / Zaczynałybyście",
-    "Wy": "Zaczynaliby / Zaczynałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Zaczynałbym / Zaczynałabym",
+    "Ty": "Zaczynałbyś / Zaczynałabyś",
+    "On/Ona": "Zaczynałby / Zaczynałaby",
+    "My": "Zaczynalibyśmy / Zaczynałybyśmy",
+    "Wy": "Zaczynalibyście / Zaczynałybyście",
+    "Oni/One": "Zaczynaliby / Zaczynałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.27,
@@ -4023,6 +4521,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
     "Tense": "Past",
     "Ja": "Goliłem / Goliłam",
     "Ty": "Goliłeś / Goliłaś",
@@ -4032,14 +4532,16 @@
     "Oni/One": "Golili / Goliły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Goliłbym / Goliłabym",
-    "Ja": "Goliłbyś / Goliłabyś",
-    "Ty": "Goliłby / Goliłaby",
-    "On/Ona": "Golilibyśmy / Golilybyśmy",
-    "My": "Golilibyście / Golilybyście",
-    "Wy": "Goliliby / Golilyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Tense": "Conditional",
+    "Ja": "Goliłbym / Goliłabym",
+    "Ty": "Goliłbyś / Goliłabyś",
+    "On/Ona": "Goliłby / Goliłaby",
+    "My": "Golilibyśmy / Golilybyśmy",
+    "Wy": "Golilibyście / Golilybyście",
+    "Oni/One": "Goliliby / Golilyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.28,
@@ -4057,6 +4559,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
     "Tense": "Past",
     "Ja": "Uczyłem / Uczyłam",
     "Ty": "Uczyłeś / Uczyłaś",
@@ -4066,14 +4570,16 @@
     "Oni/One": "Uczyli / Uczyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Uczyłbym / Uczyłabym",
-    "Ja": "Uczyłbyś / Uczyłabyś",
-    "Ty": "Uczyłby / Uczyłaby",
-    "On/Ona": "Uczyłbyśmy / Uczyłybyśmy",
-    "My": "Uczyłbyście / Uczyłybyście",
-    "Wy": "Uczyłby / Uczyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Tense": "Conditional",
+    "Ja": "Uczyłbym / Uczyłabym",
+    "Ty": "Uczyłbyś / Uczyłabyś",
+    "On/Ona": "Uczyłby / Uczyłaby",
+    "My": "Uczyłbyśmy / Uczyłybyśmy",
+    "Wy": "Uczyłbyście / Uczyłybyście",
+    "Oni/One": "Uczyłby / Uczyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.28,
@@ -4091,6 +4597,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.28,
+    "Topic": "Talk about school",
     "Tense": "Past",
     "Ja": "Uczyłem się / Uczyłam się",
     "Ty": "Uczyłeś się / Uczyłaś się",
@@ -4100,14 +4608,16 @@
     "Oni/One": "Uczyli się / Uczyły się"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Uczyłbym się / Uczyłabym się",
-    "Ja": "Uczyłbyś się / Uczyłabyś się",
-    "Ty": "Uczyłby się / Uczyłaby się",
-    "On/Ona": "Uczyłbyśmy się / Uczyłybyśmy się",
-    "My": "Uczyłbyście się / Uczyłybyście się",
-    "Wy": "Uczyłby się / Uczyłyby się",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.28,
+    "Topic": "Talk about school",
+    "Tense": "Conditional",
+    "Ja": "Uczyłbym się / Uczyłabym się",
+    "Ty": "Uczyłbyś się / Uczyłabyś się",
+    "On/Ona": "Uczyłby się / Uczyłaby się",
+    "My": "Uczyłbyśmy się / Uczyłybyśmy się",
+    "Wy": "Uczyłbyście się / Uczyłybyście się",
+    "Oni/One": "Uczyłby się / Uczyłyby się",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.32,
@@ -4125,6 +4635,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Tense": "Past",
     "Ja": "Bolałem / Bolałam",
     "Ty": "Bolałeś / Bolałaś",
@@ -4134,14 +4646,16 @@
     "Oni/One": "Boleli / Bolały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Bolałbym / Bolałabym",
-    "Ja": "Bolałbyś / Bolałabyś",
-    "Ty": "Bolałby / Bolałaby",
-    "On/Ona": "Bolalibyśmy / Bolałybyśmy",
-    "My": "Bolalibyście / Bolałybyście",
-    "Wy": "Bolaliby / Bolałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Tense": "Conditional",
+    "Ja": "Bolałbym / Bolałabym",
+    "Ty": "Bolałbyś / Bolałabyś",
+    "On/Ona": "Bolałby / Bolałaby",
+    "My": "Bolalibyśmy / Bolałybyśmy",
+    "Wy": "Bolalibyście / Bolałybyście",
+    "Oni/One": "Bolaliby / Bolałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.32,
@@ -4160,6 +4674,8 @@
     "Notes": "Used for physical wellbeing"
   },
   {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Tense": "Past",
     "Ja": "Dbałem / Dbałam",
     "Ty": "Dbałeś / Dbałaś",
@@ -4169,14 +4685,16 @@
     "Oni/One": "Dbali / Dbały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Dbałbym / Dbałabym",
-    "Ja": "Dbałbyś / Dbałabyś",
-    "Ty": "Dbałby / Dbałaby",
-    "On/Ona": "Dbalibyśmy / Dbałybyśmy",
-    "My": "Dbalibyście / Dbałybyście",
-    "Wy": "Dbaliby / Dbałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Tense": "Conditional",
+    "Ja": "Dbałbym / Dbałabym",
+    "Ty": "Dbałbyś / Dbałabyś",
+    "On/Ona": "Dbałby / Dbałaby",
+    "My": "Dbalibyśmy / Dbałybyśmy",
+    "Wy": "Dbalibyście / Dbałybyście",
+    "Oni/One": "Dbaliby / Dbałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.34,
@@ -4194,6 +4712,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
     "Tense": "Past",
     "Ja": "Rosłem / Rosłam",
     "Ty": "Rosłeś / Rosłaś",
@@ -4203,14 +4723,16 @@
     "Oni/One": "Rosli / Rosły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Rosnąłbym / Rosłabym",
-    "Ja": "Rosnąłbyś / Rosłabyś",
-    "Ty": "Rosnąłby / Rosłaby",
-    "On/Ona": "Rosnęlibyśmy / Rosłybyśmy",
-    "My": "Rosnęlibyście / Rosłybyście",
-    "Wy": "Rosnęliby / Rosłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.34,
+    "Topic": "Talk about nature",
+    "Tense": "Conditional",
+    "Ja": "Rosnąłbym / Rosłabym",
+    "Ty": "Rosnąłbyś / Rosłabyś",
+    "On/Ona": "Rosnąłby / Rosłaby",
+    "My": "Rosnęlibyśmy / Rosłybyśmy",
+    "Wy": "Rosnęlibyście / Rosłybyście",
+    "Oni/One": "Rosnęliby / Rosłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.35,
@@ -4228,6 +4750,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
     "Tense": "Past",
     "Ja": "Płakałem / Płakałam",
     "Ty": "Płakałeś / Płakałaś",
@@ -4237,14 +4761,16 @@
     "Oni/One": "Płakali / Płakały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Płakałbym / Płakałabym",
-    "Ja": "Płakałbyś / Płakałabyś",
-    "Ty": "Płakałby / Płakałaby",
-    "On/Ona": "Płakalibyśmy / Płakałybyśmy",
-    "My": "Płakalibyście / Płakałybyście",
-    "Wy": "Płakaliby / Płakałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Tense": "Conditional",
+    "Ja": "Płakałbym / Płakałabym",
+    "Ty": "Płakałbyś / Płakałabyś",
+    "On/Ona": "Płakałby / Płakałaby",
+    "My": "Płakalibyśmy / Płakałybyśmy",
+    "Wy": "Płakalibyście / Płakałybyście",
+    "Oni/One": "Płakaliby / Płakałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.35,
@@ -4262,6 +4788,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
     "Tense": "Past",
     "Ja": "Martwiłem / Martwiłam",
     "Ty": "Martwiłeś / Martwiłaś",
@@ -4271,14 +4799,16 @@
     "Oni/One": "Martwili / Martwiły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Martwiłbym / Martwiłabym",
-    "Ja": "Martwiłbyś / Martwiłabyś",
-    "Ty": "Martwiłby / Martwiłaby",
-    "On/Ona": "Martwilibyśmy / Martwiłybyśmy",
-    "My": "Martwilibyście / Martwiłybyście",
-    "Wy": "Martwiliby / Martwiłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Tense": "Conditional",
+    "Ja": "Martwiłbym / Martwiłabym",
+    "Ty": "Martwiłbyś / Martwiłabyś",
+    "On/Ona": "Martwiłby / Martwiłaby",
+    "My": "Martwilibyśmy / Martwiłybyśmy",
+    "Wy": "Martwilibyście / Martwiłybyście",
+    "Oni/One": "Martwiliby / Martwiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.35,
@@ -4296,6 +4826,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.35,
+    "Topic": "Express feelings",
     "Tense": "Past",
     "Ja": "Cierpiałem / Cierpiałam",
     "Ty": "Cierpiałeś / Cierpiałaś",
@@ -4305,14 +4837,16 @@
     "Oni/One": "Cierpieli / Cierpiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Cierpiałbym / Cierpiałabym",
-    "Ja": "Cierpiałbyś / Cierpiałabyś",
-    "Ty": "Cierpiałby / Cierpiałaby",
-    "On/Ona": "Cierpialibyśmy / Cierpiałybyśmy",
-    "My": "Cierpialibyście / Cierpiałybyście",
-    "Wy": "Cierpialiby / Cierpiałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.35,
+    "Topic": "Express feelings",
+    "Tense": "Conditional",
+    "Ja": "Cierpiałbym / Cierpiałabym",
+    "Ty": "Cierpiałbyś / Cierpiałabyś",
+    "On/Ona": "Cierpiałby / Cierpiałaby",
+    "My": "Cierpialibyśmy / Cierpiałybyśmy",
+    "Wy": "Cierpialibyście / Cierpiałybyście",
+    "Oni/One": "Cierpialiby / Cierpiałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4330,6 +4864,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Trzymałem / Trzymałam",
     "Ty": "Trzymałeś / Trzymałaś",
@@ -4339,14 +4875,16 @@
     "Oni/One": "Trzymali / Trzymały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Trzymałbym / Trzymałabym",
-    "Ja": "Trzymałbyś / Trzymałabyś",
-    "Ty": "Trzymałby / Trzymałaby",
-    "On/Ona": "Trzymalibyśmy / Trzymałybyśmy",
-    "My": "Trzymalibyście / Trzymałybyście",
-    "Wy": "Trzymaliby / Trzymałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Trzymałbym / Trzymałabym",
+    "Ty": "Trzymałbyś / Trzymałabyś",
+    "On/Ona": "Trzymałby / Trzymałaby",
+    "My": "Trzymalibyśmy / Trzymałybyśmy",
+    "Wy": "Trzymalibyście / Trzymałybyście",
+    "Oni/One": "Trzymaliby / Trzymałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4364,6 +4902,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Wolałem / Wolałam",
     "Ty": "Wolałeś / Wolałaś",
@@ -4373,14 +4913,16 @@
     "Oni/One": "Woleli / Wolały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wolałbym / Wolałabym",
-    "Ja": "Wolałbyś / Wolałabyś",
-    "Ty": "Wolałby / Wolałaby",
-    "On/Ona": "Wolelibyśmy / Wolałybyśmy",
-    "My": "Wolelibyście / Wolałybyście",
-    "Wy": "Woleliby / Wolałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Wolałbym / Wolałabym",
+    "Ty": "Wolałbyś / Wolałabyś",
+    "On/Ona": "Wolałby / Wolałaby",
+    "My": "Wolelibyśmy / Wolałybyśmy",
+    "Wy": "Wolelibyście / Wolałybyście",
+    "Oni/One": "Woleliby / Wolałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4398,6 +4940,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Spotkałem / Spotkałam",
     "Ty": "Spotkałeś / Spotkałaś",
@@ -4407,14 +4951,16 @@
     "Oni/One": "Spotkali / Spotkały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Spotkałbym / Spotkałabym",
-    "Ja": "Spotkałbyś / Spotkałabyś",
-    "Ty": "Spotkałby / Spotkałaby",
-    "On/Ona": "Spotkalibyśmy / Spotkałybyśmy",
-    "My": "Spotkalibyście / Spotkałybyście",
-    "Wy": "Spotkaliby / Spotkałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Spotkałbym / Spotkałabym",
+    "Ty": "Spotkałbyś / Spotkałabyś",
+    "On/Ona": "Spotkałby / Spotkałaby",
+    "My": "Spotkalibyśmy / Spotkałybyśmy",
+    "Wy": "Spotkalibyście / Spotkałybyście",
+    "Oni/One": "Spotkaliby / Spotkałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4432,6 +4978,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Wątpiłem / Wątpiłam",
     "Ty": "Wątpiłeś / Wątpiłaś",
@@ -4441,14 +4989,16 @@
     "Oni/One": "Wątpili / Wątpiły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wątpiłbym / Wątpiłabym",
-    "Ja": "Wątpiłbyś / Wątpiłabyś",
-    "Ty": "Wątpiłby / Wątpiłaby",
-    "On/Ona": "Wątpilibyśmy / Wątpiłybyśmy",
-    "My": "Wątpilibyście / Wątpiłybyście",
-    "Wy": "Wątpiliby / Wątpiłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Wątpiłbym / Wątpiłabym",
+    "Ty": "Wątpiłbyś / Wątpiłabyś",
+    "On/Ona": "Wątpiłby / Wątpiłaby",
+    "My": "Wątpilibyśmy / Wątpiłybyśmy",
+    "Wy": "Wątpilibyście / Wątpiłybyście",
+    "Oni/One": "Wątpiliby / Wątpiłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4466,6 +5016,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Wyglądałem / Wyglądałam",
     "Ty": "Wyglądałeś / Wyglądałaś",
@@ -4475,14 +5027,16 @@
     "Oni/One": "Wyglądali / Wyglądały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Wyglądałbym / Wyglądałabym",
-    "Ja": "Wyglądałbyś / Wyglądałabyś",
-    "Ty": "Wyglądałby / Wyglądałaby",
-    "On/Ona": "Wyglądalibyśmy / Wyglądałybyśmy",
-    "My": "Wyglądalibyście / Wyglądałybyście",
-    "Wy": "Wyglądaliby / Wyglądałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Wyglądałbym / Wyglądałabym",
+    "Ty": "Wyglądałbyś / Wyglądałabyś",
+    "On/Ona": "Wyglądałby / Wyglądałaby",
+    "My": "Wyglądalibyśmy / Wyglądałybyśmy",
+    "Wy": "Wyglądalibyście / Wyglądałybyście",
+    "Oni/One": "Wyglądaliby / Wyglądałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4500,6 +5054,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Istniałem / Istniałam  ",
     "Ty": "Istniałeś / Istniałaś",
@@ -4509,14 +5065,16 @@
     "Oni/One": "Istnieli / Istniały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Istniałbym / Istniałabym",
-    "Ja": "Istniałbyś / Istniałabyś",
-    "Ty": "Istniałby / Istniałaby",
-    "On/Ona": "Istnielibyśmy / Istniałybyśmy",
-    "My": "Istnielibyście / Istniałybyście",
-    "Wy": "Istnieliby / Istniałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Istniałbym / Istniałabym",
+    "Ty": "Istniałbyś / Istniałabyś",
+    "On/Ona": "Istniałby / Istniałaby",
+    "My": "Istnielibyśmy / Istniałybyśmy",
+    "Wy": "Istnielibyście / Istniałybyście",
+    "Oni/One": "Istnieliby / Istniałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4534,6 +5092,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Obiecywałem / Obiecywałam",
     "Ty": "Obiecywałeś / Obiecywałaś",
@@ -4543,14 +5103,16 @@
     "Oni/One": "Obiecywali / Obiecywały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Obiecywałbym / Obiecywałabym",
-    "Ja": "Obiecywałbyś / Obiecywałabyś",
-    "Ty": "Obiecywałby / Obiecywałaby",
-    "On/Ona": "Obiecywalibyśmy / Obiecywałybyśmy",
-    "My": "Obiecywalibyście / Obiecywałybyście",
-    "Wy": "Obiecywaliby / Obiecywałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Obiecywałbym / Obiecywałabym",
+    "Ty": "Obiecywałbyś / Obiecywałabyś",
+    "On/Ona": "Obiecywałby / Obiecywałaby",
+    "My": "Obiecywalibyśmy / Obiecywałybyśmy",
+    "Wy": "Obiecywalibyście / Obiecywałybyście",
+    "Oni/One": "Obiecywaliby / Obiecywałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4568,6 +5130,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Dotyczyłem / Dotyczyłam",
     "Ty": "Dotyczyłeś / Dotyczyłaś",
@@ -4577,14 +5141,16 @@
     "Oni/One": "Dotyczyli / Dotyczyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Dotyczyłbym / Dotyczyłabym",
-    "Ja": "Dotyczyłbyś / Dotyczyłabyś",
-    "Ty": "Dotyczyłby / Dotyczyłaby",
-    "On/Ona": "Dotyczylibyśmy / Dotyczyłybyśmy",
-    "My": "Dotyczylibyście / Dotyczyłybyście",
-    "Wy": "Dotyczyliby / Dotyczyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Dotyczyłbym / Dotyczyłabym",
+    "Ty": "Dotyczyłbyś / Dotyczyłabyś",
+    "On/Ona": "Dotyczyłby / Dotyczyłaby",
+    "My": "Dotyczylibyśmy / Dotyczyłybyśmy",
+    "Wy": "Dotyczylibyście / Dotyczyłybyście",
+    "Oni/One": "Dotyczyliby / Dotyczyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4602,6 +5168,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Planowałem / Planowałam",
     "Ty": "Planowałeś / Planowałaś",
@@ -4611,14 +5179,16 @@
     "Oni/One": "Planowali / Planowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Planowałbym / Planowałabym",
-    "Ja": "Planowałbyś / Planowałabyś",
-    "Ty": "Planowałby / Planowałaby",
-    "On/Ona": "Planowalibyśmy / Planowałybyśmy",
-    "My": "Planowalibyście / Planowałybyście",
-    "Wy": "Planowaliby / Planowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Planowałbym / Planowałabym",
+    "Ty": "Planowałbyś / Planowałabyś",
+    "On/Ona": "Planowałby / Planowałaby",
+    "My": "Planowalibyśmy / Planowałybyśmy",
+    "Wy": "Planowalibyście / Planowałybyście",
+    "Oni/One": "Planowaliby / Planowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4636,6 +5206,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Należałem / Należałam",
     "Ty": "Należałeś / Należałaś",
@@ -4645,14 +5217,16 @@
     "Oni/One": "Należali / Należały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Należałbym / Należałabym",
-    "Ja": "Należałbyś / Należałabyś",
-    "Ty": "Należałby / Należałaby",
-    "On/Ona": "Należelibyśmy / Należałybyśmy",
-    "My": "Należelibyście / Należałybyście",
-    "Wy": "Należeliby / Należałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Należałbym / Należałabym",
+    "Ty": "Należałbyś / Należałabyś",
+    "On/Ona": "Należałby / Należałaby",
+    "My": "Należelibyśmy / Należałybyśmy",
+    "Wy": "Należelibyście / Należałybyście",
+    "Oni/One": "Należeliby / Należałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4670,6 +5244,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Mieszałem / Mieszałam",
     "Ty": "Mieszałeś / Mieszałaś",
@@ -4679,14 +5255,16 @@
     "Oni/One": "Mieszali / Mieszały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Mieszałbym / Mieszałabym",
-    "Ja": "Mieszałbyś / Mieszałabyś",
-    "Ty": "Mieszałby / Mieszałaby",
-    "On/Ona": "Mieszalibyśmy / Mieszałybyśmy",
-    "My": "Mieszalibyście / Mieszałybyście",
-    "Wy": "Mieszaliby / Mieszałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Mieszałbym / Mieszałabym",
+    "Ty": "Mieszałbyś / Mieszałabyś",
+    "On/Ona": "Mieszałby / Mieszałaby",
+    "My": "Mieszalibyśmy / Mieszałybyśmy",
+    "Wy": "Mieszalibyście / Mieszałybyście",
+    "Oni/One": "Mieszaliby / Mieszałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4704,6 +5282,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Włączałem / Włączałam",
     "Ty": "Włączałeś / Włączałaś",
@@ -4713,14 +5293,16 @@
     "Oni/One": "Włączali / Włączały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Włączałbym / Włączałabym",
-    "Ja": "Włączałbyś / Włączałabyś",
-    "Ty": "Włączałby / Włączałaby",
-    "On/Ona": "Włączalibyśmy / Włączałybyśmy",
-    "My": "Włączalibyście / Włączałybyście",
-    "Wy": "Włączaliby / Włączałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Włączałbym / Włączałabym",
+    "Ty": "Włączałbyś / Włączałabyś",
+    "On/Ona": "Włączałby / Włączałaby",
+    "My": "Włączalibyśmy / Włączałybyśmy",
+    "Wy": "Włączalibyście / Włączałybyście",
+    "Oni/One": "Włączaliby / Włączałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4738,6 +5320,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Tworzyłem / Tworzyłam",
     "Ty": "Tworzyłeś / Tworzyłaś",
@@ -4747,14 +5331,16 @@
     "Oni/One": "Tworzyli / Tworzyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Tworzyłbym / Tworzyłabym",
-    "Ja": "Tworzyłbyś / Tworzyłabyś",
-    "Ty": "Tworzyłby / Tworzyłaby",
-    "On/Ona": "Tworzyliśmy / Tworzyłybyśmy",
-    "My": "Tworzyliście / Tworzyłybyście",
-    "Wy": "Tworzyli / Tworzyły",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Tworzyłbym / Tworzyłabym",
+    "Ty": "Tworzyłbyś / Tworzyłabyś",
+    "On/Ona": "Tworzyłby / Tworzyłaby",
+    "My": "Tworzyliśmy / Tworzyłybyśmy",
+    "Wy": "Tworzyliście / Tworzyłybyście",
+    "Oni/One": "Tworzyli / Tworzyły",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4772,6 +5358,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Pochodziłem / Pochodziłam",
     "Ty": "Pochodziłeś / Pochodziłaś",
@@ -4781,14 +5369,16 @@
     "Oni/One": "Pochodzili / Pochodziły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Pochodziłbym / Pochodziłabym",
-    "Ja": "Pochodziłbyś / Pochodziłabyś",
-    "Ty": "Pochodziłby / Pochodziłaby",
-    "On/Ona": "Pochodzilibyśmy / Pochodzilybyśmy",
-    "My": "Pochodzilibyście / Pochodzilybyście",
-    "Wy": "Pochodziliby / Pochodzilyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Pochodziłbym / Pochodziłabym",
+    "Ty": "Pochodziłbyś / Pochodziłabyś",
+    "On/Ona": "Pochodziłby / Pochodziłaby",
+    "My": "Pochodzilibyśmy / Pochodzilybyśmy",
+    "Wy": "Pochodzilibyście / Pochodzilybyście",
+    "Oni/One": "Pochodziliby / Pochodzilyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4806,6 +5396,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Akceptowałem / Akceptowałam",
     "Ty": "Akceptowałeś / Akceptowałaś",
@@ -4815,14 +5407,16 @@
     "Oni/One": "Akceptowali / Akceptowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Akceptowałbym / Akceptowałabym",
-    "Ja": "Akceptowałbyś / Akceptowałabyś",
-    "Ty": "Akceptowałby / Akceptowałaby",
-    "On/Ona": "Akceptowalibyśmy / Akceptowałybyśmy",
-    "My": "Akceptowalibyście / Akceptowałybyście",
-    "Wy": "Akceptowaliby / Akceptowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Akceptowałbym / Akceptowałabym",
+    "Ty": "Akceptowałbyś / Akceptowałabyś",
+    "On/Ona": "Akceptowałby / Akceptowałaby",
+    "My": "Akceptowalibyśmy / Akceptowałybyśmy",
+    "Wy": "Akceptowalibyście / Akceptowałybyście",
+    "Oni/One": "Akceptowaliby / Akceptowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4841,6 +5435,8 @@
     "Notes": "Usually used to mean removing dirt / grease etc"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Czyściłem / Czyściłam",
     "Ty": "Czyściłeś / Czyściłaś",
@@ -4850,14 +5446,16 @@
     "Oni/One": "Czyścili / Czyściły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Czyściłbym / Czyściłabym",
-    "Ja": "Czyściłbyś / Czyściłabyś",
-    "Ty": "Czyściłby / Czyściłaby",
-    "On/Ona": "Czysciliśmy / Czysciłybyśmy",
-    "My": "Czysciliście / Czysciłybyście",
-    "Wy": "Czyscili / Czysciły",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Czyściłbym / Czyściłabym",
+    "Ty": "Czyściłbyś / Czyściłabyś",
+    "On/Ona": "Czyściłby / Czyściłaby",
+    "My": "Czysciliśmy / Czysciłybyśmy",
+    "Wy": "Czysciliście / Czysciłybyście",
+    "Oni/One": "Czyscili / Czysciły",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4875,6 +5473,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Spadałem / Spadałam",
     "Ty": "Spadałeś / Spadałaś",
@@ -4884,14 +5484,16 @@
     "Oni/One": "Spadali / Spadały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Spadałbym / Spadałabym",
-    "Ja": "Spadałbyś / Spadałabyś",
-    "Ty": "Spadałby / Spadałaby",
-    "On/Ona": "Spadalibyśmy / Spadalybyśmy",
-    "My": "Spadalibyście / Spadalybyście",
-    "Wy": "Spadaliby / Spadalyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Spadałbym / Spadałabym",
+    "Ty": "Spadałbyś / Spadałabyś",
+    "On/Ona": "Spadałby / Spadałaby",
+    "My": "Spadalibyśmy / Spadalybyśmy",
+    "Wy": "Spadalibyście / Spadalybyście",
+    "Oni/One": "Spadaliby / Spadalyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4909,6 +5511,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Zawierałem / Zawierałam",
     "Ty": "Zawierałeś / Zawierałaś",
@@ -4918,14 +5522,16 @@
     "Oni/One": "Zawierali / Zawierały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zawierałbym / Zawierałabym",
-    "Ja": "Zawierałbyś / Zawierałabyś",
-    "Ty": "Zawierałby / Zawierałaby",
-    "On/Ona": "Zawieralibyśmy / Zawierałybyśmy",
-    "My": "Zawieralibyście / Zawierałybyście",
-    "Wy": "Zawieraliby / Zawierałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Zawierałbym / Zawierałabym",
+    "Ty": "Zawierałbyś / Zawierałabyś",
+    "On/Ona": "Zawierałby / Zawierałaby",
+    "My": "Zawieralibyśmy / Zawierałybyśmy",
+    "Wy": "Zawieralibyście / Zawierałybyście",
+    "Oni/One": "Zawieraliby / Zawierałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4943,6 +5549,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Napełniałem / Napełniałam",
     "Ty": "Napełniałeś / Napełniałaś",
@@ -4952,14 +5560,16 @@
     "Oni/One": "Napełniali / Napełniały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Napełniałbym / Napełniałabym",
-    "Ja": "Napełniałbyś / Napełniałabyś",
-    "Ty": "Napełniałby / Napełniałaby",
-    "On/Ona": "Napelnialibyśmy / Napelnialybyśmy",
-    "My": "Napelnialibyście / Napelnialybyście",
-    "Wy": "Napelnialiby / Napelnialyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Napełniałbym / Napełniałabym",
+    "Ty": "Napełniałbyś / Napełniałabyś",
+    "On/Ona": "Napełniałby / Napełniałaby",
+    "My": "Napelnialibyśmy / Napelnialybyśmy",
+    "Wy": "Napelnialibyście / Napelnialybyście",
+    "Oni/One": "Napelnialiby / Napelnialyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -4977,6 +5587,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Powodowałem / Powodowałam",
     "Ty": "Powodowałeś / Powodowałaś",
@@ -4986,14 +5598,16 @@
     "Oni/One": "Powodowali / Powodowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Powodowałbym / Powodowałabym",
-    "Ja": "Powodowałbyś / Powodowałabyś",
-    "Ty": "Powodowałby / Powodowałaby",
-    "On/Ona": "Powodowalibyśmy / Powodowałybyśmy",
-    "My": "Powodowalibyście / Powodowałybyście",
-    "Wy": "Powodowaliby / Powodowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Powodowałbym / Powodowałabym",
+    "Ty": "Powodowałbyś / Powodowałabyś",
+    "On/Ona": "Powodowałby / Powodowałaby",
+    "My": "Powodowalibyśmy / Powodowałybyśmy",
+    "Wy": "Powodowalibyście / Powodowałybyście",
+    "Oni/One": "Powodowaliby / Powodowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -5011,6 +5625,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Spędzałem / Spędzałam",
     "Ty": "Spędzałeś / Spędzałaś",
@@ -5020,14 +5636,16 @@
     "Oni/One": "Spędzali / Spędzały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Spędzałbym / Spędzałabym",
-    "Ja": "Spędzałbyś / Spędzałabyś",
-    "Ty": "Spędzałby / Spędzałaby",
-    "On/Ona": "Spędzalibyśmy / Spędzałybyśmy",
-    "My": "Spędzalibyście / Spędzałybyście",
-    "Wy": "Spędzaliby / Spędzałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Spędzałbym / Spędzałabym",
+    "Ty": "Spędzałbyś / Spędzałabyś",
+    "On/Ona": "Spędzałby / Spędzałaby",
+    "My": "Spędzalibyśmy / Spędzałybyśmy",
+    "Wy": "Spędzalibyście / Spędzałybyście",
+    "Oni/One": "Spędzaliby / Spędzałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -5045,6 +5663,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Porównywałem / Porównywałam",
     "Ty": "Porównywałeś / Porównywałaś",
@@ -5054,14 +5674,16 @@
     "Oni/One": "Porównywali / Porównywały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Porównywałbym / Porównywałabym",
-    "Ja": "Porównywałbyś / Porównywałabyś",
-    "Ty": "Porównywałby / Porównywałaby",
-    "On/Ona": "Porównywalibyśmy / Porównywałybyśmy",
-    "My": "Porównywalibyście / Porównywałybyście",
-    "Wy": "Porównywaliby / Porównywałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Porównywałbym / Porównywałabym",
+    "Ty": "Porównywałbyś / Porównywałabyś",
+    "On/Ona": "Porównywałby / Porównywałaby",
+    "My": "Porównywalibyśmy / Porównywałybyśmy",
+    "Wy": "Porównywalibyście / Porównywałybyście",
+    "Oni/One": "Porównywaliby / Porównywałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 2.37,
@@ -5079,6 +5701,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
     "Tense": "Past",
     "Ja": "Sprawdzałem / Sprawdzałam",
     "Ty": "Sprawdzałeś / Sprawdzałaś",
@@ -5088,14 +5712,16 @@
     "Oni/One": "Sprawdzali / Sprawdzały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Sprawdzałbym / Sprawdzałabym",
-    "Ja": "Sprawdzałbyś / Sprawdzałabyś",
-    "Ty": "Sprawdzałby / Sprawdzałaby",
-    "On/Ona": "Sprawdzalibyśmy / Sprawdzałybyśmy",
-    "My": "Sprawdzalibyście / Sprawdzałybyście",
-    "Wy": "Sprawdzaliby / Sprawdzałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Tense": "Conditional",
+    "Ja": "Sprawdzałbym / Sprawdzałabym",
+    "Ty": "Sprawdzałbyś / Sprawdzałabyś",
+    "On/Ona": "Sprawdzałby / Sprawdzałaby",
+    "My": "Sprawdzalibyśmy / Sprawdzałybyśmy",
+    "Wy": "Sprawdzalibyście / Sprawdzałybyście",
+    "Oni/One": "Sprawdzaliby / Sprawdzałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.01,
@@ -5113,6 +5739,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
     "Tense": "Past",
     "Ja": "Kosztowałem / Kosztowałam",
     "Ty": "Kosztowałeś / Kosztowałaś",
@@ -5122,14 +5750,16 @@
     "Oni/One": "Kosztowali / Kosztowały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Kosztowałbym / Kosztowałabym",
-    "Ja": "Kosztowałbyś / Kosztowałabyś",
-    "Ty": "Kosztowałby / Kosztowałaby",
-    "On/Ona": "Kosztowalibyśmy / Kosztowałybyśmy",
-    "My": "Kosztowalibyście / Kosztowałybyście",
-    "Wy": "Kosztowaliby / Kosztowałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Tense": "Conditional",
+    "Ja": "Kosztowałbym / Kosztowałabym",
+    "Ty": "Kosztowałbyś / Kosztowałabyś",
+    "On/Ona": "Kosztowałby / Kosztowałaby",
+    "My": "Kosztowalibyśmy / Kosztowałybyśmy",
+    "Wy": "Kosztowalibyście / Kosztowałybyście",
+    "Oni/One": "Kosztowaliby / Kosztowałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.01,
@@ -5147,6 +5777,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
     "Tense": "Past",
     "Ja": "Płaciłem / Płaciłam",
     "Ty": "Płaciłeś / Płaciłaś",
@@ -5156,14 +5788,16 @@
     "Oni/One": "Płacili / Płaciły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Płaciłbym / Płaciłabym",
-    "Ja": "Płaciłbyś / Płaciłabyś",
-    "Ty": "Płaciłby / Płaciłaby",
-    "On/Ona": "Płacilibyśmy / Płaciliśmy",
-    "My": "Płacilibyście / Płaciliście",
-    "Wy": "Płaciliby / Płacili",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Tense": "Conditional",
+    "Ja": "Płaciłbym / Płaciłabym",
+    "Ty": "Płaciłbyś / Płaciłabyś",
+    "On/Ona": "Płaciłby / Płaciłaby",
+    "My": "Płacilibyśmy / Płaciliśmy",
+    "Wy": "Płacilibyście / Płaciliście",
+    "Oni/One": "Płaciliby / Płacili",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.01,
@@ -5181,6 +5815,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.01,
+    "Topic": "Talk about business",
     "Tense": "Past",
     "Ja": "Zarabiałem / Zarabiałam",
     "Ty": "Zarabiałeś / Zarabiałaś",
@@ -5190,14 +5826,16 @@
     "Oni/One": "Zarabiali / Zarabiały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zarabiałbym / Zarabiałabym",
-    "Ja": "Zarabiałbyś / Zarabiałabyś",
-    "Ty": "Zarabiałby / Zarabiałaby",
-    "On/Ona": "Zarabialibyśmy / Zarabialybyśmy",
-    "My": "Zarabialibyście / Zarabialybyście",
-    "Wy": "Zarabialiby / Zarabialyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Tense": "Conditional",
+    "Ja": "Zarabiałbym / Zarabiałabym",
+    "Ty": "Zarabiałbyś / Zarabiałabyś",
+    "On/Ona": "Zarabiałby / Zarabiałaby",
+    "My": "Zarabialibyśmy / Zarabialybyśmy",
+    "Wy": "Zarabialibyście / Zarabialybyście",
+    "Oni/One": "Zarabialiby / Zarabialyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.03,
@@ -5215,6 +5853,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
     "Tense": "Past",
     "Ja": "Zmniejszałem / Zmniejszałam",
     "Ty": "Zmniejszałeś / Zmniejszałaś",
@@ -5224,14 +5864,16 @@
     "Oni/One": "Zmniejszali / Zmniejszały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Zmniejszałbym / Zmniejszałabym",
-    "Ja": "Zmniejszałbyś / Zmniejszałabyś",
-    "Ty": "Zmniejszałby / Zmniejszałaby",
-    "On/Ona": "Zmniejszalibyśmy / Zmniejszalybyśmy",
-    "My": "Zmniejszalibyście / Zmniejszalybyście",
-    "Wy": "Zmniejszaliby / Zmniejszalyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Tense": "Conditional",
+    "Ja": "Zmniejszałbym / Zmniejszałabym",
+    "Ty": "Zmniejszałbyś / Zmniejszałabyś",
+    "On/Ona": "Zmniejszałby / Zmniejszałaby",
+    "My": "Zmniejszalibyśmy / Zmniejszalybyśmy",
+    "Wy": "Zmniejszalibyście / Zmniejszalybyście",
+    "Oni/One": "Zmniejszaliby / Zmniejszalyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.03,
@@ -5249,6 +5891,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.03,
+    "Topic": "Talk about science",
     "Tense": "Past",
     "Ja": "Ważyłem / Ważyłam",
     "Ty": "Ważyłeś / Ważyłaś",
@@ -5258,14 +5902,16 @@
     "Oni/One": "Ważyli / Ważyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Ważyłbym / Ważyłabym",
-    "Ja": "Ważyłbyś / Ważyłbyś",
-    "Ty": "Ważyłby / Ważyłaby",
-    "On/Ona": "Ważylibyśmy / Ważyłybyśmy",
-    "My": "Ważylibyście / Ważyłybyście",
-    "Wy": "Ważyliby / Ważyłyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.03,
+    "Topic": "Talk about science",
+    "Tense": "Conditional",
+    "Ja": "Ważyłbym / Ważyłabym",
+    "Ty": "Ważyłbyś / Ważyłbyś",
+    "On/Ona": "Ważyłby / Ważyłaby",
+    "My": "Ważylibyśmy / Ważyłybyśmy",
+    "Wy": "Ważylibyście / Ważyłybyście",
+    "Oni/One": "Ważyliby / Ważyłyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.07,
@@ -5283,6 +5929,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.07,
+    "Topic": "Discuss art",
     "Tense": "Past",
     "Ja": "Grałem / Grałam",
     "Ty": "Grałeś / Grałaś",
@@ -5292,14 +5940,16 @@
     "Oni/One": "Grali / Grały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Grałbym / Grałabym",
-    "Ja": "Grałbyś / Grałabyś",
-    "Ty": "Grałby / Grałaby",
-    "On/Ona": "Gralibyśmy / Gralybyśmy",
-    "My": "Gralibyście / Gralybyście",
-    "Wy": "Graliby / Gralyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.07,
+    "Topic": "Discuss art",
+    "Tense": "Conditional",
+    "Ja": "Grałbym / Grałabym",
+    "Ty": "Grałbyś / Grałabyś",
+    "On/Ona": "Grałby / Grałaby",
+    "My": "Gralibyśmy / Gralybyśmy",
+    "Wy": "Gralibyście / Gralybyście",
+    "Oni/One": "Graliby / Gralyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.09,
@@ -5317,6 +5967,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
     "Tense": "Past",
     "Ja": "Kopałem / Kopałam",
     "Ty": "Kopałeś / Kopałaś",
@@ -5326,14 +5978,16 @@
     "Oni/One": "Kopali / Kopały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Kopałbym / Kopałabym",
-    "Ja": "Kopałbyś / Kopałabyś",
-    "Ty": "Kopałby / Kopałaby",
-    "On/Ona": "Kopalibyśmy / Kopałybyśmy",
-    "My": "Kopalibyście / Kopałybyście",
-    "Wy": "Kopaliby / Kopałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Tense": "Conditional",
+    "Ja": "Kopałbym / Kopałabym",
+    "Ty": "Kopałbyś / Kopałabyś",
+    "On/Ona": "Kopałby / Kopałaby",
+    "My": "Kopalibyśmy / Kopałybyśmy",
+    "Wy": "Kopalibyście / Kopałybyście",
+    "Oni/One": "Kopaliby / Kopałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.09,
@@ -5351,6 +6005,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
     "Tense": "Past",
     "Ja": "Skakałem / Skakałam",
     "Ty": "Skakałeś / Skakałaś",
@@ -5360,14 +6016,16 @@
     "Oni/One": "Skakali / Skakały"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Skakałbym / Skakałabym",
-    "Ja": "Skakałbyś / Skakałabyś",
-    "Ty": "Skakałby / Skakałaby",
-    "On/Ona": "Skakalibyśmy / Skakałybyśmy",
-    "My": "Skakalibyście / Skakałybyście",
-    "Wy": "Skakaliby / Skakałyby",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Tense": "Conditional",
+    "Ja": "Skakałbym / Skakałabym",
+    "Ty": "Skakałbyś / Skakałabyś",
+    "On/Ona": "Skakałby / Skakałaby",
+    "My": "Skakalibyśmy / Skakałybyśmy",
+    "Wy": "Skakalibyście / Skakałybyście",
+    "Oni/One": "Skakaliby / Skakałyby",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.09,
@@ -5385,6 +6043,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
     "Tense": "Past",
     "Ja": "Ćwiczyłem / Ćwiczyłam",
     "Ty": "Ćwiczyłeś / Ćwiczyłaś",
@@ -5394,14 +6054,16 @@
     "Oni/One": "Ćwiczyli / Ćwiczyły"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Ćwiczyłbym / Ćwiczyłabym",
-    "Ja": "Ćwiczyłbyś / Ćwiczyłabyś",
-    "Ty": "Ćwiczyłby / Ćwiczyłaby",
-    "On/Ona": "Ćwiczylibyśmy / Ćwiczyłybyśmy",
-    "My": "Ćwiczylibyście / Ćwiczyłybyście",
-    "Wy": "Ćwiczyli / Ćwiczyły",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Tense": "Conditional",
+    "Ja": "Ćwiczyłbym / Ćwiczyłabym",
+    "Ty": "Ćwiczyłbyś / Ćwiczyłabyś",
+    "On/Ona": "Ćwiczyłby / Ćwiczyłaby",
+    "My": "Ćwiczylibyśmy / Ćwiczyłybyśmy",
+    "Wy": "Ćwiczylibyście / Ćwiczyłybyście",
+    "Oni/One": "Ćwiczyli / Ćwiczyły",
+    "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
     "Unit": 3.1,
@@ -5419,6 +6081,8 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
     "Tense": "Past",
     "Ja": "Modliłem się / Modliłam się",
     "Ty": "Modliłeś się / Modliłaś się",
@@ -5429,816 +6093,15 @@
     "Examples": "-\n-\n-\n-\n-\n-"
   },
   {
-    "Conjugation": "Conditional",
-    "Tense": "Modliłbym się / Modliłabym się",
-    "Ja": "Modliłbyś się / Modliłabyś się",
-    "Ty": "Modliłby się / Modliłaby się",
-    "On/Ona": "Modlilibyśmy się / Modliłybyśmy się",
-    "My": "Modlilibyście się / Modliłybyście się",
-    "Wy": "Modliliby się / Modliłyby się",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
+    "Unit": 3.1,
+    "Topic": "Talk about religion",
+    "Tense": "Conditional",
+    "Ja": "Modliłbym się / Modliłabym się",
+    "Ty": "Modliłbyś się / Modliłabyś się",
+    "On/Ona": "Modliłby się / Modliłaby się",
+    "My": "Modlilibyśmy się / Modliłybyśmy się",
+    "Wy": "Modlilibyście się / Modliłybyście się",
+    "Oni/One": "Modliliby się / Modliłyby się",
     "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Present",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Tense": "Past"
-  },
-  {
-    "Conjugation": "Conditional",
-    "Oni/One": "-\n-\n-\n-\n-\n-"
   }
 ]

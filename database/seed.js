@@ -56,7 +56,11 @@ function seed() {
             return formatImperfectiveVerbData(Verbs_ImperfectiveData)
         })
         .then((newImperfectiveData) => {
-            return insertPastTenseData(newImperfectiveData.formattedPastVerbs)
+            return Promise.all([
+                insertPastTenseData(newImperfectiveData.formattedPastVerbs),
+                insertPresentTenseData(newImperfectiveData.formattedPresentVerbs),
+                insertConditionalTenseData(newImperfectiveData.formattedConditionalVerbs)
+            ])
         })
 }
 
@@ -131,6 +135,16 @@ function insertPastTenseData(verbData) {
     return db.query(insertString)
 }
 
+function insertPresentTenseData(verbData) {
+    const insertString = format(`INSERT INTO presentTenseVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
+    return db.query(insertString)
+}
+
+function insertConditionalTenseData(verbData) {
+    const insertString = format(`INSERT INTO conditionalTenseVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
+    return db.query(insertString)
+}
+
 module.exports = seed;
 
-seed()
+// seed()

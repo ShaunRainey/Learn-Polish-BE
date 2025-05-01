@@ -11,7 +11,7 @@ function createSentences() {
 }
 
 function createPastTenseVerbs() {
-    return db.query(`CREATE TABLE pastTenseVerbs(
+    return db.query(`CREATE TABLE pastTenseImpVerbs(
         verb_id SERIAL PRIMARY KEY,
         Unit FLOAT,
         Topic VARCHAR(40),
@@ -28,7 +28,7 @@ function createPastTenseVerbs() {
 }
 
 function createPresentTenseVerbs() {
-    return db.query(`CREATE TABLE presentTenseVerbs(
+    return db.query(`CREATE TABLE presentTenseImpVerbs(
         verb_id SERIAL PRIMARY KEY,
         Unit FLOAT,
         Topic VARCHAR(40),
@@ -45,7 +45,7 @@ function createPresentTenseVerbs() {
 }
 
 function createConditionalTenseVerbs() {
-    return db.query(`CREATE TABLE conditionalTenseVerbs(
+    return db.query(`CREATE TABLE conditionalTenseImpVerbs(
         verb_id SERIAL PRIMARY KEY,
         Unit FLOAT,
         Topic VARCHAR(40),

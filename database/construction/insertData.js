@@ -7,17 +7,17 @@ function insertSentenceData(sentenceData) {
 }
 
 function insertPastTenseData(verbData) {
-    const insertString = format(`INSERT INTO pastTenseVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
+    const insertString = format(`INSERT INTO pastTenseImpVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
     return db.query(insertString)
 }
 
 function insertPresentTenseData(verbData) {
-    const insertString = format(`INSERT INTO presentTenseVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
+    const insertString = format(`INSERT INTO presentTenseImpVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
     return db.query(insertString)
 }
 
 function insertConditionalTenseData(verbData) {
-    const insertString = format(`INSERT INTO conditionalTenseVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
+    const insertString = format(`INSERT INTO conditionalTenseImpVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
     return db.query(insertString)
 }
 

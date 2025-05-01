@@ -32,25 +32,18 @@ function seed() {
             DROP TABLE IF EXISTS conditionalTenseVerbs;
             `)
         .then(() => {
-            return createSentences()
+            return Promise.all([
+                createSentences(),
+                createPastTenseVerbs(),
+                createPresentTenseVerbs(),
+                createConditionalTenseVerbs()
+            ])
         })
         .then(() => {
             return formatSentenceData(SentencesData);
         })
         .then((newSentencesData) => {
             return insertSentenceData(newSentencesData)
-        })
-        .then(() => {
-            return createPastTenseVerbs()
-        })
-        .then(() => {
-            return createPresentTenseVerbs()
-        })
-        .then(() => {
-            return createConditionalTenseVerbs()
-        })
-        .then(() => {
-            
         })
         .then(() => {
             return formatImperfectiveVerbData(Verbs_ImperfectiveData)

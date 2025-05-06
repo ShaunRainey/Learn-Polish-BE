@@ -54,7 +54,6 @@ function seed() {
             ])
         })
         .then((newData) => {
-            console.log(newData[2].formattedFutureVerbs)
             return Promise.all([
                 insertSentenceData(newData[0]),
                 insertPastTenseData(newData[1].formattedPastVerbs),

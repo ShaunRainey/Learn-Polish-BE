@@ -5,10 +5,13 @@ beforeAll(() => seed());
 afterAll(() => db.end())
 
 /* current tables:
-    - conditionaltenseimpverbs
-    - pasttenseimpverbs
-    - presenttenseimpverbs
-    - sentences
+conditionaltenseimpverbs
+conditionaltenseperverbs
+futuretenseperverbs
+pasttenseimpverbs
+pasttenseperverbs
+presenttenseimpverbs
+sentences 
 */
 
 describe("seed", () => {
@@ -27,20 +30,86 @@ describe("seed", () => {
                     expect(newMap).toEqual(['sentence_id', 'unit', 'topic', 'polish', 'english'])
                 })
         })
-        test.only("test that conditional table exists", () => {
+    })
+
+    describe("verbs tables", () => {
+        test("test that conditionaltenseimpverbs table exists", () => {
             return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'conditionaltenseimpverbs');`)
+                .then(({ rows: [{ exists }] }) => {
+                    expect(exists).toBe(true)
+                })            
+        })
+        test("ensure correct column headings within conditionaltenseimpverbs table", () => {
+            return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'conditionaltenseimpverbs'`)
+                .then(({ rows }) => {
+                    const newMap = rows.map((row) => { return row.column_name })
+                    expect(newMap).toEqual(['verb_id', 'unit', 'topic', 'verb', 'meaning', 'conjugation', 'ja', 'ty', 'on_ona', 'my', 'wy', 'oni_one'])
+                })
+        })
+        test("test that conditionaltenseperverbs table exists", () => {
+            return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'conditionaltenseperverbs');`)
                 .then(({ rows: [{ exists }] }) => {
                     expect(exists).toBe(true)
                 })
         })
+        test("ensure correct column headings within conditionaltenseperverbs table", () => {
+            return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'conditionaltenseperverbs'`)
+                .then(({ rows }) => {
+                    const newMap = rows.map((row) => { return row.column_name })
+                    expect(newMap).toEqual(['verb_id', 'unit', 'topic', 'verb', 'meaning', 'conjugation', 'ja', 'ty', 'on_ona', 'my', 'wy', 'oni_one'])
+                })
+        })
+        test("test that futuretenseperverbs table exists", () => {
+            return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'futuretenseperverbs');`)
+                .then(({ rows: [{ exists }] }) => {
+                    expect(exists).toBe(true)
+                }) 
+        })
+        test("ensure correct column headings within futuretenseperverbs table", () => {
+            return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'futuretenseperverbs'`)
+                .then(({ rows }) => {
+                    const newMap = rows.map((row) => { return row.column_name })
+                    expect(newMap).toEqual(['verb_id', 'unit', 'topic', 'verb', 'meaning', 'conjugation', 'ja', 'ty', 'on_ona', 'my', 'wy', 'oni_one'])
+                })
+        })
+        test("test that pasttenseimpverbs table exists", () => {
+            return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'pasttenseimpverbs');`)
+                .then(({ rows: [{ exists }] }) => {
+                    expect(exists).toBe(true)
+                }) 
+        })
+        test("ensure correct column headings within pasttenseimpverbs table", () => {
+            return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'pasttenseimpverbs'`)
+                .then(({ rows }) => {
+                    const newMap = rows.map((row) => { return row.column_name })
+                    expect(newMap).toEqual(['verb_id', 'unit', 'topic', 'verb', 'meaning', 'conjugation', 'ja', 'ty', 'on_ona', 'my', 'wy', 'oni_one'])
+                })
+        })
+        test("test that pasttenseperverbs table exists", () => {
+            return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'pasttenseperverbs');`)
+                .then(({ rows: [{ exists }] }) => {
+                    expect(exists).toBe(true)
+                }) 
+        })
+        test("ensure correct column headings within pasttenseperverbs table", () => {
+            return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'pasttenseperverbs'`)
+                .then(({ rows }) => {
+                    const newMap = rows.map((row) => { return row.column_name })
+                    expect(newMap).toEqual(['verb_id', 'unit', 'topic', 'verb', 'meaning', 'conjugation', 'ja', 'ty', 'on_ona', 'my', 'wy', 'oni_one'])
+                })
+        })
+        test("test that presenttenseimpverbs table exists", () => {
+            return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'presenttenseimpverbs');`)
+                .then(({ rows: [{ exists }] }) => {
+                    expect(exists).toBe(true)
+                }) 
+        })
+        test("ensure correct column headings within presenttenseimpverbs table", () => {
+            return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'presenttenseimpverbs'`)
+                .then(({ rows }) => {
+                    const newMap = rows.map((row) => { return row.column_name })
+                    expect(newMap).toEqual(['verb_id', 'unit', 'topic', 'verb', 'meaning', 'conjugation', 'ja', 'ty', 'on_ona', 'my', 'wy', 'oni_one'])
+                })
+        })
     })
-
-    // describe("imperfective verb tables", () => {
-    //     test.only("test that conditional table exists", () => {
-    //         return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'conditionaltenseimpverbs');`)
-    //             .then(({ rows: [{ exists }] }) => {
-    //                 expect(exists).toBe(true)
-    //             })
-    //     })
-    // })
 })

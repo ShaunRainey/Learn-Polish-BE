@@ -19,7 +19,11 @@ const {
   Genitive_DopełniaczData,
   Locative_MiejscownikData,
 } = require("../database/data/index");
-const { formatSentenceData } = require("../database/utils");
+const { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData } = require("../database/utils");
+
+/* The tests here will be kept fairly minimal as I'm the only user for this section. They exist mostly to highlight if I accidentally mess up
+the code functionality at some point, leading to the tests failing.
+*/
 
 describe("formatSentenceData", () => {
     test("returns an array when given input data", () => {
@@ -74,3 +78,92 @@ describe("formatSentenceData", () => {
         ]);
     })
 })
+
+describe("test suite for verb functions", () => {
+  test("generateImperfectiveVerbData, does it produce the correct data", () => {
+    const input = Verbs_ImperfectiveData;
+    const output = generateImperfectiveVerbData(Verbs_ImperfectiveData);
+    expect(Object.keys(output)).toEqual(['presentTenseVerbs', 'pastTenseVerbs', 'conditionalTenseVerbs'])
+    for (let key in output) {
+      output[key].forEach((verb) => {
+        expect(verb).toEqual({
+          Unit: expect.any(Number),
+          Topic: expect.any(String),
+          Verb: expect.any(String),
+          Meaning: expect.any(String),
+          Conjugation: expect.any(String),
+          Ja: expect.any(String),
+          Ty: expect.any(String),
+          "On/Ona": expect.any(String),
+          My: expect.any(String),
+          Wy: expect.any(String),
+          "Oni/One": expect.any(String),
+        })
+      })
+    }      
+    })
+  })
+  test("generatePerfectiveVerbData, does it produce the correct data", () => {
+    const input = Verbs_PerfectiveData;
+    const output = generatePerfectiveVerbData(Verbs_PerfectiveData);
+    expect(Object.keys(output)).toEqual(['pastTenseVerbs', 'conditionalTenseVerbs', 'futureTenseVerbs'])
+    for (let key in output) {
+      output[key].forEach((verb) => {
+        expect(verb).toEqual({
+          Unit: expect.any(Number),
+          Topic: expect.any(String),
+          Verb: expect.any(String),
+          Meaning: expect.any(String),
+          Conjugation: expect.any(String),
+          Ja: expect.any(String),
+          Ty: expect.any(String),
+          "On/Ona": expect.any(String),
+          My: expect.any(String),
+          Wy: expect.any(String),
+          "Oni/One": expect.any(String),
+        })
+      })
+    }
+  })
+  test("formatImperfectiveVerbData, does it produce the correct data", () => {
+    const output = formatImperfectiveVerbData();
+    expect(Object.keys(output)).toEqual(['formattedPastVerbs', 'formattedPresentVerbs', 'formattedConditionalVerbs'])
+    for (let key in output) {
+      output[key].forEach((entry) => {
+        expect(typeof(entry[0])).toBe("number"),
+        expect(typeof(entry[1])).toBe("string"),
+        expect(typeof(entry[2])).toBe("string"),
+        expect(typeof(entry[3])).toBe("string"),
+        expect(typeof(entry[4])).toBe("string"),
+        expect(typeof(entry[5])).toBe("string"),
+        expect(typeof(entry[6])).toBe("string"),
+        expect(typeof(entry[7])).toBe("string"),
+        expect(typeof(entry[8])).toBe("string"),
+        expect(typeof(entry[9])).toBe("string"),
+        expect(typeof(entry[10])).toBe("string")
+      })
+    }
+  })
+  test("formatPerfectiveVerbData, does it produce the correct output", () => {
+    const output = formatPerfectiveVerbData();
+    expect(Object.keys(output)).toEqual(['formattedPastVerbs', 'formattedFutureVerbs', 'formattedConditionalVerbs'])
+    for (let key in output) {
+      output[key].forEach((entry) => {
+        expect(typeof(entry[0])).toBe("number"),
+        expect(typeof(entry[1])).toBe("string"),
+        expect(typeof(entry[2])).toBe("string"),
+        expect(typeof(entry[3])).toBe("string"),
+        expect(typeof(entry[4])).toBe("string"),
+        expect(typeof(entry[5])).toBe("string"),
+        expect(typeof(entry[6])).toBe("string"),
+        expect(typeof(entry[7])).toBe("string"),
+        expect(typeof(entry[8])).toBe("string"),
+        expect(typeof(entry[9])).toBe("string"),
+        expect(typeof(entry[10])).toBe("string")
+      })
+    }
+  })
+  test("", () => {
+    
+  })
+

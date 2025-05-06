@@ -175,4 +175,4 @@ function formatPerfectiveVerbData() {
   
 }
 
-module.exports = { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData }
+module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData }

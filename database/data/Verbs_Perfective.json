@@ -14,22 +14,32 @@
     "Oni/One": "Znajdą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Znalazłem / Znalazłam",
-    "Tense": "Znalazłeś / Znalazłaś",
-    "Ja": "Znalazł / Znalazła",
-    "Ty": "Znaleźliśmy / Znalazłyśmy",
-    "On/Ona": "Znaleźliście / Znalazłyście",
-    "My": "Znaleźli / Znalazły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Znależć",
+    "Meaning": "To find",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Znalazłem / Znalazłam",
+    "Ty": "Znalazłeś / Znalazłaś",
+    "On/Ona": "Znalazł / Znalazła",
+    "My": "Znaleźliśmy / Znalazłyśmy",
+    "Wy": "Znaleźliście / Znalazłyście",
+    "Oni/One": "Znaleźli / Znalazły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Znalazłbym / Znalazłabym",
-    "Tense": "Znalazłbyś / Znalazłabyś",
-    "Ja": "Znalazłby / Znalazłaby",
-    "Ty": "Znaleźlibyśmy / Znalazłybyśmy",
-    "On/Ona": "Znaleźlibyście / Znalazłybyście",
-    "My": "Znaleźliby / Znalazłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Znależć",
+    "Meaning": "To find",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Znalazłbym / Znalazłabym",
+    "Ty": "Znalazłbyś / Znalazłabyś",
+    "On/Ona": "Znalazłby / Znalazłaby",
+    "My": "Znaleźlibyśmy / Znalazłybyśmy",
+    "Wy": "Znaleźlibyście / Znalazłybyście",
+    "Oni/One": "Znaleźliby / Znalazłyby"
   },
   {
     "Unit": 2.23,
@@ -46,22 +56,32 @@
     "Oni/One": "Zrobią"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zrobiłem / Zrobiłam",
-    "Tense": "Zrobiłeś / Zrobiłaś",
-    "Ja": "Zrobił / Zrobiła",
-    "Ty": "Zrobiliśmy / Zrobiłyśmy",
-    "On/Ona": "Zrobiliście / Zrobiłyście",
-    "My": "Zrobili / Zrobiły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Zrobić",
+    "Meaning": "To do",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Zrobiłem / Zrobiłam",
+    "Ty": "Zrobiłeś / Zrobiłaś",
+    "On/Ona": "Zrobił / Zrobiła",
+    "My": "Zrobiliśmy / Zrobiłyśmy",
+    "Wy": "Zrobiliście / Zrobiłyście",
+    "Oni/One": "Zrobili / Zrobiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zrobiłbym / Zrobiłabym",
-    "Tense": "Zrobiłbyś / Zrobiłabyś",
-    "Ja": "Zrobiłby / Zrobiłaby",
-    "Ty": "Zrobilibyśmy / Zrobiłybyśmy",
-    "On/Ona": "Zrobilibyście / Zrobiłybyście",
-    "My": "Zrobiliby / Zrobiłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Zrobić",
+    "Meaning": "To do",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Zrobiłbym / Zrobiłabym",
+    "Ty": "Zrobiłbyś / Zrobiłabyś",
+    "On/Ona": "Zrobiłby / Zrobiłaby",
+    "My": "Zrobilibyśmy / Zrobiłybyśmy",
+    "Wy": "Zrobilibyście / Zrobiłybyście",
+    "Oni/One": "Zrobiliby / Zrobiłyby"
   },
   {
     "Unit": 2.23,
@@ -78,22 +98,32 @@
     "Oni/One": "Napiszą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Napisałem / Napisałam",
-    "Tense": "Napisałeś / Napisałaś",
-    "Ja": "Napisał / Napisała",
-    "Ty": "Napisaliśmy / Napisałyśmy",
-    "On/Ona": "Napisaliście / Napisałyście",
-    "My": "Napisali / Napisały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Napisać",
+    "Meaning": "To write",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Napisałem / Napisałam",
+    "Ty": "Napisałeś / Napisałaś",
+    "On/Ona": "Napisał / Napisała",
+    "My": "Napisaliśmy / Napisałyśmy",
+    "Wy": "Napisaliście / Napisałyście",
+    "Oni/One": "Napisali / Napisały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Napisałbym / Napisałabym",
-    "Tense": "Napisałbyś / Napisałabyś",
-    "Ja": "Napisałby / Napisałaby",
-    "Ty": "Napisalibyśmy / Napisałybyśmy",
-    "On/Ona": "Napisalibyście / Napisałybyście",
-    "My": "Napisaliby / Napisałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Napisać",
+    "Meaning": "To write",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Napisałbym / Napisałabym",
+    "Ty": "Napisałbyś / Napisałabyś",
+    "On/Ona": "Napisałby / Napisałaby",
+    "My": "Napisalibyśmy / Napisałybyśmy",
+    "Wy": "Napisalibyście / Napisałybyście",
+    "Oni/One": "Napisaliby / Napisałyby"
   },
   {
     "Unit": 2.23,
@@ -110,22 +140,32 @@
     "Oni/One": "Przeczytają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Przeczytałem / Przeczytałam",
-    "Tense": "Przeczytałeś / Przeczytałaś",
-    "Ja": "Przeczytał / Przeczytała",
-    "Ty": "Przeczytaliśmy / Przeczytałyśmy",
-    "On/Ona": "Przeczytaliście / Przeczytałyście",
-    "My": "Przeczytali / Przeczytały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Przeczytać",
+    "Meaning": "To read",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Przeczytałem / Przeczytałam",
+    "Ty": "Przeczytałeś / Przeczytałaś",
+    "On/Ona": "Przeczytał / Przeczytała",
+    "My": "Przeczytaliśmy / Przeczytałyśmy",
+    "Wy": "Przeczytaliście / Przeczytałyście",
+    "Oni/One": "Przeczytali / Przeczytały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Przeczytałbym / Przeczytałabym",
-    "Tense": "Przeczytałbyś / Przeczytałabyś",
-    "Ja": "Przeczytałby / Przeczytałaby",
-    "Ty": "Przeczytalibyśmy / Przeczytałybyśmy",
-    "On/Ona": "Przeczytalibyście / Przeczytałybyście",
-    "My": "Przeczytaliby / Przeczytałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Przeczytać",
+    "Meaning": "To read",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Przeczytałbym / Przeczytałabym",
+    "Ty": "Przeczytałbyś / Przeczytałabyś",
+    "On/Ona": "Przeczytałby / Przeczytałaby",
+    "My": "Przeczytalibyśmy / Przeczytałybyśmy",
+    "Wy": "Przeczytalibyście / Przeczytałybyście",
+    "Oni/One": "Przeczytaliby / Przeczytałyby"
   },
   {
     "Unit": 2.23,
@@ -142,22 +182,32 @@
     "Oni/One": "Powiedzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Powiedziałem / Powiedziałam",
-    "Tense": "Powiedziałeś / Powiedziałaś",
-    "Ja": "Powiedział / Powiedziała",
-    "Ty": "Powiedzieliśmy / Powiedziałyśmy",
-    "On/Ona": "Powiedzieliście / Powiedziałyście",
-    "My": "Powiedzieli / Powiedziały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Powiedzieć",
+    "Meaning": "To tell",
+    "Conjugation": "- em / - esz",
+    "Tense": "Past",
+    "Ja": "Powiedziałem / Powiedziałam",
+    "Ty": "Powiedziałeś / Powiedziałaś",
+    "On/Ona": "Powiedział / Powiedziała",
+    "My": "Powiedzieliśmy / Powiedziałyśmy",
+    "Wy": "Powiedzieliście / Powiedziałyście",
+    "Oni/One": "Powiedzieli / Powiedziały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Powiedziałbym / Powiedziałabym",
-    "Tense": "Powiedziałbyś / Powiedziałabyś",
-    "Ja": "Powiedziałby / Powiedziałaby",
-    "Ty": "Powiedzielibyśmy / Powiedziałybyśmy",
-    "On/Ona": "Powiedzielibyście / Powiedziałybyście",
-    "My": "Powiedzieliby / Powiedziałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Powiedzieć",
+    "Meaning": "To tell",
+    "Conjugation": "- em / - esz",
+    "Tense": "Conditional",
+    "Ja": "Powiedziałbym / Powiedziałabym",
+    "Ty": "Powiedziałbyś / Powiedziałabyś",
+    "On/Ona": "Powiedziałby / Powiedziałaby",
+    "My": "Powiedzielibyśmy / Powiedziałybyśmy",
+    "Wy": "Powiedzielibyście / Powiedziałybyście",
+    "Oni/One": "Powiedzieliby / Powiedziałyby"
   },
   {
     "Unit": 2.23,
@@ -174,22 +224,32 @@
     "Oni/One": "Ugotowają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Ugotowałem / Ugotowałam",
-    "Tense": "Ugotowałeś / Ugotowałaś",
-    "Ja": "Ugotował / Ugotowały",
-    "Ty": "Ugotowaliśmy / Ugotowałyśmy",
-    "On/Ona": "Ugotowaliście / Ugotowałyście",
-    "My": "Ugotowali / Ugotowały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Ugotować",
+    "Meaning": "To cook",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Ugotowałem / Ugotowałam",
+    "Ty": "Ugotowałeś / Ugotowałaś",
+    "On/Ona": "Ugotował / Ugotowały",
+    "My": "Ugotowaliśmy / Ugotowałyśmy",
+    "Wy": "Ugotowaliście / Ugotowałyście",
+    "Oni/One": "Ugotowali / Ugotowały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Ugotowałbym / Ugotowałabym",
-    "Tense": "Ugotowałbyś / Ugotowałabyś",
-    "Ja": "Ugotowałby / Ugotowałaby",
-    "Ty": "Ugotowalibyśmy / Ugotowałybyśmy",
-    "On/Ona": "Ugotowalibyście / Ugotowałybyście",
-    "My": "Ugotowaliby / Ugotowałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Ugotować",
+    "Meaning": "To cook",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Ugotowałbym / Ugotowałabym",
+    "Ty": "Ugotowałbyś / Ugotowałabyś",
+    "On/Ona": "Ugotowałby / Ugotowałaby",
+    "My": "Ugotowalibyśmy / Ugotowałybyśmy",
+    "Wy": "Ugotowalibyście / Ugotowałybyście",
+    "Oni/One": "Ugotowaliby / Ugotowałyby"
   },
   {
     "Unit": 2.23,
@@ -206,22 +266,32 @@
     "Oni/One": "Pomogą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Pomogłem / Pomogłam",
-    "Tense": "Pomogłeś / Pomogłaś",
-    "Ja": "Pomogł / Pomogła",
-    "Ty": "Pomogliśmy / Pomogłyśmy",
-    "On/Ona": "Pomogliście / Pomogłyście",
-    "My": "Pomogli / Pomogły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Pomóc",
+    "Meaning": "To help",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Pomogłem / Pomogłam",
+    "Ty": "Pomogłeś / Pomogłaś",
+    "On/Ona": "Pomogł / Pomogła",
+    "My": "Pomogliśmy / Pomogłyśmy",
+    "Wy": "Pomogliście / Pomogłyście",
+    "Oni/One": "Pomogli / Pomogły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Pomógłbym / Pomogłabym",
-    "Tense": "Pomógłbyś / Pomogłabyś",
-    "Ja": "Pomógłby / Pomogłaby",
-    "Ty": "Pomoglibyśmy / Pomogłybyśmy",
-    "On/Ona": "Pomoglibyście / Pomogłybyście",
-    "My": "Pomogliby / Pomogłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Pomóc",
+    "Meaning": "To help",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Pomógłbym / Pomogłabym",
+    "Ty": "Pomógłbyś / Pomogłabyś",
+    "On/Ona": "Pomógłby / Pomogłaby",
+    "My": "Pomoglibyśmy / Pomogłybyśmy",
+    "Wy": "Pomoglibyście / Pomogłybyście",
+    "Oni/One": "Pomogliby / Pomogłyby"
   },
   {
     "Unit": 2.23,
@@ -238,22 +308,32 @@
     "Oni/One": "Odwiedzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Odwiedziłem / Odwiedziłam",
-    "Tense": "Odwiedziłeś / Odwiedziłaś",
-    "Ja": "Odwiedził / Odwiedziła",
-    "Ty": "Odwiedziliśmy / Odwiedziłyśmy",
-    "On/Ona": "Odwiedziliście / Odwiedziłyście",
-    "My": "Odwiedzili / Odwiedziły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Odwiedzić",
+    "Meaning": "To visit",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Odwiedziłem / Odwiedziłam",
+    "Ty": "Odwiedziłeś / Odwiedziłaś",
+    "On/Ona": "Odwiedził / Odwiedziła",
+    "My": "Odwiedziliśmy / Odwiedziłyśmy",
+    "Wy": "Odwiedziliście / Odwiedziłyście",
+    "Oni/One": "Odwiedzili / Odwiedziły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Odwiedziłbym / Odwiedziłabym",
-    "Tense": "Odwiedziłbyś / Odwiedziłabyś",
-    "Ja": "Odwiedziłby / Odwiedziłaby",
-    "Ty": "Odwiedzilibyśmy / Odwiedziłybyśmy",
-    "On/Ona": "Odwiedzilibyście / Odwiedziłybyście",
-    "My": "Odwiedziliby / Odwiedziłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Odwiedzić",
+    "Meaning": "To visit",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Odwiedziłbym / Odwiedziłabym",
+    "Ty": "Odwiedziłbyś / Odwiedziłabyś",
+    "On/Ona": "Odwiedziłby / Odwiedziłaby",
+    "My": "Odwiedzilibyśmy / Odwiedziłybyśmy",
+    "Wy": "Odwiedzilibyście / Odwiedziłybyście",
+    "Oni/One": "Odwiedziliby / Odwiedziłyby"
   },
   {
     "Unit": 2.23,
@@ -270,22 +350,32 @@
     "Oni/One": "Posprzątają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Posprzątałem / Posprzątałam",
-    "Tense": "Posprzątałeś / Posprzątałaś",
-    "Ja": "Posprzątał / Posprzątała",
-    "Ty": "Posprzątaliśmy / Posprzątałyśmy",
-    "On/Ona": "Posprzątaliście / Posprzątałyście",
-    "My": "Posprzątali / Posprzątały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Posprzątać",
+    "Meaning": "To tidy",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Posprzątałem / Posprzątałam",
+    "Ty": "Posprzątałeś / Posprzątałaś",
+    "On/Ona": "Posprzątał / Posprzątała",
+    "My": "Posprzątaliśmy / Posprzątałyśmy",
+    "Wy": "Posprzątaliście / Posprzątałyście",
+    "Oni/One": "Posprzątali / Posprzątały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Posprzątałbym / Posprzątałabym",
-    "Tense": "Posprzątałbyś / Posprzątałabyś",
-    "Ja": "Posprzątałby / Posprzątałaby",
-    "Ty": "Posprzątalibyśmy / Posprzątałybyśmy",
-    "On/Ona": "Posprzątalibyście / Posprzątałybyście",
-    "My": "Posprzątaliby / Posprzątałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Posprzątać",
+    "Meaning": "To tidy",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Posprzątałbym / Posprzątałabym",
+    "Ty": "Posprzątałbyś / Posprzątałabyś",
+    "On/Ona": "Posprzątałby / Posprzątałaby",
+    "My": "Posprzątalibyśmy / Posprzątałybyśmy",
+    "Wy": "Posprzątalibyście / Posprzątałybyście",
+    "Oni/One": "Posprzątaliby / Posprzątałyby"
   },
   {
     "Unit": 2.23,
@@ -302,22 +392,32 @@
     "Oni/One": "Porozmawiają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Porozmawiałem / Porozmawiałam",
-    "Tense": "Porozmawiałeś / Porozmawiałaś",
-    "Ja": "Porozmawiał / Porozmawiała",
-    "Ty": "Porozmawialiśmy / Porozmawiałyśmy",
-    "On/Ona": "Porozmawialiście / Porozmawiałyście",
-    "My": "Porozmawiali / Porozmawiały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Porozmawiać",
+    "Meaning": "To talk",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Porozmawiałem / Porozmawiałam",
+    "Ty": "Porozmawiałeś / Porozmawiałaś",
+    "On/Ona": "Porozmawiał / Porozmawiała",
+    "My": "Porozmawialiśmy / Porozmawiałyśmy",
+    "Wy": "Porozmawialiście / Porozmawiałyście",
+    "Oni/One": "Porozmawiali / Porozmawiały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Porozmawiałbym / Porozmawiałabym",
-    "Tense": "Porozmawiałbyś / Porozmawiałabyś",
-    "Ja": "Porozmawiałby / Porozmawiałaby",
-    "Ty": "Porozmawialibyśmy / Porozmawiałybyśmy",
-    "On/Ona": "Porozmawialibyście / Porozmawiałybyście",
-    "My": "Porozmawialiby / Porozmawiałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Porozmawiać",
+    "Meaning": "To talk",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Porozmawiałbym / Porozmawiałabym",
+    "Ty": "Porozmawiałbyś / Porozmawiałabyś",
+    "On/Ona": "Porozmawiałby / Porozmawiałaby",
+    "My": "Porozmawialibyśmy / Porozmawiałybyśmy",
+    "Wy": "Porozmawialibyście / Porozmawiałybyście",
+    "Oni/One": "Porozmawialiby / Porozmawiałyby"
   },
   {
     "Unit": 2.23,
@@ -334,22 +434,32 @@
     "Oni/One": "Przyniosą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Przyniosłem / Przyniosłam",
-    "Tense": "Przyniosłeś / Przyniosłaś",
-    "Ja": "Przyniósł / Przyniosła",
-    "Ty": "Przynieśliśmy / Przyniosłyśmy",
-    "On/Ona": "Przynieśliście / Przyniosłyście",
-    "My": "Przynieśli / Przyniosły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Przynieść",
+    "Meaning": "To bring",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Przyniosłem / Przyniosłam",
+    "Ty": "Przyniosłeś / Przyniosłaś",
+    "On/Ona": "Przyniósł / Przyniosła",
+    "My": "Przynieśliśmy / Przyniosłyśmy",
+    "Wy": "Przynieśliście / Przyniosłyście",
+    "Oni/One": "Przynieśli / Przyniosły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Przyniósłbym / Przyniosłabym",
-    "Tense": "Przyniósłbyś / Przyniosłabyś",
-    "Ja": "Przyniósłby / Przyniosłaby",
-    "Ty": "Przynieślibyśmy / Przyniosłybyśmy",
-    "On/Ona": "Przynieślibyście / Przyniosłybyście",
-    "My": "Przynieśliby / Przyniosłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Przynieść",
+    "Meaning": "To bring",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Przyniósłbym / Przyniosłabym",
+    "Ty": "Przyniósłbyś / Przyniosłabyś",
+    "On/Ona": "Przyniósłby / Przyniosłaby",
+    "My": "Przynieślibyśmy / Przyniosłybyśmy",
+    "Wy": "Przynieślibyście / Przyniosłybyście",
+    "Oni/One": "Przynieśliby / Przyniosłyby"
   },
   {
     "Unit": 2.23,
@@ -366,22 +476,32 @@
     "Oni/One": "Sprzedadzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Sprzedałem / Sprzedałam",
-    "Tense": "Sprzedałeś / Sprzedałaś",
-    "Ja": "Sprzedał / Sprzedała",
-    "Ty": "Sprzedaliśmy / Sprzedałyśmy",
-    "On/Ona": "Sprzedaliście / Sprzedałyście",
-    "My": "Sprzedali / Sprzedały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Sprzędać",
+    "Meaning": "To sell",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Sprzedałem / Sprzedałam",
+    "Ty": "Sprzedałeś / Sprzedałaś",
+    "On/Ona": "Sprzedał / Sprzedała",
+    "My": "Sprzedaliśmy / Sprzedałyśmy",
+    "Wy": "Sprzedaliście / Sprzedałyście",
+    "Oni/One": "Sprzedali / Sprzedały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Sprzedałbym / Sprzedałabym",
-    "Tense": "Sprzedałbyś / Sprzedałabyś",
-    "Ja": "Sprzedałby / Sprzedałaby",
-    "Ty": "Sprzedalibyśmy / Sprzedałybyśmy",
-    "On/Ona": "Sprzedalibyście / Sprzedałybyście",
-    "My": "Sprzedaliby / Sprzedałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Sprzędać",
+    "Meaning": "To sell",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Sprzedałbym / Sprzedałabym",
+    "Ty": "Sprzedałbyś / Sprzedałabyś",
+    "On/Ona": "Sprzedałby / Sprzedałaby",
+    "My": "Sprzedalibyśmy / Sprzedałybyśmy",
+    "Wy": "Sprzedalibyście / Sprzedałybyście",
+    "Oni/One": "Sprzedaliby / Sprzedałyby"
   },
   {
     "Unit": 2.23,
@@ -398,22 +518,32 @@
     "Oni/One": "Wezmą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Wziąłem / Wzięłam",
-    "Tense": "Wziąłeś / Wzięłaś",
-    "Ja": "Wziął / Wzięła",
-    "Ty": "Wzięliśmy / Wzięłyśmy",
-    "On/Ona": "Wzięliście / Wzięłyście",
-    "My": "Wzięli / Wzięły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Wziąć",
+    "Meaning": "To take",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Wziąłem / Wzięłam",
+    "Ty": "Wziąłeś / Wzięłaś",
+    "On/Ona": "Wziął / Wzięła",
+    "My": "Wzięliśmy / Wzięłyśmy",
+    "Wy": "Wzięliście / Wzięłyście",
+    "Oni/One": "Wzięli / Wzięły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Wziąłbym / Wzięłabym",
-    "Tense": "Wziąłbyś / Wzięłabyś",
-    "Ja": "Wziąłby / Wzięłaby",
-    "Ty": "Wzięlibyśmy / Wzięłybyśmy",
-    "On/Ona": "Wzięlibyście / Wzięłybyście",
-    "My": "Wzięliby / Wzięłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Wziąć",
+    "Meaning": "To take",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Wziąłbym / Wzięłabym",
+    "Ty": "Wziąłbyś / Wzięłabyś",
+    "On/Ona": "Wziąłby / Wzięłaby",
+    "My": "Wzięlibyśmy / Wzięłybyśmy",
+    "Wy": "Wzięlibyście / Wzięłybyście",
+    "Oni/One": "Wzięliby / Wzięłyby"
   },
   {
     "Unit": 2.23,
@@ -430,22 +560,32 @@
     "Oni/One": "Kupią"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Kupiłem / Kupiłam",
-    "Tense": "Kupiłeś / Kupiłaś",
-    "Ja": "Kupił / Kupiła",
-    "Ty": "Kupiliśmy / Kupiłyśmy",
-    "On/Ona": "Kupiliście / Kupiłyście",
-    "My": "Kupili / Kupiły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Kupić",
+    "Meaning": "To buy",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Kupiłem / Kupiłam",
+    "Ty": "Kupiłeś / Kupiłaś",
+    "On/Ona": "Kupił / Kupiła",
+    "My": "Kupiliśmy / Kupiłyśmy",
+    "Wy": "Kupiliście / Kupiłyście",
+    "Oni/One": "Kupili / Kupiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Kupiłbym / Kupiłabym",
-    "Tense": "Kupiłbyś / Kupiłabyś",
-    "Ja": "Kupiłby / Kupiłaby",
-    "Ty": "Kupilibyśmy / Kupiłybyśmy",
-    "On/Ona": "Kupilibyście / Kupiłybyście",
-    "My": "Kupiliby / Kupiłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Kupić",
+    "Meaning": "To buy",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Kupiłbym / Kupiłabym",
+    "Ty": "Kupiłbyś / Kupiłabyś",
+    "On/Ona": "Kupiłby / Kupiłaby",
+    "My": "Kupilibyśmy / Kupiłybyśmy",
+    "Wy": "Kupilibyście / Kupiłybyście",
+    "Oni/One": "Kupiliby / Kupiłyby"
   },
   {
     "Unit": 2.23,
@@ -462,22 +602,32 @@
     "Oni/One": "Zjedzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zjadłem / Zjadłam",
-    "Tense": "Zjadłeś / Zjadłaś",
-    "Ja": "Zjadł / Zjadła",
-    "Ty": "Zjedliśmy / Zjadłyśmy",
-    "On/Ona": "Zjedliście / Zjadłyście",
-    "My": "Zjedli / Zjadły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Zjeść",
+    "Meaning": "To eat",
+    "Conjugation": "- em / - esz",
+    "Tense": "Past",
+    "Ja": "Zjadłem / Zjadłam",
+    "Ty": "Zjadłeś / Zjadłaś",
+    "On/Ona": "Zjadł / Zjadła",
+    "My": "Zjedliśmy / Zjadłyśmy",
+    "Wy": "Zjedliście / Zjadłyście",
+    "Oni/One": "Zjedli / Zjadły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zjadłbym / Zjadłabym",
-    "Tense": "Zjadłbyś / Zjadłabyś",
-    "Ja": "Zjadłby / Zjadłaby",
-    "Ty": "Zjedlibyśmy / Zjadłybyśmy",
-    "On/Ona": "Zjedlibyście / Zjadłybyście",
-    "My": "Zjedliby / Zjadłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Zjeść",
+    "Meaning": "To eat",
+    "Conjugation": "- em / - esz",
+    "Tense": "Conditional",
+    "Ja": "Zjadłbym / Zjadłabym",
+    "Ty": "Zjadłbyś / Zjadłabyś",
+    "On/Ona": "Zjadłby / Zjadłaby",
+    "My": "Zjedlibyśmy / Zjadłybyśmy",
+    "Wy": "Zjedlibyście / Zjadłybyście",
+    "Oni/One": "Zjedliby / Zjadłyby"
   },
   {
     "Unit": 2.23,
@@ -494,22 +644,32 @@
     "Oni/One": "Pokażą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Pokazałem / Pokazałam",
-    "Tense": "Pokazałeś / Pokazałaś",
-    "Ja": "Pokazał / Pokazała",
-    "Ty": "Pokazaliśmy / Pokazałyśmy",
-    "On/Ona": "Pokazaliście / Pokazałyście",
-    "My": "Pokazali / Pokazały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Pokazać",
+    "Meaning": "To show",
+    "Conjugation": "- e / -esz",
+    "Tense": "Past",
+    "Ja": "Pokazałem / Pokazałam",
+    "Ty": "Pokazałeś / Pokazałaś",
+    "On/Ona": "Pokazał / Pokazała",
+    "My": "Pokazaliśmy / Pokazałyśmy",
+    "Wy": "Pokazaliście / Pokazałyście",
+    "Oni/One": "Pokazali / Pokazały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Pokazałbym / Pokazałabym",
-    "Tense": "Pokazałbyś / Pokazałabyś",
-    "Ja": "Pokazałby / Pokazałaby",
-    "Ty": "Pokazalibyśmy / Pokazałybyśmy",
-    "On/Ona": "Pokazalibyście / Pokazałybyście",
-    "My": "Pokazaliby / Pokazałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Pokazać",
+    "Meaning": "To show",
+    "Conjugation": "- e / -esz",
+    "Tense": "Conditional",
+    "Ja": "Pokazałbym / Pokazałabym",
+    "Ty": "Pokazałbyś / Pokazałabyś",
+    "On/Ona": "Pokazałby / Pokazałaby",
+    "My": "Pokazalibyśmy / Pokazałybyśmy",
+    "Wy": "Pokazalibyście / Pokazałybyście",
+    "Oni/One": "Pokazaliby / Pokazałyby"
   },
   {
     "Unit": 2.23,
@@ -526,22 +686,32 @@
     "Oni/One": "Zamkną"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zamknąłem / Zamknęłam",
-    "Tense": "Zamknąłeś / Zamknęłaś",
-    "Ja": "Zamknął / Zamknęła",
-    "Ty": "Zamknęliśmy / Zamknęłyśmy",
-    "On/Ona": "Zamknęliście / Zamknęłyście",
-    "My": "Zamknęli / Zamknęły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Zamknąć",
+    "Meaning": "To close",
+    "Conjugation": "- e / -esz",
+    "Tense": "Past",
+    "Ja": "Zamknąłem / Zamknęłam",
+    "Ty": "Zamknąłeś / Zamknęłaś",
+    "On/Ona": "Zamknął / Zamknęła",
+    "My": "Zamknęliśmy / Zamknęłyśmy",
+    "Wy": "Zamknęliście / Zamknęłyście",
+    "Oni/One": "Zamknęli / Zamknęły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zamknąłbym / Zamknęłabym",
-    "Tense": "Zamknąłbyś / Zamknęłabyś",
-    "Ja": "Zamknąłby / Zamknęłaby",
-    "Ty": "Zamknęlibyśmy / Zamknęłybyśmy",
-    "On/Ona": "Zamknęlibyście / Zamknęłybyście",
-    "My": "Zamknęliby / Zamknęłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Zamknąć",
+    "Meaning": "To close",
+    "Conjugation": "- e / -esz",
+    "Tense": "Conditional",
+    "Ja": "Zamknąłbym / Zamknęłabym",
+    "Ty": "Zamknąłbyś / Zamknęłabyś",
+    "On/Ona": "Zamknąłby / Zamknęłaby",
+    "My": "Zamknęlibyśmy / Zamknęłybyśmy",
+    "Wy": "Zamknęlibyście / Zamknęłybyście",
+    "Oni/One": "Zamknęliby / Zamknęłyby"
   },
   {
     "Unit": 2.23,
@@ -558,22 +728,32 @@
     "Oni/One": "Zmienia"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zmieniłem / Zmieniłam",
-    "Tense": "Zmieniłeś / Zmieniłaś",
-    "Ja": "Zmienił / Zmieniła",
-    "Ty": "Zmieniliśmy / Zmieniłyśmy",
-    "On/Ona": "Zmieniliście / Zmieniłyście",
-    "My": "Zmienili / Zmieniły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Zmienić",
+    "Meaning": "To change",
+    "Conjugation": "- e / -isz",
+    "Tense": "Past",
+    "Ja": "Zmieniłem / Zmieniłam",
+    "Ty": "Zmieniłeś / Zmieniłaś",
+    "On/Ona": "Zmienił / Zmieniła",
+    "My": "Zmieniliśmy / Zmieniłyśmy",
+    "Wy": "Zmieniliście / Zmieniłyście",
+    "Oni/One": "Zmienili / Zmieniły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zmieniłbym / Zmieniłabym",
-    "Tense": "Zmieniłbyś / Zmieniłabyś",
-    "Ja": "Zmieniłby / Zmieniłaby",
-    "Ty": "Zmienilibyśmy / Zmieniłybyśmy",
-    "On/Ona": "Zmienilibyście / Zmieniłybyście",
-    "My": "Zmieniliby / Zmieniłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Zmienić",
+    "Meaning": "To change",
+    "Conjugation": "- e / -isz",
+    "Tense": "Conditional",
+    "Ja": "Zmieniłbym / Zmieniłabym",
+    "Ty": "Zmieniłbyś / Zmieniłabyś",
+    "On/Ona": "Zmieniłby / Zmieniłaby",
+    "My": "Zmienilibyśmy / Zmieniłybyśmy",
+    "Wy": "Zmienilibyście / Zmieniłybyście",
+    "Oni/One": "Zmieniliby / Zmieniłyby"
   },
   {
     "Unit": 2.23,
@@ -590,22 +770,32 @@
     "Oni/One": "Wyślą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Wysłałem / Wysłałam",
-    "Tense": "Wysłałeś / Wysłałaś",
-    "Ja": "Wysłał / Wysłała",
-    "Ty": "Wysłaliśmy / Wysłałyśmy",
-    "On/Ona": "Wysłaliście / Wysłałyście",
-    "My": "Wysłali / Wysłały"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Wysłać",
+    "Meaning": "To send",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Wysłałem / Wysłałam",
+    "Ty": "Wysłałeś / Wysłałaś",
+    "On/Ona": "Wysłał / Wysłała",
+    "My": "Wysłaliśmy / Wysłałyśmy",
+    "Wy": "Wysłaliście / Wysłałyście",
+    "Oni/One": "Wysłali / Wysłały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Wysłałbym / Wysłałabym",
-    "Tense": "Wysłałbyś / Wysłałabyś",
-    "Ja": "Wysłałby / Wysłałaby",
-    "Ty": "Wyslalibyśmy / Wysłałybyśmy",
-    "On/Ona": "Wyslalibyście / Wysłałybyście",
-    "My": "Wyslaliby / Wysłałyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Wysłać",
+    "Meaning": "To send",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Wysłałbym / Wysłałabym",
+    "Ty": "Wysłałbyś / Wysłałabyś",
+    "On/Ona": "Wysłałby / Wysłałaby",
+    "My": "Wyslalibyśmy / Wysłałybyśmy",
+    "Wy": "Wyslalibyście / Wysłałybyście",
+    "Oni/One": "Wyslaliby / Wysłałyby"
   },
   {
     "Unit": 2.23,
@@ -622,22 +812,32 @@
     "Oni/One": "Otworzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Otworzyłem / Otworzyłam",
-    "Tense": "Otworzyłeś / Otworzyłaś",
-    "Ja": "Otworzył / Otworzyła",
-    "Ty": "Otworzyliśmy / Otworzyłyśmy",
-    "On/Ona": "Otworzyliście / Otworzyłyście",
-    "My": "Otworzyli / Otworzyły"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Otworzyć",
+    "Meaning": "To open",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Otworzyłem / Otworzyłam",
+    "Ty": "Otworzyłeś / Otworzyłaś",
+    "On/Ona": "Otworzył / Otworzyła",
+    "My": "Otworzyliśmy / Otworzyłyśmy",
+    "Wy": "Otworzyliście / Otworzyłyście",
+    "Oni/One": "Otworzyli / Otworzyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Otworzyłbym / Otworzyłabym",
-    "Tense": "Otworzyłbyś / Otworzyłabyś",
-    "Ja": "Otworzyłby / Otworzyłaby",
-    "Ty": "Otworzylibyśmy / Otworzyłybyśmy",
-    "On/Ona": "Otworzylibyście / Otworzyłybyście",
-    "My": "Otworzyliby / Otworzyłyby"
+    "Unit": 2.23,
+    "Topic": "Use perfective verbs",
+    "Verb": "Otworzyć",
+    "Meaning": "To open",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Otworzyłbym / Otworzyłabym",
+    "Ty": "Otworzyłbyś / Otworzyłabyś",
+    "On/Ona": "Otworzyłby / Otworzyłaby",
+    "My": "Otworzylibyśmy / Otworzyłybyśmy",
+    "Wy": "Otworzylibyście / Otworzyłybyście",
+    "Oni/One": "Otworzyliby / Otworzyłyby"
   },
   {
     "Unit": 2.24,
@@ -654,22 +854,32 @@
     "Oni/One": "Zobaczą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zobaczyłem / Zobaczyłam",
-    "Tense": "Zobaczyłeś / Zobaczyłaś",
-    "Ja": "Zobaczył / Zobaczyła",
-    "Ty": "Zobaczyliśmy / Zobaczyłyśmy",
-    "On/Ona": "Zobaczyliście / Zobaczyłyście",
-    "My": "Zobaczyli / Zobaczyły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zobaczyć",
+    "Meaning": "To see",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Zobaczyłem / Zobaczyłam",
+    "Ty": "Zobaczyłeś / Zobaczyłaś",
+    "On/Ona": "Zobaczył / Zobaczyła",
+    "My": "Zobaczyliśmy / Zobaczyłyśmy",
+    "Wy": "Zobaczyliście / Zobaczyłyście",
+    "Oni/One": "Zobaczyli / Zobaczyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zobaczyłbym / Zobaczyłabym",
-    "Tense": "Zobaczyłbyś / Zobaczyłabyś",
-    "Ja": "Zobaczyłby / Zobaczyłaby",
-    "Ty": "Zobaczylibyśmy / Zobaczyłybyśmy",
-    "On/Ona": "Zobaczylibyście / Zobaczyłybyście",
-    "My": "Zobaczyliby / Zobaczyłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zobaczyć",
+    "Meaning": "To see",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Zobaczyłbym / Zobaczyłabym",
+    "Ty": "Zobaczyłbyś / Zobaczyłabyś",
+    "On/Ona": "Zobaczyłby / Zobaczyłaby",
+    "My": "Zobaczylibyśmy / Zobaczyłybyśmy",
+    "Wy": "Zobaczylibyście / Zobaczyłybyście",
+    "Oni/One": "Zobaczyliby / Zobaczyłyby"
   },
   {
     "Unit": 2.24,
@@ -686,22 +896,32 @@
     "Oni/One": "Wrócą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Wróciłem / Wróciłam",
-    "Tense": "Wróciłeś / Wróciłaś",
-    "Ja": "Wrócił / Wróciła",
-    "Ty": "Wróciliśmy / Wróciłyśmy",
-    "On/Ona": "Wróciliście / Wróciłyście",
-    "My": "Wrócili / Wróciły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Wrócić",
+    "Meaning": "To return",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Wróciłem / Wróciłam",
+    "Ty": "Wróciłeś / Wróciłaś",
+    "On/Ona": "Wrócił / Wróciła",
+    "My": "Wróciliśmy / Wróciłyśmy",
+    "Wy": "Wróciliście / Wróciłyście",
+    "Oni/One": "Wrócili / Wróciły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Wróciłbym / Wróciłabym",
-    "Tense": "Wróciłbyś / Wróciłabyś",
-    "Ja": "Wróciłby / Wróciłaby",
-    "Ty": "Wrócilibyśmy / Wróciłybyśmy",
-    "On/Ona": "Wrócilibyście / Wróciłybyście",
-    "My": "Wróciliby / Wróciłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Wrócić",
+    "Meaning": "To return",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Wróciłbym / Wróciłabym",
+    "Ty": "Wróciłbyś / Wróciłabyś",
+    "On/Ona": "Wróciłby / Wróciłaby",
+    "My": "Wrócilibyśmy / Wróciłybyśmy",
+    "Wy": "Wrócilibyście / Wróciłybyście",
+    "Oni/One": "Wróciliby / Wróciłyby"
   },
   {
     "Unit": 2.24,
@@ -718,22 +938,32 @@
     "Oni/One": "Pomyślą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Pomyślałem / Pomyślałam",
-    "Tense": "Pomyślałeś / Pomyślałaś",
-    "Ja": "Pomyślał / Pomyślała",
-    "Ty": "Pomyśleliśmy / Pomyślałyśmy",
-    "On/Ona": "Pomyśleliście / Pomyślałyście",
-    "My": "Pomyśleli / Pomyślały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Pomyśleć",
+    "Meaning": "To think",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Pomyślałem / Pomyślałam",
+    "Ty": "Pomyślałeś / Pomyślałaś",
+    "On/Ona": "Pomyślał / Pomyślała",
+    "My": "Pomyśleliśmy / Pomyślałyśmy",
+    "Wy": "Pomyśleliście / Pomyślałyście",
+    "Oni/One": "Pomyśleli / Pomyślały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Pomyślałbym / Pomyślałabym",
-    "Tense": "Pomyślałbyś / Pomyślałabyś",
-    "Ja": "Pomyślałby / Pomyślałaby",
-    "Ty": "Pomyślalibyśmy / Pomyślałybyśmy",
-    "On/Ona": "Pomyślalibyście / Pomyślałybyście",
-    "My": "Pomyślaliby / Pomyślałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Pomyśleć",
+    "Meaning": "To think",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Pomyślałbym / Pomyślałabym",
+    "Ty": "Pomyślałbyś / Pomyślałabyś",
+    "On/Ona": "Pomyślałby / Pomyślałaby",
+    "My": "Pomyślalibyśmy / Pomyślałybyśmy",
+    "Wy": "Pomyślalibyście / Pomyślałybyście",
+    "Oni/One": "Pomyślaliby / Pomyślałyby"
   },
   {
     "Unit": 2.24,
@@ -750,22 +980,32 @@
     "Oni/One": "Zadzwonią"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zadzwoniłem / Zadzwoniłam",
-    "Tense": "Zadzwoniłeś / Zadzwoniłaś",
-    "Ja": "Zadzwonił / Zadzwoniła",
-    "Ty": "Zadzwoniliśmy / Zadzwoniłyśmy",
-    "On/Ona": "Zadzwoniliście / Zadzwoniłyście",
-    "My": "Zadzwonili / Zadzwoniły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zadzwonić",
+    "Meaning": "To call",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Zadzwoniłem / Zadzwoniłam",
+    "Ty": "Zadzwoniłeś / Zadzwoniłaś",
+    "On/Ona": "Zadzwonił / Zadzwoniła",
+    "My": "Zadzwoniliśmy / Zadzwoniłyśmy",
+    "Wy": "Zadzwoniliście / Zadzwoniłyście",
+    "Oni/One": "Zadzwonili / Zadzwoniły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zadzwoniłbym / Zadzwoniłabym",
-    "Tense": "Zadzwoniłbyś / Zadzwoniłabyś",
-    "Ja": "Zadzwoniłby / Zadzwoniłaby",
-    "Ty": "Zadzwonilibyśmy / Zadzwoniłybyśmy",
-    "On/Ona": "Zadzwonilibyście / Zadzwoniłybyście",
-    "My": "Zadzwoniliby / Zadzwoniłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zadzwonić",
+    "Meaning": "To call",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Zadzwoniłbym / Zadzwoniłabym",
+    "Ty": "Zadzwoniłbyś / Zadzwoniłabyś",
+    "On/Ona": "Zadzwoniłby / Zadzwoniłaby",
+    "My": "Zadzwonilibyśmy / Zadzwoniłybyśmy",
+    "Wy": "Zadzwonilibyście / Zadzwoniłybyście",
+    "Oni/One": "Zadzwoniliby / Zadzwoniłyby"
   },
   {
     "Unit": 2.24,
@@ -782,22 +1022,32 @@
     "Oni/One": "Usłyszą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Usłyszałem / Usłyszałam",
-    "Tense": "Usłyszałeś / Usłyszałaś",
-    "Ja": "Usłyszał / Usłyszała",
-    "Ty": "Usłyszeliśmy / Usłyszałyśmy",
-    "On/Ona": "Usłyszeliście / Usłyszałyście",
-    "My": "Usłyszeli / Usłyszały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Usłyszeć",
+    "Meaning": "To hear",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Usłyszałem / Usłyszałam",
+    "Ty": "Usłyszałeś / Usłyszałaś",
+    "On/Ona": "Usłyszał / Usłyszała",
+    "My": "Usłyszeliśmy / Usłyszałyśmy",
+    "Wy": "Usłyszeliście / Usłyszałyście",
+    "Oni/One": "Usłyszeli / Usłyszały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Usłyszałbym / Usłyszałabym",
-    "Tense": "Usłyszałbyś / Usłyszałabyś",
-    "Ja": "Usłyszałby / Usłyszałaby",
-    "Ty": "Usłyszelibyśmy / Usłyszałybyśmy",
-    "On/Ona": "Usłyszelibyście / Usłyszałybyście",
-    "My": "Usłyszeliby / Usłyszałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Usłyszeć",
+    "Meaning": "To hear",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Usłyszałbym / Usłyszałabym",
+    "Ty": "Usłyszałbyś / Usłyszałabyś",
+    "On/Ona": "Usłyszałby / Usłyszałaby",
+    "My": "Usłyszelibyśmy / Usłyszałybyśmy",
+    "Wy": "Usłyszelibyście / Usłyszałybyście",
+    "Oni/One": "Usłyszeliby / Usłyszałyby"
   },
   {
     "Unit": 2.24,
@@ -814,22 +1064,32 @@
     "Oni/One": "Spójrzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Spójrzałem / Spójrzałam",
-    "Tense": "Spójrzałeś / Spójrzałaś",
-    "Ja": "Spójrzał / Spójrzała",
-    "Ty": "Spójrzeliśmy / Spójrzałyśmy",
-    "On/Ona": "Spójrzeliście / Spójrzałyście",
-    "My": "Spójrzeli / Spójrzały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Spójrzeć",
+    "Meaning": "To look at",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Spójrzałem / Spójrzałam",
+    "Ty": "Spójrzałeś / Spójrzałaś",
+    "On/Ona": "Spójrzał / Spójrzała",
+    "My": "Spójrzeliśmy / Spójrzałyśmy",
+    "Wy": "Spójrzeliście / Spójrzałyście",
+    "Oni/One": "Spójrzeli / Spójrzały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Spojrzałbym / Spojrzałabym",
-    "Tense": "Spojrzałbyś / Spojrzałabyś",
-    "Ja": "Spojrzałby / Spojrzałaby",
-    "Ty": "Spojrzalibyśmy / Spojrzałybyśmy",
-    "On/Ona": "Spojrzalibyście / Spojrzałybyście",
-    "My": "Spojrzaliby / Spojrzałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Spójrzeć",
+    "Meaning": "To look at",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Spojrzałbym / Spojrzałabym",
+    "Ty": "Spojrzałbyś / Spojrzałabyś",
+    "On/Ona": "Spojrzałby / Spojrzałaby",
+    "My": "Spojrzalibyśmy / Spojrzałybyśmy",
+    "Wy": "Spojrzalibyście / Spojrzałybyście",
+    "Oni/One": "Spojrzaliby / Spojrzałyby"
   },
   {
     "Unit": 2.24,
@@ -846,22 +1106,32 @@
     "Oni/One": "Zaczną"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zacząłem / Zaczęłam",
-    "Tense": "Zacząłeś / Zaczęłaś",
-    "Ja": "Zaczął / Zaczęła",
-    "Ty": "Zaczęliśmy / Zaczęłyśmy",
-    "On/Ona": "Zaczęliście / Zaczęłyście",
-    "My": "Zaczęli / Zaczęły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zacząć",
+    "Meaning": "To begin",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Zacząłem / Zaczęłam",
+    "Ty": "Zacząłeś / Zaczęłaś",
+    "On/Ona": "Zaczął / Zaczęła",
+    "My": "Zaczęliśmy / Zaczęłyśmy",
+    "Wy": "Zaczęliście / Zaczęłyście",
+    "Oni/One": "Zaczęli / Zaczęły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zacząłbym / Zaczęłabym",
-    "Tense": "Zacząłbyś / Zaczęłabyś",
-    "Ja": "Zacząłby / Zaczęłaby",
-    "Ty": "Zaczęlibyśmy / Zaczęłybyśmy",
-    "On/Ona": "Zaczęlibyście / Zaczęłybyście",
-    "My": "Zaczęliby / Zaczęłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zacząć",
+    "Meaning": "To begin",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Zacząłbym / Zaczęłabym",
+    "Ty": "Zacząłbyś / Zaczęłabyś",
+    "On/Ona": "Zacząłby / Zaczęłaby",
+    "My": "Zaczęlibyśmy / Zaczęłybyśmy",
+    "Wy": "Zaczęlibyście / Zaczęłybyście",
+    "Oni/One": "Zaczęliby / Zaczęłyby"
   },
   {
     "Unit": 2.24,
@@ -878,22 +1148,32 @@
     "Oni/One": "Wygrają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Wygrałem / Wygrałam",
-    "Tense": "Wygrałeś / Wygrałaś",
-    "Ja": "Wygrał / Wygrała",
-    "Ty": "Wygraliśmy / Wygrałyśmy",
-    "On/Ona": "Wygraliście / Wygrałyście",
-    "My": "Wygrali / Wygrały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Wygrać",
+    "Meaning": "To win",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Wygrałem / Wygrałam",
+    "Ty": "Wygrałeś / Wygrałaś",
+    "On/Ona": "Wygrał / Wygrała",
+    "My": "Wygraliśmy / Wygrałyśmy",
+    "Wy": "Wygraliście / Wygrałyście",
+    "Oni/One": "Wygrali / Wygrały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Wygrałbym / Wygrałabym",
-    "Tense": "Wygrałbyś / Wygrałabyś",
-    "Ja": "Wygrałby / Wygrałaby",
-    "Ty": "Wygralibyśmy / Wygrałybyśmy",
-    "On/Ona": "Wygralibyście / Wygrałybyście",
-    "My": "Wygraliby / Wygrałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Wygrać",
+    "Meaning": "To win",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Wygrałbym / Wygrałabym",
+    "Ty": "Wygrałbyś / Wygrałabyś",
+    "On/Ona": "Wygrałby / Wygrałaby",
+    "My": "Wygralibyśmy / Wygrałybyśmy",
+    "Wy": "Wygralibyście / Wygrałybyście",
+    "Oni/One": "Wygraliby / Wygrałyby"
   },
   {
     "Unit": 2.24,
@@ -910,22 +1190,32 @@
     "Oni/One": "Uwierzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Uwierzyłem / Uwierzyłam",
-    "Tense": "Uwierzyłeś / Uwierzyłaś",
-    "Ja": "Uwierzył / Uwierzyła",
-    "Ty": "Uwierzyliśmy / Uwierzyłyśmy",
-    "On/Ona": "Uwierzyliście / Uwierzyłyście",
-    "My": "Uwierzyli / Uwierzyły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Uwierzyć",
+    "Meaning": "To believe",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Uwierzyłem / Uwierzyłam",
+    "Ty": "Uwierzyłeś / Uwierzyłaś",
+    "On/Ona": "Uwierzył / Uwierzyła",
+    "My": "Uwierzyliśmy / Uwierzyłyśmy",
+    "Wy": "Uwierzyliście / Uwierzyłyście",
+    "Oni/One": "Uwierzyli / Uwierzyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Uwierzyłbym / Uwierzyłabym",
-    "Tense": "Uwierzyłbyś / Uwierzyłabyś",
-    "Ja": "Uwierzyłby / Uwierzyłaby",
-    "Ty": "Uwierzylibyśmy / Uwierzyłybyśmy",
-    "On/Ona": "Uwierzylibyście / Uwierzyłybyście",
-    "My": "Uwierzyliby / Uwierzyłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Uwierzyć",
+    "Meaning": "To believe",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Uwierzyłbym / Uwierzyłabym",
+    "Ty": "Uwierzyłbyś / Uwierzyłabyś",
+    "On/Ona": "Uwierzyłby / Uwierzyłaby",
+    "My": "Uwierzylibyśmy / Uwierzyłybyśmy",
+    "Wy": "Uwierzylibyście / Uwierzyłybyście",
+    "Oni/One": "Uwierzyliby / Uwierzyłyby"
   },
   {
     "Unit": 2.24,
@@ -942,22 +1232,32 @@
     "Oni/One": "Przegrają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Przegrałem / Przegrałam",
-    "Tense": "Przegrałeś / Przegrałaś",
-    "Ja": "Przegrał / Przegrała",
-    "Ty": "Przegraliśmy / Przegrałyśmy",
-    "On/Ona": "Przegraliście / Przegrałyście",
-    "My": "Przegrali / Przegrały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Przegrać",
+    "Meaning": "To lose",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Przegrałem / Przegrałam",
+    "Ty": "Przegrałeś / Przegrałaś",
+    "On/Ona": "Przegrał / Przegrała",
+    "My": "Przegraliśmy / Przegrałyśmy",
+    "Wy": "Przegraliście / Przegrałyście",
+    "Oni/One": "Przegrali / Przegrały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Przegrałbym / Przegrałabym",
-    "Tense": "Przegrałbyś / Przegrałabyś",
-    "Ja": "Przegrałby / Przegrałaby",
-    "Ty": "Przegralibyśmy / Przegrałybyśmy",
-    "On/Ona": "Przegralibyście / Przegrałybyście",
-    "My": "Przegraliby / Przegrałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Przegrać",
+    "Meaning": "To lose",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Przegrałbym / Przegrałabym",
+    "Ty": "Przegrałbyś / Przegrałabyś",
+    "On/Ona": "Przegrałby / Przegrałaby",
+    "My": "Przegralibyśmy / Przegrałybyśmy",
+    "Wy": "Przegralibyście / Przegrałybyście",
+    "Oni/One": "Przegraliby / Przegrałyby"
   },
   {
     "Unit": 2.24,
@@ -974,22 +1274,32 @@
     "Oni/One": "Dotrą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Dotarłem / Dotarłam",
-    "Tense": "Dotarłeś / Dotarłaś",
-    "Ja": "Dotarł / Dotarła",
-    "Ty": "Dotarliśmy / Dotarłyśmy",
-    "On/Ona": "Dotarliście / Dotarłyście",
-    "My": "Dotarli / Dotarły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Dotrzeć",
+    "Meaning": "To reach a location",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Dotarłem / Dotarłam",
+    "Ty": "Dotarłeś / Dotarłaś",
+    "On/Ona": "Dotarł / Dotarła",
+    "My": "Dotarliśmy / Dotarłyśmy",
+    "Wy": "Dotarliście / Dotarłyście",
+    "Oni/One": "Dotarli / Dotarły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Dotarłbym / Dotarłabym",
-    "Tense": "Dotarłbyś / Dotarłabyś",
-    "Ja": "Dotarłby / Dotarłaby",
-    "Ty": "Dotarlibyśmy / Dotarłybyśmy",
-    "On/Ona": "Dotarlibyście / Dotarłybyście",
-    "My": "Dotarliby / Dotarłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Dotrzeć",
+    "Meaning": "To reach a location",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Dotarłbym / Dotarłabym",
+    "Ty": "Dotarłbyś / Dotarłabyś",
+    "On/Ona": "Dotarłby / Dotarłaby",
+    "My": "Dotarlibyśmy / Dotarłybyśmy",
+    "Wy": "Dotarlibyście / Dotarłybyście",
+    "Oni/One": "Dotarliby / Dotarłyby"
   },
   {
     "Unit": 2.24,
@@ -1006,22 +1316,32 @@
     "Oni/One": "Zostaną"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zostałem / Zostałam",
-    "Tense": "Zostałeś / Zostałaś",
-    "Ja": "Został / Została",
-    "Ty": "Zostaliśmy / Zostałyśmy",
-    "On/Ona": "Zostaliście / Zostałyście",
-    "My": "Zostali / Zostały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zostać",
+    "Meaning": "To stay / To become",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Zostałem / Zostałam",
+    "Ty": "Zostałeś / Zostałaś",
+    "On/Ona": "Został / Została",
+    "My": "Zostaliśmy / Zostałyśmy",
+    "Wy": "Zostaliście / Zostałyście",
+    "Oni/One": "Zostali / Zostały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zostałbym / Zostałabym",
-    "Tense": "Zostałbyś / Zostałabyś",
-    "Ja": "Zostałby / Zostałaby",
-    "Ty": "Zostalibyśmy / Zostałybyśmy",
-    "On/Ona": "Zostalibyście / Zostałybyście",
-    "My": "Zostaliby / Zostałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zostać",
+    "Meaning": "To stay / To become",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Zostałbym / Zostałabym",
+    "Ty": "Zostałbyś / Zostałabyś",
+    "On/Ona": "Zostałby / Zostałaby",
+    "My": "Zostalibyśmy / Zostałybyśmy",
+    "Wy": "Zostalibyście / Zostałybyście",
+    "Oni/One": "Zostaliby / Zostałyby"
   },
   {
     "Unit": 2.24,
@@ -1038,22 +1358,32 @@
     "Oni/One": "Przedstawią"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Przedstawiłem / Przedstawiłam",
-    "Tense": "Przedstawiłeś / Przedstawiłaś",
-    "Ja": "Przedstawił / Przedstawiła",
-    "Ty": "Przedstawiliśmy / Przedstawiłyśmy",
-    "On/Ona": "Przedstawiliście / Przedstawiłyście",
-    "My": "Przedstawili / Przedstawiły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Przedstawić",
+    "Meaning": "To introduce",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Przedstawiłem / Przedstawiłam",
+    "Ty": "Przedstawiłeś / Przedstawiłaś",
+    "On/Ona": "Przedstawił / Przedstawiła",
+    "My": "Przedstawiliśmy / Przedstawiłyśmy",
+    "Wy": "Przedstawiliście / Przedstawiłyście",
+    "Oni/One": "Przedstawili / Przedstawiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Przedstawiłbym / Przedstawiłabym",
-    "Tense": "Przedstawiłbyś / Przedstawiłabyś",
-    "Ja": "Przedstawiłby / Przedstawiłaby",
-    "Ty": "Przedstawilibyśmy / Przedstawiłybyśmy",
-    "On/Ona": "Przedstawilibyście / Przedstawiłybyście",
-    "My": "Przedstawiliby / Przedstawiłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Przedstawić",
+    "Meaning": "To introduce",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Przedstawiłbym / Przedstawiłabym",
+    "Ty": "Przedstawiłbyś / Przedstawiłabyś",
+    "On/Ona": "Przedstawiłby / Przedstawiłaby",
+    "My": "Przedstawilibyśmy / Przedstawiłybyśmy",
+    "Wy": "Przedstawilibyście / Przedstawiłybyście",
+    "Oni/One": "Przedstawiliby / Przedstawiłyby"
   },
   {
     "Unit": 2.24,
@@ -1070,22 +1400,32 @@
     "Oni/One": "Wypiją"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Wypijełem / Wypijełam",
-    "Tense": "Wypijełeś / Wypijełaś",
-    "Ja": "Wypijeł / Wypijeła",
-    "Ty": "Wypijeliśmy / Wypijełyśmy",
-    "On/Ona": "Wypijeliście / Wypijełyście",
-    "My": "Wypijeli / Wypijeły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Wypić",
+    "Meaning": "To drink",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Wypijełem / Wypijełam",
+    "Ty": "Wypijełeś / Wypijełaś",
+    "On/Ona": "Wypijeł / Wypijeła",
+    "My": "Wypijeliśmy / Wypijełyśmy",
+    "Wy": "Wypijeliście / Wypijełyście",
+    "Oni/One": "Wypijeli / Wypijeły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Wypiłbym / Wypiłabym",
-    "Tense": "Wypiłbyś / Wypiłabyś",
-    "Ja": "Wypiłby / Wypiłaby",
-    "Ty": "Wypilibyśmy / Wypiłybyśmy",
-    "On/Ona": "Wypilibyście / Wypiłybyście",
-    "My": "Wypiliby / Wypiłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Wypić",
+    "Meaning": "To drink",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Wypiłbym / Wypiłabym",
+    "Ty": "Wypiłbyś / Wypiłabyś",
+    "On/Ona": "Wypiłby / Wypiłaby",
+    "My": "Wypilibyśmy / Wypiłybyśmy",
+    "Wy": "Wypilibyście / Wypiłybyście",
+    "Oni/One": "Wypiliby / Wypiłyby"
   },
   {
     "Unit": 2.24,
@@ -1102,22 +1442,32 @@
     "Oni/One": "Dotkną"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Dotknąłem / Dotknęłam",
-    "Tense": "Dotknąłeś / Dotknęłaś",
-    "Ja": "Dotknął / Dotknęła",
-    "Ty": "Dotknęliśmy / Dotknęłyśmy",
-    "On/Ona": "Dotknęliście / Dotknęłyście",
-    "My": "Dotknęli / Dotknęły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Dotknąć",
+    "Meaning": "To touch",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Dotknąłem / Dotknęłam",
+    "Ty": "Dotknąłeś / Dotknęłaś",
+    "On/Ona": "Dotknął / Dotknęła",
+    "My": "Dotknęliśmy / Dotknęłyśmy",
+    "Wy": "Dotknęliście / Dotknęłyście",
+    "Oni/One": "Dotknęli / Dotknęły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Dotknąłbym / Dotknęłabym",
-    "Tense": "Dotknąłbyś / Dotknęłabyś",
-    "Ja": "Dotknąłby / Dotknęłaby",
-    "Ty": "Dotknęlibyśmy / Dotknęłybyśmy",
-    "On/Ona": "Dotknęlibyście / Dotknęłybyście",
-    "My": "Dotknęliby / Dotknęłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Dotknąć",
+    "Meaning": "To touch",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Dotknąłbym / Dotknęłabym",
+    "Ty": "Dotknąłbyś / Dotknęłabyś",
+    "On/Ona": "Dotknąłby / Dotknęłaby",
+    "My": "Dotknęlibyśmy / Dotknęłybyśmy",
+    "Wy": "Dotknęlibyście / Dotknęłybyście",
+    "Oni/One": "Dotknęliby / Dotknęłyby"
   },
   {
     "Unit": 2.24,
@@ -1134,22 +1484,32 @@
     "Oni/One": "Zgubią"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zgubiłem / Zgubiłam",
-    "Tense": "Zgubiłeś / Zgubiłaś",
-    "Ja": "Zgubił / Zgubiła",
-    "Ty": "Zgubiliśmy / Zgubiłyśmy",
-    "On/Ona": "Zgubiliście / Zgubiłyście",
-    "My": "Zgubili / Zgubiły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zgubić",
+    "Meaning": "To lose an item",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Zgubiłem / Zgubiłam",
+    "Ty": "Zgubiłeś / Zgubiłaś",
+    "On/Ona": "Zgubił / Zgubiła",
+    "My": "Zgubiliśmy / Zgubiłyśmy",
+    "Wy": "Zgubiliście / Zgubiłyście",
+    "Oni/One": "Zgubili / Zgubiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zgubiłbym / Zgubiłabym",
-    "Tense": "Zgubiłbyś / Zgubiłabyś",
-    "Ja": "Zgubiłby / Zgubiłaby",
-    "Ty": "Zgubilibyśmy / Zgubiłybyśmy",
-    "On/Ona": "Zgubilibyście / Zgubiłybyście",
-    "My": "Zgubiliby / Zgubiłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zgubić",
+    "Meaning": "To lose an item",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Zgubiłbym / Zgubiłabym",
+    "Ty": "Zgubiłbyś / Zgubiłabyś",
+    "On/Ona": "Zgubiłby / Zgubiłaby",
+    "My": "Zgubilibyśmy / Zgubiłybyśmy",
+    "Wy": "Zgubilibyście / Zgubiłybyście",
+    "Oni/One": "Zgubiliby / Zgubiłyby"
   },
   {
     "Unit": 2.24,
@@ -1166,22 +1526,32 @@
     "Oni/One": "Wychowają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Wychowałem / Wychowałam",
-    "Tense": "Wychowałeś / Wychowałaś",
-    "Ja": "Wychował / Wychowała",
-    "Ty": "Wychowaliśmy / Wychowałyśmy",
-    "On/Ona": "Wychowaliście / Wychowałyście",
-    "My": "Wychowali / Wychowały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Wychować",
+    "Meaning": "To raise",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Wychowałem / Wychowałam",
+    "Ty": "Wychowałeś / Wychowałaś",
+    "On/Ona": "Wychował / Wychowała",
+    "My": "Wychowaliśmy / Wychowałyśmy",
+    "Wy": "Wychowaliście / Wychowałyście",
+    "Oni/One": "Wychowali / Wychowały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Wychowałbym / Wychowałabym",
-    "Tense": "Wychowałbyś / Wychowałabyś",
-    "Ja": "Wychowałby / Wychowałaby",
-    "Ty": "Wychowalibyśmy / Wychowałybyśmy",
-    "On/Ona": "Wychowalibyście / Wychowałybyście",
-    "My": "Wychowaliby / Wychowałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Wychować",
+    "Meaning": "To raise",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Wychowałbym / Wychowałabym",
+    "Ty": "Wychowałbyś / Wychowałabyś",
+    "On/Ona": "Wychowałby / Wychowałaby",
+    "My": "Wychowalibyśmy / Wychowałybyśmy",
+    "Wy": "Wychowalibyście / Wychowałybyście",
+    "Oni/One": "Wychowaliby / Wychowałyby"
   },
   {
     "Unit": 2.24,
@@ -1198,22 +1568,32 @@
     "Oni/One": "Użyją"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Użyłem / Użyłam",
-    "Tense": "Użyłeś / Użyłaś",
-    "Ja": "Użył / Użyła",
-    "Ty": "Użyliśmy / Użyłyśmy",
-    "On/Ona": "Użyliście / Użyłyście",
-    "My": "Użyli / Użyły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Użyć",
+    "Meaning": "To use",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Użyłem / Użyłam",
+    "Ty": "Użyłeś / Użyłaś",
+    "On/Ona": "Użył / Użyła",
+    "My": "Użyliśmy / Użyłyśmy",
+    "Wy": "Użyliście / Użyłyście",
+    "Oni/One": "Użyli / Użyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Użyłbym / Użyłabym",
-    "Tense": "Użyłbyś / Użyłabyś",
-    "Ja": "Użyłby / Użyłaby",
-    "Ty": "Użylibyśmy / Użyłybyśmy",
-    "On/Ona": "Użylibyście / Użyłybyście",
-    "My": "Użyliby / Użyłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Użyć",
+    "Meaning": "To use",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Użyłbym / Użyłabym",
+    "Ty": "Użyłbyś / Użyłabyś",
+    "On/Ona": "Użyłby / Użyłaby",
+    "My": "Użylibyśmy / Użyłybyśmy",
+    "Wy": "Użylibyście / Użyłybyście",
+    "Oni/One": "Użyliby / Użyłyby"
   },
   {
     "Unit": 2.24,
@@ -1230,22 +1610,32 @@
     "Oni/One": "Narysują"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Narysowałem / Narysowałam",
-    "Tense": "Narysowałeś / Narysowałaś",
-    "Ja": "Narysował / Narysowała",
-    "Ty": "Narysowaliśmy / Narysowałyśmy",
-    "On/Ona": "Narysowaliście / Narysowałyście",
-    "My": "Narysowali / Narysowały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Narysować",
+    "Meaning": "To draw",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Narysowałem / Narysowałam",
+    "Ty": "Narysowałeś / Narysowałaś",
+    "On/Ona": "Narysował / Narysowała",
+    "My": "Narysowaliśmy / Narysowałyśmy",
+    "Wy": "Narysowaliście / Narysowałyście",
+    "Oni/One": "Narysowali / Narysowały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Narysowałbym / Narysowałabym",
-    "Tense": "Narysowałbyś / Narysowałabyś",
-    "Ja": "Narysowałby / Narysowałaby",
-    "Ty": "Narysowalibyśmy / Narysowałybyśmy",
-    "On/Ona": "Narysowalibyście / Narysowałybyście",
-    "My": "Narysowaliby / Narysowałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Narysować",
+    "Meaning": "To draw",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Narysowałbym / Narysowałabym",
+    "Ty": "Narysowałbyś / Narysowałabyś",
+    "On/Ona": "Narysowałby / Narysowałaby",
+    "My": "Narysowalibyśmy / Narysowałybyśmy",
+    "Wy": "Narysowalibyście / Narysowałybyście",
+    "Oni/One": "Narysowaliby / Narysowałyby"
   },
   {
     "Unit": 2.24,
@@ -1262,22 +1652,32 @@
     "Oni/One": "Pójdą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Poszedłem / Poszłam",
-    "Tense": "Poszedłeś / Poszłaś",
-    "Ja": "Poszedł / Poszła",
-    "Ty": "Poszliśmy / Poszłyśmy",
-    "On/Ona": "Poszliście / Poszłyście",
-    "My": "Poszli / Poszły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Pójść",
+    "Meaning": "To go",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Poszedłem / Poszłam",
+    "Ty": "Poszedłeś / Poszłaś",
+    "On/Ona": "Poszedł / Poszła",
+    "My": "Poszliśmy / Poszłyśmy",
+    "Wy": "Poszliście / Poszłyście",
+    "Oni/One": "Poszli / Poszły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Poszedłbym / Poszłabym",
-    "Tense": "Poszedłbyś / Poszłabyś",
-    "Ja": "Poszedłby / Poszłaby",
-    "Ty": "Poszlibyśmy / Poszłybyśmy",
-    "On/Ona": "Poszlibyście / Poszłybyście",
-    "My": "Poszliby / Poszłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Pójść",
+    "Meaning": "To go",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Poszedłbym / Poszłabym",
+    "Ty": "Poszedłbyś / Poszłabyś",
+    "On/Ona": "Poszedłby / Poszłaby",
+    "My": "Poszlibyśmy / Poszłybyśmy",
+    "Wy": "Poszlibyście / Poszłybyście",
+    "Oni/One": "Poszliby / Poszłyby"
   },
   {
     "Unit": 2.24,
@@ -1294,22 +1694,32 @@
     "Oni/One": "Naprawią"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Naprawiłem / Naprawiłam",
-    "Tense": "Naprawiłeś / Naprawiłaś",
-    "Ja": "Naprawił / Naprawiła",
-    "Ty": "Naprawiliśmy / Naprawiłyśmy",
-    "On/Ona": "Naprawiliście / Naprawiłyście",
-    "My": "Naprawili / Naprawiły"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Naprawić",
+    "Meaning": "To repair",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Naprawiłem / Naprawiłam",
+    "Ty": "Naprawiłeś / Naprawiłaś",
+    "On/Ona": "Naprawił / Naprawiła",
+    "My": "Naprawiliśmy / Naprawiłyśmy",
+    "Wy": "Naprawiliście / Naprawiłyście",
+    "Oni/One": "Naprawili / Naprawiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Naprawiłbym / Naprawiłabym",
-    "Tense": "Naprawiłbyś / Naprawiłabyś",
-    "Ja": "Naprawiłby / Naprawiłaby",
-    "Ty": "Naprawilibyśmy / Naprawiłybyśmy",
-    "On/Ona": "Naprawilibyście / Naprawiłybyście",
-    "My": "Naprawiliby / Naprawiłyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Naprawić",
+    "Meaning": "To repair",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Naprawiłbym / Naprawiłabym",
+    "Ty": "Naprawiłbyś / Naprawiłabyś",
+    "On/Ona": "Naprawiłby / Naprawiłaby",
+    "My": "Naprawilibyśmy / Naprawiłybyśmy",
+    "Wy": "Naprawilibyście / Naprawiłybyście",
+    "Oni/One": "Naprawiliby / Naprawiłyby"
   },
   {
     "Unit": 2.24,
@@ -1326,22 +1736,32 @@
     "Oni/One": "Odpowiedzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Odpowiedziałem / Odpowiedziałam",
-    "Tense": "Odpowiedziałeś / Odpowiedziałaś",
-    "Ja": "Odpowiedział / Odpowiedziała",
-    "Ty": "Odpowiedzieliśmy / Odpowiedziałyśmy",
-    "On/Ona": "Odpowiedzieliście / Odpowiedziałyście",
-    "My": "Odpowiedzieli / Odpowiedziały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Odpowiedzieć",
+    "Meaning": "To reply",
+    "Conjugation": "- em / - esz",
+    "Tense": "Past",
+    "Ja": "Odpowiedziałem / Odpowiedziałam",
+    "Ty": "Odpowiedziałeś / Odpowiedziałaś",
+    "On/Ona": "Odpowiedział / Odpowiedziała",
+    "My": "Odpowiedzieliśmy / Odpowiedziałyśmy",
+    "Wy": "Odpowiedzieliście / Odpowiedziałyście",
+    "Oni/One": "Odpowiedzieli / Odpowiedziały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Odpowiedziałbym / Odpowiedziałabym",
-    "Tense": "Odpowiedziałbyś / Odpowiedziałabyś",
-    "Ja": "Odpowiedziałby / Odpowiedziałaby",
-    "Ty": "Odpowiedzielibyśmy / Odpowiedziałybyśmy",
-    "On/Ona": "Odpowiedzielibyście / Odpowiedziałybyście",
-    "My": "Odpowiedzieliby / Odpowiedziałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Odpowiedzieć",
+    "Meaning": "To reply",
+    "Conjugation": "- em / - esz",
+    "Tense": "Conditional",
+    "Ja": "Odpowiedziałbym / Odpowiedziałabym",
+    "Ty": "Odpowiedziałbyś / Odpowiedziałabyś",
+    "On/Ona": "Odpowiedziałby / Odpowiedziałaby",
+    "My": "Odpowiedzielibyśmy / Odpowiedziałybyśmy",
+    "Wy": "Odpowiedzielibyście / Odpowiedziałybyście",
+    "Oni/One": "Odpowiedzieliby / Odpowiedziałyby"
   },
   {
     "Unit": 2.24,
@@ -1358,22 +1778,32 @@
     "Oni/One": "Zapytają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zapytałem / Zapytałam",
-    "Tense": "Zapytałeś / Zapytałaś",
-    "Ja": "Zapytał / Zapytała",
-    "Ty": "Zapytaliśmy / Zapytałyśmy",
-    "On/Ona": "Zapytaliście / Zapytałyście",
-    "My": "Zapytali / Zapytały"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zapytać",
+    "Meaning": "To ask",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Zapytałem / Zapytałam",
+    "Ty": "Zapytałeś / Zapytałaś",
+    "On/Ona": "Zapytał / Zapytała",
+    "My": "Zapytaliśmy / Zapytałyśmy",
+    "Wy": "Zapytaliście / Zapytałyście",
+    "Oni/One": "Zapytali / Zapytały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zapytałbym / Zapytałabym",
-    "Tense": "Zapytałbyś / Zapytałabyś",
-    "Ja": "Zapytałby / Zapytałaby",
-    "Ty": "Zapytalibyśmy / Zapytałybyśmy",
-    "On/Ona": "Zapytalibyście / Zapytałybyście",
-    "My": "Zapytaliby / Zapytałyby"
+    "Unit": 2.24,
+    "Topic": "Talk about the past",
+    "Verb": "Zapytać",
+    "Meaning": "To ask",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Zapytałbym / Zapytałabym",
+    "Ty": "Zapytałbyś / Zapytałabyś",
+    "On/Ona": "Zapytałby / Zapytałaby",
+    "My": "Zapytalibyśmy / Zapytałybyśmy",
+    "Wy": "Zapytalibyście / Zapytałybyście",
+    "Oni/One": "Zapytaliby / Zapytałyby"
   },
   {
     "Unit": 2.27,
@@ -1390,22 +1820,32 @@
     "Oni/One": "Zgodzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zgodziłem / Zgodziłam",
-    "Tense": "Zgodziłeś / Zgodziłaś",
-    "Ja": "Zgodził / Zgodziła",
-    "Ty": "Zgodziliśmy / Zgodziłyśmy",
-    "On/Ona": "Zgodziliście / Zgodziłyście",
-    "My": "Zgodzili / Zgodziły"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Zgodzić",
+    "Meaning": "To agree",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Zgodziłem / Zgodziłam",
+    "Ty": "Zgodziłeś / Zgodziłaś",
+    "On/Ona": "Zgodził / Zgodziła",
+    "My": "Zgodziliśmy / Zgodziłyśmy",
+    "Wy": "Zgodziliście / Zgodziłyście",
+    "Oni/One": "Zgodzili / Zgodziły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zgodziłbym / Zgodziłabym",
-    "Tense": "Zgodziłbyś / Zgodziłabyś",
-    "Ja": "Zgodziłby / Zgodziłaby",
-    "Ty": "Zgodzilibyśmy / Zgodziłybyśmy",
-    "On/Ona": "Zgodzilibyście / Zgodziłybyście",
-    "My": "Zgodziliby / Zgodziłyby"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Zgodzić",
+    "Meaning": "To agree",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Zgodziłbym / Zgodziłabym",
+    "Ty": "Zgodziłbyś / Zgodziłabyś",
+    "On/Ona": "Zgodziłby / Zgodziłaby",
+    "My": "Zgodzilibyśmy / Zgodziłybyśmy",
+    "Wy": "Zgodzilibyście / Zgodziłybyście",
+    "Oni/One": "Zgodziliby / Zgodziłyby"
   },
   {
     "Unit": 2.27,
@@ -1422,22 +1862,32 @@
     "Oni/One": "Pojawią"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Pojawiłem / Pojawiłam",
-    "Tense": "Pojawiłeś / Pojawiłaś",
-    "Ja": "Pojawił / Pojawiła",
-    "Ty": "Pojawiliśmy / Pojawiłyśmy",
-    "On/Ona": "Pojawiliście / Pojawiłyście",
-    "My": "Pojawili / Pojawiły"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Pojawić",
+    "Meaning": "To appear",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Pojawiłem / Pojawiłam",
+    "Ty": "Pojawiłeś / Pojawiłaś",
+    "On/Ona": "Pojawił / Pojawiła",
+    "My": "Pojawiliśmy / Pojawiłyśmy",
+    "Wy": "Pojawiliście / Pojawiłyście",
+    "Oni/One": "Pojawili / Pojawiły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Pojawiłbym / Pojawiłabym",
-    "Tense": "Pojawiłbyś / Pojawiłabyś",
-    "Ja": "Pojawiłby / Pojawiłaby",
-    "Ty": "Pojawilibyśmy / Pojawiłybyśmy",
-    "On/Ona": "Pojawilibyście / Pojawiłybyście",
-    "My": "Pojawiliby / Pojawiłyby"
+    "Unit": 2.27,
+    "Topic": "Use reflexive verbs",
+    "Verb": "Pojawić",
+    "Meaning": "To appear",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Pojawiłbym / Pojawiłabym",
+    "Ty": "Pojawiłbyś / Pojawiłabyś",
+    "On/Ona": "Pojawiłby / Pojawiłaby",
+    "My": "Pojawilibyśmy / Pojawiłybyśmy",
+    "Wy": "Pojawilibyście / Pojawiłybyście",
+    "Oni/One": "Pojawiliby / Pojawiłyby"
   },
   {
     "Unit": 2.37,
@@ -1454,22 +1904,32 @@
     "Oni/One": "Obiecają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Obiecałem / Obiecałam",
-    "Tense": "Obiecałeś / Obiecałaś",
-    "Ja": "Obiecał / Obiecała",
-    "Ty": "Obiecaliśmy / Obiecałyśmy",
-    "On/Ona": "Obiecaliście / Obiecałyście",
-    "My": "Obiecali / Obiecały"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Obiecać",
+    "Meaning": "To promise",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Obiecałem / Obiecałam",
+    "Ty": "Obiecałeś / Obiecałaś",
+    "On/Ona": "Obiecał / Obiecała",
+    "My": "Obiecaliśmy / Obiecałyśmy",
+    "Wy": "Obiecaliście / Obiecałyście",
+    "Oni/One": "Obiecali / Obiecały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Obiecałbym / Obiecałabym",
-    "Tense": "Obiecałbyś / Obiecałabyś",
-    "Ja": "Obiecałby / Obiecałaby",
-    "Ty": "Obiecaliśmy / Obiecałybyśmy",
-    "On/Ona": "Obiecalibyście / Obiecałybyście",
-    "My": "Obiecaliby / Obiecałyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Obiecać",
+    "Meaning": "To promise",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Obiecałbym / Obiecałabym",
+    "Ty": "Obiecałbyś / Obiecałabyś",
+    "On/Ona": "Obiecałby / Obiecałaby",
+    "My": "Obiecaliśmy / Obiecałybyśmy",
+    "Wy": "Obiecalibyście / Obiecałybyście",
+    "Oni/One": "Obiecaliby / Obiecałyby"
   },
   {
     "Unit": 2.37,
@@ -1486,22 +1946,32 @@
     "Oni/One": "Osiągną"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Osiągnąłem / Osiągnęłam",
-    "Tense": "Osiągnąłeś / Osiągnęłaś",
-    "Ja": "Osiągnął / Osiągnęła",
-    "Ty": "Osiągnęliśmy / Osiągnęłyśmy",
-    "On/Ona": "Osiągnęliście / Osiągnęłyście",
-    "My": "Osiągnęli / Osiągnęły"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Osiągnąć",
+    "Meaning": "To achieve",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Osiągnąłem / Osiągnęłam",
+    "Ty": "Osiągnąłeś / Osiągnęłaś",
+    "On/Ona": "Osiągnął / Osiągnęła",
+    "My": "Osiągnęliśmy / Osiągnęłyśmy",
+    "Wy": "Osiągnęliście / Osiągnęłyście",
+    "Oni/One": "Osiągnęli / Osiągnęły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Osiągnąłbym / Osiągnęłabym",
-    "Tense": "Osiągnąłbyś / Osiągnęłabyś",
-    "Ja": "Osiągnąłby / Osiągnęłaby",
-    "Ty": "Osiągnęlibyśmy / Osiągnęłybyśmy",
-    "On/Ona": "Osiągnęlibyście / Osiągnęłybyście",
-    "My": "Osiągnęliby / Osiągnęłyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Osiągnąć",
+    "Meaning": "To achieve",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Osiągnąłbym / Osiągnęłabym",
+    "Ty": "Osiągnąłbyś / Osiągnęłabyś",
+    "On/Ona": "Osiągnąłby / Osiągnęłaby",
+    "My": "Osiągnęlibyśmy / Osiągnęłybyśmy",
+    "Wy": "Osiągnęlibyście / Osiągnęłybyście",
+    "Oni/One": "Osiągnęliby / Osiągnęłyby"
   },
   {
     "Unit": 2.37,
@@ -1518,22 +1988,32 @@
     "Oni/One": "Włączą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Włączyłem / Włączyłam",
-    "Tense": "Włączyłeś / Włączyłaś",
-    "Ja": "Włączył / Włączyła",
-    "Ty": "Włączyliśmy / Włączyłyśmy",
-    "On/Ona": "Włączyliście / Włączyłyście",
-    "My": "Włączyli / Włączyły"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Włączyć",
+    "Meaning": "To turn on",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Włączyłem / Włączyłam",
+    "Ty": "Włączyłeś / Włączyłaś",
+    "On/Ona": "Włączył / Włączyła",
+    "My": "Włączyliśmy / Włączyłyśmy",
+    "Wy": "Włączyliście / Włączyłyście",
+    "Oni/One": "Włączyli / Włączyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Włączyłbym / Włączyłabym",
-    "Tense": "Włączyłbyś / Włączyłabyś",
-    "Ja": "Włączyłby / Włączyłaby",
-    "Ty": "Włączylibyśmy / Włączyłybyśmy",
-    "On/Ona": "Włączylibyście / Włączyłybyście",
-    "My": "Włączyliby / Włączyłyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Włączyć",
+    "Meaning": "To turn on",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Włączyłbym / Włączyłabym",
+    "Ty": "Włączyłbyś / Włączyłabyś",
+    "On/Ona": "Włączyłby / Włączyłaby",
+    "My": "Włączylibyśmy / Włączyłybyśmy",
+    "Wy": "Włączylibyście / Włączyłybyście",
+    "Oni/One": "Włączyliby / Włączyłyby"
   },
   {
     "Unit": 2.37,
@@ -1550,22 +2030,32 @@
     "Oni/One": "Wyłączą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Wyłączyłem / Wyłączyłam",
-    "Tense": "Wyłączyłeś / Wyłączyłaś",
-    "Ja": "Wyłączył / Wyłączyła",
-    "Ty": "Wyłączyliśmy / Wyłączyłyśmy",
-    "On/Ona": "Wyłączyliście / Wyłączyłyście",
-    "My": "Wyłączyli / Wyłączyły"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Wyłączyć",
+    "Meaning": "To turn off",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Wyłączyłem / Wyłączyłam",
+    "Ty": "Wyłączyłeś / Wyłączyłaś",
+    "On/Ona": "Wyłączył / Wyłączyła",
+    "My": "Wyłączyliśmy / Wyłączyłyśmy",
+    "Wy": "Wyłączyliście / Wyłączyłyście",
+    "Oni/One": "Wyłączyli / Wyłączyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Wyłączyłbym / Wyłączyłabym",
-    "Tense": "Wyłączyłbyś / Wyłączyłabyś",
-    "Ja": "Wyłączyłby / Wyłączyłaby",
-    "Ty": "Wyłączylibyśmy / Wyłączyłybyśmy",
-    "On/Ona": "Wyłączylibyście / Wyłączyłybyście",
-    "My": "Wyłączyliby / Wyłączyłyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Wyłączyć",
+    "Meaning": "To turn off",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Wyłączyłbym / Wyłączyłabym",
+    "Ty": "Wyłączyłbyś / Wyłączyłabyś",
+    "On/Ona": "Wyłączyłby / Wyłączyłaby",
+    "My": "Wyłączylibyśmy / Wyłączyłybyśmy",
+    "Wy": "Wyłączylibyście / Wyłączyłybyście",
+    "Oni/One": "Wyłączyliby / Wyłączyłyby"
   },
   {
     "Unit": 2.37,
@@ -1582,22 +2072,32 @@
     "Oni/One": "Stworzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Stworzyłem / Stworzyłam",
-    "Tense": "Stworzyłeś / Stworzyłaś",
-    "Ja": "Stworzył / Stworzyła",
-    "Ty": "Stworzyliśmy / Stworzyłyśmy",
-    "On/Ona": "Stworzyliście / Stworzyłyście",
-    "My": "Stworzyli / Stworzyły"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Stworzyć",
+    "Meaning": "To create",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Stworzyłem / Stworzyłam",
+    "Ty": "Stworzyłeś / Stworzyłaś",
+    "On/Ona": "Stworzył / Stworzyła",
+    "My": "Stworzyliśmy / Stworzyłyśmy",
+    "Wy": "Stworzyliście / Stworzyłyście",
+    "Oni/One": "Stworzyli / Stworzyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Stworzyłbym / Stworzyłabym",
-    "Tense": "Stworzyłbyś / Stworzyłabyś",
-    "Ja": "Stworzyłby / Stworzyłaby",
-    "Ty": "Stworzylibyśmy / Stworzyłybyśmy",
-    "On/Ona": "Stworzylibyście / Stworzyłybyście",
-    "My": "Stworzyliby / Stworzyłyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Stworzyć",
+    "Meaning": "To create",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Stworzyłbym / Stworzyłabym",
+    "Ty": "Stworzyłbyś / Stworzyłabyś",
+    "On/Ona": "Stworzyłby / Stworzyłaby",
+    "My": "Stworzylibyśmy / Stworzyłybyśmy",
+    "Wy": "Stworzylibyście / Stworzyłybyście",
+    "Oni/One": "Stworzyliby / Stworzyłyby"
   },
   {
     "Unit": 2.37,
@@ -1614,22 +2114,32 @@
     "Oni/One": "Zaakceptują"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zaakceptowałem / Zaakceptowałam",
-    "Tense": "Zaakceptowałeś / Zaakceptowałaś",
-    "Ja": "Zaakceptował / Zaakceptowała",
-    "Ty": "Zaakceptowaliśmy / Zaakceptowałyśmy",
-    "On/Ona": "Zaakceptowaliście / Zaakceptowałyście",
-    "My": "Zaakceptowali / Zaakceptowały"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Zaakceptować",
+    "Meaning": "To accept",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Zaakceptowałem / Zaakceptowałam",
+    "Ty": "Zaakceptowałeś / Zaakceptowałaś",
+    "On/Ona": "Zaakceptował / Zaakceptowała",
+    "My": "Zaakceptowaliśmy / Zaakceptowałyśmy",
+    "Wy": "Zaakceptowaliście / Zaakceptowałyście",
+    "Oni/One": "Zaakceptowali / Zaakceptowały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zaakceptowałbym / Zaakceptowałabym",
-    "Tense": "Zaakceptowałbyś / Zaakceptowałabyś",
-    "Ja": "Zaakceptowałby / Zaakceptowałaby",
-    "Ty": "Zaakceptowalibyśmy / Zaakceptowałybyśmy",
-    "On/Ona": "Zaakceptowalibyście / Zaakceptowałybyście",
-    "My": "Zaakceptowaliby / Zaakceptowałyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Zaakceptować",
+    "Meaning": "To accept",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Zaakceptowałbym / Zaakceptowałabym",
+    "Ty": "Zaakceptowałbyś / Zaakceptowałabyś",
+    "On/Ona": "Zaakceptowałby / Zaakceptowałaby",
+    "My": "Zaakceptowalibyśmy / Zaakceptowałybyśmy",
+    "Wy": "Zaakceptowalibyście / Zaakceptowałybyście",
+    "Oni/One": "Zaakceptowaliby / Zaakceptowałyby"
   },
   {
     "Unit": 2.37,
@@ -1646,22 +2156,32 @@
     "Oni/One": "Przyjdą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Przyszedłem / Przyszłam  ",
-    "Tense": "Przyszedłeś / Przyszłaś",
-    "Ja": "Przyszedł / Przyszła  ",
-    "Ty": "Przyszliśmy / Przyszłyśmy",
-    "On/Ona": "Przyszliście / Przyszłyście",
-    "My": "Przyszli / Przyszły"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Przyjść",
+    "Meaning": "To come",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Przyszedłem / Przyszłam  ",
+    "Ty": "Przyszedłeś / Przyszłaś",
+    "On/Ona": "Przyszedł / Przyszła  ",
+    "My": "Przyszliśmy / Przyszłyśmy",
+    "Wy": "Przyszliście / Przyszłyście",
+    "Oni/One": "Przyszli / Przyszły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Przyszedłbym / Przyszłabym",
-    "Tense": "Przyszedłbyś / Przyszłabyś",
-    "Ja": "Przyszedłby / Przyszłaby",
-    "Ty": "Przyszlibyśmy / Przyszłybyśmy",
-    "On/Ona": "Przyszlibyście / Przyszłybyście",
-    "My": "Przyszliby / Przyszłyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Przyjść",
+    "Meaning": "To come",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Przyszedłbym / Przyszłabym",
+    "Ty": "Przyszedłbyś / Przyszłabyś",
+    "On/Ona": "Przyszedłby / Przyszłaby",
+    "My": "Przyszlibyśmy / Przyszłybyśmy",
+    "Wy": "Przyszlibyście / Przyszłybyście",
+    "Oni/One": "Przyszliby / Przyszłyby"
   },
   {
     "Unit": 2.37,
@@ -1678,22 +2198,32 @@
     "Oni/One": "Pocałują"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Pocałowałem / Pocałowałam  ",
-    "Tense": "Pocałowałeś / Pocałowałaś",
-    "Ja": "Pocałował / Pocałowała  ",
-    "Ty": "Pocałowaliśmy / Pocałowałyśmy",
-    "On/Ona": "Pocałowaliście / Pocałowałyście",
-    "My": "Pocałowali / Pocałowały"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Pocałować",
+    "Meaning": "To kiss",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Pocałowałem / Pocałowałam  ",
+    "Ty": "Pocałowałeś / Pocałowałaś",
+    "On/Ona": "Pocałował / Pocałowała  ",
+    "My": "Pocałowaliśmy / Pocałowałyśmy",
+    "Wy": "Pocałowaliście / Pocałowałyście",
+    "Oni/One": "Pocałowali / Pocałowały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Pocałowałbym / Pocałowałabym",
-    "Tense": "Pocałowałbyś / Pocałowałabyś",
-    "Ja": "Pocałowałby / Pocałowałaby",
-    "Ty": "Pocałowalibyśmy / Pocałowałybyśmy",
-    "On/Ona": "Pocałowalibyście / Pocałowałybyście",
-    "My": "Pocałowaliby / Pocałowałyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Pocałować",
+    "Meaning": "To kiss",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Pocałowałbym / Pocałowałabym",
+    "Ty": "Pocałowałbyś / Pocałowałabyś",
+    "On/Ona": "Pocałowałby / Pocałowałaby",
+    "My": "Pocałowalibyśmy / Pocałowałybyśmy",
+    "Wy": "Pocałowalibyście / Pocałowałybyście",
+    "Oni/One": "Pocałowaliby / Pocałowałyby"
   },
   {
     "Unit": 2.37,
@@ -1710,22 +2240,32 @@
     "Oni/One": "Zatrzymają"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zatrzymałem / Zatrzymałam",
-    "Tense": "Zatrzymałeś / Zatrzymałaś",
-    "Ja": "Zatrzymał / Zatrzymała",
-    "Ty": "Zatrzymaliśmy / Zatrzymałyśmy",
-    "On/Ona": "Zatrzymaliście / Zatrzymałyście",
-    "My": "Zatrzymali / Zatrzymały"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Zatrzymać",
+    "Meaning": "To stop",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Zatrzymałem / Zatrzymałam",
+    "Ty": "Zatrzymałeś / Zatrzymałaś",
+    "On/Ona": "Zatrzymał / Zatrzymała",
+    "My": "Zatrzymaliśmy / Zatrzymałyśmy",
+    "Wy": "Zatrzymaliście / Zatrzymałyście",
+    "Oni/One": "Zatrzymali / Zatrzymały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zatrzymałbym / Zatrzymałabym",
-    "Tense": "Zatrzymałbyś / Zatrzymałabyś",
-    "Ja": "Zatrzymałby / Zatrzymałaby",
-    "Ty": "Zatrzymalibyśmy / Zatrzymałybyśmy",
-    "On/Ona": "Zatrzymalibyście / Zatrzymałybyście",
-    "My": "Zatrzymaliby / Zatrzymałyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Zatrzymać",
+    "Meaning": "To stop",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Zatrzymałbym / Zatrzymałabym",
+    "Ty": "Zatrzymałbyś / Zatrzymałabyś",
+    "On/Ona": "Zatrzymałby / Zatrzymałaby",
+    "My": "Zatrzymalibyśmy / Zatrzymałybyśmy",
+    "Wy": "Zatrzymalibyście / Zatrzymałybyście",
+    "Oni/One": "Zatrzymaliby / Zatrzymałyby"
   },
   {
     "Unit": 2.37,
@@ -1742,22 +2282,32 @@
     "Oni/One": "Wybiorą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Wybrałem / Wybrałam",
-    "Tense": "Wybrałeś / Wybrałaś",
-    "Ja": "Wybrał / Wybrała",
-    "Ty": "Wybraliśmy / Wybrałyśmy",
-    "On/Ona": "Wybraliście / Wybrałyście",
-    "My": "Wybrali / Wybrały"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Wybrać",
+    "Meaning": "To choose",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Wybrałem / Wybrałam",
+    "Ty": "Wybrałeś / Wybrałaś",
+    "On/Ona": "Wybrał / Wybrała",
+    "My": "Wybraliśmy / Wybrałyśmy",
+    "Wy": "Wybraliście / Wybrałyście",
+    "Oni/One": "Wybrali / Wybrały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Wybrałbym / Wybrałabym",
-    "Tense": "Wybrałbyś / Wybrałabyś",
-    "Ja": "Wybrałby / Wybrałaby",
-    "Ty": "Wybralibyśmy / Wybrałybyśmy",
-    "On/Ona": "Wybralibyście / Wybrałybyście",
-    "My": "Wybraliby / Wybrałyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Wybrać",
+    "Meaning": "To choose",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Wybrałbym / Wybrałabym",
+    "Ty": "Wybrałbyś / Wybrałabyś",
+    "On/Ona": "Wybrałby / Wybrałaby",
+    "My": "Wybralibyśmy / Wybrałybyśmy",
+    "Wy": "Wybralibyście / Wybrałybyście",
+    "Oni/One": "Wybraliby / Wybrałyby"
   },
   {
     "Unit": 2.37,
@@ -1774,22 +2324,32 @@
     "Oni/One": "Spowodują"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Spowodowałem / Spowodowałam",
-    "Tense": "Spowodowałeś / Spowodowałaś",
-    "Ja": "Spowodował / Spowodowała",
-    "Ty": "Spowodowaliśmy / Spowodowałyśmy",
-    "On/Ona": "Spowodowaliście / Spowodowałyście",
-    "My": "Spowodowali / Spowodowały"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Spowodować",
+    "Meaning": "To cause",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Spowodowałem / Spowodowałam",
+    "Ty": "Spowodowałeś / Spowodowałaś",
+    "On/Ona": "Spowodował / Spowodowała",
+    "My": "Spowodowaliśmy / Spowodowałyśmy",
+    "Wy": "Spowodowaliście / Spowodowałyście",
+    "Oni/One": "Spowodowali / Spowodowały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Spowodowałbym / Spowodowałabym",
-    "Tense": "Spowodowałbyś / Spowodowałabyś",
-    "Ja": "Spowodowałby / Spowodowałaby",
-    "Ty": "Spowodowalibyśmy / Spowodowałybyśmy",
-    "On/Ona": "Spowodowalibyście / Spowodowałybyście",
-    "My": "Spowodowaliby / Spowodowałyby"
+    "Unit": 2.37,
+    "Topic": "Discuss present and past",
+    "Verb": "Spowodować",
+    "Meaning": "To cause",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Spowodowałbym / Spowodowałabym",
+    "Ty": "Spowodowałbyś / Spowodowałabyś",
+    "On/Ona": "Spowodowałby / Spowodowałaby",
+    "My": "Spowodowalibyśmy / Spowodowałybyśmy",
+    "Wy": "Spowodowalibyście / Spowodowałybyście",
+    "Oni/One": "Spowodowaliby / Spowodowałyby"
   },
   {
     "Unit": 3.01,
@@ -1806,22 +2366,32 @@
     "Oni/One": "Zapłacą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zapłaciłem / Zapłaciłam",
-    "Tense": "Zapłaciłeś / Zapłaciłaś",
-    "Ja": "Zapłacił / Zapłaciła",
-    "Ty": "Zapłaciliśmy / Zapłaciłyśmy",
-    "On/Ona": "Zapłaciliście / Zapłaciłyście",
-    "My": "Zapłacili / Zapłaciły"
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Verb": "Zapłacić",
+    "Meaning": "To pay",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Zapłaciłem / Zapłaciłam",
+    "Ty": "Zapłaciłeś / Zapłaciłaś",
+    "On/Ona": "Zapłacił / Zapłaciła",
+    "My": "Zapłaciliśmy / Zapłaciłyśmy",
+    "Wy": "Zapłaciliście / Zapłaciłyście",
+    "Oni/One": "Zapłacili / Zapłaciły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zapłaciłbym / Zapłaciłabym",
-    "Tense": "Zapłaciłbyś / Zapłaciłabyś",
-    "Ja": "Zapłaciłby / Zapłaciłaby",
-    "Ty": "Zapłacilibyśmy / Zapłaciłybyśmy",
-    "On/Ona": "Zapłacilibyście / Zapłaciłybyście",
-    "My": "Zapłaciliby / Zapłaciłyby"
+    "Unit": 3.01,
+    "Topic": "Talk about business",
+    "Verb": "Zapłacić",
+    "Meaning": "To pay",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Zapłaciłbym / Zapłaciłabym",
+    "Ty": "Zapłaciłbyś / Zapłaciłabyś",
+    "On/Ona": "Zapłaciłby / Zapłaciłaby",
+    "My": "Zapłacilibyśmy / Zapłaciłybyśmy",
+    "Wy": "Zapłacilibyście / Zapłaciłybyście",
+    "Oni/One": "Zapłaciliby / Zapłaciłyby"
   },
   {
     "Unit": 3.02,
@@ -1838,22 +2408,32 @@
     "Oni/One": "Pobiorą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Probałem / Probałam",
-    "Tense": "Probałeś / Probałaś",
-    "Ja": "Probał / Probała",
-    "Ty": "Probaliśmy / Probałyśmy",
-    "On/Ona": "Probaliście / Probałyście",
-    "My": "Probali / Probały"
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Verb": "Pobrać",
+    "Meaning": "To download",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Probałem / Probałam",
+    "Ty": "Probałeś / Probałaś",
+    "On/Ona": "Probał / Probała",
+    "My": "Probaliśmy / Probałyśmy",
+    "Wy": "Probaliście / Probałyście",
+    "Oni/One": "Probali / Probały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Pobrałbym / Pobrałabym",
-    "Tense": "Pobrałbyś / Pobrałabyś",
-    "Ja": "Pobrałby / Pobrałaby",
-    "Ty": "Pobralibyśmy / Pobrałybyśmy",
-    "On/Ona": "Pobralibyście / Pobrałybyście",
-    "My": "Pobraliby / Pobrałyby"
+    "Unit": 3.02,
+    "Topic": "Discuss communication",
+    "Verb": "Pobrać",
+    "Meaning": "To download",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Pobrałbym / Pobrałabym",
+    "Ty": "Pobrałbyś / Pobrałabyś",
+    "On/Ona": "Pobrałby / Pobrałaby",
+    "My": "Pobralibyśmy / Pobrałybyśmy",
+    "Wy": "Pobralibyście / Pobrałybyście",
+    "Oni/One": "Pobraliby / Pobrałyby"
   },
   {
     "Unit": 3.03,
@@ -1870,22 +2450,32 @@
     "Oni/One": "Dostaną"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Dostałem / Dostałam",
-    "Tense": "Dostałeś / Dostałaś",
-    "Ja": "Dostał / Dostała",
-    "Ty": "Dostaliśmy / Dostałyśmy",
-    "On/Ona": "Dostaliście / Dostałyście",
-    "My": "Dostali / Dostały"
+    "Unit": 3.03,
+    "Topic": "Use the conditional",
+    "Verb": "Dostać",
+    "Meaning": "To get",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Dostałem / Dostałam",
+    "Ty": "Dostałeś / Dostałaś",
+    "On/Ona": "Dostał / Dostała",
+    "My": "Dostaliśmy / Dostałyśmy",
+    "Wy": "Dostaliście / Dostałyście",
+    "Oni/One": "Dostali / Dostały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Dostałbym / Dostałabym",
-    "Tense": "Dostałbyś / Dostałabyś",
-    "Ja": "Dostałby / Dostałaby",
-    "Ty": "Dostalibyśmy / Dostałybyśmy",
-    "On/Ona": "Dostalibyście / Dostałybyście",
-    "My": "Dostaliby / Dostałyby"
+    "Unit": 3.03,
+    "Topic": "Use the conditional",
+    "Verb": "Dostać",
+    "Meaning": "To get",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Dostałbym / Dostałabym",
+    "Ty": "Dostałbyś / Dostałabyś",
+    "On/Ona": "Dostałby / Dostałaby",
+    "My": "Dostalibyśmy / Dostałybyśmy",
+    "Wy": "Dostalibyście / Dostałybyście",
+    "Oni/One": "Dostaliby / Dostałyby"
   },
   {
     "Unit": 3.03,
@@ -1902,22 +2492,32 @@
     "Oni/One": "Dadzą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Dałem / Dałam",
-    "Tense": "Dałeś / Dałaś",
-    "Ja": "Dał / Dała",
-    "Ty": "Daliśmy / Dałyśmy",
-    "On/Ona": "Daliście / Dałyście",
-    "My": "Dali / Dały"
+    "Unit": 3.03,
+    "Topic": "Use the conditional",
+    "Verb": "Dać",
+    "Meaning": "To give",
+    "Conjugation": "- am / - asz",
+    "Tense": "Past",
+    "Ja": "Dałem / Dałam",
+    "Ty": "Dałeś / Dałaś",
+    "On/Ona": "Dał / Dała",
+    "My": "Daliśmy / Dałyśmy",
+    "Wy": "Daliście / Dałyście",
+    "Oni/One": "Dali / Dały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Dałbym / Dałabym",
-    "Tense": "Dałbyś / Dałabyś",
-    "Ja": "Dałby / Dałaby",
-    "Ty": "Dalibyśmy / Dałybyśmy",
-    "On/Ona": "Dalibyście / Dałybyście",
-    "My": "Daliby / Dałyby"
+    "Unit": 3.03,
+    "Topic": "Use the conditional",
+    "Verb": "Dać",
+    "Meaning": "To give",
+    "Conjugation": "- am / - asz",
+    "Tense": "Conditional",
+    "Ja": "Dałbym / Dałabym",
+    "Ty": "Dałbyś / Dałabyś",
+    "On/Ona": "Dałby / Dałaby",
+    "My": "Dalibyśmy / Dałybyśmy",
+    "Wy": "Dalibyście / Dałybyście",
+    "Oni/One": "Daliby / Dałyby"
   },
   {
     "Unit": 3.04,
@@ -1934,22 +2534,32 @@
     "Oni/One": "Zwiększą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Zwiększyłem / Zwiększyłam",
-    "Tense": "Zwiększyłeś / Zwiększyłaś",
-    "Ja": "Zwiększył / Zwiększyła",
-    "Ty": "Zwiększyliśmy / Zwiększyłyśmy",
-    "On/Ona": "Zwiększyliście / Zwiększyłyście",
-    "My": "Zwiększyli / Zwiększyły"
+    "Unit": 3.04,
+    "Topic": "Talk about science",
+    "Verb": "Zwiększyć",
+    "Meaning": "To increase",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Zwiększyłem / Zwiększyłam",
+    "Ty": "Zwiększyłeś / Zwiększyłaś",
+    "On/Ona": "Zwiększył / Zwiększyła",
+    "My": "Zwiększyliśmy / Zwiększyłyśmy",
+    "Wy": "Zwiększyliście / Zwiększyłyście",
+    "Oni/One": "Zwiększyli / Zwiększyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Zwiększyłbym / Zwiększyłabym",
-    "Tense": "Zwiększyłbyś / Zwiększyałbyś",
-    "Ja": "Zwiększyłby / Zwiększyłaby",
-    "Ty": "Zwiększylibyśmy / Zwiększyłybyśmy",
-    "On/Ona": "Zwiększylibyście / Zwiększyłybyście",
-    "My": "Zwiększyliby / Zwiększyłyby"
+    "Unit": 3.04,
+    "Topic": "Talk about science",
+    "Verb": "Zwiększyć",
+    "Meaning": "To increase",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Zwiększyłbym / Zwiększyłabym",
+    "Ty": "Zwiększyłbyś / Zwiększyałbyś",
+    "On/Ona": "Zwiększyłby / Zwiększyłaby",
+    "My": "Zwiększylibyśmy / Zwiększyłybyśmy",
+    "Wy": "Zwiększylibyście / Zwiększyłybyście",
+    "Oni/One": "Zwiększyliby / Zwiększyłyby"
   },
   {
     "Unit": 3.04,
@@ -1966,22 +2576,32 @@
     "Oni/One": "Pojadą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Pojechałem / Pojechałam",
-    "Tense": "Pojechałeś / Pojechałaś",
-    "Ja": "Pojechał / Pojechała",
-    "Ty": "Pojechaliśmy / Pojechałyśmy",
-    "On/Ona": "Pojechaliście / Pojechałyście",
-    "My": "Pojechali / Pojechały"
+    "Unit": 3.04,
+    "Topic": "Talk about science",
+    "Verb": "Pojechać",
+    "Meaning": "To go",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Pojechałem / Pojechałam",
+    "Ty": "Pojechałeś / Pojechałaś",
+    "On/Ona": "Pojechał / Pojechała",
+    "My": "Pojechaliśmy / Pojechałyśmy",
+    "Wy": "Pojechaliście / Pojechałyście",
+    "Oni/One": "Pojechali / Pojechały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Pojechałbym / Pojechałabym",
-    "Tense": "Pojechałbyś / Pojechałabyś",
-    "Ja": "Pojechałby / Pojechałaby",
-    "Ty": "Pojechalibyśmy / Pojechałybyśmy",
-    "On/Ona": "Pojechalibyście / Pojechałybyście",
-    "My": "Pojechaliby / Pojechałyby"
+    "Unit": 3.04,
+    "Topic": "Talk about science",
+    "Verb": "Pojechać",
+    "Meaning": "To go",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Pojechałbym / Pojechałabym",
+    "Ty": "Pojechałbyś / Pojechałabyś",
+    "On/Ona": "Pojechałby / Pojechałaby",
+    "My": "Pojechalibyśmy / Pojechałybyśmy",
+    "Wy": "Pojechalibyście / Pojechałybyście",
+    "Oni/One": "Pojechaliby / Pojechałyby"
   },
   {
     "Unit": 3.05,
@@ -1998,22 +2618,32 @@
     "Oni/One": "Odpoczną"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Odpocząłem / Odpoczęłam",
-    "Tense": "Odpocząłeś / Odpoczęłaś",
-    "Ja": "Odpoczął / Odpoczęła",
-    "Ty": "Odpoczęliśmy / Odpoczęłyśmy",
-    "On/Ona": "Odpoczęliście / Odpoczęłyście",
-    "My": "Odpoczęli / Odpoczęły"
+    "Unit": 3.05,
+    "Topic": "Say what will happen",
+    "Verb": "Odpocznąć",
+    "Meaning": "To rest",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Odpocząłem / Odpoczęłam",
+    "Ty": "Odpocząłeś / Odpoczęłaś",
+    "On/Ona": "Odpoczął / Odpoczęła",
+    "My": "Odpoczęliśmy / Odpoczęłyśmy",
+    "Wy": "Odpoczęliście / Odpoczęłyście",
+    "Oni/One": "Odpoczęli / Odpoczęły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Odpocząłbym / Odpoczęłabym",
-    "Tense": "Odpocząłbyś / Odpoczęłabyś",
-    "Ja": "Odpocząłby / Odpoczęłaby",
-    "Ty": "Odpoczęlibyśmy / Odpoczęłybyśmy",
-    "On/Ona": "Odpoczęlibyście / Odpoczęłybyście",
-    "My": "Odpoczęliby / Odpoczęłyby"
+    "Unit": 3.05,
+    "Topic": "Say what will happen",
+    "Verb": "Odpocznąć",
+    "Meaning": "To rest",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Odpocząłbym / Odpoczęłabym",
+    "Ty": "Odpocząłbyś / Odpoczęłabyś",
+    "On/Ona": "Odpocząłby / Odpoczęłaby",
+    "My": "Odpoczęlibyśmy / Odpoczęłybyśmy",
+    "Wy": "Odpoczęlibyście / Odpoczęłybyście",
+    "Oni/One": "Odpoczęliby / Odpoczęłyby"
   },
   {
     "Unit": 3.05,
@@ -2030,22 +2660,32 @@
     "Oni/One": "Spróbują"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Spróbowałem / Spróbowałam",
-    "Tense": "Spróbowałeś / Spróbowałaś",
-    "Ja": "Spróbował / Spróbowała",
-    "Ty": "Spróbowaliśmy / Spróbowałyśmy",
-    "On/Ona": "Spróbowaliście / Spróbowałyście",
-    "My": "Spróbowali / Spróbowały"
+    "Unit": 3.05,
+    "Topic": "Say what will happen",
+    "Verb": "Spróbować",
+    "Meaning": "To try",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Spróbowałem / Spróbowałam",
+    "Ty": "Spróbowałeś / Spróbowałaś",
+    "On/Ona": "Spróbował / Spróbowała",
+    "My": "Spróbowaliśmy / Spróbowałyśmy",
+    "Wy": "Spróbowaliście / Spróbowałyście",
+    "Oni/One": "Spróbowali / Spróbowały"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Spróbowałbym / Spróbowałabym",
-    "Tense": "Spróbowałbyś / Spróbowałabyś",
-    "Ja": "Spróbowałby / Spróbowałaby",
-    "Ty": "Spróbowalibyśmy / Spróbowałybyśmy",
-    "On/Ona": "Spróbowalibyście / Spróbowałybyście",
-    "My": "Spróbowaliby / Spróbowałyby"
+    "Unit": 3.05,
+    "Topic": "Say what will happen",
+    "Verb": "Spróbować",
+    "Meaning": "To try",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Spróbowałbym / Spróbowałabym",
+    "Ty": "Spróbowałbyś / Spróbowałabyś",
+    "On/Ona": "Spróbowałby / Spróbowałaby",
+    "My": "Spróbowalibyśmy / Spróbowałybyśmy",
+    "Wy": "Spróbowalibyście / Spróbowałybyście",
+    "Oni/One": "Spróbowaliby / Spróbowałyby"
   },
   {
     "Unit": 3.05,
@@ -2062,22 +2702,32 @@
     "Oni/One": "Skończą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Skończyłem / Skończyłam",
-    "Tense": "Skończyłeś / Skończyłaś",
-    "Ja": "Skończył / Skończyła",
-    "Ty": "Skończyliśmy / Skończyłyśmy",
-    "On/Ona": "Skończyliście / Skończyłyście",
-    "My": "Skończyli / Skończyły"
+    "Unit": 3.05,
+    "Topic": "Say what will happen",
+    "Verb": "Skończyć",
+    "Meaning": "To finish",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Past",
+    "Ja": "Skończyłem / Skończyłam",
+    "Ty": "Skończyłeś / Skończyłaś",
+    "On/Ona": "Skończył / Skończyła",
+    "My": "Skończyliśmy / Skończyłyśmy",
+    "Wy": "Skończyliście / Skończyłyście",
+    "Oni/One": "Skończyli / Skończyły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Skończyłbym / Skończyłabym",
-    "Tense": "Skończyłbyś / Skończyłabyś",
-    "Ja": "Skończyłby / Skończyłaby",
-    "Ty": "Skończylibyśmy / Skończyłybyśmy",
-    "On/Ona": "Skończylibyście / Skończyłybyście",
-    "My": "Skończyliby / Skończyłyby"
+    "Unit": 3.05,
+    "Topic": "Say what will happen",
+    "Verb": "Skończyć",
+    "Meaning": "To finish",
+    "Conjugation": "- ę / - ysz",
+    "Tense": "Conditional",
+    "Ja": "Skończyłbym / Skończyłabym",
+    "Ty": "Skończyłbyś / Skończyłabyś",
+    "On/Ona": "Skończyłby / Skończyłaby",
+    "My": "Skończylibyśmy / Skończyłybyśmy",
+    "Wy": "Skończylibyście / Skończyłybyście",
+    "Oni/One": "Skończyliby / Skończyłyby"
   },
   {
     "Unit": 3.09,
@@ -2094,22 +2744,32 @@
     "Oni/One": "Rzucą"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Rzuciłem / Rzuciłam",
-    "Tense": "Rzuciłeś / Rzuciłaś",
-    "Ja": "Rzucił / Rzuciła",
-    "Ty": "Rzuciliśmy / Rzuciłyśmy",
-    "On/Ona": "Rzuciliście / Rzuciłyście",
-    "My": "Rzucili / Rzuciły"
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Verb": "Rzucić",
+    "Meaning": "To throw",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Past",
+    "Ja": "Rzuciłem / Rzuciłam",
+    "Ty": "Rzuciłeś / Rzuciłaś",
+    "On/Ona": "Rzucił / Rzuciła",
+    "My": "Rzuciliśmy / Rzuciłyśmy",
+    "Wy": "Rzuciliście / Rzuciłyście",
+    "Oni/One": "Rzucili / Rzuciły"
   },
   {
-    "Meaning": "Conditional",
-    "Conjugation": "Rzuciłbym / Rzuciłabym",
-    "Tense": "Rzuciłbyś / Rzuciłabyś",
-    "Ja": "Rzuciłby / Rzuciłaby",
-    "Ty": "Rzucilibyśmy / Rzuciłybyśmy",
-    "On/Ona": "Rzucilibyście / Rzuciłybyście",
-    "My": "Rzuciliby / Rzuciłyby"
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Verb": "Rzucić",
+    "Meaning": "To throw",
+    "Conjugation": "- ę / - isz",
+    "Tense": "Conditional",
+    "Ja": "Rzuciłbym / Rzuciłabym",
+    "Ty": "Rzuciłbyś / Rzuciłabyś",
+    "On/Ona": "Rzuciłby / Rzuciłaby",
+    "My": "Rzucilibyśmy / Rzuciłybyśmy",
+    "Wy": "Rzucilibyście / Rzuciłybyście",
+    "Oni/One": "Rzuciliby / Rzuciłyby"
   },
   {
     "Unit": 3.09,
@@ -2126,300 +2786,31 @@
     "Oni/One": "Kopną"
   },
   {
-    "Meaning": "Past",
-    "Conjugation": "Kopnąłem / Kopnęłam",
-    "Tense": "Kopnąłeś / Kopnęłaś",
-    "Ja": "Kopnął / Kopnęła",
-    "Ty": "Kopnęliśmy / Kopnęłyśmy",
-    "On/Ona": "Kopnęliście / Kopnęłyście",
-    "My": "Kopnęli / Kopnęły"
-  },
-  {
-    "Meaning": "Conditional",
-    "Conjugation": "Kopnąłbym / Kopnęłabym",
-    "Tense": "Kopnąłbyś / Kopnęłabyś",
-    "Ja": "Kopnąłby / Kopnęłaby",
-    "Ty": "Kopnęlibyśmy / Kopnęłybyśmy",
-    "On/Ona": "Kopnęlibyście / Kopnęłybyście",
-    "My": "Kopnęliby / Kopnęłyby"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
-  },
-  {
-    "Tense": "Future"
-  },
-  {
-    "Meaning": "Past"
-  },
-  {
-    "Meaning": "Conditional"
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Verb": "Kopnąć",
+    "Meaning": "To kick",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Past",
+    "Ja": "Kopnąłem / Kopnęłam",
+    "Ty": "Kopnąłeś / Kopnęłaś",
+    "On/Ona": "Kopnął / Kopnęła",
+    "My": "Kopnęliśmy / Kopnęłyśmy",
+    "Wy": "Kopnęliście / Kopnęłyście",
+    "Oni/One": "Kopnęli / Kopnęły"
+  },
+  {
+    "Unit": 3.09,
+    "Topic": "Talk about sports",
+    "Verb": "Kopnąć",
+    "Meaning": "To kick",
+    "Conjugation": "- ę / - esz",
+    "Tense": "Conditional",
+    "Ja": "Kopnąłbym / Kopnęłabym",
+    "Ty": "Kopnąłbyś / Kopnęłabyś",
+    "On/Ona": "Kopnąłby / Kopnęłaby",
+    "My": "Kopnęlibyśmy / Kopnęłybyśmy",
+    "Wy": "Kopnęlibyście / Kopnęłybyście",
+    "Oni/One": "Kopnęliby / Kopnęłyby"
   }
 ]

@@ -4,6 +4,13 @@ const seed = require("../database/seed");
 beforeAll(() => seed());
 afterAll(() => db.end())
 
+/* current tables:
+    - conditionaltenseimpverbs
+    - pasttenseimpverbs
+    - presenttenseimpverbs
+    - sentences
+*/
+
 describe("seed", () => {
 
     describe("sentences table", () => {
@@ -20,5 +27,20 @@ describe("seed", () => {
                     expect(newMap).toEqual(['sentence_id', 'unit', 'topic', 'polish', 'english'])
                 })
         })
+        test.only("test that conditional table exists", () => {
+            return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'conditionaltenseimpverbs');`)
+                .then(({ rows: [{ exists }] }) => {
+                    expect(exists).toBe(true)
+                })
+        })
     })
+
+    // describe("imperfective verb tables", () => {
+    //     test.only("test that conditional table exists", () => {
+    //         return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'conditionaltenseimpverbs');`)
+    //             .then(({ rows: [{ exists }] }) => {
+    //                 expect(exists).toBe(true)
+    //             })
+    //     })
+    // })
 })

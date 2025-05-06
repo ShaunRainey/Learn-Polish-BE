@@ -18,4 +18,21 @@ function getImpConditionalTenseVerbs(req, res) {
     })
 }
 
-module.exports = { getImpPastTenseVerbs, getImpPresentTenseVerbs, getImpConditionalTenseVerbs };
+// function getPerPastTenseVerbs(req, res) {
+//     return "hello"
+// }
+// function getPerFutureTenseVerbs(req, res) {
+//     return "hello"
+// }
+// function getPerConditionalTenseVerbs(req, res) {
+//     return "hello"
+// }
+
+module.exports = {
+    getImpPastTenseVerbs,
+    getImpPresentTenseVerbs,
+    getImpConditionalTenseVerbs,
+    // getPerPastTenseVerbs,
+    // getPerFutureTenseVerbs,
+    // getPerConditionalTenseVerbs
+};

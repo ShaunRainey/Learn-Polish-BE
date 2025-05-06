@@ -21,4 +21,27 @@ function insertConditionalTenseData(verbData) {
     return db.query(insertString)
 }
 
-module.exports = {insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData}
+function insertPastTensePerfectiveData(verbData) {
+    const insertString = format(`INSERT INTO pastTensePerVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
+    return db.query(insertString)
+}
+
+function insertFutureTensePerfectiveData(verbData) {
+    const insertString = format(`INSERT INTO futureTensePerVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
+    return db.query(insertString)
+}
+
+function insertConditionalTensePerfectiveData(verbData) {
+    const insertString = format(`INSERT INTO conditionalTensePerVerbs(Unit, Topic, Verb, Meaning, Conjugation, Ja, Ty, On_Ona, My, Wy, Oni_One) VALUES %L RETURNING *;`, verbData);
+    return db.query(insertString)
+}
+
+module.exports = {
+    insertSentenceData,
+    insertPastTenseData,
+    insertPresentTenseData,
+    insertConditionalTenseData,
+    insertPastTensePerfectiveData,
+    insertFutureTensePerfectiveData,
+    insertConditionalTensePerfectiveData
+}

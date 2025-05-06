@@ -20,38 +20,49 @@ const {
   Genitive_DopełniaczData,
   Locative_MiejscownikData,
 } = require("./data/index");
-const { formatSentenceData, formatImperfectiveVerbData } = require("./utils");
-const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs } = require("./construction/createTables");
-const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData } = require("./construction/insertData");
+const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData } = require("./utils");
+const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs } = require("./construction/createTables");
+const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData } = require("./construction/insertData");
 
 function seed() {
     return db
         .query(`
             DROP TABLE IF EXISTS sentences;
-            DROP TABLE IF EXISTS pastTenseVerbs;
-            DROP TABLE IF EXISTS presentTenseVerbs;
-            DROP TABLE IF EXISTS conditionalTenseVerbs;
+            DROP TABLE IF EXISTS pastTenseImpVerbs;
+            DROP TABLE IF EXISTS presentTenseImpVerbs;
+            DROP TABLE IF EXISTS conditionalTenseImpVerbs;
+            DROP TABLE IF EXISTS conditionalTensePerVerbs;
+            DROP TABLE IF EXISTS futureTensePerVerbs;
+            DROP TABLE IF EXISTS pastTensePerVerbs;
             `)
         .then(() => {
             return Promise.all([
                 createSentences(),
                 createPastTenseVerbs(),
                 createPresentTenseVerbs(),
-                createConditionalTenseVerbs()
+                createConditionalTenseVerbs(),
+                createConditionalTensePerfectiveVerbs(),
+                createFutureTensePerfectiveVerbs(),
+                createPastTensePerfectiveVerbs()
             ])
         })
         .then(() => {
             return Promise.all([
                 formatSentenceData(SentencesData),
-                formatImperfectiveVerbData(Verbs_ImperfectiveData)
+                formatImperfectiveVerbData(Verbs_ImperfectiveData),
+                formatPerfectiveVerbData(Verbs_PerfectiveData)
             ])
         })
         .then((newData) => {
+            console.log(newData[2].formattedFutureVerbs)
             return Promise.all([
                 insertSentenceData(newData[0]),
                 insertPastTenseData(newData[1].formattedPastVerbs),
                 insertPresentTenseData(newData[1].formattedPresentVerbs),
-                insertConditionalTenseData(newData[1].formattedConditionalVerbs)  
+                insertConditionalTenseData(newData[1].formattedConditionalVerbs), 
+                insertPastTensePerfectiveData(newData[2].formattedPastVerbs),
+                insertFutureTensePerfectiveData(newData[2].formattedFutureVerbs),
+                insertConditionalTensePerfectiveData(newData[2].formattedConditionalVerbs)
             ])
         })
 }

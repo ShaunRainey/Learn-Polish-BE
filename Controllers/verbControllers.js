@@ -1,4 +1,4 @@
-const { selectPastTenseVerbs, selectPresentTenseVerbs , selectConditionalTenseVerbs } = require("../Models/verbModels")
+const { selectPastTenseVerbs, selectPresentTenseVerbs , selectConditionalTenseVerbs, selectPastTensePerVerbs, selectFutureTensePerVerbs, selectConditionalTensePerVerbs } = require("../Models/verbModels")
 
 function getImpPastTenseVerbs(req, res) {
     selectPastTenseVerbs().then((data) => {
@@ -18,21 +18,29 @@ function getImpConditionalTenseVerbs(req, res) {
     })
 }
 
-// function getPerPastTenseVerbs(req, res) {
-//     return "hello"
-// }
-// function getPerFutureTenseVerbs(req, res) {
-//     return "hello"
-// }
-// function getPerConditionalTenseVerbs(req, res) {
-//     return "hello"
-// }
+function getPastTensePerVerbs(req, res) {
+    selectPastTensePerVerbs().then((data) => {
+        return res.status(200).send(data.rows)
+    })
+}
+
+function getFutureTensePerVerbs(req, res) {
+    selectFutureTensePerVerbs().then((data) => {
+        return res.status(200).send(data.rows)
+    })
+}
+
+function getConditionalTensePerVerbs(req, res) {
+    selectConditionalTensePerVerbs().then((data) => {
+        return res.status(200).send(data.rows)
+    })
+}
 
 module.exports = {
     getImpPastTenseVerbs,
     getImpPresentTenseVerbs,
     getImpConditionalTenseVerbs,
-    // getPerPastTenseVerbs,
-    // getPerFutureTenseVerbs,
-    // getPerConditionalTenseVerbs
+    getPastTensePerVerbs,
+    getFutureTensePerVerbs,
+    getConditionalTensePerVerbs
 };

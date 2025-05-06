@@ -12,4 +12,23 @@ function selectConditionalTenseVerbs() {
     return db.query(`SELECT * FROM conditionalTenseImpVerbs;`);
 }
 
-module.exports = { selectPastTenseVerbs, selectPresentTenseVerbs, selectConditionalTenseVerbs };
+function selectPastTensePerVerbs() {
+    return db.query(`SELECT * FROM pastTensePerVerbs;`)
+}
+
+function selectFutureTensePerVerbs() {
+    return db.query(`SELECT * FROM futureTensePerVerbs;`)
+}
+
+function selectConditionalTensePerVerbs() {
+    return db.query(`SELECT * FROM conditionalTensePerVerbs;`)
+}
+
+module.exports = {
+    selectPastTenseVerbs,
+    selectPresentTenseVerbs,
+    selectConditionalTenseVerbs,
+    selectPastTensePerVerbs,
+    selectFutureTensePerVerbs,
+    selectConditionalTensePerVerbs
+};

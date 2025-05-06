@@ -112,6 +112,24 @@ function createPastTensePerfectiveVerbs() {
         )`)
 }
 
+function createPronouns() {
+    return db.query(`CREATE TABLE pronouns(
+        pronoun_id SERIAL PRIMARY KEY,
+        category VARCHAR(40),
+        noun VARCHAR(40),
+        gender VARCHAR(40),
+        singular_plural VARCHAR(40),
+        meaning VARCHAR(40),
+        nominative VARCHAR(40),
+        accusative VARCHAR(40),
+        instrumental VARCHAR(40),
+        genitive VARCHAR(40),
+        locative VARCHAR(40),
+        dative VARCHAR(40),
+        notes VARCHAR(400)
+        )`)
+}
+
 module.exports = {
     createSentences,
     createPastTenseVerbs,
@@ -119,5 +137,6 @@ module.exports = {
     createConditionalTenseVerbs,
     createConditionalTensePerfectiveVerbs,
     createFutureTensePerfectiveVerbs,
-    createPastTensePerfectiveVerbs
+    createPastTensePerfectiveVerbs,
+    createPronouns
 }

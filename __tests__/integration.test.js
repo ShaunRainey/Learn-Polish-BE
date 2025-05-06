@@ -29,3 +29,132 @@ describe("sentences endpoint", () => {
             });
     })
 })
+
+describe("verb endpoints", () => {
+    test("status 200 from /api/verbs/imperfective/pastTense", () => {
+        return request(app).get("/api/verbs/imperfective/pastTense").expect(200)
+            .then(({ body }) => {
+                body.forEach((verb) => {
+                    expect(verb).toMatchObject({
+                        verb_id: expect.any(Number),
+                        unit: expect.any(Number),
+                        topic: expect.any(String),
+                        verb: expect.any(String),
+                        meaning: expect.any(String),
+                        conjugation: expect.any(String),
+                        ja: expect.any(String),
+                        ty: expect.any(String),
+                        on_ona: expect.any(String),
+                        my: expect.any(String),
+                        wy: expect.any(String),
+                        oni_one: expect.any(String),
+                    })
+                })
+            });
+    })
+    test("status 200 from /api/verbs/imperfective/presentTense", () => {
+        return request(app).get("/api/verbs/imperfective/presentTense").expect(200)
+            .then(({ body }) => {
+                body.forEach((verb) => {
+                    expect(verb).toMatchObject({
+                        verb_id: expect.any(Number),
+                        unit: expect.any(Number),
+                        topic: expect.any(String),
+                        verb: expect.any(String),
+                        meaning: expect.any(String),
+                        conjugation: expect.any(String),
+                        ja: expect.any(String),
+                        ty: expect.any(String),
+                        on_ona: expect.any(String),
+                        my: expect.any(String),
+                        wy: expect.any(String),
+                        oni_one: expect.any(String),
+                    })
+                })
+            });
+    })
+    test("status 200 from /api/verbs/imperfective/conditionalTense", () => {
+        return request(app).get("/api/verbs/imperfective/conditionalTense").expect(200)
+            .then(({ body }) => {
+                body.forEach((verb) => {
+                    expect(verb).toMatchObject({
+                        verb_id: expect.any(Number),
+                        unit: expect.any(Number),
+                        topic: expect.any(String),
+                        verb: expect.any(String),
+                        meaning: expect.any(String),
+                        conjugation: expect.any(String),
+                        ja: expect.any(String),
+                        ty: expect.any(String),
+                        on_ona: expect.any(String),
+                        my: expect.any(String),
+                        wy: expect.any(String),
+                        oni_one: expect.any(String),
+                    })
+                })
+            });
+    })
+    test("status 200 from /api/verbs/perfective/pastTense", () => {
+        return request(app).get("/api/verbs/perfective/pastTense").expect(200)
+            .then(({ body }) => {
+                body.forEach((verb) => {
+                    expect(verb).toMatchObject({
+                        verb_id: expect.any(Number),
+                        unit: expect.any(Number),
+                        topic: expect.any(String),
+                        verb: expect.any(String),
+                        meaning: expect.any(String),
+                        conjugation: expect.any(String),
+                        ja: expect.any(String),
+                        ty: expect.any(String),
+                        on_ona: expect.any(String),
+                        my: expect.any(String),
+                        wy: expect.any(String),
+                        oni_one: expect.any(String),
+                    })
+                })
+            });
+    })
+    test("status 200 from /api/verbs/perfective/futureTense", () => {
+        return request(app).get("/api/verbs/perfective/futureTense").expect(200)
+            .then(({ body }) => {
+                body.forEach((verb) => {
+                    expect(verb).toMatchObject({
+                        verb_id: expect.any(Number),
+                        unit: expect.any(Number),
+                        topic: expect.any(String),
+                        verb: expect.any(String),
+                        meaning: expect.any(String),
+                        conjugation: expect.any(String),
+                        ja: expect.any(String),
+                        ty: expect.any(String),
+                        on_ona: expect.any(String),
+                        my: expect.any(String),
+                        wy: expect.any(String),
+                        oni_one: expect.any(String),
+                    })
+                })
+            });
+    })
+    test("status 200 from /api/verbs/perfective/conditionalTense", () => {
+        return request(app).get("/api/verbs/perfective/conditionalTense").expect(200)
+            .then(({ body }) => {
+                body.forEach((verb) => {
+                    expect(verb).toMatchObject({
+                        verb_id: expect.any(Number),
+                        unit: expect.any(Number),
+                        topic: expect.any(String),
+                        verb: expect.any(String),
+                        meaning: expect.any(String),
+                        conjugation: expect.any(String),
+                        ja: expect.any(String),
+                        ty: expect.any(String),
+                        on_ona: expect.any(String),
+                        my: expect.any(String),
+                        wy: expect.any(String),
+                        oni_one: expect.any(String),
+                    })
+                })
+            });
+    })
+})

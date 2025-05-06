@@ -8,7 +8,7 @@
     "setup-spreadsheet-files": "node ./database/extractData.js",
     "setup-database": "psql -f ./database/polish_data_entry.sql",
     "seed": "node database/run-seed.js",
-    "all-tests": "npx jest",
+    "all-tests": "npx jest", 
     "test-seed": "npx jest ./__tests__/seed.test.js",
     "test-integration": "npx jest ./__tests__/integration.test.js",
     "test-utils": "npx jest ./__tests__/utils.test.js"

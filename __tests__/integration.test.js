@@ -158,3 +158,29 @@ describe("verb endpoints", () => {
             });
     })
 })
+
+describe("Pronouns endpoint", () => {
+    test("responds with status 200", () => {
+        return request(app).get("/api/pronouns").expect(200)
+    })
+    test("response has correct body", () => {
+        return request(app).get("/api/pronouns").then(({body}) => {
+            body.forEach((pronoun) => {
+                expect(pronoun).toEqual({
+                    pronoun_id:expect.any(Number),
+                    category: expect.any(String),
+                    noun: expect.any(String),
+                    gender: expect.any(String),
+                    singular_plural: expect.any(String),
+                    meaning: expect.any(String),
+                    nominative: expect.any(String),
+                    accusative: expect.any(String),
+                    instrumental: expect.any(String),
+                    genitive: expect.any(String),
+                    locative: expect.any(String),
+                    dative: expect.any(String),
+                })
+            })
+        })
+    })
+})

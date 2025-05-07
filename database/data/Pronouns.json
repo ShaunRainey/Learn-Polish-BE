@@ -1,7 +1,7 @@
 [
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "Ja",
+    "Noun": "Ja",
     "Gender": "N/a",
     "Singular / Plural": "Singular",
     "Meaning": "I",
@@ -14,7 +14,7 @@
   },
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "Ty",
+    "Noun": "Ty",
     "Gender": "N/a",
     "Singular / Plural": "Singular",
     "Meaning": "You (singular)",
@@ -27,7 +27,7 @@
   },
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "On",
+    "Noun": "On",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "He",
@@ -40,7 +40,7 @@
   },
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "Ona",
+    "Noun": "Ona",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "She",
@@ -53,7 +53,7 @@
   },
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "Ono",
+    "Noun": "Ono",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "It",
@@ -66,7 +66,7 @@
   },
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "My",
+    "Noun": "My",
     "Gender": "N/a",
     "Singular / Plural": "Plural",
     "Meaning": "We",
@@ -79,7 +79,7 @@
   },
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "Wy",
+    "Noun": "Wy",
     "Gender": "N/a",
     "Singular / Plural": "Plural",
     "Meaning": "You (plural)",
@@ -92,7 +92,7 @@
   },
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "Oni",
+    "Noun": "Oni",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "They (male)",
@@ -105,7 +105,7 @@
   },
   {
     "Category": "Personal",
-    "Noun\nRzeczownik": "One",
+    "Noun": "One",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "They (non male)",
@@ -118,7 +118,7 @@
   },
   {
     "Category": "Reflexive",
-    "Noun\nRzeczownik": "Się",
+    "Noun": "Się",
     "Gender": "N/a",
     "Singular / Plural": "Singular",
     "Meaning": "Oneself",
@@ -131,7 +131,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Ten",
+    "Noun": "Ten",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "This (male)",
@@ -144,7 +144,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Ta",
+    "Noun": "Ta",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "This (female)",
@@ -157,7 +157,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "To",
+    "Noun": "To",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "This (neuter)",
@@ -170,7 +170,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Ci",
+    "Noun": "Ci",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "These (male plural)",
@@ -183,7 +183,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Te",
+    "Noun": "Te",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "These (non-male plural)",
@@ -196,7 +196,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Tamten",
+    "Noun": "Tamten",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "That (male)",
@@ -209,7 +209,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Tamta",
+    "Noun": "Tamta",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "That (female)",
@@ -222,7 +222,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Tamto",
+    "Noun": "Tamto",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "That (neuter)",
@@ -235,7 +235,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Tamci",
+    "Noun": "Tamci",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "Those (male plural)",
@@ -248,7 +248,7 @@
   },
   {
     "Category": "Demonstrative",
-    "Noun\nRzeczownik": "Tamte",
+    "Noun": "Tamte",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "Those (non-male plural)",
@@ -261,7 +261,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Mój",
+    "Noun": "Mój",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "My (male singular)",
@@ -274,7 +274,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Twój",
+    "Noun": "Twój",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "Your (male singular)",
@@ -287,7 +287,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Jego",
+    "Noun": "Jego",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "His",
@@ -300,7 +300,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Jej",
+    "Noun": "Jej",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "Her",
@@ -313,7 +313,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Nasz",
+    "Noun": "Nasz",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "Our (male singular)",
@@ -326,7 +326,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Wasz",
+    "Noun": "Wasz",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "Your (male plural)",
@@ -339,7 +339,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Ich",
+    "Noun": "Ich",
     "Gender": "N/a",
     "Singular / Plural": "Plural",
     "Meaning": "Their",
@@ -352,7 +352,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Moja",
+    "Noun": "Moja",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "My (female singular)",
@@ -365,7 +365,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Twoja",
+    "Noun": "Twoja",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "Your (female singular)",
@@ -378,7 +378,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Nasza",
+    "Noun": "Nasza",
     "Gender": "Female",
     "Singular / Plural": "Plural",
     "Meaning": "Our (female singular)",
@@ -391,7 +391,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Wasza",
+    "Noun": "Wasza",
     "Gender": "Female",
     "Singular / Plural": "Plural",
     "Meaning": "Your (female plural)",
@@ -404,7 +404,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Moje",
+    "Noun": "Moje",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "My (neuter singular)",
@@ -417,7 +417,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Twoje",
+    "Noun": "Twoje",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "Your (neuter singular)",
@@ -430,7 +430,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Nasze",
+    "Noun": "Nasze",
     "Gender": "Neuter",
     "Singular / Plural": "Plural",
     "Meaning": "Our (neuter singular)",
@@ -443,7 +443,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Wasze",
+    "Noun": "Wasze",
     "Gender": "Neuter",
     "Singular / Plural": "Plural",
     "Meaning": "Your (neuter plural)",
@@ -456,7 +456,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Moi",
+    "Noun": "Moi",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "My (male plural)",
@@ -469,7 +469,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Twoi",
+    "Noun": "Twoi",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "Your (male plural)",
@@ -482,7 +482,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Nasi",
+    "Noun": "Nasi",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "Our (male plural)",
@@ -496,7 +496,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Wasi",
+    "Noun": "Wasi",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "Your (male plural)",
@@ -509,7 +509,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Moje",
+    "Noun": "Moje",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "My (non-male plural)",
@@ -522,7 +522,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Twoje",
+    "Noun": "Twoje",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "Your (non-male plural)",
@@ -535,7 +535,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Nasze",
+    "Noun": "Nasze",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "Our (non-male plural)",
@@ -548,7 +548,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Wasze",
+    "Noun": "Wasze",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "Your (non-male plural)",
@@ -561,7 +561,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Swój",
+    "Noun": "Swój",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "One’s own (male singular)",
@@ -574,7 +574,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Swoja",
+    "Noun": "Swoja",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "One’s own (female singular)",
@@ -587,7 +587,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Swoje",
+    "Noun": "Swoje",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "One’s own (neuter singular)",
@@ -600,7 +600,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Swoi",
+    "Noun": "Swoi",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "One’s own (male plural)",
@@ -613,7 +613,7 @@
   },
   {
     "Category": "Possessive",
-    "Noun\nRzeczownik": "Swoje",
+    "Noun": "Swoje",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "One’s own (non-male plural)",
@@ -626,7 +626,7 @@
   },
   {
     "Category": "Interrogative",
-    "Noun\nRzeczownik": "Jaki",
+    "Noun": "Jaki",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "What kind of (male singular)",
@@ -640,7 +640,7 @@
   },
   {
     "Category": "Interrogative",
-    "Noun\nRzeczownik": "Jaka",
+    "Noun": "Jaka",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "What kind of (female singular)",
@@ -653,7 +653,7 @@
   },
   {
     "Category": "Interrogative",
-    "Noun\nRzeczownik": "Jakie",
+    "Noun": "Jakie",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "What kind of (neuter singular)",
@@ -666,7 +666,7 @@
   },
   {
     "Category": "Interrogative",
-    "Noun\nRzeczownik": "Jacy",
+    "Noun": "Jacy",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "What kind of (male plural)",
@@ -679,7 +679,7 @@
   },
   {
     "Category": "Interrogative",
-    "Noun\nRzeczownik": "Jakie",
+    "Noun": "Jakie",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "What kind of (non-male plural)",
@@ -692,7 +692,7 @@
   },
   {
     "Category": "Relative",
-    "Noun\nRzeczownik": "Który",
+    "Noun": "Który",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "Which (male singular)",
@@ -706,7 +706,7 @@
   },
   {
     "Category": "Relative",
-    "Noun\nRzeczownik": "Która",
+    "Noun": "Która",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "Which (female singular)",
@@ -719,7 +719,7 @@
   },
   {
     "Category": "Relative",
-    "Noun\nRzeczownik": "Które",
+    "Noun": "Które",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "Which (neuter singular)",
@@ -732,7 +732,7 @@
   },
   {
     "Category": "Relative",
-    "Noun\nRzeczownik": "Którzy",
+    "Noun": "Którzy",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "Which (male plural)",
@@ -745,7 +745,7 @@
   },
   {
     "Category": "Relative",
-    "Noun\nRzeczownik": "Które",
+    "Noun": "Które",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "Which (non-male plural)",
@@ -758,7 +758,7 @@
   },
   {
     "Category": "Indefinite",
-    "Noun\nRzeczownik": "Jakiś",
+    "Noun": "Jakiś",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "Some kind of (male singular)",
@@ -771,7 +771,7 @@
   },
   {
     "Category": "Indefinite",
-    "Noun\nRzeczownik": "Jakaś",
+    "Noun": "Jakaś",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "Some kind of (female singular)",
@@ -784,7 +784,7 @@
   },
   {
     "Category": "Indefinite",
-    "Noun\nRzeczownik": "Jakieś",
+    "Noun": "Jakieś",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "Some kind of (neuter singular)",
@@ -797,7 +797,7 @@
   },
   {
     "Category": "Indefinite",
-    "Noun\nRzeczownik": "Jacyś",
+    "Noun": "Jacyś",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "Some kind of (male plural)",
@@ -810,7 +810,7 @@
   },
   {
     "Category": "Indefinite",
-    "Noun\nRzeczownik": "Jakieś",
+    "Noun": "Jakieś",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "Some kind of (non-male plural)",
@@ -823,7 +823,7 @@
   },
   {
     "Category": "Negative",
-    "Noun\nRzeczownik": "Żaden",
+    "Noun": "Żaden",
     "Gender": "Male",
     "Singular / Plural": "Singular",
     "Meaning": "None (male singular)",
@@ -836,7 +836,7 @@
   },
   {
     "Category": "Negative",
-    "Noun\nRzeczownik": "Żadna",
+    "Noun": "Żadna",
     "Gender": "Female",
     "Singular / Plural": "Singular",
     "Meaning": "None (female singular)",
@@ -849,7 +849,7 @@
   },
   {
     "Category": "Negative",
-    "Noun\nRzeczownik": "Żadne",
+    "Noun": "Żadne",
     "Gender": "Neuter",
     "Singular / Plural": "Singular",
     "Meaning": "None (neuter singular)",
@@ -862,7 +862,7 @@
   },
   {
     "Category": "Negative",
-    "Noun\nRzeczownik": "Żadni",
+    "Noun": "Żadni",
     "Gender": "Male",
     "Singular / Plural": "Plural",
     "Meaning": "None (male plural)",
@@ -875,7 +875,7 @@
   },
   {
     "Category": "Negative",
-    "Noun\nRzeczownik": "Żadne",
+    "Noun": "Żadne",
     "Gender": "Non-male",
     "Singular / Plural": "Plural",
     "Meaning": "None (non-male plural)",
@@ -889,7 +889,7 @@
   },
   {
     "Category": "Negative",
-    "Noun\nRzeczownik": "Nikt",
+    "Noun": "Nikt",
     "Gender": "N/a",
     "Singular / Plural": "N/a",
     "Meaning": "No-one",
@@ -903,7 +903,7 @@
   },
   {
     "Category": "Negative",
-    "Noun\nRzeczownik": "Nic",
+    "Noun": "Nic",
     "Gender": "N/a",
     "Singular / Plural": "N/a",
     "Meaning": "Nothing",

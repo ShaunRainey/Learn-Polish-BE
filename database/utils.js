@@ -175,4 +175,11 @@ function formatPerfectiveVerbData() {
   
 }
 
-module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData }
+function formatPronounData(input) { 
+  const formattedPronouns = input.map((pronoun) => {
+    return [pronoun.Category, pronoun.Noun, pronoun.Gender, pronoun["Singular / Plural"], pronoun.Meaning, pronoun.Nom, pronoun.Acc, pronoun.Ins, pronoun.Gen, pronoun.Loc, pronoun.Dat]
+  })
+  return formattedPronouns;
+}
+
+module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData }

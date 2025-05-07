@@ -125,8 +125,7 @@ function createPronouns() {
         instrumental VARCHAR(40),
         genitive VARCHAR(40),
         locative VARCHAR(40),
-        dative VARCHAR(40),
-        notes VARCHAR(400)
+        dative VARCHAR(40)
         )`)
 }
 

@@ -124,7 +124,7 @@ describe("seed", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'pronouns'`)
                 .then(({ rows }) => {
                     const newMap = rows.map((row) => { return row.column_name })
-                    expect(newMap).toEqual(['pronoun_id', 'category', 'noun', 'gender', 'singular_plural', 'meaning', 'nominative', 'accusative', 'instrumental', 'genitive', 'locative', 'dative', 'notes'])
+                    expect(newMap).toEqual(['pronoun_id', 'category', 'noun', 'gender', 'singular_plural', 'meaning', 'nominative', 'accusative', 'instrumental', 'genitive', 'locative', 'dative'])
                 })
         })
     })

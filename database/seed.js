@@ -20,9 +20,9 @@ const {
   Genitive_DopełniaczData,
   Locative_MiejscownikData,
 } = require("./data/index");
-const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData } = require("./utils");
+const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData } = require("./utils");
 const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs, createPronouns } = require("./construction/createTables");
-const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData } = require("./construction/insertData");
+const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns } = require("./construction/insertData");
 
 function seed() {
     return db
@@ -52,7 +52,8 @@ function seed() {
             return Promise.all([
                 formatSentenceData(SentencesData),
                 formatImperfectiveVerbData(Verbs_ImperfectiveData),
-                formatPerfectiveVerbData(Verbs_PerfectiveData)
+                formatPerfectiveVerbData(Verbs_PerfectiveData),
+                formatPronounData(PronounsData)
             ])
         })
         .then((newData) => {
@@ -63,7 +64,8 @@ function seed() {
                 insertConditionalTenseData(newData[1].formattedConditionalVerbs), 
                 insertPastTensePerfectiveData(newData[2].formattedPastVerbs),
                 insertFutureTensePerfectiveData(newData[2].formattedFutureVerbs),
-                insertConditionalTensePerfectiveData(newData[2].formattedConditionalVerbs)
+                insertConditionalTensePerfectiveData(newData[2].formattedConditionalVerbs),
+                insertPronouns(newData[3])
             ])
         })
 }

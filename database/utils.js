@@ -182,4 +182,16 @@ function formatPronounData(input) {
   return formattedPronouns;
 }
 
-module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData }
+function formatPrepositionData(input) {
+  const formattedPrepositions = input.map((preposition) => {
+    return [
+      preposition.Case,
+      preposition.Preposition,
+      preposition.Meaning,
+      preposition.Examples,
+      preposition.Notes === undefined ? null : preposition.Notesc];
+  })
+  return formattedPrepositions;
+}
+
+module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData }

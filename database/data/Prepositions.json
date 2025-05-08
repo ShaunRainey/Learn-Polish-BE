@@ -4,14 +4,14 @@
     "Preposition": "Bez",
     "Meaning": "Without",
     "Examples": "Kawa bez mleka – Coffee without milk\nNie mogę żyć bez ciebie – I can’t live without you\nBez twojej pomocy nie dam rady – Without your help, I can’t manage",
-    "Notes:": "All prepositions found here:\nhttps://courseofpolish.com/grammar/cases/cases-after-prepositions/list-of-prepositions"
+    "Notes": "All prepositions found here:\nhttps://courseofpolish.com/grammar/cases/cases-after-prepositions/list-of-prepositions"
   },
   {
     "Case": "Genitive",
     "Preposition": "Blisko",
     "Meaning": "Near / Close to",
     "Examples": "Mieszkam blisko szkoły – I live close to the school\nUsiadł blisko mnie – He sat close to me\nBlisko granicy znajduje się jezioro – A lake is near the border",
-    "Notes:": "Genitive prepositions are used to answer ‘Kogo’ or ‘Czego’. They are used to express possession, origin, absence, direction, or quantity"
+    "Notes": "Genitive prepositions are used to answer ‘Kogo’ or ‘Czego’. They are used to express possession, origin, absence, direction, or quantity"
   },
   {
     "Case": "Genitive",
@@ -54,7 +54,7 @@
     "Preposition": "Wsród",
     "Meaning": "Among",
     "Examples": "Wśród ludzi panowała cisza – There was silence among the people\nWśród uczniów było kilku obcokrajowców – There were a few foreigners among the students\nZnalazł się wśród najlepszych – He found himself among the best",
-    "Notes:": "Indicates being part of a group or within a set"
+    "Notes": "Indicates being part of a group or within a set"
   },
   {
     "Case": "Genitive",
@@ -67,14 +67,14 @@
     "Preposition": "Spomiędzy",
     "Meaning": "From between",
     "Examples": "Dziecko wyszło spomiędzy drzew – The child came out from between the trees\nPies wybiegł spomiędzy zaparkowanych samochodów – The dog ran out from between parked cars\nŚwiatło przedzierało się spomiędzy chmur – The light filtered from between the clouds",
-    "Notes:": "Physical space – movement or emergence from between multiple physical objects"
+    "Notes": "Physical space – movement or emergence from between multiple physical objects"
   },
   {
     "Case": "Genitive",
     "Preposition": "Spośród",
     "Meaning": "From among",
     "Examples": "Wybrano ją spośród wielu kandydatów – She was chosen from among many candidates\nSpośród wszystkich opcji ta jest najlepsza – Among all the options, this one is the best\nSpośród uczniów tylko on zdał egzamin – Only he passed the exam among the students",
-    "Notes:": "Abstract or selection – choosing from among a group (not necessarily physical movement)"
+    "Notes": "Abstract or selection – choosing from among a group (not necessarily physical movement)"
   },
   {
     "Case": "Genitive",
@@ -159,7 +159,7 @@
     "Preposition": "Przez",
     "Meaning": "Through",
     "Examples": "Idę przez park – I’m walking through the park\nPociąg jedzie przez most – The train goes over the bridge\nSamolot leci przez chmury – The plane flies through the clouds",
-    "Notes:": "Accusative prepositions tend to be used with movement / dynamic existence. Used to answer the question ‘Dokąd?’ (where to?) and indicates direction"
+    "Notes": "Accusative prepositions tend to be used with movement / dynamic existence. Used to answer the question ‘Dokąd?’ (where to?) and indicates direction"
   },
   {
     "Case": "Accusative",
@@ -208,7 +208,7 @@
     "Preposition": "Z",
     "Meaning": "With",
     "Examples": "Jem chleb z masłem – I’m eating bread with butter\nRozmawiałem z przyjacielem – I spoke with a friend\nSpaceruję z córką – I’m walking with my daughter",
-    "Notes:": "Instrumental prepositions tend to indicate a location, answers the question ‘Gdzie?’"
+    "Notes": "Instrumental prepositions tend to indicate a location, answers the question ‘Gdzie?’"
   },
   {
     "Case": "Instrumental",
@@ -245,7 +245,7 @@
     "Preposition": "Przy",
     "Meaning": "During / At / Next to",
     "Examples": "Siedzę przy stole – I’m sitting at the table\nSpotkamy się przy wejściu – We’ll meet at the entrance\nPracuję przy komputerze – I’m working at the computer",
-    "Notes:": "Locative prepositions also indicate a static location or to discuss a topic. They are used to answer ‘Gdzie’ or ‘O czym?’"
+    "Notes": "Locative prepositions also indicate a static location or to discuss a topic. They are used to answer ‘Gdzie’ or ‘O czym?’"
   },
   {
     "Case": "Locative",

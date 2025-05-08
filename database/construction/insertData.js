@@ -41,6 +41,11 @@ function insertPronouns(pronounData) {
     return db.query(insertString)
 }
 
+function insertPrepositions(prepositionData) {
+    const insertString = format(`INSERT INTO prepositions(grammatical_case, preposition, meaning, examples, notes) VALUES %L RETURNING *;`, prepositionData);
+    return db.query(insertString)
+}
+
 module.exports = {
     insertSentenceData,
     insertPastTenseData,
@@ -49,5 +54,6 @@ module.exports = {
     insertPastTensePerfectiveData,
     insertFutureTensePerfectiveData,
     insertConditionalTensePerfectiveData,
-    insertPronouns
+    insertPronouns,
+    insertPrepositions
 }

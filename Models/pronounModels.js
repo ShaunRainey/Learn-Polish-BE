@@ -4,4 +4,4 @@ function selectPronouns() {
     return db.query(`SELECT * FROM pronouns;`)
 }
 
-module.exports = {selectPronouns}
+module.exports = { selectPronouns }

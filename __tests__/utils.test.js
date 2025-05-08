@@ -196,7 +196,6 @@ describe("test suite for prepositions", () => {
     const output = formatPrepositionData(input);
     expect(Array.isArray(output)).toBe(true);
     output.forEach((row) => {
-      console.log(row[4])
       expect(row.length).toBe(5);
       expect(typeof (row[0])).toBe("string");
       expect(typeof (row[1])).toBe("string");

@@ -61,4 +61,7 @@ Project step by step:
 - change scripts in package.json to use jest
 
 - npm install supertest -D
+
+- all tests script has to use run in band as otherwise each test file would be ran at the same time, potentially causing errors
+    - sometimes all tests would pass, sometimes not. But ran individually, they always pass
     

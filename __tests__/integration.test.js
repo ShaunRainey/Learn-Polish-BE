@@ -184,3 +184,22 @@ describe("Pronouns endpoint", () => {
         })
     })
 })
+
+describe("Prepositions endpoint", () => {
+    test("responds with status 200", () => {
+        return request(app).get("/api/prepositions").expect(200);
+    })
+    test("response has the correct body", () => {
+        return request(app).get("/api/prepositions").then(({ body }) => {
+            body.forEach((preposition) => {
+                expect(preposition).toMatchObject({
+                    preposition_id: expect.any(Number),
+                    grammatical_case: expect.any(String),
+                    preposition: expect.any(String),
+                    meaning: expect.any(String),
+                    examples: expect.any(String)
+                })
+            })
+        })
+    })
+})

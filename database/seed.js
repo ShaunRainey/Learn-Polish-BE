@@ -20,7 +20,7 @@ const {
   Genitive_DopełniaczData,
   Locative_MiejscownikData,
 } = require("./data/index");
-const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData } = require("./utils");
+const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData } = require("./utils");
 const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs, createPronouns, createPrepositions } = require("./construction/createTables");
 const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns, insertPrepositions } = require("./construction/insertData");
 
@@ -68,7 +68,7 @@ function seed() {
                 insertPastTensePerfectiveData(newData[2].formattedPastVerbs),
                 insertFutureTensePerfectiveData(newData[2].formattedFutureVerbs),
                 insertConditionalTensePerfectiveData(newData[2].formattedConditionalVerbs),
-                insertPronouns(newData[3])
+                insertPronouns(newData[3]),
                 insertPrepositions(newData[4])
             ])
         })

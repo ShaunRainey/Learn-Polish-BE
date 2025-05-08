@@ -130,13 +130,13 @@ describe("seed", () => {
     })
     
     describe("Prepositions table", () => {
-        test.only("Does it exist?", () => {
+        test("Does it exist?", () => {
             return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'prepositions');`)
                 .then(({ rows: [{ exists }] }) => {
                     expect(exists).toBe(true)
                 })
         })
-        test.only("Does it have the correct columns?", () => {
+        test("Does it have the correct columns?", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'prepositions'`)
                 .then(({ rows }) => {
                     const newMap = rows.map((row) => { return row.column_name });

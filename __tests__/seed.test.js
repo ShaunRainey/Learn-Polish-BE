@@ -22,7 +22,7 @@ describe("seed", () => {
                 .then(({ rows: [{ exists }] }) => {
                     expect(exists).toBe(true)
                 })
-        }) 
+        })
         test("ensure correct column headings within sentences table", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'sentences'`)
                 .then(({ rows }) => {
@@ -37,7 +37,7 @@ describe("seed", () => {
             return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'conditionaltenseimpverbs');`)
                 .then(({ rows: [{ exists }] }) => {
                     expect(exists).toBe(true)
-                })            
+                })
         })
         test("ensure correct column headings within conditionaltenseimpverbs table", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'conditionaltenseimpverbs'`)
@@ -63,7 +63,7 @@ describe("seed", () => {
             return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'futuretenseperverbs');`)
                 .then(({ rows: [{ exists }] }) => {
                     expect(exists).toBe(true)
-                }) 
+                })
         })
         test("ensure correct column headings within futuretenseperverbs table", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'futuretenseperverbs'`)
@@ -76,7 +76,7 @@ describe("seed", () => {
             return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'pasttenseimpverbs');`)
                 .then(({ rows: [{ exists }] }) => {
                     expect(exists).toBe(true)
-                }) 
+                })
         })
         test("ensure correct column headings within pasttenseimpverbs table", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'pasttenseimpverbs'`)
@@ -89,7 +89,7 @@ describe("seed", () => {
             return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'pasttenseperverbs');`)
                 .then(({ rows: [{ exists }] }) => {
                     expect(exists).toBe(true)
-                }) 
+                })
         })
         test("ensure correct column headings within pasttenseperverbs table", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'pasttenseperverbs'`)
@@ -102,7 +102,7 @@ describe("seed", () => {
             return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'presenttenseimpverbs');`)
                 .then(({ rows: [{ exists }] }) => {
                     expect(exists).toBe(true)
-                }) 
+                })
         })
         test("ensure correct column headings within presenttenseimpverbs table", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'presenttenseimpverbs'`)
@@ -128,4 +128,21 @@ describe("seed", () => {
                 })
         })
     })
+    
+    describe("Prepositions table", () => {
+        test.only("Does it exist?", () => {
+            return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'prepositions');`)
+                .then(({ rows: [{ exists }] }) => {
+                    expect(exists).toBe(true)
+                })
+        })
+        test.only("Does it have the correct columns?", () => {
+            return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'prepositions'`)
+                .then(({ rows }) => {
+                    const newMap = rows.map((row) => { return row.column_name });
+                    expect(newMap).toEqual(["preposition_id", "grammatical_case", "preposition", "meaning", "examples", "notes"])
+                })
+        })
+    })
 })
+

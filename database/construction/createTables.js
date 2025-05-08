@@ -129,6 +129,17 @@ function createPronouns() {
         )`)
 }
 
+function createPrepositions() {
+    return db.query(`CREATE TABLE prepositions(
+        preposition_id SERIAL PRIMARY KEY,
+        grammatical_case VARCHAR(40),
+        preposition VARCHAR(40),
+        meaning VARCHAR(40),
+        examples VARCHAR(400),
+        notes VARCHAR(400)
+        )`)
+}
+
 module.exports = {
     createSentences,
     createPastTenseVerbs,
@@ -137,5 +148,6 @@ module.exports = {
     createConditionalTensePerfectiveVerbs,
     createFutureTensePerfectiveVerbs,
     createPastTensePerfectiveVerbs,
-    createPronouns
+    createPronouns,
+    createPrepositions
 }

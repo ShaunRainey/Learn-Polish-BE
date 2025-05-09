@@ -194,4 +194,8 @@ function formatPrepositionData(input) {
   return formattedPrepositions;
 }
 
-module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData }
+function capitaliseFirst(str) {
+    return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
+module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst }

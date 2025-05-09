@@ -4,4 +4,8 @@ function selectPrepositions() {
     return db.query(`SELECT * FROM prepositions;`)
 }
 
-module.exports = { selectPrepositions }
+function selectPrepositionsByCase(grammaticalCase) {
+    return db.query(`SELECT * FROM prepositions WHERE grammatical_case = $1;`, [grammaticalCase])
+}
+
+module.exports = { selectPrepositions, selectPrepositionsByCase }

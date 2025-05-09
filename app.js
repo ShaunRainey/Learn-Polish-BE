@@ -3,7 +3,7 @@ const app = express();
 const getSentences = require("./Controllers/sentenceControllers")
 const { getImpPastTenseVerbs, getImpPresentTenseVerbs, getImpConditionalTenseVerbs, getConditionalTensePerVerbs, getPastTensePerVerbs, getFutureTensePerVerbs } = require("./Controllers/verbControllers")
 const { getPronouns } = require("./Controllers/pronounControllers");
-const { getPrepositions } = require("./Controllers/prepositionControllers")
+const { getPrepositions, getPrepositionsByCase } = require("./Controllers/prepositionControllers")
 
 app.use(express.json())
 
@@ -24,10 +24,16 @@ app.get("/api/verbs/perfective/conditionalTense", getConditionalTensePerVerbs);
 app.get("/api/pronouns", getPronouns);
 
 app.get("/api/prepositions", getPrepositions);
-
+app.get("/api/prepositions/:grammaticalCase", getPrepositionsByCase)
 //When running all tests, listener needs to be turned off to avoid errors
-// app.listen(9001, () => { 
-//     console.log("Big Brother is watching ... ")
-// })
+app.listen(9001, () => { 
+    console.log("Big Brother is watching ... ")
+})
+
+app.use((err, req, res, next) => {
+    if (err) {
+        res.status(err.status).send(err.msg)
+    }
+})
 
 module.exports = app;

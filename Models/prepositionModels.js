@@ -8,4 +8,8 @@ function selectPrepositions(grammaticalCase) {
     }
 }
 
-module.exports = { selectPrepositions }
+function selectPrepositionsById(id) {
+    return db.query(`SELECT * FROM prepositions WHERE preposition_id= $1;`, [id])
+}
+
+module.exports = { selectPrepositions, selectPrepositionsById }

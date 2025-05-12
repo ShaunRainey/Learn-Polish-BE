@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const getSentences = require("./Controllers/sentenceControllers")
 const { getImpPastTenseVerbs, getImpPresentTenseVerbs, getImpConditionalTenseVerbs, getConditionalTensePerVerbs, getPastTensePerVerbs, getFutureTensePerVerbs } = require("./Controllers/verbControllers")
-const { getPronouns } = require("./Controllers/pronounControllers");
+const { getPronouns, getPronounsById } = require("./Controllers/pronounControllers");
 const { getPrepositions, getPrepositionsById } = require("./Controllers/prepositionControllers")
 
 app.use(express.json())
@@ -22,6 +22,7 @@ app.get("/api/verbs/perfective/futureTense", getFutureTensePerVerbs);
 app.get("/api/verbs/perfective/conditionalTense", getConditionalTensePerVerbs);
 
 app.get("/api/pronouns", getPronouns);
+app.get("/api/pronouns/:id", getPronounsById)
 
 app.get("/api/prepositions", getPrepositions);
 app.get("/api/prepositions/:id", getPrepositionsById)
@@ -32,9 +33,12 @@ app.listen(9001, () => {
 })
 
 app.use((err, req, res, next) => {
-    if (err) {
-        res.status(err.status).send(err.msg)
-    }
-})
+    console.log(err)
+  const status = err.status || 500;
+    const msg = err.msg || "server error";
+    console.log(err.status)
+    console.log(err.msg)
+  res.status(status).send({ msg });
+});
 
 module.exports = app;

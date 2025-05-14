@@ -6,4 +6,8 @@ function getSentences(req, res, next) {
     })
 }
 
+function getSentencesById(req, res, next) {
+    
+}
+
 module.exports = getSentences

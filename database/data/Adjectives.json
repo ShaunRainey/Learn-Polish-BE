@@ -1,2327 +1,3911 @@
 [
   {
-    "Adjective": "Przymiotnik",
-    "Single / Plural": "Przykłady"
-  },
-  {
-    "Adjective": "Smaczny\nSmaczna\nSmaczne",
     "Meaning": "Tasty",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Nom": "Smaczny\nSmaczna\nSmaczne",
-    "Acc": "Smacznego / Smaczny\nSmaczną\nSmaczne",
-    "Ins": "Smacznym\nSmaczną\nSmacznym",
-    "Gen": "Smacznego\nSmacznej\nSmacznego",
-    "Loc": "Smacznym\nSmacznej\nSmacznym",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Smaczny",
+    "Nom Comparative": "Smaczniejszy",
+    "Nom Superlative": "Najmaczniejszy",
+    "Acc Animate": "Smacznego",
+    "Acc Inanimate": "Smaczny",
+    "Ins": "Smacznym",
+    "Gen": "Smacznego",
+    "Loc": "Smacznym",
+    "Dat": "Smacznemu"
   },
   {
+    "Adjective": "Smaczny",
+    "Meaning": "Tasty",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Smaczna",
+    "Nom Comparative": "Smaczniejsza",
+    "Nom Superlative": "Najmaczniejsza",
+    "Acc Animate": "Smaczną",
+    "Acc Inanimate": "Smaczną",
+    "Ins": "Smaczną",
+    "Gen": "Smacznej",
+    "Loc": "Smacznej",
+    "Dat": "Smacznej"
+  },
+  {
+    "Adjective": "Smaczny",
+    "Meaning": "Tasty",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Nom": "Smaczni / Smaczne\nSmaczne",
-    "Acc": "Smacznych / Smaczne\nSmaczne",
+    "Nom": "Smaczne",
+    "Nom Comparative": "Smaczniejsze",
+    "Nom Superlative": "Najmaczniejsze",
+    "Acc Animate": "Smaczne",
+    "Acc Inanimate": "Smaczne",
+    "Ins": "Smacznym",
+    "Gen": "Smacznego",
+    "Loc": "Smacznym",
+    "Dat": "Smacznemu"
+  },
+  {
+    "Adjective": "Smaczny",
+    "Meaning": "Tasty",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Smaczni",
+    "Nom Comparative": "Smaczniejsi",
+    "Nom Superlative": "Najmaczniejsi",
+    "Acc Animate": "Smacznych",
+    "Acc Inanimate": "Smaczne",
     "Ins": "Smacznymi",
     "Gen": "Smacznych",
     "Loc": "Smacznych",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Dat": "Smacznym"
   },
   {
-    "Adjective": "Duży\nDuża\nDuże",
-    "Meaning": "Big",
-    "Single / Plural": "Singular",
-    "Nom": "Duży\nDuża\nDuże",
-    "Acc": "Dużego / Duży\nDużą\nDuże",
-    "Ins": "Dużym\nDużą\nDużym",
-    "Gen": "Dużego\nDużej\nDużego",
-    "Loc": "Dużym\nDużej\nDużym",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
+    "Adjective": "Smaczny",
+    "Meaning": "Tasty",
+    "Gender": "Non-male",
     "Single / Plural": "Plural",
-    "Nom": "Dużi / Duże\nDuże",
-    "Acc": "Dużych / Duże\nDuże",
+    "Nom": "Smaczne",
+    "Nom Comparative": "Smaczniejsze",
+    "Nom Superlative": "Najmaczniejsze",
+    "Acc Animate": "Smaczne",
+    "Acc Inanimate": "Smaczne",
+    "Ins": "Smacznymi",
+    "Gen": "Smacznych",
+    "Loc": "Smacznych",
+    "Dat": "Smacznym"
+  },
+  {
+    "Adjective": "Duży",
+    "Meaning": "Big",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Duży",
+    "Nom Comparative": "Większy",
+    "Nom Superlative": "Największy",
+    "Acc Animate": "Dużego",
+    "Acc Inanimate": "Duży",
+    "Ins": "Dużym",
+    "Gen": "Dużego",
+    "Loc": "Dużym",
+    "Dat": "Dużemu"
+  },
+  {
+    "Adjective": "Duży",
+    "Meaning": "Big",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Duża",
+    "Nom Comparative": "Większa",
+    "Nom Superlative": "Największa",
+    "Acc Animate": "Dużą",
+    "Acc Inanimate": "Dużą",
+    "Ins": "Dużą",
+    "Gen": "Dużej",
+    "Loc": "Dużej",
+    "Dat": "Dużej"
+  },
+  {
+    "Adjective": "Duży",
+    "Meaning": "Big",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Duże",
+    "Nom Comparative": "Większe",
+    "Nom Superlative": "Największe",
+    "Acc Animate": "Duże",
+    "Acc Inanimate": "Duże",
+    "Ins": "Dużym",
+    "Gen": "Dużego",
+    "Loc": "Dużym",
+    "Dat": "Dużemu"
+  },
+  {
+    "Adjective": "Duży",
+    "Meaning": "Big",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Duzi",
+    "Nom Comparative": "Więksi",
+    "Nom Superlative": "Najwięksi",
+    "Acc Animate": "Dużych",
+    "Acc Inanimate": "Duże",
     "Ins": "Dużymi",
     "Gen": "Dużych",
     "Loc": "Dużych",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Dat": "Dużym"
   },
   {
-    "Adjective": "Mały\nMała\nMałe",
+    "Adjective": "Duży",
+    "Meaning": "Big",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Duże",
+    "Nom Comparative": "Większe",
+    "Nom Superlative": "Największe",
+    "Acc Animate": "Duże",
+    "Acc Inanimate": "Duże",
+    "Ins": "Dużymi",
+    "Gen": "Dużych",
+    "Loc": "Dużych",
+    "Dat": "Dużym"
+  },
+  {
+    "Adjective": "Mały",
     "Meaning": "Small",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Mały",
+    "Nom Comparative": "Mniejszy",
+    "Nom Superlative": "Najmniejszy",
+    "Acc Animate": "Małego",
+    "Acc Inanimate": "Mały",
+    "Ins": "Małym",
+    "Gen": "Małego",
+    "Loc": "Małym",
+    "Dat": "Małemu"
   },
   {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Zły\nZła\nZłe",
-    "Meaning": "Bad\nEvil\nAngry",
+    "Adjective": "Mały",
+    "Meaning": "Small",
+    "Gender": "Female",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Mała",
+    "Nom Comparative": "Mniejsza",
+    "Nom Superlative": "Najmniejsza",
+    "Acc Animate": "Małą",
+    "Acc Inanimate": "Małą",
+    "Ins": "Małą",
+    "Gen": "Małej",
+    "Loc": "Małej",
+    "Dat": "Małej"
   },
   {
+    "Adjective": "Mały",
+    "Meaning": "Small",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Małe",
+    "Nom Comparative": "Mniejsze",
+    "Nom Superlative": "Najmniejsze",
+    "Acc Animate": "Małe",
+    "Acc Inanimate": "Małe",
+    "Ins": "Małym",
+    "Gen": "Małego",
+    "Loc": "Małym",
+    "Dat": "Małemu"
   },
   {
-    "Adjective": "Dobry\nDobra\nDobre",
+    "Adjective": "Mały",
+    "Meaning": "Small",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Mali",
+    "Nom Comparative": "Mniejsi",
+    "Nom Superlative": "Najmniejsi",
+    "Acc Animate": "Małych",
+    "Acc Inanimate": "Małe",
+    "Ins": "Małymi",
+    "Gen": "Małych",
+    "Loc": "Małych",
+    "Dat": "Małym"
+  },
+  {
+    "Adjective": "Mały",
+    "Meaning": "Small",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Małe",
+    "Nom Comparative": "Mniejsze",
+    "Nom Superlative": "Najmniejsze",
+    "Acc Animate": "Małe",
+    "Acc Inanimate": "Małe",
+    "Ins": "Małymi",
+    "Gen": "Małych",
+    "Loc": "Małych",
+    "Dat": "Małym"
+  },
+  {
+    "Adjective": "Zły",
+    "Meaning": "Evil / Angry",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Zły",
+    "Nom Comparative": "Gorszy",
+    "Nom Superlative": "Najgorszy",
+    "Acc Animate": "Złego",
+    "Acc Inanimate": "Zły",
+    "Ins": "Złym",
+    "Gen": "Złego",
+    "Loc": "Złym",
+    "Dat": "Złemu",
+    "__EMPTY_9": "Singular",
+    "__EMPTY_10": "Złym"
+  },
+  {
+    "Adjective": "Zły",
+    "Meaning": "Evil / Angry",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Zła",
+    "Nom Comparative": "Gorsza",
+    "Nom Superlative": "Najgorsza",
+    "Acc Animate": "Złą",
+    "Acc Inanimate": "Złą",
+    "Ins": "Złą",
+    "Gen": "Złej",
+    "Loc": "Złej",
+    "Dat": "Złej",
+    "__EMPTY_9": "Singular",
+    "__EMPTY_10": "Złej"
+  },
+  {
+    "Adjective": "Zły",
+    "Meaning": "Evil / Angry",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Złe",
+    "Nom Comparative": "Gorsze",
+    "Nom Superlative": "Najgorsze",
+    "Acc Animate": "Złe",
+    "Acc Inanimate": "Złe",
+    "Ins": "Złym",
+    "Gen": "Złego",
+    "Loc": "Złym",
+    "Dat": "Złemu",
+    "__EMPTY_9": "Plural",
+    "__EMPTY_10": "Złym"
+  },
+  {
+    "Adjective": "Zły",
+    "Meaning": "Evil / Angry",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Zli",
+    "Nom Comparative": "Gorsi",
+    "Nom Superlative": "Najgorsi",
+    "Acc Animate": "Złych",
+    "Acc Inanimate": "Złe",
+    "Ins": "Złymi",
+    "Gen": "Złych",
+    "Loc": "Złych",
+    "Dat": "Złym",
+    "__EMPTY_9": "Plural",
+    "__EMPTY_10": "Złych"
+  },
+  {
+    "Adjective": "Zły",
+    "Meaning": "Evil / Angry",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Złe",
+    "Nom Comparative": "Gorsze",
+    "Nom Superlative": "Najgorsze",
+    "Acc Animate": "Złe",
+    "Acc Inanimate": "Złe",
+    "Ins": "Złymi",
+    "Gen": "Złych",
+    "Loc": "Złych",
+    "Dat": "Złym",
+    "__EMPTY_9": "Plural",
+    "__EMPTY_10": "Złych"
+  },
+  {
+    "Adjective": "Dobry",
     "Meaning": "Good",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Dobry",
+    "Nom Comparative": "Lepszy",
+    "Nom Superlative": "Najlepszy",
+    "Acc Animate": "Dobrego",
+    "Acc Inanimate": "Dobry",
+    "Ins": "Dobrym",
+    "Gen": "Dobrego",
+    "Loc": "Dobrym",
+    "Dat": "Dobremu"
   },
   {
+    "Adjective": "Dobry",
+    "Meaning": "Good",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Dobra",
+    "Nom Comparative": "Lepsza",
+    "Nom Superlative": "Najlepsza",
+    "Acc Animate": "Dobrą",
+    "Acc Inanimate": "Dobrą",
+    "Ins": "Dobrą",
+    "Gen": "Dobrej",
+    "Loc": "Dobrej",
+    "Dat": "Dobrej"
+  },
+  {
+    "Adjective": "Dobry",
+    "Meaning": "Good",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Dobre",
+    "Nom Comparative": "Lepsze",
+    "Nom Superlative": "Najlepsze",
+    "Acc Animate": "Dobre",
+    "Acc Inanimate": "Dobre",
+    "Ins": "Dobrym",
+    "Gen": "Dobrego",
+    "Loc": "Dobrym",
+    "Dat": "Dobremu"
   },
   {
-    "Adjective": "Nowy\nNowa\nNowe",
+    "Adjective": "Dobry",
+    "Meaning": "Good",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Dobrzy",
+    "Nom Comparative": "Lepsi",
+    "Nom Superlative": "Najlepsi",
+    "Acc Animate": "Dobrych",
+    "Acc Inanimate": "Dobre",
+    "Ins": "Dobrymi",
+    "Gen": "Dobrych",
+    "Loc": "Dobrych",
+    "Dat": "Dobrym"
+  },
+  {
+    "Adjective": "Dobry",
+    "Meaning": "Good",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Dobre",
+    "Nom Comparative": "Lepsze",
+    "Nom Superlative": "Najlepsze",
+    "Acc Animate": "Dobre",
+    "Acc Inanimate": "Dobre",
+    "Ins": "Dobrymi",
+    "Gen": "Dobrych",
+    "Loc": "Dobrych",
+    "Dat": "Dobrym"
+  },
+  {
+    "Adjective": "Nowy",
     "Meaning": "New",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Nowy",
+    "Nom Comparative": "Nowszy",
+    "Nom Superlative": "Najnowszy",
+    "Acc Animate": "Nowego",
+    "Acc Inanimate": "Nowy",
+    "Ins": "Nowym",
+    "Gen": "Nowego",
+    "Loc": "Nowym",
+    "Dat": "Nowemu"
   },
   {
+    "Adjective": "Nowy",
+    "Meaning": "New",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Nowa",
+    "Nom Comparative": "Nowsza",
+    "Nom Superlative": "Najnowsza",
+    "Acc Animate": "Nową",
+    "Acc Inanimate": "Nową",
+    "Ins": "Nową",
+    "Gen": "Nowej",
+    "Loc": "Nowej",
+    "Dat": "Nowej"
+  },
+  {
+    "Adjective": "Nowy",
+    "Meaning": "New",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Nowe",
+    "Nom Comparative": "Nowsze",
+    "Nom Superlative": "Najnowsze",
+    "Acc Animate": "Nowe",
+    "Acc Inanimate": "Nowe",
+    "Ins": "Nowym",
+    "Gen": "Nowego",
+    "Loc": "Nowym",
+    "Dat": "Nowemu"
   },
   {
-    "Adjective": "Stary\nStara\nStare",
+    "Adjective": "Nowy",
+    "Meaning": "New",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Nowi",
+    "Nom Comparative": "Nowsi",
+    "Nom Superlative": "Najnowsi",
+    "Acc Animate": "Nowych",
+    "Acc Inanimate": "Nowe",
+    "Ins": "Nowymi",
+    "Gen": "Nowych",
+    "Loc": "Nowych",
+    "Dat": "Nowym"
+  },
+  {
+    "Adjective": "Nowy",
+    "Meaning": "New",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Nowe",
+    "Nom Comparative": "Nowsze",
+    "Nom Superlative": "Najnowsze",
+    "Acc Animate": "Nowe",
+    "Acc Inanimate": "Nowe",
+    "Ins": "Nowymi",
+    "Gen": "Nowych",
+    "Loc": "Nowych",
+    "Dat": "Nowym"
+  },
+  {
+    "Adjective": "Stary",
     "Meaning": "Old",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Stary",
+    "Nom Comparative": "Starszy",
+    "Nom Superlative": "Najstarszy",
+    "Acc Animate": "Starego",
+    "Acc Inanimate": "Stary",
+    "Ins": "Starym",
+    "Gen": "Starego",
+    "Loc": "Starym",
+    "Dat": "Staremu"
   },
   {
+    "Adjective": "Stary",
+    "Meaning": "Old",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Stara",
+    "Nom Comparative": "Starsza",
+    "Nom Superlative": "Najstarsza",
+    "Acc Animate": "Starą",
+    "Acc Inanimate": "Starą",
+    "Ins": "Starą",
+    "Gen": "Starej",
+    "Loc": "Starej",
+    "Dat": "Starej"
+  },
+  {
+    "Adjective": "Stary",
+    "Meaning": "Old",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Stare",
+    "Nom Comparative": "Starsze",
+    "Nom Superlative": "Najstarsze",
+    "Acc Animate": "Stare",
+    "Acc Inanimate": "Stare",
+    "Ins": "Starym",
+    "Gen": "Starego",
+    "Loc": "Starym",
+    "Dat": "Staremu"
   },
   {
-    "Adjective": "Kolorowy\nKolorowa\nKolorowe",
+    "Adjective": "Stary",
+    "Meaning": "Old",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Starzy",
+    "Nom Comparative": "Starsi",
+    "Nom Superlative": "Najstarsi",
+    "Acc Animate": "Starych",
+    "Acc Inanimate": "Stare",
+    "Ins": "Starymi",
+    "Gen": "Starych",
+    "Loc": "Starych",
+    "Dat": "Starym"
+  },
+  {
+    "Adjective": "Stary",
+    "Meaning": "Old",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Stare",
+    "Nom Comparative": "Starsze",
+    "Nom Superlative": "Najstarsze",
+    "Acc Animate": "Stare",
+    "Acc Inanimate": "Stare",
+    "Ins": "Starymi",
+    "Gen": "Starych",
+    "Loc": "Starych",
+    "Dat": "Starym"
+  },
+  {
+    "Adjective": "Kolorowy",
     "Meaning": "Colourful",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Kolorowy",
+    "Nom Comparative": "Kolorowszy",
+    "Nom Superlative": "Najkolorowszy",
+    "Acc Animate": "Kolorowego",
+    "Acc Inanimate": "Kolorowy",
+    "Ins": "Kolorowym",
+    "Gen": "Kolorowego",
+    "Loc": "Kolorowym",
+    "Dat": "Kolorowemu"
   },
   {
+    "Adjective": "Kolorowy",
+    "Meaning": "Colourful",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Kolorowa",
+    "Nom Comparative": "Kolorowsza",
+    "Nom Superlative": "Najkolorowsza",
+    "Acc Animate": "Kolorową",
+    "Acc Inanimate": "Kolorową",
+    "Ins": "Kolorową",
+    "Gen": "Kolorowej",
+    "Loc": "Kolorowej",
+    "Dat": "Kolorowej"
+  },
+  {
+    "Adjective": "Kolorowy",
+    "Meaning": "Colourful",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Kolorowe",
+    "Nom Comparative": "Kolorowsze",
+    "Nom Superlative": "Najkolorowsze",
+    "Acc Animate": "Kolorowe",
+    "Acc Inanimate": "Kolorowe",
+    "Ins": "Kolorowym",
+    "Gen": "Kolorowego",
+    "Loc": "Kolorowym",
+    "Dat": "Kolorowemu"
   },
   {
-    "Adjective": "Żółty\nŻółta\nŻółte",
+    "Adjective": "Kolorowy",
+    "Meaning": "Colourful",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Kolorowi",
+    "Nom Comparative": "Kolorowsi",
+    "Nom Superlative": "Najkolorowsi",
+    "Acc Animate": "Kolorowych",
+    "Acc Inanimate": "Kolorowe",
+    "Ins": "Kolorowymi",
+    "Gen": "Kolorowych",
+    "Loc": "Kolorowych",
+    "Dat": "Kolorowym"
+  },
+  {
+    "Adjective": "Kolorowy",
+    "Meaning": "Colourful",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Kolorowe",
+    "Nom Comparative": "Kolorowsze",
+    "Nom Superlative": "Najkolorowsze",
+    "Acc Animate": "Kolorowe",
+    "Acc Inanimate": "Kolorowe",
+    "Ins": "Kolorowymi",
+    "Gen": "Kolorowych",
+    "Loc": "Kolorowych",
+    "Dat": "Kolorowym"
+  },
+  {
+    "Adjective": "Żółty",
     "Meaning": "Yellow",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Żółty",
+    "Nom Comparative": "Żółtszy",
+    "Nom Superlative": "Najżółtszy",
+    "Acc Animate": "Żółtego",
+    "Acc Inanimate": "Żółty",
+    "Ins": "Żółtym",
+    "Gen": "Żółtego",
+    "Loc": "Żółtym",
+    "Dat": "Żółtemu"
   },
   {
+    "Adjective": "Żółty",
+    "Meaning": "Yellow",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Żółta",
+    "Nom Comparative": "Żółtsza",
+    "Nom Superlative": "Najżółtsza",
+    "Acc Animate": "Żółtą",
+    "Acc Inanimate": "Żółtą",
+    "Ins": "Żółtą",
+    "Gen": "Żółtej",
+    "Loc": "Żółtej",
+    "Dat": "Żółtej"
+  },
+  {
+    "Adjective": "Żółty",
+    "Meaning": "Yellow",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Żółte",
+    "Nom Comparative": "Żółtsze",
+    "Nom Superlative": "Najżółtsze",
+    "Acc Animate": "Żółte",
+    "Acc Inanimate": "Żółte",
+    "Ins": "Żółtym",
+    "Gen": "Żółtego",
+    "Loc": "Żółtym",
+    "Dat": "Żółtemu"
   },
   {
-    "Adjective": "Zielony\nZielona\nZielone",
+    "Adjective": "Żółty",
+    "Meaning": "Yellow",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Żółci",
+    "Nom Comparative": "Żółtsi",
+    "Nom Superlative": "Najżółtsi",
+    "Acc Animate": "Żółtych",
+    "Acc Inanimate": "Żółte",
+    "Ins": "Żółtymi",
+    "Gen": "Żółtych",
+    "Loc": "Żółtych",
+    "Dat": "Żółtym"
+  },
+  {
+    "Adjective": "Żółty",
+    "Meaning": "Yellow",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Żółte",
+    "Nom Comparative": "Żółtsze",
+    "Nom Superlative": "Najżółtsze",
+    "Acc Animate": "Żółte",
+    "Acc Inanimate": "Żółte",
+    "Ins": "Żółtymi",
+    "Gen": "Żółtych",
+    "Loc": "Żółtych",
+    "Dat": "Żółtym"
+  },
+  {
+    "Adjective": "Zielony",
     "Meaning": "Green",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Zielony",
+    "Nom Comparative": "Zielniejszy",
+    "Nom Superlative": "Najzielniejszy",
+    "Acc Animate": "Zielonego",
+    "Acc Inanimate": "Zielony",
+    "Ins": "Zielonym",
+    "Gen": "Zielonego",
+    "Loc": "Zielonym",
+    "Dat": "Zielonemu"
   },
   {
+    "Adjective": "Zielony",
+    "Meaning": "Green",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Zielona",
+    "Nom Comparative": "Zielniejsza",
+    "Nom Superlative": "Najzielniejsza",
+    "Acc Animate": "Zieloną",
+    "Acc Inanimate": "Zieloną",
+    "Ins": "Zieloną",
+    "Gen": "Zielonej",
+    "Loc": "Zielonej",
+    "Dat": "Zielonej"
+  },
+  {
+    "Adjective": "Zielony",
+    "Meaning": "Green",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Zielone",
+    "Nom Comparative": "Zielniejsze",
+    "Nom Superlative": "Najzielniejsze",
+    "Acc Animate": "Zielone",
+    "Acc Inanimate": "Zielone",
+    "Ins": "Zielonym",
+    "Gen": "Zielonego",
+    "Loc": "Zielonym",
+    "Dat": "Zielonemu"
   },
   {
-    "Adjective": "Czerwony\nCzerwona\nCzerwone",
+    "Adjective": "Zielony",
+    "Meaning": "Green",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Zieloni",
+    "Nom Comparative": "Zielniejsi",
+    "Nom Superlative": "Najzielniejsi",
+    "Acc Animate": "Zielonych",
+    "Acc Inanimate": "Zielone",
+    "Ins": "Zielonymi",
+    "Gen": "Zielonych",
+    "Loc": "Zielonych",
+    "Dat": "Zielonym"
+  },
+  {
+    "Adjective": "Zielony",
+    "Meaning": "Green",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Zielone",
+    "Nom Comparative": "Zielniejsze",
+    "Nom Superlative": "Najzielniejsze",
+    "Acc Animate": "Zielone",
+    "Acc Inanimate": "Zielone",
+    "Ins": "Zielonymi",
+    "Gen": "Zielonych",
+    "Loc": "Zielonych",
+    "Dat": "Zielonym"
+  },
+  {
+    "Adjective": "Czerwony",
     "Meaning": "Red",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Czerwony",
+    "Nom Comparative": "Czerwieńszy",
+    "Nom Superlative": "Najczerwieńszy",
+    "Acc Animate": "Czerwonego",
+    "Acc Inanimate": "Czerwony",
+    "Ins": "Czerwonym",
+    "Gen": "Czerwonego",
+    "Loc": "Czerwonym",
+    "Dat": "Czerwonemu"
   },
   {
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Czerwona",
+    "Nom Comparative": "Czerwieńsza",
+    "Nom Superlative": "Najczerwieńsza",
+    "Acc Animate": "Czerwoną",
+    "Acc Inanimate": "Czerwoną",
+    "Ins": "Czerwoną",
+    "Gen": "Czerwonej",
+    "Loc": "Czerwonej",
+    "Dat": "Czerwonej"
+  },
+  {
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Czerwone",
+    "Nom Comparative": "Czerwieńsze",
+    "Nom Superlative": "Najczerwieńsze",
+    "Acc Animate": "Czerwone",
+    "Acc Inanimate": "Czerwone",
+    "Ins": "Czerwonym",
+    "Gen": "Czerwonego",
+    "Loc": "Czerwonym",
+    "Dat": "Czerwonemu"
   },
   {
-    "Adjective": "Czarny\nCzarna\nCzarne",
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Czerwoni",
+    "Nom Comparative": "Czerwieńsi",
+    "Nom Superlative": "Najczerwieńsi",
+    "Acc Animate": "Czerwonych",
+    "Acc Inanimate": "Czerwone",
+    "Ins": "Czerwonymi",
+    "Gen": "Czerwonych",
+    "Loc": "Czerwonych",
+    "Dat": "Czerwonym"
+  },
+  {
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Czerwone",
+    "Nom Comparative": "Czerwieńsze",
+    "Nom Superlative": "Najczerwieńsze",
+    "Acc Animate": "Czerwone",
+    "Acc Inanimate": "Czerwone",
+    "Ins": "Czerwonymi",
+    "Gen": "Czerwonych",
+    "Loc": "Czerwonych",
+    "Dat": "Czerwonym"
+  },
+  {
+    "Adjective": "Czarny",
     "Meaning": "Black",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Czarny",
+    "Nom Comparative": "Czarni",
+    "Nom Superlative": "Najczarni",
+    "Acc Animate": "Czarnego",
+    "Acc Inanimate": "Czarny",
+    "Ins": "Czarnym",
+    "Gen": "Czarnego",
+    "Loc": "Czarnym",
+    "Dat": "Czarnemu"
   },
   {
+    "Adjective": "Czarny",
+    "Meaning": "Black",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Czarna",
+    "Nom Comparative": "Czarni",
+    "Nom Superlative": "Najczarni",
+    "Acc Animate": "Czarną",
+    "Acc Inanimate": "Czarną",
+    "Ins": "Czarną",
+    "Gen": "Czarnej",
+    "Loc": "Czarnej",
+    "Dat": "Czarnej"
+  },
+  {
+    "Adjective": "Czarny",
+    "Meaning": "Black",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Czarne",
+    "Nom Comparative": "Czarni",
+    "Nom Superlative": "Najczarni",
+    "Acc Animate": "Czarne",
+    "Acc Inanimate": "Czarne",
+    "Ins": "Czarnym",
+    "Gen": "Czarnego",
+    "Loc": "Czarnym",
+    "Dat": "Czarnemu"
   },
   {
-    "Adjective": "Niebieski\nNiebieska\nNiebieskie",
+    "Adjective": "Czarny",
+    "Meaning": "Black",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Czarni",
+    "Nom Comparative": "Czarni",
+    "Nom Superlative": "Najczarni",
+    "Acc Animate": "Czarnych",
+    "Acc Inanimate": "Czarne",
+    "Ins": "Czarnymi",
+    "Gen": "Czarnego",
+    "Loc": "Czarnego",
+    "Dat": "Czarnym"
+  },
+  {
+    "Adjective": "Czarny",
+    "Meaning": "Black",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Czarne",
+    "Nom Comparative": "Czarni",
+    "Nom Superlative": "Najczarni",
+    "Acc Animate": "Czarne",
+    "Acc Inanimate": "Czarne",
+    "Ins": "Czarnymi",
+    "Gen": "Czarnego",
+    "Loc": "Czarnego",
+    "Dat": "Czarnym"
+  },
+  {
+    "Adjective": "Niebieski",
     "Meaning": "Blue",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Niebieski",
+    "Nom Comparative": "Niebieski",
+    "Nom Superlative": "Najniebieski",
+    "Acc Animate": "Niebieskiego",
+    "Acc Inanimate": "Niebieski",
+    "Ins": "Niebieskim",
+    "Gen": "Niebieskiego",
+    "Loc": "Niebieskim",
+    "Dat": "Niebieskiemu"
   },
   {
+    "Adjective": "Niebieski",
+    "Meaning": "Blue",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Niebieska",
+    "Nom Comparative": "Niebieska",
+    "Nom Superlative": "Najniebieska",
+    "Acc Animate": "Niebieską",
+    "Acc Inanimate": "Niebieską",
+    "Ins": "Niebieską",
+    "Gen": "Niebieskiej",
+    "Loc": "Niebieskiej",
+    "Dat": "Niebieskiej"
+  },
+  {
+    "Adjective": "Niebieski",
+    "Meaning": "Blue",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Niebieskie",
+    "Nom Comparative": "Niebieskie",
+    "Nom Superlative": "Najniebieskie",
+    "Acc Animate": "Niebieskie",
+    "Acc Inanimate": "Niebieskie",
+    "Ins": "Niebieskim",
+    "Gen": "Niebieskiego",
+    "Loc": "Niebieskim",
+    "Dat": "Niebieskiemu"
   },
   {
-    "Adjective": "Biały\nBiała\nBiałe",
+    "Adjective": "Niebieski",
+    "Meaning": "Blue",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Niebiescy",
+    "Nom Comparative": "Niebiescy",
+    "Nom Superlative": "Najniebiescy",
+    "Acc Animate": "Niebieskich",
+    "Acc Inanimate": "Niebieskie",
+    "Ins": "Niebieskimi",
+    "Gen": "Niebieskich",
+    "Loc": "Niebieskich",
+    "Dat": "Niebieskim"
+  },
+  {
+    "Adjective": "Niebieski",
+    "Meaning": "Blue",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Niebieskie",
+    "Nom Comparative": "Niebieskie",
+    "Nom Superlative": "Najniebieskie",
+    "Acc Animate": "Niebieskie",
+    "Acc Inanimate": "Niebieskie",
+    "Ins": "Niebieskimi",
+    "Gen": "Niebieskich",
+    "Loc": "Niebieskich",
+    "Dat": "Niebieskim"
+  },
+  {
+    "Adjective": "Biały",
     "Meaning": "White",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Biały",
+    "Nom Comparative": "Bielszy",
+    "Nom Superlative": "Najbielszy",
+    "Acc Animate": "Białego",
+    "Acc Inanimate": "Biały",
+    "Ins": "Białym",
+    "Gen": "Białego",
+    "Loc": "Białym",
+    "Dat": "Białemu"
   },
   {
+    "Adjective": "Biały",
+    "Meaning": "White",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Biała",
+    "Nom Comparative": "Bielsza",
+    "Nom Superlative": "Najbielsza",
+    "Acc Animate": "Białą",
+    "Acc Inanimate": "Białą",
+    "Ins": "Białą",
+    "Gen": "Białej",
+    "Loc": "Białej",
+    "Dat": "Białej"
+  },
+  {
+    "Adjective": "Biały",
+    "Meaning": "White",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Białe",
+    "Nom Comparative": "Bielsze",
+    "Nom Superlative": "Najbielsze",
+    "Acc Animate": "Białe",
+    "Acc Inanimate": "Białe",
+    "Ins": "Białym",
+    "Gen": "Białego",
+    "Loc": "Białym",
+    "Dat": "Białemu"
   },
   {
-    "Adjective": "Brązowy\nBrązowa\nBrązowe",
+    "Adjective": "Biały",
+    "Meaning": "White",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Biali",
+    "Nom Comparative": "Bielszy",
+    "Nom Superlative": "Najbielszy",
+    "Acc Animate": "Białych",
+    "Acc Inanimate": "Białe",
+    "Ins": "Białymi",
+    "Gen": "Białych",
+    "Loc": "Białych",
+    "Dat": "Białym"
+  },
+  {
+    "Adjective": "Biały",
+    "Meaning": "White",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Białe",
+    "Nom Comparative": "Bielsze",
+    "Nom Superlative": "Najbielsze",
+    "Acc Animate": "Białe",
+    "Acc Inanimate": "Białe",
+    "Ins": "Białymi",
+    "Gen": "Białych",
+    "Loc": "Białych",
+    "Dat": "Białym"
+  },
+  {
+    "Adjective": "Brązowy",
     "Meaning": "Brown",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Brązowy",
+    "Nom Comparative": "Brązowiejszy",
+    "Nom Superlative": "Najbrązowiejszy",
+    "Acc Animate": "Brązowego",
+    "Acc Inanimate": "Brązowy",
+    "Ins": "Brązowym",
+    "Gen": "Brązowego",
+    "Loc": "Brązowym",
+    "Dat": "Brązowemu"
   },
   {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Pomarańczowy\nPomarańczowa\nPomarańczowe",
-    "Meaning": "Orange",
+    "Adjective": "Brązowy",
+    "Meaning": "Brown",
+    "Gender": "Female",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Brązowa",
+    "Nom Comparative": "Brązowiejsza",
+    "Nom Superlative": "Najbrązowiejsza",
+    "Acc Animate": "Brązową",
+    "Acc Inanimate": "Brązową",
+    "Ins": "Brązową",
+    "Gen": "Brązowej",
+    "Loc": "Brązowej",
+    "Dat": "Brązowej"
   },
   {
+    "Adjective": "Brązowy",
+    "Meaning": "Brown",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Brązowe",
+    "Nom Comparative": "Brązowiejsze",
+    "Nom Superlative": "Najbrązowiejsze",
+    "Acc Animate": "Brązowe",
+    "Acc Inanimate": "Brązowe",
+    "Ins": "Brązowym",
+    "Gen": "Brązowego",
+    "Loc": "Brązowym",
+    "Dat": "Brązowemu"
   },
   {
-    "Adjective": "Fioletowy\nFioletowa\nFioletowe",
-    "Meaning": "Violet",
+    "Adjective": "Brązowy",
+    "Meaning": "Brown",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Brązowi",
+    "Nom Comparative": "Brązowiejsi",
+    "Nom Superlative": "Najbrązowiejsi",
+    "Acc Animate": "Brązowych",
+    "Acc Inanimate": "Brązowe",
+    "Ins": "Brązowymi",
+    "Gen": "Brązowych",
+    "Loc": "Brązowych",
+    "Dat": "Brązowym"
+  },
+  {
+    "Adjective": "Brązowy",
+    "Meaning": "Brown",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Brązowe",
+    "Nom Comparative": "Brązowiejsze",
+    "Nom Superlative": "Najbrązowiejsze",
+    "Acc Animate": "Brązowe",
+    "Acc Inanimate": "Brązowe",
+    "Ins": "Brązowymi",
+    "Gen": "Brązowych",
+    "Loc": "Brązowych",
+    "Dat": "Brązowym"
+  },
+  {
+    "Adjective": "Wesoły",
+    "Meaning": "Happy",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wesoły",
+    "Nom Comparative": "Weselszy",
+    "Nom Superlative": "Najweselszy",
+    "Acc Animate": "Wesołego",
+    "Acc Inanimate": "Wesoły",
+    "Ins": "Wesołym",
+    "Gen": "Wesołego",
+    "Loc": "Wesołym",
+    "Dat": "Wesołemu"
   },
   {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Różowy\nRóżowa\nRóżowe",
-    "Meaning": "Pink",
+    "Adjective": "Wesoły",
+    "Meaning": "Happy",
+    "Gender": "Female",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wesoła",
+    "Nom Comparative": "Weselsza",
+    "Nom Superlative": "Najweselsza",
+    "Acc Animate": "Wesołą",
+    "Acc Inanimate": "Wesołą",
+    "Ins": "Wesołą",
+    "Gen": "Wesołej",
+    "Loc": "Wesołej",
+    "Dat": "Wesołej"
   },
   {
+    "Adjective": "Wesoły",
+    "Meaning": "Happy",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wesołe",
+    "Nom Comparative": "Weselsze",
+    "Nom Superlative": "Najweselsze",
+    "Acc Animate": "Wesołe",
+    "Acc Inanimate": "Wesołe",
+    "Ins": "Wesołym",
+    "Gen": "Wesołego",
+    "Loc": "Wesołym",
+    "Dat": "Wesołemu"
   },
   {
-    "Adjective": "Szary\nSzara\nSzare",
-    "Meaning": "Grey",
+    "Adjective": "Wesoły",
+    "Meaning": "Happy",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Weseli",
+    "Nom Comparative": "Weselsi",
+    "Nom Superlative": "Najweselsi",
+    "Acc Animate": "Wesołych",
+    "Acc Inanimate": "Wesołe",
+    "Ins": "Wesołymi",
+    "Gen": "Wesołych",
+    "Loc": "Wesołych",
+    "Dat": "Wesołym"
+  },
+  {
+    "Adjective": "Wesoły",
+    "Meaning": "Happy",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Wesołe",
+    "Nom Comparative": "Weselsze",
+    "Nom Superlative": "Najweselsze",
+    "Acc Animate": "Wesołe",
+    "Acc Inanimate": "Wesołe",
+    "Ins": "Wesołymi",
+    "Gen": "Wesołych",
+    "Loc": "Wesołych",
+    "Dat": "Wesołym"
+  },
+  {
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Czerwony",
+    "Nom Comparative": "Czerwieńszy",
+    "Nom Superlative": "Najczerwieńszy",
+    "Acc Animate": "Czerwonego",
+    "Acc Inanimate": "Czerwony",
+    "Ins": "Czerwonym",
+    "Gen": "Czerwonego",
+    "Loc": "Czerwonym",
+    "Dat": "Czerwonemu"
   },
   {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Następny\nNastępna\nNastępne",
-    "Meaning": "Next / Following",
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Female",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Czerwona",
+    "Nom Comparative": "Czerwieńsza",
+    "Nom Superlative": "Najczerwieńsza",
+    "Acc Animate": "Czerwoną",
+    "Acc Inanimate": "Czerwoną",
+    "Ins": "Czerwoną",
+    "Gen": "Czerwonej",
+    "Loc": "Czerwonej",
+    "Dat": "Czerwonej"
   },
   {
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Czerwone",
+    "Nom Comparative": "Czerwieńsze",
+    "Nom Superlative": "Najczerwieńsze",
+    "Acc Animate": "Czerwone",
+    "Acc Inanimate": "Czerwone",
+    "Ins": "Czerwonym",
+    "Gen": "Czerwonego",
+    "Loc": "Czerwowym",
+    "Dat": "Czerwonemu"
   },
   {
-    "Adjective": "Ważny\nWażna\nWażne",
-    "Meaning": "Important",
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Czerwoni",
+    "Nom Comparative": "Czerwieńsi",
+    "Nom Superlative": "Najczerwieńsi",
+    "Acc Animate": "Czerwonych",
+    "Acc Inanimate": "Czerwone",
+    "Ins": "Czerwonymi",
+    "Gen": "Czerwonych",
+    "Loc": "Czerwonych",
+    "Dat": "Czerwonym"
+  },
+  {
+    "Adjective": "Czerwony",
+    "Meaning": "Red",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Czerwone",
+    "Nom Comparative": "Czerwieńsze",
+    "Nom Superlative": "Najczerwieńsze",
+    "Acc Animate": "Czerwone",
+    "Acc Inanimate": "Czerwone",
+    "Ins": "Czerwonymi",
+    "Gen": "Czerwonych",
+    "Loc": "Czerwonych",
+    "Dat": "Czerwowym"
+  },
+  {
+    "Adjective": "Wielki",
+    "Meaning": "Big",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wielki",
+    "Nom Comparative": "Większy",
+    "Nom Superlative": "Największy",
+    "Acc Animate": "Wielkiego",
+    "Acc Inanimate": "Wielki",
+    "Ins": "Wielkim",
+    "Gen": "Wielkiego",
+    "Loc": "Wielkim",
+    "Dat": "Wielkiemu"
   },
   {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Bogaty\nBogata\nBogate",
-    "Meaning": "Rich",
+    "Adjective": "Wielki",
+    "Meaning": "Big",
+    "Gender": "Female",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wielka",
+    "Nom Comparative": "Większa",
+    "Nom Superlative": "Największa",
+    "Acc Animate": "Wielką",
+    "Acc Inanimate": "Wielką",
+    "Ins": "Wielką",
+    "Gen": "Wielkiej",
+    "Loc": "Wielkiej",
+    "Dat": "Wielkiej"
   },
   {
+    "Adjective": "Wielki",
+    "Meaning": "Big",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wielkie",
+    "Nom Comparative": "Większe",
+    "Nom Superlative": "Największe",
+    "Acc Animate": "Wielkie",
+    "Acc Inanimate": "Wielkie",
+    "Ins": "Wielkim",
+    "Gen": "Wielkiego",
+    "Loc": "Wielkim",
+    "Dat": "Wielkiemu"
   },
   {
-    "Adjective": "Inny\nInna\nInne",
-    "Meaning": "Different",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
+    "Adjective": "Wielki",
+    "Meaning": "Big",
+    "Gender": "Male",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wielcy",
+    "Nom Comparative": "Więksi",
+    "Nom Superlative": "Najwięksi",
+    "Acc Animate": "Wielkich",
+    "Acc Inanimate": "Wielkie",
+    "Ins": "Wielkimi",
+    "Gen": "Wielkich",
+    "Loc": "Wielkich",
+    "Dat": "Wielkim"
   },
   {
-    "Adjective": "Poprzedni\nPoprzednia\nPoprzednie",
-    "Meaning": "Previous",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
+    "Adjective": "Wielki",
+    "Meaning": "Big",
+    "Gender": "Non-male",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wielkie",
+    "Nom Comparative": "Większe",
+    "Nom Superlative": "Największe",
+    "Acc Animate": "Wielkie",
+    "Acc Inanimate": "Wielkie",
+    "Ins": "Wielkimi",
+    "Gen": "Wielkich",
+    "Loc": "Wielkich",
+    "Dat": "Wielkim"
   },
   {
-    "Adjective": "Biedny\nBiedna\nBiedne",
-    "Meaning": "Poor",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Normalny\nNormalna\nNormalne",
-    "Meaning": "Normal",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Czysty\nCzysta\nCzyste",
-    "Meaning": "Clean",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Ciemny\nCiemna\nCiemne",
-    "Meaning": "Dark",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Cały\nCała\nCałe",
-    "Meaning": "Whole",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Idealny\nIdealna\nIdealne",
-    "Meaning": "Perfect",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Jasny\nJasna\nJasne",
-    "Meaning": "Bright",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Brudny\nBrudna\nBrudne",
-    "Meaning": "Dirty",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Młody\nMłoda\nMłode",
-    "Meaning": "Young",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Niski\nNiska\nNiskie",
-    "Meaning": "Low",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Miły\nMiła\nMiłe",
-    "Meaning": "Kind",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Popularny\nPopularna\nPopularne",
-    "Meaning": "Popular",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wysoki\nWysoka\nWysokie",
-    "Meaning": "Tall",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Krótki\nKrótka\nKrótkie",
-    "Meaning": "Short",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Piękny\nPiękna\nPiękne",
+    "Adjective": "Piękny",
     "Meaning": "Beautiful",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Piękny",
+    "Nom Comparative": "Piękniejszy",
+    "Nom Superlative": "Najpiękniejszy",
+    "Acc Animate": "Pięknego",
+    "Acc Inanimate": "Piękny",
+    "Ins": "Pięknym",
+    "Gen": "Pięknego",
+    "Loc": "Pięknym",
+    "Dat": "Pięknemu"
   },
   {
+    "Adjective": "Piękny",
+    "Meaning": "Beautiful",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Piękna",
+    "Nom Comparative": "Piękniejsza",
+    "Nom Superlative": "Najpiękniejsza",
+    "Acc Animate": "Piękną",
+    "Acc Inanimate": "Piękną",
+    "Ins": "Piękną",
+    "Gen": "Pięknej",
+    "Loc": "Pięknej",
+    "Dat": "Pięknej"
+  },
+  {
+    "Adjective": "Piękny",
+    "Meaning": "Beautiful",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Piękne",
+    "Nom Comparative": "Piękniejsze",
+    "Nom Superlative": "Najpiękniejsze",
+    "Acc Animate": "Piękne",
+    "Acc Inanimate": "Piękne",
+    "Ins": "Pięknym",
+    "Gen": "Pięknego",
+    "Loc": "Pięknym",
+    "Dat": "Pięknemu"
   },
   {
-    "Adjective": "Wspaniały\nWspaniała\nWspaniałe",
+    "Adjective": "Piękny",
+    "Meaning": "Beautiful",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Piękni",
+    "Nom Comparative": "Piękniejsi",
+    "Nom Superlative": "Najpiękniejsi",
+    "Acc Animate": "Pięknych",
+    "Acc Inanimate": "Piękne",
+    "Ins": "Pięknymi",
+    "Gen": "Pięknych",
+    "Loc": "Pięknych",
+    "Dat": "Pięknym"
+  },
+  {
+    "Adjective": "Piękny",
+    "Meaning": "Beautiful",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Piękne",
+    "Nom Comparative": "Piękniejsze",
+    "Nom Superlative": "Najpiękniejsze",
+    "Acc Animate": "Piękne",
+    "Acc Inanimate": "Piękne",
+    "Ins": "Pięknymi",
+    "Gen": "Pięknych",
+    "Loc": "Pięknych",
+    "Dat": "Pięknym"
+  },
+  {
+    "Adjective": "Pomarańczowy",
+    "Meaning": "Orange",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Pomarańczowy",
+    "Nom Comparative": "bardziej pomarańczowy",
+    "Nom Superlative": "najbardziej pomarańczowy",
+    "Acc Animate": "Pomarańczowego",
+    "Acc Inanimate": "Pomarańczowy",
+    "Ins": "Pomarańczowym",
+    "Gen": "Pomarańczowego",
+    "Loc": "Pomarańczowym",
+    "Dat": "Pomarańczowemu"
+  },
+  {
+    "Adjective": "Pomarańczowa",
+    "Meaning": "Orange",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Pomarańczowa",
+    "Nom Comparative": "bardziej pomarańczowa",
+    "Nom Superlative": "najbardziej pomarańczowa",
+    "Acc Animate": "Pomarańczową",
+    "Acc Inanimate": "Pomarańczową",
+    "Ins": "Pomarańczową",
+    "Gen": "Pomarańczowej",
+    "Loc": "Pomarańczowej",
+    "Dat": "Pomarańczowej"
+  },
+  {
+    "Adjective": "Pomarańczowe",
+    "Meaning": "Orange",
+    "Gender": "Neuter",
+    "Single / Plural": "Singular",
+    "Nom": "Pomarańczowe",
+    "Nom Comparative": "bardziej pomarańczowe",
+    "Nom Superlative": "najbardziej pomarańczowe",
+    "Acc Animate": "Pomarańczowe",
+    "Acc Inanimate": "Pomarańczowe",
+    "Ins": "Pomarańczowym",
+    "Gen": "Pomarańczowego",
+    "Loc": "Pomarańczowym",
+    "Dat": "Pomarańczowemu"
+  },
+  {
+    "Adjective": "Pomarańczowi",
+    "Meaning": "Orange",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Pomarańczowi",
+    "Nom Comparative": "bardziej pomarańczowi",
+    "Nom Superlative": "najbardziej pomarańczowi",
+    "Acc Animate": "Pomarańczowych",
+    "Acc Inanimate": "Pomarańczowe",
+    "Ins": "Pomarańczowymi",
+    "Gen": "Pomarańczowych",
+    "Loc": "Pomarańczowych",
+    "Dat": "Pomarańczowym"
+  },
+  {
+    "Adjective": "Pomarańczowe",
+    "Meaning": "Orange",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Pomarańczowe",
+    "Nom Comparative": "bardziej pomarańczowe",
+    "Nom Superlative": "najbardziej pomarańczowe",
+    "Acc Animate": "Pomarańczowe",
+    "Acc Inanimate": "Pomarańczowe",
+    "Ins": "Pomarańczowymi",
+    "Gen": "Pomarańczowych",
+    "Loc": "Pomarańczowych",
+    "Dat": "Pomarańczowym"
+  },
+  {
+    "Adjective": "Fioletowy",
+    "Meaning": "Violet",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "fioletowy",
+    "Nom Comparative": "fioletowszy",
+    "Nom Superlative": "najfioletowszy",
+    "Acc Animate": "fioletowego",
+    "Acc Inanimate": "fioletowy",
+    "Ins": "fioletowym",
+    "Gen": "fioletowego",
+    "Loc": "fioletowym",
+    "Dat": "fioletowemu"
+  },
+  {
+    "Adjective": "Fioletowy",
+    "Meaning": "Violet",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "fioletowa",
+    "Nom Comparative": "fioletowsza",
+    "Nom Superlative": "najfioletowsza",
+    "Acc Animate": "fioletową",
+    "Acc Inanimate": "fioletową",
+    "Ins": "fioletową",
+    "Gen": "fioletowej",
+    "Loc": "fioletowej",
+    "Dat": "fioletowej"
+  },
+  {
+    "Adjective": "Fioletowy",
+    "Meaning": "Violet",
+    "Gender": "Neuter",
+    "Single / Plural": "Singular",
+    "Nom": "fioletowe",
+    "Nom Comparative": "fioletowsze",
+    "Nom Superlative": "najfioletowsze",
+    "Acc Animate": "fioletowe",
+    "Acc Inanimate": "fioletowe",
+    "Ins": "fioletowym",
+    "Gen": "fioletowego",
+    "Loc": "fioletowym",
+    "Dat": "fioletowemu"
+  },
+  {
+    "Adjective": "Fioletowy",
+    "Meaning": "Violet",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "fioletowi",
+    "Nom Comparative": "fioletowsi",
+    "Nom Superlative": "najfioletowsi",
+    "Acc Animate": "fioletowych",
+    "Acc Inanimate": "fioletowe",
+    "Ins": "fioletowymi",
+    "Gen": "fioletowych",
+    "Loc": "fioletowych",
+    "Dat": "fioletowym"
+  },
+  {
+    "Adjective": "Fioletowy",
+    "Meaning": "Violet",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "fioletowe",
+    "Nom Comparative": "fioletowsze",
+    "Nom Superlative": "najfioletowsze",
+    "Acc Animate": "fioletowe",
+    "Acc Inanimate": "fioletowe",
+    "Ins": "fioletowymi",
+    "Gen": "fioletowych",
+    "Loc": "fioletowych",
+    "Dat": "fioletowym"
+  },
+  {
+    "Adjective": "Różowy",
+    "Meaning": "Pink",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "różowy",
+    "Nom Comparative": "różowszy",
+    "Nom Superlative": "najróżowszy",
+    "Acc Animate": "różowego",
+    "Acc Inanimate": "różowy",
+    "Ins": "różowym",
+    "Gen": "różowego",
+    "Loc": "różowym",
+    "Dat": "różowemu"
+  },
+  {
+    "Adjective": "Różowy",
+    "Meaning": "Pink",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "różowa",
+    "Nom Comparative": "różowsza",
+    "Nom Superlative": "najróżowsza",
+    "Acc Animate": "różową",
+    "Acc Inanimate": "różową",
+    "Ins": "różową",
+    "Gen": "różowej",
+    "Loc": "różowej",
+    "Dat": "różowej"
+  },
+  {
+    "Adjective": "Różowy",
+    "Meaning": "Pink",
+    "Gender": "Neuter",
+    "Single / Plural": "Singular",
+    "Nom": "różowe",
+    "Nom Comparative": "różowsze",
+    "Nom Superlative": "najróżowsze",
+    "Acc Animate": "różowe",
+    "Acc Inanimate": "różowe",
+    "Ins": "różowym",
+    "Gen": "różowego",
+    "Loc": "różowym",
+    "Dat": "różowemu"
+  },
+  {
+    "Adjective": "Różowy",
+    "Meaning": "Pink",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "różowi",
+    "Nom Comparative": "różowsi",
+    "Nom Superlative": "najróżowsi",
+    "Acc Animate": "różowych",
+    "Acc Inanimate": "różowe",
+    "Ins": "różowymi",
+    "Gen": "różowych",
+    "Loc": "różowych",
+    "Dat": "różowym"
+  },
+  {
+    "Adjective": "Różowy",
+    "Meaning": "Pink",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "różowe",
+    "Nom Comparative": "różowsze",
+    "Nom Superlative": "najróżowsze",
+    "Acc Animate": "różowe",
+    "Acc Inanimate": "różowe",
+    "Ins": "różowymi",
+    "Gen": "różowych",
+    "Loc": "różowych",
+    "Dat": "różowym"
+  },
+  {
+    "Adjective": "Szary",
+    "Meaning": "Grey",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "szary",
+    "Nom Comparative": "szarszy",
+    "Nom Superlative": "najszarszy",
+    "Acc Animate": "szarego",
+    "Acc Inanimate": "szary",
+    "Ins": "szarym",
+    "Gen": "szarego",
+    "Loc": "szarym",
+    "Dat": "szaremu"
+  },
+  {
+    "Adjective": "Szary",
+    "Meaning": "Grey",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "szara",
+    "Nom Comparative": "szarsza",
+    "Nom Superlative": "najszarsza",
+    "Acc Animate": "szarą",
+    "Acc Inanimate": "szarą",
+    "Ins": "szarą",
+    "Gen": "szarej",
+    "Loc": "szarej",
+    "Dat": "szarej"
+  },
+  {
+    "Adjective": "Szary",
+    "Meaning": "Grey",
+    "Gender": "Neuter",
+    "Single / Plural": "Singular",
+    "Nom": "szare",
+    "Nom Comparative": "szarsze",
+    "Nom Superlative": "najszarsze",
+    "Acc Animate": "szare",
+    "Acc Inanimate": "szare",
+    "Ins": "szarym",
+    "Gen": "szarego",
+    "Loc": "szarym",
+    "Dat": "szaremu"
+  },
+  {
+    "Adjective": "Szary",
+    "Meaning": "Grey",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "szarzy",
+    "Nom Comparative": "szarszi",
+    "Nom Superlative": "najszarszi",
+    "Acc Animate": "szarych",
+    "Acc Inanimate": "szare",
+    "Ins": "szarymi",
+    "Gen": "szarych",
+    "Loc": "szarych",
+    "Dat": "szarym"
+  },
+  {
+    "Adjective": "Szary",
+    "Meaning": "Grey",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "szare",
+    "Nom Comparative": "szarsze",
+    "Nom Superlative": "najszarsze",
+    "Acc Animate": "szare",
+    "Acc Inanimate": "szare",
+    "Ins": "szarymi",
+    "Gen": "szarych",
+    "Loc": "szarych",
+    "Dat": "szarym"
+  },
+  {
+    "Adjective": "Następny",
+    "Meaning": "Next / Following",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Następny",
+    "Nom Comparative": "Następniejszy",
+    "Nom Superlative": "Najnastępniejszy",
+    "Acc Animate": "Następnego",
+    "Acc Inanimate": "Następny",
+    "Ins": "Następnym",
+    "Gen": "Następnego",
+    "Loc": "Następnym",
+    "Dat": "Następnemu"
+  },
+  {
+    "Adjective": "Następny",
+    "Meaning": "Next / Following",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Następna",
+    "Nom Comparative": "Następniejsza",
+    "Nom Superlative": "Najnastępniejsza",
+    "Acc Animate": "Następną",
+    "Acc Inanimate": "Następną",
+    "Ins": "Następną",
+    "Gen": "Następnej",
+    "Loc": "Następnej",
+    "Dat": "Następnej"
+  },
+  {
+    "Adjective": "Następny",
+    "Meaning": "Next / Following",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Następne",
+    "Nom Comparative": "Następniejsze",
+    "Nom Superlative": "Najnastępniejsze",
+    "Acc Animate": "Następne",
+    "Acc Inanimate": "Następne",
+    "Ins": "Następnym",
+    "Gen": "Następnego",
+    "Loc": "Następnym",
+    "Dat": "Następnemu"
+  },
+  {
+    "Adjective": "Następny",
+    "Meaning": "Next / Following",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Następni",
+    "Nom Comparative": "Następniejsi",
+    "Nom Superlative": "Najnastępniejsi",
+    "Acc Animate": "Następnych",
+    "Acc Inanimate": "Następne",
+    "Ins": "Następnymi",
+    "Gen": "Następnych",
+    "Loc": "Następnych",
+    "Dat": "Następnym"
+  },
+  {
+    "Adjective": "Następny",
+    "Meaning": "Next / Following",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Następne",
+    "Nom Comparative": "Następniejsze",
+    "Nom Superlative": "Najnastępniejsze",
+    "Acc Animate": "Następne",
+    "Acc Inanimate": "Następne",
+    "Ins": "Następnymi",
+    "Gen": "Następnych",
+    "Loc": "Następnych",
+    "Dat": "Następnym"
+  },
+  {
+    "Adjective": "Ważny",
+    "Meaning": "Important",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Ważny",
+    "Nom Comparative": "Ważniejszy",
+    "Nom Superlative": "Najważniejszy",
+    "Acc Animate": "Ważnego",
+    "Acc Inanimate": "Ważny",
+    "Ins": "Ważnym",
+    "Gen": "Ważnego",
+    "Loc": "Ważnym",
+    "Dat": "Ważnemu"
+  },
+  {
+    "Adjective": "Ważny",
+    "Meaning": "Important",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Ważna",
+    "Nom Comparative": "Ważniejsza",
+    "Nom Superlative": "Najważniejsza",
+    "Acc Animate": "Ważną",
+    "Acc Inanimate": "Ważną",
+    "Ins": "Ważną",
+    "Gen": "Ważnej",
+    "Loc": "Ważnej",
+    "Dat": "Ważnej"
+  },
+  {
+    "Adjective": "Ważny",
+    "Meaning": "Important",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Ważne",
+    "Nom Comparative": "Ważniejsze",
+    "Nom Superlative": "Najważniejsze",
+    "Acc Animate": "Ważne",
+    "Acc Inanimate": "Ważne",
+    "Ins": "Ważnym",
+    "Gen": "Ważnego",
+    "Loc": "Ważnym",
+    "Dat": "Ważnemu"
+  },
+  {
+    "Adjective": "Ważny",
+    "Meaning": "Important",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Ważni",
+    "Nom Comparative": "Ważniejsi",
+    "Nom Superlative": "Najważniejsi",
+    "Acc Animate": "Ważnych",
+    "Acc Inanimate": "Ważne",
+    "Ins": "Ważnymi",
+    "Gen": "Ważnych",
+    "Loc": "Ważnych",
+    "Dat": "Ważnym"
+  },
+  {
+    "Adjective": "Ważny",
+    "Meaning": "Important",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Ważne",
+    "Nom Comparative": "Ważniejsze",
+    "Nom Superlative": "Najważniejsze",
+    "Acc Animate": "Ważne",
+    "Acc Inanimate": "Ważne",
+    "Ins": "Ważnymi",
+    "Gen": "Ważnych",
+    "Loc": "Ważnych",
+    "Dat": "Ważnym"
+  },
+  {
+    "Adjective": "Bogaty",
+    "Meaning": "Rich",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Bogaty",
+    "Nom Comparative": "Bogatszy",
+    "Nom Superlative": "Najbogatszy",
+    "Acc Animate": "Bogatego",
+    "Acc Inanimate": "Bogaty",
+    "Ins": "Bogatym",
+    "Gen": "Bogatego",
+    "Loc": "Bogatym",
+    "Dat": "Bogatemu"
+  },
+  {
+    "Adjective": "Bogaty",
+    "Meaning": "Rich",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Bogata",
+    "Nom Comparative": "Bogatsza",
+    "Nom Superlative": "Najbogatsza",
+    "Acc Animate": "Bogatą",
+    "Acc Inanimate": "Bogatą",
+    "Ins": "Bogatą",
+    "Gen": "Bogatej",
+    "Loc": "Bogatej",
+    "Dat": "Bogatej"
+  },
+  {
+    "Adjective": "Bogaty",
+    "Meaning": "Rich",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Bogate",
+    "Nom Comparative": "Bogatsze",
+    "Nom Superlative": "Najbogatsze",
+    "Acc Animate": "Bogate",
+    "Acc Inanimate": "Bogate",
+    "Ins": "Bogatym",
+    "Gen": "Bogatego",
+    "Loc": "Bogatym",
+    "Dat": "Bogatemu"
+  },
+  {
+    "Adjective": "Bogaty",
+    "Meaning": "Rich",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Bogaci",
+    "Nom Comparative": "Bogatsi",
+    "Nom Superlative": "Najbogatsi",
+    "Acc Animate": "Bogatych",
+    "Acc Inanimate": "Bogate",
+    "Ins": "Bogatymi",
+    "Gen": "Bogatych",
+    "Loc": "Bogatych",
+    "Dat": "Bogatym"
+  },
+  {
+    "Adjective": "Bogaty",
+    "Meaning": "Rich",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Bogate",
+    "Nom Comparative": "Bogatsze",
+    "Nom Superlative": "Najbogatsze",
+    "Acc Animate": "Bogate",
+    "Acc Inanimate": "Bogate",
+    "Ins": "Bogatymi",
+    "Gen": "Bogatych",
+    "Loc": "Bogatych",
+    "Dat": "Bogatym"
+  },
+  {
+    "Adjective": "Inny",
+    "Meaning": "Different",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Inny",
+    "Nom Comparative": "Inniejszy",
+    "Nom Superlative": "Najinniejszy",
+    "Acc Animate": "Innego",
+    "Acc Inanimate": "Inny",
+    "Ins": "Innym",
+    "Gen": "Innego",
+    "Loc": "Innym",
+    "Dat": "Innemu"
+  },
+  {
+    "Adjective": "Inny",
+    "Meaning": "Different",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Inna",
+    "Nom Comparative": "Inniejsza",
+    "Nom Superlative": "Najinniejsza",
+    "Acc Animate": "Inną",
+    "Acc Inanimate": "Inną",
+    "Ins": "Inną",
+    "Gen": "Innej",
+    "Loc": "Innej",
+    "Dat": "Innej"
+  },
+  {
+    "Adjective": "Inny",
+    "Meaning": "Different",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Inne",
+    "Nom Comparative": "Inniejsze",
+    "Nom Superlative": "Najinniejsze",
+    "Acc Animate": "Inne",
+    "Acc Inanimate": "Inne",
+    "Ins": "Innym",
+    "Gen": "Innego",
+    "Loc": "Innym",
+    "Dat": "Innemu"
+  },
+  {
+    "Adjective": "Inny",
+    "Meaning": "Different",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Inni",
+    "Nom Comparative": "Inniejsi",
+    "Nom Superlative": "Najinniejsi",
+    "Acc Animate": "Innych",
+    "Acc Inanimate": "Inne",
+    "Ins": "Innymi",
+    "Gen": "Innych",
+    "Loc": "Innych",
+    "Dat": "Innym"
+  },
+  {
+    "Adjective": "Inny",
+    "Meaning": "Different",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Inne",
+    "Nom Comparative": "Inniejsze",
+    "Nom Superlative": "Najinniejsze",
+    "Acc Animate": "Inne",
+    "Acc Inanimate": "Inne",
+    "Ins": "Innymi",
+    "Gen": "Innych",
+    "Loc": "Innych",
+    "Dat": "Innym"
+  },
+  {
+    "Adjective": "Poprzedni",
+    "Meaning": "Previous",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Poprzedni",
+    "Nom Comparative": "Bardziej poprzedni",
+    "Nom Superlative": "Najbardziej poprzedni",
+    "Acc Animate": "Poprzedniego",
+    "Acc Inanimate": "Poprzedni",
+    "Ins": "Poprzednim",
+    "Gen": "Poprzedniego",
+    "Loc": "Poprzednim",
+    "Dat": "Poprzedniemu"
+  },
+  {
+    "Adjective": "Poprzedni",
+    "Meaning": "Previous",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Poprzednia",
+    "Nom Comparative": "Bardziej poprzednia",
+    "Nom Superlative": "Najbardziej poprzednia",
+    "Acc Animate": "Poprzednią",
+    "Acc Inanimate": "Poprzednią",
+    "Ins": "Poprzednią",
+    "Gen": "Poprzedniej",
+    "Loc": "Poprzedniej",
+    "Dat": "Poprzedniej"
+  },
+  {
+    "Adjective": "Poprzedni",
+    "Meaning": "Previous",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Poprzednie",
+    "Nom Comparative": "Bardziej poprzednie",
+    "Nom Superlative": "Najbardziej poprzednie",
+    "Acc Animate": "Poprzednie",
+    "Acc Inanimate": "Poprzednie",
+    "Ins": "Poprzednim",
+    "Gen": "Poprzedniego",
+    "Loc": "Poprzednim",
+    "Dat": "Poprzedniemu"
+  },
+  {
+    "Adjective": "Poprzedni",
+    "Meaning": "Previous",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Poprzedni",
+    "Nom Comparative": "Bardziej poprzedni",
+    "Nom Superlative": "Najbardziej poprzedni",
+    "Acc Animate": "Poprzednich",
+    "Acc Inanimate": "Poprzednie",
+    "Ins": "Poprzednimi",
+    "Gen": "Poprzednich",
+    "Loc": "Poprzednich",
+    "Dat": "Poprzednim"
+  },
+  {
+    "Adjective": "Poprzedni",
+    "Meaning": "Previous",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Poprzednie",
+    "Nom Comparative": "Bardziej poprzednie",
+    "Nom Superlative": "Najbardziej poprzednie",
+    "Acc Animate": "Poprzednie",
+    "Acc Inanimate": "Poprzednie",
+    "Ins": "Poprzednimi",
+    "Gen": "Poprzednich",
+    "Loc": "Poprzednich",
+    "Dat": "Poprzednim"
+  },
+  {
+    "Adjective": "Biedny",
+    "Meaning": "Poor",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Biedny",
+    "Nom Comparative": "Biedniejszy",
+    "Nom Superlative": "Najbiedniejszy",
+    "Acc Animate": "Biednego",
+    "Acc Inanimate": "Biedny",
+    "Ins": "Biednym",
+    "Gen": "Biednego",
+    "Loc": "Biednym",
+    "Dat": "Biednemu"
+  },
+  {
+    "Adjective": "Biedny",
+    "Meaning": "Poor",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Biedna",
+    "Nom Comparative": "Biedniejsza",
+    "Nom Superlative": "Najbiedniejsza",
+    "Acc Animate": "Biedną",
+    "Acc Inanimate": "Biedną",
+    "Ins": "Biedną",
+    "Gen": "Biednej",
+    "Loc": "Biednej",
+    "Dat": "Biednej"
+  },
+  {
+    "Adjective": "Biedny",
+    "Meaning": "Poor",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Biedne",
+    "Nom Comparative": "Biedniejsze",
+    "Nom Superlative": "Najbiedniejsze",
+    "Acc Animate": "Biedne",
+    "Acc Inanimate": "Biedne",
+    "Ins": "Biednym",
+    "Gen": "Biednego",
+    "Loc": "Biednym",
+    "Dat": "Biednemu"
+  },
+  {
+    "Adjective": "Biedny",
+    "Meaning": "Poor",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Biedni",
+    "Nom Comparative": "Biedniejsi",
+    "Nom Superlative": "Najbiedniejsi",
+    "Acc Animate": "Biednych",
+    "Acc Inanimate": "Biedne",
+    "Ins": "Biednymi",
+    "Gen": "Biednych",
+    "Loc": "Biednych",
+    "Dat": "Biednym"
+  },
+  {
+    "Adjective": "Biedny",
+    "Meaning": "Poor",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Biedne",
+    "Nom Comparative": "Biedniejsze",
+    "Nom Superlative": "Najbiedniejsze",
+    "Acc Animate": "Biedne",
+    "Acc Inanimate": "Biedne",
+    "Ins": "Biednimi",
+    "Gen": "Biednych",
+    "Loc": "Biednych",
+    "Dat": "Biednym"
+  },
+  {
+    "Adjective": "Normalny",
+    "Meaning": "Normal",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Normalny",
+    "Nom Comparative": "Normalniejszy",
+    "Nom Superlative": "Najnormalniejszy",
+    "Acc Animate": "Normalnego",
+    "Acc Inanimate": "Normalny",
+    "Ins": "Normalnym",
+    "Gen": "Normalnego",
+    "Loc": "Normalnym",
+    "Dat": "Normalnemu"
+  },
+  {
+    "Adjective": "Normalny",
+    "Meaning": "Normal",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Normalna",
+    "Nom Comparative": "Normalniejsza",
+    "Nom Superlative": "Najnormalniejsza",
+    "Acc Animate": "Normalną",
+    "Acc Inanimate": "Normalną",
+    "Ins": "Normalną",
+    "Gen": "Normalnej",
+    "Loc": "Normalnej",
+    "Dat": "Normalnej"
+  },
+  {
+    "Adjective": "Normalny",
+    "Meaning": "Normal",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Normalne",
+    "Nom Comparative": "Normalniejsze",
+    "Nom Superlative": "Najnormalniejsze",
+    "Acc Animate": "Normalne",
+    "Acc Inanimate": "Normalne",
+    "Ins": "Normalnym",
+    "Gen": "Normalnego",
+    "Loc": "Normalnym",
+    "Dat": "Normalnemu"
+  },
+  {
+    "Adjective": "Normalny",
+    "Meaning": "Normal",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Normalni",
+    "Nom Comparative": "Normalniejsi",
+    "Nom Superlative": "Najnormalniejsi",
+    "Acc Animate": "Normalnych",
+    "Acc Inanimate": "Normalne",
+    "Ins": "Normalnymi",
+    "Gen": "Normalnych",
+    "Loc": "Normalnych",
+    "Dat": "Normalnym"
+  },
+  {
+    "Adjective": "Normalny",
+    "Meaning": "Normal",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Normalne",
+    "Nom Comparative": "Normalniejsze",
+    "Nom Superlative": "Najnormalniejsze",
+    "Acc Animate": "Normalne",
+    "Acc Inanimate": "Normalne",
+    "Ins": "Normalnymi",
+    "Gen": "Normalnych",
+    "Loc": "Normalnych",
+    "Dat": "Normalnym"
+  },
+  {
+    "Adjective": "Czysty",
+    "Meaning": "Clean",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Czysty",
+    "Nom Comparative": "Czystszy",
+    "Nom Superlative": "Najczystszy",
+    "Acc Animate": "Czystego",
+    "Acc Inanimate": "Czysty",
+    "Ins": "Czystym",
+    "Gen": "Czystego",
+    "Loc": "Czystym",
+    "Dat": "Czystemu"
+  },
+  {
+    "Adjective": "Czysty",
+    "Meaning": "Clean",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Czysta",
+    "Nom Comparative": "Czystsza",
+    "Nom Superlative": "Najczystsza",
+    "Acc Animate": "Czystą",
+    "Acc Inanimate": "Czystą",
+    "Ins": "Czystą",
+    "Gen": "Czystej",
+    "Loc": "Czystej",
+    "Dat": "Czystej"
+  },
+  {
+    "Adjective": "Czysty",
+    "Meaning": "Clean",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Czyste",
+    "Nom Comparative": "Czystsze",
+    "Nom Superlative": "Najczystsze",
+    "Acc Animate": "Czyste",
+    "Acc Inanimate": "Czyste",
+    "Ins": "Czystym",
+    "Gen": "Czystego",
+    "Loc": "Czystym",
+    "Dat": "Czystemu"
+  },
+  {
+    "Adjective": "Czysty",
+    "Meaning": "Clean",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Czysti",
+    "Nom Comparative": "Czystsi",
+    "Nom Superlative": "Najczystsi",
+    "Acc Animate": "Czystych",
+    "Acc Inanimate": "Czyste",
+    "Ins": "Czystymi",
+    "Gen": "Czystych",
+    "Loc": "Czystych",
+    "Dat": "Czystym"
+  },
+  {
+    "Adjective": "Czysty",
+    "Meaning": "Clean",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Czyste",
+    "Nom Comparative": "Czystsze",
+    "Nom Superlative": "Najczystsze",
+    "Acc Animate": "Czyste",
+    "Acc Inanimate": "Czyste",
+    "Ins": "Czystymi",
+    "Gen": "Czystych",
+    "Loc": "Czystych",
+    "Dat": "Czystym"
+  },
+  {
+    "Adjective": "Ciemny",
+    "Meaning": "Dark",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Ciemny",
+    "Nom Comparative": "Ciemniejszy",
+    "Nom Superlative": "Najciemniejszy",
+    "Acc Animate": "Ciemnego",
+    "Acc Inanimate": "Ciemny",
+    "Ins": "Ciemnym",
+    "Gen": "Ciemnego",
+    "Loc": "Ciemnym",
+    "Dat": "Ciemnemu"
+  },
+  {
+    "Adjective": "Ciemny",
+    "Meaning": "Dark",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Ciemna",
+    "Nom Comparative": "Ciemniejsza",
+    "Nom Superlative": "Najciemniejsza",
+    "Acc Animate": "Ciemną",
+    "Acc Inanimate": "Ciemną",
+    "Ins": "Ciemną",
+    "Gen": "Ciemnej",
+    "Loc": "Ciemnej",
+    "Dat": "Ciemnej"
+  },
+  {
+    "Adjective": "Ciemny",
+    "Meaning": "Dark",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Ciemne",
+    "Nom Comparative": "Ciemniejsze",
+    "Nom Superlative": "Najciemniejsze",
+    "Acc Animate": "Ciemne",
+    "Acc Inanimate": "Ciemne",
+    "Ins": "Ciemnym",
+    "Gen": "Ciemnego",
+    "Loc": "Ciemnym",
+    "Dat": "Ciemnemu"
+  },
+  {
+    "Adjective": "Ciemny",
+    "Meaning": "Dark",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Ciemni",
+    "Nom Comparative": "Ciemniejsi",
+    "Nom Superlative": "Najciemniejsi",
+    "Acc Animate": "Ciemnych",
+    "Acc Inanimate": "Ciemne",
+    "Ins": "Ciemnymi",
+    "Gen": "Ciemnych",
+    "Loc": "Ciemnych",
+    "Dat": "Ciemnym"
+  },
+  {
+    "Adjective": "Ciemny",
+    "Meaning": "Dark",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Ciemne",
+    "Nom Comparative": "Ciemniejsze",
+    "Nom Superlative": "Najciemniejsze",
+    "Acc Animate": "Ciemne",
+    "Acc Inanimate": "Ciemne",
+    "Ins": "Ciemnymi",
+    "Gen": "Ciemnych",
+    "Loc": "Ciemnych",
+    "Dat": "Ciemnym"
+  },
+  {
+    "Adjective": "Cały",
+    "Meaning": "Whole",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Cały",
+    "Nom Comparative": "Całszy",
+    "Nom Superlative": "Najcałszy",
+    "Acc Animate": "Całego",
+    "Acc Inanimate": "Cały",
+    "Ins": "Całym",
+    "Gen": "Całego",
+    "Loc": "Całym",
+    "Dat": "Całemu"
+  },
+  {
+    "Adjective": "Cały",
+    "Meaning": "Whole",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Cała",
+    "Nom Comparative": "Całsza",
+    "Nom Superlative": "Najcałsza",
+    "Acc Animate": "Całą",
+    "Acc Inanimate": "Całą",
+    "Ins": "Całą",
+    "Gen": "Całej",
+    "Loc": "Całej",
+    "Dat": "Całej"
+  },
+  {
+    "Adjective": "Cały",
+    "Meaning": "Whole",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Całe",
+    "Nom Comparative": "Całsze",
+    "Nom Superlative": "Najcałsze",
+    "Acc Animate": "Całe",
+    "Acc Inanimate": "Całe",
+    "Ins": "Całym",
+    "Gen": "Całego",
+    "Loc": "Całym",
+    "Dat": "Całemu"
+  },
+  {
+    "Adjective": "Cały",
+    "Meaning": "Whole",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Całi",
+    "Nom Comparative": "Całsi",
+    "Nom Superlative": "Najcałsi",
+    "Acc Animate": "Całych",
+    "Acc Inanimate": "Całe",
+    "Ins": "Całymi",
+    "Gen": "Całych",
+    "Loc": "Całych",
+    "Dat": "Całym"
+  },
+  {
+    "Adjective": "Cały",
+    "Meaning": "Whole",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Całe",
+    "Nom Comparative": "Całsze",
+    "Nom Superlative": "Najcałsze",
+    "Acc Animate": "Całe",
+    "Acc Inanimate": "Całe",
+    "Ins": "Całymi",
+    "Gen": "Całych",
+    "Loc": "Całych",
+    "Dat": "Całym"
+  },
+  {
+    "Adjective": "Idealny",
+    "Meaning": "Perfect",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Idealny",
+    "Nom Comparative": "Bardziej idealny",
+    "Nom Superlative": "Najbardziej idealny",
+    "Acc Animate": "Idealnego",
+    "Acc Inanimate": "Idealny",
+    "Ins": "Idealnym",
+    "Gen": "Idealnego",
+    "Loc": "Idealnym",
+    "Dat": "Idealnemu"
+  },
+  {
+    "Adjective": "Idealny",
+    "Meaning": "Perfect",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Idealna",
+    "Nom Comparative": "Bardziej idealna",
+    "Nom Superlative": "Najbardziej idealna",
+    "Acc Animate": "Idealną",
+    "Acc Inanimate": "Idealną",
+    "Ins": "Idealną",
+    "Gen": "Idealnej",
+    "Loc": "Idealnej",
+    "Dat": "Idealnej"
+  },
+  {
+    "Adjective": "Idealny",
+    "Meaning": "Perfect",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Idealne",
+    "Nom Comparative": "Bardziej idealne",
+    "Nom Superlative": "Najbardziej idealne",
+    "Acc Animate": "Idealne",
+    "Acc Inanimate": "Idealne",
+    "Ins": "Idealnym",
+    "Gen": "Idealnego",
+    "Loc": "Idealnym",
+    "Dat": "Idealnemu"
+  },
+  {
+    "Adjective": "Idealny",
+    "Meaning": "Perfect",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Idealni",
+    "Nom Comparative": "Bardziej idealni",
+    "Nom Superlative": "Najbardziej idealni",
+    "Acc Animate": "Idealnych",
+    "Acc Inanimate": "Idealne",
+    "Ins": "Idealnymi",
+    "Gen": "Idealnych",
+    "Loc": "Idealnych",
+    "Dat": "Idealnym"
+  },
+  {
+    "Adjective": "Idealny",
+    "Meaning": "Perfect",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Idealne",
+    "Nom Comparative": "Bardziej idealne",
+    "Nom Superlative": "Najbardziej idealne",
+    "Acc Animate": "Idealne",
+    "Acc Inanimate": "Idealne",
+    "Ins": "Idealnymi",
+    "Gen": "Idealnych",
+    "Loc": "Idealnych",
+    "Dat": "Idealnym"
+  },
+  {
+    "Adjective": "Jasny",
+    "Meaning": "Bright",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Jasny",
+    "Nom Comparative": "Jaśniejszy",
+    "Nom Superlative": "Najjaśniejszy",
+    "Acc Animate": "Jasnego",
+    "Acc Inanimate": "Jasny",
+    "Ins": "Jasnym",
+    "Gen": "Jasnego",
+    "Loc": "Jasnym",
+    "Dat": "Jasnemu"
+  },
+  {
+    "Adjective": "Jasny",
+    "Meaning": "Bright",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Jasna",
+    "Nom Comparative": "Jaśniejsza",
+    "Nom Superlative": "Najjaśniejsza",
+    "Acc Animate": "Jasną",
+    "Acc Inanimate": "Jasną",
+    "Ins": "Jasną",
+    "Gen": "Jasnej",
+    "Loc": "Jasnej",
+    "Dat": "Jasnej"
+  },
+  {
+    "Adjective": "Jasny",
+    "Meaning": "Bright",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Jasne",
+    "Nom Comparative": "Jaśniejsze",
+    "Nom Superlative": "Najjaśniejsze",
+    "Acc Animate": "Jasne",
+    "Acc Inanimate": "Jasne",
+    "Ins": "Jasnym",
+    "Gen": "Jasnego",
+    "Loc": "Jasnym",
+    "Dat": "Jasnemu"
+  },
+  {
+    "Adjective": "Jasny",
+    "Meaning": "Bright",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Jasni",
+    "Nom Comparative": "Jaśniejsi",
+    "Nom Superlative": "Najjaśniejsi",
+    "Acc Animate": "Jasnych",
+    "Acc Inanimate": "Jasne",
+    "Ins": "Jasnymi",
+    "Gen": "Jasnych",
+    "Loc": "Jasnych",
+    "Dat": "Jasnym"
+  },
+  {
+    "Adjective": "Jasny",
+    "Meaning": "Bright",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Jasne",
+    "Nom Comparative": "Jaśniejsze",
+    "Nom Superlative": "Najjaśniejsze",
+    "Acc Animate": "Jasne",
+    "Acc Inanimate": "Jasne",
+    "Ins": "Jasnymi",
+    "Gen": "Jasnych",
+    "Loc": "Jasnych",
+    "Dat": "Jasnym"
+  },
+  {
+    "Adjective": "Brudny",
+    "Meaning": "Dirty",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Brudny",
+    "Nom Comparative": "Brudniejszy",
+    "Nom Superlative": "Najbrudniejszy",
+    "Acc Animate": "Brudnego",
+    "Acc Inanimate": "Brudny",
+    "Ins": "Brudnym",
+    "Gen": "Brudnego",
+    "Loc": "Brudnym",
+    "Dat": "Brudnemu"
+  },
+  {
+    "Adjective": "Brudny",
+    "Meaning": "Dirty",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Brudna",
+    "Nom Comparative": "Brudniejsza",
+    "Nom Superlative": "Najbrudniejsza",
+    "Acc Animate": "Brudną",
+    "Acc Inanimate": "Brudną",
+    "Ins": "Brudną",
+    "Gen": "Brudnej",
+    "Loc": "Brudnej",
+    "Dat": "Brudnej"
+  },
+  {
+    "Adjective": "Brudny",
+    "Meaning": "Dirty",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Brudne",
+    "Nom Comparative": "Brudniejsze",
+    "Nom Superlative": "Najbrudniejsze",
+    "Acc Animate": "Brudne",
+    "Acc Inanimate": "Brudne",
+    "Ins": "Brudnym",
+    "Gen": "Brudnego",
+    "Loc": "Brudnym",
+    "Dat": "Brudnemu"
+  },
+  {
+    "Adjective": "Brudny",
+    "Meaning": "Dirty",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Brudni",
+    "Nom Comparative": "Brudniejsi",
+    "Nom Superlative": "Najbrudniejsi",
+    "Acc Animate": "Brudnych",
+    "Acc Inanimate": "Brudne",
+    "Ins": "Brudnymi",
+    "Gen": "Brudnych",
+    "Loc": "Brudnych",
+    "Dat": "Brudnym"
+  },
+  {
+    "Adjective": "Brudny",
+    "Meaning": "Dirty",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Brudne",
+    "Nom Comparative": "Brudniejsze",
+    "Nom Superlative": "Najbrudniejsze",
+    "Acc Animate": "Brudne",
+    "Acc Inanimate": "Brudne",
+    "Ins": "Brudnymi",
+    "Gen": "Brudnych",
+    "Loc": "Brudnych",
+    "Dat": "Brudnym"
+  },
+  {
+    "Adjective": "Młody",
+    "Meaning": "Young",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Młody",
+    "Nom Comparative": "Młodszy",
+    "Nom Superlative": "Najmłodszy",
+    "Acc Animate": "Młodego",
+    "Acc Inanimate": "Młody",
+    "Ins": "Młodym",
+    "Gen": "Młodego",
+    "Loc": "Młodym",
+    "Dat": "Młodemu"
+  },
+  {
+    "Adjective": "Młody",
+    "Meaning": "Young",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Młoda",
+    "Nom Comparative": "Młodsza",
+    "Nom Superlative": "Najmłodsza",
+    "Acc Animate": "Młodą",
+    "Acc Inanimate": "Młodą",
+    "Ins": "Młodą",
+    "Gen": "Młodej",
+    "Loc": "Młodej",
+    "Dat": "Młodej"
+  },
+  {
+    "Adjective": "Młody",
+    "Meaning": "Young",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Młode",
+    "Nom Comparative": "Młodsze",
+    "Nom Superlative": "Najmłodsze",
+    "Acc Animate": "Młode",
+    "Acc Inanimate": "Młode",
+    "Ins": "Młodym",
+    "Gen": "Młodego",
+    "Loc": "Młodym",
+    "Dat": "Młodemu"
+  },
+  {
+    "Adjective": "Młody",
+    "Meaning": "Young",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Młodzi",
+    "Nom Comparative": "Młodsi",
+    "Nom Superlative": "Najmłodsi",
+    "Acc Animate": "Młodych",
+    "Acc Inanimate": "Młode",
+    "Ins": "Młodymi",
+    "Gen": "Młodych",
+    "Loc": "Młodych",
+    "Dat": "Młodym"
+  },
+  {
+    "Adjective": "Młody",
+    "Meaning": "Young",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Młode",
+    "Nom Comparative": "Młodsze",
+    "Nom Superlative": "Najmłodsze",
+    "Acc Animate": "Młode",
+    "Acc Inanimate": "Młode",
+    "Ins": "Młodymi",
+    "Gen": "Młodych",
+    "Loc": "Młodych",
+    "Dat": "Młodym"
+  },
+  {
+    "Adjective": "Niski",
+    "Meaning": "Low/Short",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Niski",
+    "Nom Comparative": "Niższy",
+    "Nom Superlative": "Najniższy",
+    "Acc Animate": "Niskiego",
+    "Acc Inanimate": "Niski",
+    "Ins": "Niskim",
+    "Gen": "Niskiego",
+    "Loc": "Niskim",
+    "Dat": "Niskiem"
+  },
+  {
+    "Adjective": "Niski",
+    "Meaning": "Low/Short",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Niska",
+    "Nom Comparative": "Niższa",
+    "Nom Superlative": "Najniższa",
+    "Acc Animate": "Niską",
+    "Acc Inanimate": "Niską",
+    "Ins": "Niską",
+    "Gen": "Niskiej",
+    "Loc": "Niskiej",
+    "Dat": "Niskiej"
+  },
+  {
+    "Adjective": "Niski",
+    "Meaning": "Low/Short",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Niskie",
+    "Nom Comparative": "Niższe",
+    "Nom Superlative": "Najniższe",
+    "Acc Animate": "Niskie",
+    "Acc Inanimate": "Niskie",
+    "Ins": "Niskim",
+    "Gen": "Niskiego",
+    "Loc": "Niskim",
+    "Dat": "Niskiem"
+  },
+  {
+    "Adjective": "Niski",
+    "Meaning": "Low/Short",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Nisci",
+    "Nom Comparative": "Niżsi",
+    "Nom Superlative": "Najniżsi",
+    "Acc Animate": "Niskich",
+    "Acc Inanimate": "Niskie",
+    "Ins": "Niskimi",
+    "Gen": "Niskich",
+    "Loc": "Niskich",
+    "Dat": "Niskim"
+  },
+  {
+    "Adjective": "Niski",
+    "Meaning": "Low/Short",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Niskie",
+    "Nom Comparative": "Niższe",
+    "Nom Superlative": "Najniższe",
+    "Acc Animate": "Niskie",
+    "Acc Inanimate": "Niskie",
+    "Ins": "Niskimi",
+    "Gen": "Niskich",
+    "Loc": "Niskich",
+    "Dat": "Niskim"
+  },
+  {
+    "Adjective": "Miły",
+    "Meaning": "Kind / Nice",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Miły",
+    "Nom Comparative": "Milszy",
+    "Nom Superlative": "Najmilszy",
+    "Acc Animate": "Miłego",
+    "Acc Inanimate": "Miły",
+    "Ins": "Miłym",
+    "Gen": "Miłego",
+    "Loc": "Miłym",
+    "Dat": "Miłemu"
+  },
+  {
+    "Adjective": "Miły",
+    "Meaning": "Kind / Nice",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Miła",
+    "Nom Comparative": "Milsza",
+    "Nom Superlative": "Najmilsza",
+    "Acc Animate": "Miłą",
+    "Acc Inanimate": "Miłą",
+    "Ins": "Miłą",
+    "Gen": "Miłej",
+    "Loc": "Miłej",
+    "Dat": "Miłej"
+  },
+  {
+    "Adjective": "Miły",
+    "Meaning": "Kind / Nice",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Miłe",
+    "Nom Comparative": "Milsze",
+    "Nom Superlative": "Najmilsze",
+    "Acc Animate": "Miłe",
+    "Acc Inanimate": "Miłe",
+    "Ins": "Miłym",
+    "Gen": "Miłego",
+    "Loc": "Miłym",
+    "Dat": "Miłemu"
+  },
+  {
+    "Adjective": "Miły",
+    "Meaning": "Kind / Nice",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Mili",
+    "Nom Comparative": "Milsi",
+    "Nom Superlative": "Najmilsi",
+    "Acc Animate": "Miłych",
+    "Acc Inanimate": "Miłe",
+    "Ins": "Miłymi",
+    "Gen": "Miłych",
+    "Loc": "Miłych",
+    "Dat": "Miłym"
+  },
+  {
+    "Adjective": "Miły",
+    "Meaning": "Kind / Nice",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Miłe",
+    "Nom Comparative": "Milsze",
+    "Nom Superlative": "Najmilsze",
+    "Acc Animate": "Miłe",
+    "Acc Inanimate": "Miłe",
+    "Ins": "Miłymi",
+    "Gen": "Miłych",
+    "Loc": "Miłych",
+    "Dat": "Miłym"
+  },
+  {
+    "Adjective": "Popularny",
+    "Meaning": "Popular",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Popularny",
+    "Nom Comparative": "Popularniejszy",
+    "Nom Superlative": "Najpopularniejszy",
+    "Acc Animate": "Popularnego",
+    "Acc Inanimate": "Popularny",
+    "Ins": "Popularnym",
+    "Gen": "Popularnego",
+    "Loc": "Popularnym",
+    "Dat": "Popularnemu"
+  },
+  {
+    "Adjective": "Popularny",
+    "Meaning": "Popular",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Popularna",
+    "Nom Comparative": "Popularniejsza",
+    "Nom Superlative": "Najpopularniejsza",
+    "Acc Animate": "Popularną",
+    "Acc Inanimate": "Popularną",
+    "Ins": "Popularną",
+    "Gen": "Popularnej",
+    "Loc": "Popularnej",
+    "Dat": "Popularnej"
+  },
+  {
+    "Adjective": "Popularny",
+    "Meaning": "Popular",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Popularne",
+    "Nom Comparative": "Popularniejsze",
+    "Nom Superlative": "Najpopularniejsze",
+    "Acc Animate": "Popularne",
+    "Acc Inanimate": "Popularne",
+    "Ins": "Popularnym",
+    "Gen": "Popularnego",
+    "Loc": "Popularnym",
+    "Dat": "Popularnemu"
+  },
+  {
+    "Adjective": "Popularny",
+    "Meaning": "Popular",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Popularni",
+    "Nom Comparative": "Popularniejsi",
+    "Nom Superlative": "Najpopularniejsi",
+    "Acc Animate": "Popularnych",
+    "Acc Inanimate": "Popularne",
+    "Ins": "Popularnymi",
+    "Gen": "Popularnych",
+    "Loc": "Popularnych",
+    "Dat": "Popularnym"
+  },
+  {
+    "Adjective": "Popularny",
+    "Meaning": "Popular",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Popularne",
+    "Nom Comparative": "Popularniejsze",
+    "Nom Superlative": "Najpopularniejsze",
+    "Acc Animate": "Popularne",
+    "Acc Inanimate": "Popularne",
+    "Ins": "Popularnymi",
+    "Gen": "Popularnych",
+    "Loc": "Popularnych",
+    "Dat": "Popularnym"
+  },
+  {
+    "Adjective": "Wysoki",
+    "Meaning": "Tall / High",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Wysoki",
+    "Nom Comparative": "Wyższy",
+    "Nom Superlative": "Najwyższy",
+    "Acc Animate": "Wysokiego",
+    "Acc Inanimate": "Wysoki",
+    "Ins": "Wysokim",
+    "Gen": "Wysokiego",
+    "Loc": "Wysokim",
+    "Dat": "Wysokiemu"
+  },
+  {
+    "Adjective": "Wysoki",
+    "Meaning": "Tall / High",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Wysoka",
+    "Nom Comparative": "Wyższa",
+    "Nom Superlative": "Najwyższa",
+    "Acc Animate": "Wysoką",
+    "Acc Inanimate": "Wysoką",
+    "Ins": "Wysoką",
+    "Gen": "Wysokiej",
+    "Loc": "Wysokiej",
+    "Dat": "Wysokiej"
+  },
+  {
+    "Adjective": "Wysoki",
+    "Meaning": "Tall / High",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Wysokie",
+    "Nom Comparative": "Wyższe",
+    "Nom Superlative": "Najwyższe",
+    "Acc Animate": "Wysokie",
+    "Acc Inanimate": "Wysokie",
+    "Ins": "Wysokim",
+    "Gen": "Wysokiego",
+    "Loc": "Wysokim",
+    "Dat": "Wysokiemu"
+  },
+  {
+    "Adjective": "Wysoki",
+    "Meaning": "Tall / High",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Wysocy",
+    "Nom Comparative": "Wyżsi",
+    "Nom Superlative": "Najwyżsi",
+    "Acc Animate": "Wysokich",
+    "Acc Inanimate": "Wysokie",
+    "Ins": "Wysokimi",
+    "Gen": "Wysokich",
+    "Loc": "Wysokich",
+    "Dat": "Wysokim"
+  },
+  {
+    "Adjective": "Wysoki",
+    "Meaning": "Tall / High",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Wysokie",
+    "Nom Comparative": "Wyższe",
+    "Nom Superlative": "Najwyższe",
+    "Acc Animate": "Wysokie",
+    "Acc Inanimate": "Wysokie",
+    "Ins": "Wysokimi",
+    "Gen": "Wysokich",
+    "Loc": "Wysokich",
+    "Dat": "Wysokim"
+  },
+  {
+    "Adjective": "Krótki",
+    "Meaning": "Short (len.)",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Krótki",
+    "Nom Comparative": "Krótszy",
+    "Nom Superlative": "Najkrótszy",
+    "Acc Animate": "Krótkiego",
+    "Acc Inanimate": "Krótki",
+    "Ins": "Krótkim",
+    "Gen": "Krótkiego",
+    "Loc": "Krótkim",
+    "Dat": "Krótkiemu"
+  },
+  {
+    "Adjective": "Krótki",
+    "Meaning": "Short (len.)",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Krótka",
+    "Nom Comparative": "Krótsza",
+    "Nom Superlative": "Najkrótsza",
+    "Acc Animate": "Krótką",
+    "Acc Inanimate": "Krótką",
+    "Ins": "Krótką",
+    "Gen": "Krótkiej",
+    "Loc": "Krótkiej",
+    "Dat": "Krótkiej"
+  },
+  {
+    "Adjective": "Krótki",
+    "Meaning": "Short (len.)",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Krótkie",
+    "Nom Comparative": "Krótsze",
+    "Nom Superlative": "Najkrótsze",
+    "Acc Animate": "Krótkie",
+    "Acc Inanimate": "Krótkie",
+    "Ins": "Krótkim",
+    "Gen": "Krótkiego",
+    "Loc": "Krótkim",
+    "Dat": "Krótkiemu"
+  },
+  {
+    "Adjective": "Krótki",
+    "Meaning": "Short (len.)",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Krótcy",
+    "Nom Comparative": "Krótsi",
+    "Nom Superlative": "Najkrótsi",
+    "Acc Animate": "Krótkich",
+    "Acc Inanimate": "Krótkie",
+    "Ins": "Krótkimi",
+    "Gen": "Krótkich",
+    "Loc": "Krótkich",
+    "Dat": "Krótkim"
+  },
+  {
+    "Adjective": "Krótki",
+    "Meaning": "Short (len.)",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Krótkie",
+    "Nom Comparative": "Krótsze",
+    "Nom Superlative": "Najkrótsze",
+    "Acc Animate": "Krótkie",
+    "Acc Inanimate": "Krótkie",
+    "Ins": "Krótkimi",
+    "Gen": "Krótkich",
+    "Loc": "Krótkich",
+    "Dat": "Krótkim"
+  },
+  {
+    "Adjective": "Wspaniały",
     "Meaning": "Wonderful",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wspaniały",
+    "Nom Comparative": "Wspanialszy",
+    "Nom Superlative": "Najwspanialszy",
+    "Acc Animate": "Wspaniałego",
+    "Acc Inanimate": "Wspaniały",
+    "Ins": "Wspaniałym",
+    "Gen": "Wspaniałego",
+    "Loc": "Wspaniałym",
+    "Dat": "Wspaniałemu"
   },
   {
+    "Adjective": "Wspaniały",
+    "Meaning": "Wonderful",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Wspaniała",
+    "Nom Comparative": "Wspanialsza",
+    "Nom Superlative": "Najwspanialsza",
+    "Acc Animate": "Wspaniałą",
+    "Acc Inanimate": "Wspaniałą",
+    "Ins": "Wspaniałą",
+    "Gen": "Wspaniałej",
+    "Loc": "Wspaniałej",
+    "Dat": "Wspaniałej"
+  },
+  {
+    "Adjective": "Wspaniały",
+    "Meaning": "Wonderful",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Wspaniałe",
+    "Nom Comparative": "Wspanialsze",
+    "Nom Superlative": "Najwspanialsze",
+    "Acc Animate": "Wspaniałe",
+    "Acc Inanimate": "Wspaniałe",
+    "Ins": "Wspaniałym",
+    "Gen": "Wspaniałego",
+    "Loc": "Wspaniałym",
+    "Dat": "Wspaniałemu"
   },
   {
-    "Adjective": "Długi\nDługa\nDługe",
+    "Adjective": "Wspaniały",
+    "Meaning": "Wonderful",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Wspaniali",
+    "Nom Comparative": "Wspanialsi",
+    "Nom Superlative": "Najwspanialsi",
+    "Acc Animate": "Wspaniałych",
+    "Acc Inanimate": "Wspaniałe",
+    "Ins": "Wspaniałymi",
+    "Gen": "Wspaniałych",
+    "Loc": "Wspaniałych",
+    "Dat": "Wspaniałym"
+  },
+  {
+    "Adjective": "Wspaniały",
+    "Meaning": "Wonderful",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Wspaniałe",
+    "Nom Comparative": "Wspanialsze",
+    "Nom Superlative": "Najwspanialsze",
+    "Acc Animate": "Wspaniałe",
+    "Acc Inanimate": "Wspaniałe",
+    "Ins": "Wspaniałymi",
+    "Gen": "Wspaniałych",
+    "Loc": "Wspaniałych",
+    "Dat": "Wspaniałym"
+  },
+  {
+    "Adjective": "Długi",
     "Meaning": "Long",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Długi",
+    "Nom Comparative": "Dłuższy",
+    "Nom Superlative": "Najdłuższy",
+    "Acc Animate": "Długiego",
+    "Acc Inanimate": "Długi",
+    "Ins": "Długim",
+    "Gen": "Długiego",
+    "Loc": "Długim",
+    "Dat": "Długiemu"
   },
   {
+    "Adjective": "Długi",
+    "Meaning": "Long",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Długa",
+    "Nom Comparative": "Dłuższa",
+    "Nom Superlative": "Najdłuższa",
+    "Acc Animate": "Długą",
+    "Acc Inanimate": "Długą",
+    "Ins": "Długą",
+    "Gen": "Długiej",
+    "Loc": "Długiej",
+    "Dat": "Długiej"
+  },
+  {
+    "Adjective": "Długi",
+    "Meaning": "Long",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Długie",
+    "Nom Comparative": "Dłuższe",
+    "Nom Superlative": "Najdłuższe",
+    "Acc Animate": "Długie",
+    "Acc Inanimate": "Długie",
+    "Ins": "Długim",
+    "Gen": "Długiego",
+    "Loc": "Długim",
+    "Dat": "Długiemu"
   },
   {
-    "Adjective": "Brzydki\nBrzydka\nBrzydkie",
+    "Adjective": "Długi",
+    "Meaning": "Long",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Dłudzy",
+    "Nom Comparative": "Dłużsi",
+    "Nom Superlative": "Najdłużsi",
+    "Acc Animate": "Długich",
+    "Acc Inanimate": "Długie",
+    "Ins": "Długimi",
+    "Gen": "Długich",
+    "Loc": "Długich",
+    "Dat": "Długim"
+  },
+  {
+    "Adjective": "Długi",
+    "Meaning": "Long",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Długie",
+    "Nom Comparative": "Dłuższe",
+    "Nom Superlative": "Najdłuższe",
+    "Acc Animate": "Długie",
+    "Acc Inanimate": "Długie",
+    "Ins": "Długimi",
+    "Gen": "Długich",
+    "Loc": "Długich",
+    "Dat": "Długim"
+  },
+  {
+    "Adjective": "Brzydki",
     "Meaning": "Ugly",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Brzydki",
+    "Nom Comparative": "Brzydszy",
+    "Nom Superlative": "Najbrzydszy",
+    "Acc Animate": "Brzydkiego",
+    "Acc Inanimate": "Brzydki",
+    "Ins": "Brzydkim",
+    "Gen": "Brzydkiego",
+    "Loc": "Brzydkim",
+    "Dat": "Brzydkiemu"
   },
   {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Lekki\nLekka\nLekkie",
-    "Meaning": "Light",
+    "Adjective": "Brzydki",
+    "Meaning": "Ugly",
+    "Gender": "Female",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Brzydka",
+    "Nom Comparative": "Brzydsza",
+    "Nom Superlative": "Najbrzydsza",
+    "Acc Animate": "Brzydką",
+    "Acc Inanimate": "Brzydką",
+    "Ins": "Brzydką",
+    "Gen": "Brzydkiej",
+    "Loc": "Brzydkiej",
+    "Dat": "Brzydkiej"
   },
   {
+    "Adjective": "Brzydki",
+    "Meaning": "Ugly",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Brzydkie",
+    "Nom Comparative": "Brzydsze",
+    "Nom Superlative": "Najbrzydsze",
+    "Acc Animate": "Brzydkie",
+    "Acc Inanimate": "Brzydkie",
+    "Ins": "Brzydkim",
+    "Gen": "Brzydkiego",
+    "Loc": "Brzydkim",
+    "Dat": "Brzydkiemu"
   },
   {
-    "Adjective": "Ciężki\nCiężka\nCiężkie",
+    "Adjective": "Brzydki",
+    "Meaning": "Ugly",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Brzydcy",
+    "Nom Comparative": "Brzydsi",
+    "Nom Superlative": "Najbrzydsi",
+    "Acc Animate": "Brzydkich",
+    "Acc Inanimate": "Brzydkie",
+    "Ins": "Brzydkimi",
+    "Gen": "Brzydkich",
+    "Loc": "Brzydkich",
+    "Dat": "Brzydkim"
+  },
+  {
+    "Adjective": "Brzydki",
+    "Meaning": "Ugly",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Brzydkie",
+    "Nom Comparative": "Brzydsze",
+    "Nom Superlative": "Najbrzydsze",
+    "Acc Animate": "Brzydkie",
+    "Acc Inanimate": "Brzydkie",
+    "Ins": "Brzydkimi",
+    "Gen": "Brzydkich",
+    "Loc": "Brzydkich",
+    "Dat": "Brzydkim"
+  },
+  {
+    "Adjective": "Lekki",
+    "Meaning": "Light (weight)",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Lekki",
+    "Nom Comparative": "Lżejszy",
+    "Nom Superlative": "Najlżejszy",
+    "Acc Animate": "Lekkiego",
+    "Acc Inanimate": "Lekki",
+    "Ins": "Lekkim",
+    "Gen": "Lekkiego",
+    "Loc": "Lekkim",
+    "Dat": "Lekkiemu"
+  },
+  {
+    "Adjective": "Lekki",
+    "Meaning": "Light (weight)",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Lekka",
+    "Nom Comparative": "Lżejsza",
+    "Nom Superlative": "Najlżejsza",
+    "Acc Animate": "Lekką",
+    "Acc Inanimate": "Lekką",
+    "Ins": "Lekką",
+    "Gen": "Lekkiej",
+    "Loc": "Lekkiej",
+    "Dat": "Lekkiej"
+  },
+  {
+    "Adjective": "Lekki",
+    "Meaning": "Light (weight)",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Lekkie",
+    "Nom Comparative": "Lżejsze",
+    "Nom Superlative": "Najlżejsze",
+    "Acc Animate": "Lekkie",
+    "Acc Inanimate": "Lekkie",
+    "Ins": "Lekkim",
+    "Gen": "Lekkiego",
+    "Loc": "Lekkim",
+    "Dat": "Lekkiemu"
+  },
+  {
+    "Adjective": "Lekki",
+    "Meaning": "Light (weight)",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Lekcy",
+    "Nom Comparative": "Lżsi",
+    "Nom Superlative": "Najlżsi",
+    "Acc Animate": "Lekkich",
+    "Acc Inanimate": "Lekkie",
+    "Ins": "Lekkimi",
+    "Gen": "Lekkich",
+    "Loc": "Lekkich",
+    "Dat": "Lekkim"
+  },
+  {
+    "Adjective": "Lekki",
+    "Meaning": "Light (weight)",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Lekkie",
+    "Nom Comparative": "Lżejsze",
+    "Nom Superlative": "Najlżejsze",
+    "Acc Animate": "Lekkie",
+    "Acc Inanimate": "Lekkie",
+    "Ins": "Lekkimi",
+    "Gen": "Lekkich",
+    "Loc": "Lekkich",
+    "Dat": "Lekkim"
+  },
+  {
+    "Adjective": "Ciężki",
     "Meaning": "Heavy",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Ciężki",
+    "Nom Comparative": "Cięższy",
+    "Nom Superlative": "Najcięższy",
+    "Acc Animate": "Ciężkiego",
+    "Acc Inanimate": "Ciężki",
+    "Ins": "Ciężkim",
+    "Gen": "Ciężkiego",
+    "Loc": "Ciężkim",
+    "Dat": "Ciężkiemu"
   },
   {
+    "Adjective": "Ciężki",
+    "Meaning": "Heavy",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Ciężka",
+    "Nom Comparative": "Cięższa",
+    "Nom Superlative": "Najcięższa",
+    "Acc Animate": "Ciężką",
+    "Acc Inanimate": "Ciężką",
+    "Ins": "Ciężką",
+    "Gen": "Ciężkiej",
+    "Loc": "Ciężkiej",
+    "Dat": "Ciężkiej"
+  },
+  {
+    "Adjective": "Ciężki",
+    "Meaning": "Heavy",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Ciężkie",
+    "Nom Comparative": "Cięższe",
+    "Nom Superlative": "Najcięższe",
+    "Acc Animate": "Ciężkie",
+    "Acc Inanimate": "Ciężkie",
+    "Ins": "Ciężkim",
+    "Gen": "Ciężkiego",
+    "Loc": "Ciężkim",
+    "Dat": "Ciężkiemu"
   },
   {
-    "Adjective": "Ciekawy\nCiekawa\nCiekawe",
+    "Adjective": "Ciężki",
+    "Meaning": "Heavy",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Ciężcy",
+    "Nom Comparative": "Ciężsi",
+    "Nom Superlative": "Najciężsi",
+    "Acc Animate": "Ciężkich",
+    "Acc Inanimate": "Ciężkie",
+    "Ins": "Ciężkimi",
+    "Gen": "Ciężkich",
+    "Loc": "Ciężkich",
+    "Dat": "Ciężkim"
+  },
+  {
+    "Adjective": "Ciężki",
+    "Meaning": "Heavy",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Ciężkie",
+    "Nom Comparative": "Cięższe",
+    "Nom Superlative": "Najcięższe",
+    "Acc Animate": "Ciężkie",
+    "Acc Inanimate": "Ciężkie",
+    "Ins": "Ciężkimi",
+    "Gen": "Ciężkich",
+    "Loc": "Ciężkich",
+    "Dat": "Ciężkim"
+  },
+  {
+    "Adjective": "Ciekawy",
     "Meaning": "Interesting",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Ciekawy",
+    "Nom Comparative": "Ciekawszy",
+    "Nom Superlative": "Najciekawszy",
+    "Acc Animate": "Ciekawego",
+    "Acc Inanimate": "Ciekawy",
+    "Ins": "Ciekawym",
+    "Gen": "Ciekawego",
+    "Loc": "Ciekawym",
+    "Dat": "Ciekawemu"
   },
   {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Darmowy\nDarmowa\nDarmowe",
-    "Meaning": "Free",
+    "Adjective": "Ciekawy",
+    "Meaning": "Interesting",
+    "Gender": "Female",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Ciekawa",
+    "Nom Comparative": "Ciekawsza",
+    "Nom Superlative": "Najciekawsza",
+    "Acc Animate": "Ciekawą",
+    "Acc Inanimate": "Ciekawą",
+    "Ins": "Ciekawą",
+    "Gen": "Ciekawej",
+    "Loc": "Ciekawej",
+    "Dat": "Ciekawej"
   },
   {
+    "Adjective": "Ciekawy",
+    "Meaning": "Interesting",
+    "Gender": "Neuter",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "Ciekawe",
+    "Nom Comparative": "Ciekawsze",
+    "Nom Superlative": "Najciekawsze",
+    "Acc Animate": "Ciekawe",
+    "Acc Inanimate": "Ciekawe",
+    "Ins": "Ciekawym",
+    "Gen": "Ciekawego",
+    "Loc": "Ciekawym",
+    "Dat": "Ciekawemu"
   },
   {
-    "Adjective": "Tani\nTania\nTanie",
+    "Adjective": "Ciekawy",
+    "Meaning": "Interesting",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Ciekawi",
+    "Nom Comparative": "Ciekawsi",
+    "Nom Superlative": "Najciekawsi",
+    "Acc Animate": "Ciekawych",
+    "Acc Inanimate": "Ciekawe",
+    "Ins": "Ciekawymi",
+    "Gen": "Ciekawych",
+    "Loc": "Ciekawych",
+    "Dat": "Ciekawym"
+  },
+  {
+    "Adjective": "Ciekawy",
+    "Meaning": "Interesting",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Ciekawe",
+    "Nom Comparative": "Ciekawsze",
+    "Nom Superlative": "Najciekawsze",
+    "Acc Animate": "Ciekawe",
+    "Acc Inanimate": "Ciekawe",
+    "Ins": "Ciekawymi",
+    "Gen": "Ciekawych",
+    "Loc": "Ciekawych",
+    "Dat": "Ciekawym"
+  },
+  {
+    "Adjective": "Darmowy",
+    "Meaning": "Free (no cost)",
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "Darmowy",
+    "Nom Comparative": "Bardziej darmowy",
+    "Nom Superlative": "Najbardziej darmowy",
+    "Acc Animate": "Darmowego",
+    "Acc Inanimate": "Darmowy",
+    "Ins": "Darmowym",
+    "Gen": "Darmowego",
+    "Loc": "Darmowym",
+    "Dat": "Darmowemu"
+  },
+  {
+    "Adjective": "Darmowy",
+    "Meaning": "Free (no cost)",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "Darmowa",
+    "Nom Comparative": "Bardziej darmowa",
+    "Nom Superlative": "Najbardziej darmowa",
+    "Acc Animate": "Darmową",
+    "Acc Inanimate": "Darmową",
+    "Ins": "Darmową",
+    "Gen": "Darmowej",
+    "Loc": "Darmowej",
+    "Dat": "Darmowej"
+  },
+  {
+    "Adjective": "Darmowy",
+    "Meaning": "Free (no cost)",
+    "Gender": "Neuter",
+    "Single / Plural": "Plural",
+    "Nom": "Darmowe",
+    "Nom Comparative": "Bardziej darmowe",
+    "Nom Superlative": "Najbardziej darmowe",
+    "Acc Animate": "Darmowe",
+    "Acc Inanimate": "Darmowe",
+    "Ins": "Darmowym",
+    "Gen": "Darmowego",
+    "Loc": "Darmowym",
+    "Dat": "Darmowemu"
+  },
+  {
+    "Adjective": "Darmowy",
+    "Meaning": "Free (no cost)",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "Darmowi",
+    "Nom Comparative": "Bardziej darmowi",
+    "Nom Superlative": "Najbardziej darmowi",
+    "Acc Animate": "Darmowych",
+    "Acc Inanimate": "Darmowe",
+    "Ins": "Darmowymi",
+    "Gen": "Darmowych",
+    "Loc": "Darmowych",
+    "Dat": "Darmowym"
+  },
+  {
+    "Adjective": "Darmowy",
+    "Meaning": "Free (no cost)",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "Darmowe",
+    "Nom Comparative": "Bardziej darmowe",
+    "Nom Superlative": "Najbardziej darmowe",
+    "Acc Animate": "Darmowe",
+    "Acc Inanimate": "Darmowe",
+    "Ins": "Darmowymi",
+    "Gen": "Darmowych",
+    "Loc": "Darmowych",
+    "Dat": "Darmowym"
+  },
+  {
+    "Adjective": "Tani",
     "Meaning": "Cheap",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "tani",
+    "Nom Comparative": "tańszy",
+    "Nom Superlative": "najtańszy",
+    "Acc Animate": "taniego",
+    "Acc Inanimate": "tani",
+    "Ins": "tanim",
+    "Gen": "taniego",
+    "Loc": "tanim",
+    "Dat": "taniemu"
   },
   {
+    "Adjective": "Tani",
+    "Meaning": "Cheap",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "tania",
+    "Nom Comparative": "tańsza",
+    "Nom Superlative": "najtańsza",
+    "Acc Animate": "tanią",
+    "Acc Inanimate": "tanią",
+    "Ins": "tanią",
+    "Gen": "taniej",
+    "Loc": "taniej",
+    "Dat": "taniej"
+  },
+  {
+    "Adjective": "Tani",
+    "Meaning": "Cheap",
+    "Gender": "Neuter",
+    "Single / Plural": "Singular",
+    "Nom": "tanie",
+    "Nom Comparative": "tańsze",
+    "Nom Superlative": "najtańsze",
+    "Acc Animate": "tanie",
+    "Acc Inanimate": "tanie",
+    "Ins": "tanim",
+    "Gen": "taniego",
+    "Loc": "tanim",
+    "Dat": "taniemu"
+  },
+  {
+    "Adjective": "Tani",
+    "Meaning": "Cheap",
+    "Gender": "Male",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "tani",
+    "Nom Comparative": "tańsi",
+    "Nom Superlative": "najtańsi",
+    "Acc Animate": "tanich",
+    "Acc Inanimate": "tanie",
+    "Ins": "tanimi",
+    "Gen": "tanich",
+    "Loc": "tanich",
+    "Dat": "tanim"
   },
   {
-    "Adjective": "Nudny\nNudna\nNudne",
+    "Adjective": "Tani",
+    "Meaning": "Cheap",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "tanie",
+    "Nom Comparative": "tańsze",
+    "Nom Superlative": "najtańsze",
+    "Acc Animate": "tanie",
+    "Acc Inanimate": "tanie",
+    "Ins": "tanimi",
+    "Gen": "tanich",
+    "Loc": "tanich",
+    "Dat": "tanim"
+  },
+  {
+    "Adjective": "Nudny",
     "Meaning": "Boring",
+    "Gender": "Male",
     "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "nudny",
+    "Nom Comparative": "nudniejszy",
+    "Nom Superlative": "najnudniejszy",
+    "Acc Animate": "nudnego",
+    "Acc Inanimate": "nudny",
+    "Ins": "nudnym",
+    "Gen": "nudnego",
+    "Loc": "nudnym",
+    "Dat": "nudnemu"
   },
   {
+    "Adjective": "Nudny",
+    "Meaning": "Boring",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "nudna",
+    "Nom Comparative": "nudniejsza",
+    "Nom Superlative": "najnudniejsza",
+    "Acc Animate": "nudną",
+    "Acc Inanimate": "nudną",
+    "Ins": "nudną",
+    "Gen": "nudnej",
+    "Loc": "nudnej",
+    "Dat": "nudnej"
+  },
+  {
+    "Adjective": "Nudny",
+    "Meaning": "Boring",
+    "Gender": "Neuter",
+    "Single / Plural": "Singular",
+    "Nom": "nudne",
+    "Nom Comparative": "nudniejsze",
+    "Nom Superlative": "najnudniejsze",
+    "Acc Animate": "nudne",
+    "Acc Inanimate": "nudne",
+    "Ins": "nudnym",
+    "Gen": "nudnego",
+    "Loc": "nudnym",
+    "Dat": "nudnemu"
+  },
+  {
+    "Adjective": "Nudny",
+    "Meaning": "Boring",
+    "Gender": "Male",
     "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Nom": "nudni",
+    "Nom Comparative": "nudniejsi",
+    "Nom Superlative": "najnudniejsi",
+    "Acc Animate": "nudnych",
+    "Acc Inanimate": "nudne",
+    "Ins": "nudnymi",
+    "Gen": "nudnych",
+    "Loc": "nudnych",
+    "Dat": "nudnym"
   },
   {
-    "Adjective": "Drogi\nDroga\nDrogie",
+    "Adjective": "Nudny",
+    "Meaning": "Boring",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "nudne",
+    "Nom Comparative": "nudniejsze",
+    "Nom Superlative": "najnudniejsze",
+    "Acc Animate": "nudne",
+    "Acc Inanimate": "nudne",
+    "Ins": "nudnymi",
+    "Gen": "nudnych",
+    "Loc": "nudnych",
+    "Dat": "nudnym"
+  },
+  {
+    "Adjective": "Drogi",
     "Meaning": "Expensive",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wygodny\nWygodna\nWygodne",
-    "Meaning": "Comfortable",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Smutny\nSmutna\nSmutne",
-    "Meaning": "Sad",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Mokry\nMokra\nMokre",
-    "Meaning": "Wet",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Słaby\nSłaba\nSłabe",
-    "Meaning": "Weak",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wesoły\nWesoła\nWesołe",
-    "Meaning": "Cheerful",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Silny\nSilna\nSilne",
-    "Meaning": "Strong",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Suchy\nSucha\nSuche",
-    "Meaning": "Dry",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Drewniany\nDrewniana\nDrewniane",
-    "Meaning": "Wooden",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wąski\nWąska\nWąskie",
-    "Meaning": "Narrow",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Sławny\nSławna\nSławne",
-    "Meaning": "Famous",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Plastikowy\nPlastikowa\nPlastikowe",
-    "Meaning": "Plastic",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Szeroki\nSzeroka\nSzerokie",
-    "Meaning": "Wide",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Metalowy\nMetalowa\nMetalowe",
-    "Meaning": "Metal",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Dorosły\nDorosła\nDorosłe",
-    "Meaning": "Adult",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Prawy\nPrawa\nPrawe",
-    "Meaning": "Right",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Lewy\nLewa\nLewe",
-    "Meaning": "Left",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Ostatni\nOstatnia\nOstatnie",
-    "Meaning": "Last",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wystarczający\nWystarczająca\nWystarczające",
-    "Meaning": "Sufficient",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Spragniony\nSpragniona\nSpragnione",
-    "Meaning": "Thirsty",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Głodny\nGłodna\nGłodne",
-    "Meaning": "Hungry",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Ulubiony\nUlubiona\nUlubione",
-    "Meaning": "Favourite",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Podstawowy\nPodstawowa\nPodstawowe",
-    "Meaning": "Basic / Fundamental",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Zmęczony\nZmęczona\nZmęczone",
-    "Meaning": "Tired",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Poważny\nPoważna\nPoważne",
-    "Meaning": "Serious",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Własny\nWłasna\nWłasne",
-    "Meaning": "Own",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Prawdziwy\nPrawdziwa\nPrawdziwe",
-    "Meaning": "True / Genuine",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Tradycyjny\nTradycyjna\nTradycyjne",
-    "Meaning": "Traditional",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Nowoczesny\nNowoczesna\nNowoczesne",
-    "Meaning": "Modern",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Słodki\nSłodka\nSłodkie",
-    "Meaning": "Sweet",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Mądry\nMądra\nMądre",
-    "Meaning": "Smart",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Potrzebny\nPotrzebna\nPotrzebne",
-    "Meaning": "Needed",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Otwarty\nOtwarta\nOtwarte",
-    "Meaning": "Open",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Świeży\nŚwieża\nŚwieże",
-    "Meaning": "Fresh",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Zamknięty\nZamknięta\nZamknięte",
-    "Meaning": "Closed",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Gotowy\nGotowa\nGotowe",
-    "Meaning": "Ready",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Ciepły\nCiepła\nCiepłe",
-    "Meaning": "Warm",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Trudny\nTrudna\nTrudne",
-    "Meaning": "Tough / Difficult",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Łatwy\nŁatwa\nŁatwe",
-    "Meaning": "Easy / Simple",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Taki\nTaka\nTakie",
-    "Meaning": "Such / Like that",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Nom": "Tacy",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Dziwny\nDziwna\nDziwne",
-    "Meaning": "Strange",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Zabawny\nZabawna\nZabawne",
-    "Meaning": "Funny",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Przydatny\nPrzydatna\nPrzydatne",
-    "Meaning": "Useful",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Szczupły\nSzczupła\nSzczupłe",
-    "Meaning": "Thin",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Zimny\nZimna\nZimne",
-    "Meaning": "Cold",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Straszny\nStraszna\nStraszne",
-    "Meaning": "Scary",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Gorący\nGorąca\nGorące",
-    "Meaning": "Hot",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Sam\nSama\nSame",
-    "Meaning": "Alone / By itself",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Możliwy\nMożliwa\nMożliwe",
-    "Meaning": "Possible",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Miękki\nMiękka\nMiękkie",
-    "Meaning": "Soft",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Pusty\nPusta\nPuste",
-    "Meaning": "Empty",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Twardy\nTwarda\nTwarde",
-    "Meaning": "Hard / Tough",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Pełny\nPełna\nPełne",
-    "Meaning": "Full",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Niemożliwy\nNiemożliwa\nNiemożliwe",
-    "Meaning": "Impossible",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Podobny\nPodobna\nPodobne",
-    "Meaning": "Similar",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wyspólny\nWyspólna\nWyspólne",
-    "Meaning": "Shared / Common",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Zawodowy\nZawodowa\nZawodowe",
-    "Meaning": "Professional",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Średni\nŚrednia\nŚrednie",
-    "Meaning": "Average / Medium",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Bezpieczny\nBezpieczna\nBezpieczne",
-    "Meaning": "Safe",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Niebezpieczny\nNiebezpieczna\nNiebezpieczne",
-    "Meaning": "Dangerous",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Prywatny\nPrywatna\nPrywatne",
-    "Meaning": "Private",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Dziki\nDzika\nDzikie",
-    "Meaning": "Wild",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Cichy\nCicha\nCiche",
-    "Meaning": "Quiet",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Głośny\nGłośna\nGłośne",
-    "Meaning": "Loud",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Zdrowy\nZdrowa\nZdrowe",
-    "Meaning": "Healthy",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najlepszy\nNajlepsza\nNajlepsze",
-    "Meaning": "Best",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najgorszy\nNajgorsza\nNajgorsze",
-    "Meaning": "Worst",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najmniejszy\nNajmniejsza\nNajmniejsze",
-    "Meaning": "Smallest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Mniejszy\nMniejsza\nMniejsze",
-    "Meaning": "Smaller",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Większy\nWiększa\nWiększe",
-    "Meaning": "Bigger",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Gorszy\nGorsza\nGorsze",
-    "Meaning": "Worse",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Lepszy\nLepsza\nLepsze",
-    "Meaning": "Better",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Młodszy\nMłodsza\nMłodsze",
-    "Meaning": "Younger",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najważniejszy\nNajważniejsza\nNajważniejsze",
-    "Meaning": "Most important",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Niższy\nNiższa\nNiższe",
-    "Meaning": "Shorter",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wyższy\nWyższa\nWyższe",
-    "Meaning": "Taller",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najstarszy\nNajstarsza\nNajstarsze",
-    "Meaning": "Oldest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najniższy\nNajniższa\nNajniższe",
-    "Meaning": "Shortest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Ważniejszy\nWażniejsza\nWażniejsze",
-    "Meaning": "More important",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Nowszy\nNowsza\nNowsze",
-    "Meaning": "Newer",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Krótszy\nKrótsza\nKrótsze",
-    "Meaning": "Shorter",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najtańszy\nNajtańsza\nNajtańsze",
-    "Meaning": "Cheapest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Dłuższy\nDłuższa\nDłuższe",
-    "Meaning": "Longer",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Droższy\nDroższa\nDroższe",
-    "Meaning": "More expensive",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najnowszy\nNajnowsza\nNajnowsze",
-    "Meaning": "Newest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najdłuższy\nNajdłuższa\nNajdłuższe",
-    "Meaning": "Longest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najdroższy\nNajdroższa\nNajdroższe",
-    "Meaning": "Most expensive",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najwyższy\nNajwyższa\nNajwyższe",
-    "Meaning": "Tallest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Słabszy\nSłabsza\nSłabsze",
-    "Meaning": "Weaker",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najsłabszy\nNajsłabsza\nNajsłabsze",
-    "Meaning": "Weakest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Łatwiejszy\nŁatwiejsza\nŁatwiejsze",
-    "Meaning": "Easier",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wolniejszy\nWolniejsza\nWolniejsze",
-    "Meaning": "Slower",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Silniejszy\nSilniejsza\nSilniejsze",
-    "Meaning": "Stronger",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najszybszy\nNajszybsza\nNajszybsze",
-    "Meaning": "Fastest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najsilniejszy\nNajsilniejsza\nNajsilniejsze",
-    "Meaning": "Strongest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Szybszy\nSzybsza\nSzybsze",
-    "Meaning": "Faster",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najwolniejszy\nNajwolniejsza\nNajwolniejsze",
-    "Meaning": "Slowest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najtrudniejszy\nNajtrudniejsza\nNajtrudniejsze",
-    "Meaning": "Most difficult",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Trudniejszy\nTrudniejsza\nTrudniejsze",
-    "Meaning": "More difficult",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Głęboki\nGłęboka\nGłębokie",
-    "Meaning": "Deep",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Głębszy\nGłębsza\nGłębsze",
-    "Meaning": "Deeper",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Najgłębszy\nNajgłębsza\nNajgłębsze",
-    "Meaning": "Deepest",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Wrażliwy\nWrażliwa\nWrażliwe",
-    "Meaning": "Sensitive",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Złoty\nZłota\nZłote",
-    "Meaning": "Golden",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Warty\nWarta\nWarte",
-    "Meaning": "Worth",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Adjective": "Święty\nŚwięta\nŚwięte",
-    "Meaning": "Holy",
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Singular",
-    "Examples": "-\n-\n-\n-\n-\n-"
-  },
-  {
-    "Single / Plural": "Plural",
-    "Examples": "-\n-\n-\n-\n-\n-"
+    "Gender": "Male",
+    "Single / Plural": "Singular",
+    "Nom": "drogi",
+    "Nom Comparative": "droższy",
+    "Nom Superlative": "najdroższy",
+    "Acc Animate": "drogiego",
+    "Acc Inanimate": "drogi",
+    "Ins": "drogim",
+    "Gen": "drogiego",
+    "Loc": "drogim",
+    "Dat": "drogiemu"
+  },
+  {
+    "Adjective": "Drogi",
+    "Meaning": "Expensive",
+    "Gender": "Female",
+    "Single / Plural": "Singular",
+    "Nom": "droga",
+    "Nom Comparative": "droższa",
+    "Nom Superlative": "najdroższa",
+    "Acc Animate": "drogą",
+    "Acc Inanimate": "drogą",
+    "Ins": "drogą",
+    "Gen": "drogiej",
+    "Loc": "drogiej",
+    "Dat": "drogiej"
+  },
+  {
+    "Adjective": "Drogi",
+    "Meaning": "Expensive",
+    "Gender": "Neuter",
+    "Single / Plural": "Singular",
+    "Nom": "drogie",
+    "Nom Comparative": "droższe",
+    "Nom Superlative": "najdroższe",
+    "Acc Animate": "drogie",
+    "Acc Inanimate": "drogie",
+    "Ins": "drogim",
+    "Gen": "drogiego",
+    "Loc": "drogim",
+    "Dat": "drogiemu"
+  },
+  {
+    "Adjective": "Drogi",
+    "Meaning": "Expensive",
+    "Gender": "Male",
+    "Single / Plural": "Plural",
+    "Nom": "drodzy",
+    "Nom Comparative": "drożsi",
+    "Nom Superlative": "najdrożsi",
+    "Acc Animate": "drogich",
+    "Acc Inanimate": "drogie",
+    "Ins": "drogimi",
+    "Gen": "drogich",
+    "Loc": "drogich",
+    "Dat": "drogim"
+  },
+  {
+    "Adjective": "Drogi",
+    "Meaning": "Expensive",
+    "Gender": "Non-male",
+    "Single / Plural": "Plural",
+    "Nom": "drogie",
+    "Nom Comparative": "droższe",
+    "Nom Superlative": "najdroższe",
+    "Acc Animate": "drogie",
+    "Acc Inanimate": "drogie",
+    "Ins": "drogimi",
+    "Gen": "drogich",
+    "Loc": "drogich",
+    "Dat": "drogim"
   }
 ]

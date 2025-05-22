@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const getSentences = require("./Controllers/sentenceControllers")
+const { getSentences, getSentencesById } = require("./Controllers/sentenceControllers")
 const { getImpPastTenseVerbs, getImpPresentTenseVerbs, getImpConditionalTenseVerbs, getConditionalTensePerVerbs, getPastTensePerVerbs, getFutureTensePerVerbs, getImpPastTenseVerbsById, getImpPresentTenseVerbsById, getImpConditionalTenseVerbsById, getPastTensePerVerbsById, getFutureTensePerVerbsById, getConditionalTensePerVerbsById } = require("./Controllers/verbControllers")
 const { getPronouns, getPronounsById } = require("./Controllers/pronounControllers");
 const { getPrepositions, getPrepositionsById } = require("./Controllers/prepositionControllers")
@@ -12,6 +12,7 @@ app.get('/api/healthcheck', (req, res) => {
 })
 
 app.get("/api/sentences", getSentences);
+app.get("/api/sentences/:id", getSentencesById);
 
 app.get("/api/verbs/imperfective/pastTense", getImpPastTenseVerbs);
 app.get("/api/verbs/imperfective/pastTense/:id", getImpPastTenseVerbsById);

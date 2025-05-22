@@ -194,6 +194,28 @@ function formatPrepositionData(input) {
   return formattedPrepositions;
 }
 
+function formatAdjectiveData(input) {
+  const formattedAdjectives = input.map((adjective) => {
+    return [
+      adjective.Adjective,
+      adjective.Meaning,
+      adjective.Gender,
+      adjective["Single / Plural"],
+      adjective.Nom,
+      adjective["Nom Comparative"],
+      adjective["Nom Superlative"],
+      adjective["Acc Animate"],
+      adjective["Acc Inanimate"],
+      adjective.Ins,
+      adjective.Gen,
+      adjective.Loc,
+      adjective.Dat
+    ]
+  })
+
+  return formattedAdjectives;
+}
+
 function capitaliseFirst(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
@@ -233,4 +255,4 @@ function validatePerVerbUnit(unit) {
   return acceptableUnits.includes(Number(unit));
 }
 
-module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit }
+module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData }

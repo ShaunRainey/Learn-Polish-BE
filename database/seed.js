@@ -20,9 +20,9 @@ const {
   Genitive_DopełniaczData,
   Locative_MiejscownikData,
 } = require("./data/index");
-const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData } = require("./utils");
+const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData } = require("./utils");
 const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs, createPronouns, createPrepositions, createAdjectives } = require("./construction/createTables");
-const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns, insertPrepositions } = require("./construction/insertData");
+const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns, insertPrepositions, insertAdjectives } = require("./construction/insertData");
 
 function seed() {
     return db
@@ -58,7 +58,8 @@ function seed() {
                 formatImperfectiveVerbData(Verbs_ImperfectiveData),
                 formatPerfectiveVerbData(Verbs_PerfectiveData),
                 formatPronounData(PronounsData),
-                formatPrepositionData(PrepositionsData)
+                formatPrepositionData(PrepositionsData),
+                formatAdjectiveData(AdjectivesData)
             ])
         })
         .then((newData) => {
@@ -71,7 +72,8 @@ function seed() {
                 insertFutureTensePerfectiveData(newData[2].formattedFutureVerbs),
                 insertConditionalTensePerfectiveData(newData[2].formattedConditionalVerbs),
                 insertPronouns(newData[3]),
-                insertPrepositions(newData[4])
+                insertPrepositions(newData[4]),
+                insertAdjectives(newData[5])
             ])
         })
 }

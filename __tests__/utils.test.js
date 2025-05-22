@@ -19,7 +19,7 @@ const {
   Genitive_DopełniaczData,
   Locative_MiejscownikData,
 } = require("../database/data/index");
-const { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData } = require("../database/utils");
+const { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData } = require("../database/utils");
 
 /* The tests here will be kept fairly minimal as I'm the only user for this section. They exist mostly to highlight if I accidentally mess up
 the code functionality at some point, leading to the tests failing.
@@ -201,6 +201,17 @@ describe("test suite for prepositions", () => {
       expect(typeof (row[1])).toBe("string");
       expect(typeof (row[2])).toBe("string");
       expect(typeof (row[3])).toBe("string");
+    })
+  })
+})
+
+describe("test suite for adjectives", () => {
+  test.only("format adjective data", () => {
+    const input = AdjectivesData;
+    const output = formatAdjectiveData(input);
+    expect(Array.isArray(output)).toBe(true);
+    output.forEach((row) => {
+      expect(row.length).toBe(13);
     })
   })
 })

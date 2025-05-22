@@ -22,10 +22,10 @@ app.get("/api/verbs/perfective/futureTense", getFutureTensePerVerbs);
 app.get("/api/verbs/perfective/conditionalTense", getConditionalTensePerVerbs);
 
 app.get("/api/pronouns", getPronouns);
-app.get("/api/pronouns/:id", getPronounsById)
+app.get("/api/pronouns/:id", getPronounsById);
 
 app.get("/api/prepositions", getPrepositions);
-app.get("/api/prepositions/:id", getPrepositionsById)
+app.get("/api/prepositions/:id", getPrepositionsById);
 
 //When running all tests, listener needs to be turned off to avoid errors
 app.listen(9001, () => { 

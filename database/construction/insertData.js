@@ -47,7 +47,7 @@ function insertPrepositions(prepositionData) {
 }
 
 function insertAdjectives(adjectivesData) {
-    const insertString = format(`INSERT INTO adjectives(adjective, meaning, gender, singular_plural, nominative, nominative_comparative, nominative_superlative, accusative_animate, accusative_inanimate, instrumental, genitive, locative, dative) VALUES %L RETURNING *;`, adjectivesData);
+    const insertString = format(`INSERT INTO adjectives(base_adjective, meaning, gender, singular_plural, nominative, nominative_comparative, nominative_superlative, accusative_animate, accusative_inanimate, instrumental, genitive, locative, dative) VALUES %L RETURNING *;`, adjectivesData);
     return db.query(insertString)
 }
 

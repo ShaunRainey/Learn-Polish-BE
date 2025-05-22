@@ -25,7 +25,6 @@ function getPrepositionsById(req, res, next) {
     }
 
     selectPrepositionsById(id).then((data) => {
-
         if (data.rows.length === 0) {
             return next({ status: 404, msg: "invalid id number"})
         }

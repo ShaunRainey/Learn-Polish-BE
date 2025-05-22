@@ -143,7 +143,7 @@ function createPrepositions() {
 function createAdjectives() {
     return db.query(`CREATE TABLE adjectives(
         adjective_id SERIAL PRIMARY KEY,
-        adjective VARCHAR(40),
+        base_adjective VARCHAR(40),
         meaning VARCHAR(40),
         gender VARCHAR(40),
         singular_plural VARCHAR(40),

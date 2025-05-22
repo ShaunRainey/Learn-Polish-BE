@@ -156,7 +156,7 @@ describe("seed", () => {
             return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'adjectives'`)
                 .then(({ rows }) => {
                     const newMap = rows.map((row) => { return row.column_name });
-                    expect(newMap).toEqual(["adjective_id", "adjective", "meaning", "gender", "singular_plural", "nominative", "nominative_comparative", "nominative_superlative", "accusative_animate", "accusative_inanimate", "instrumental", "genitive", "locative", "dative"])
+                    expect(newMap).toEqual(["adjective_id", "base_adjective", "meaning", "gender", "singular_plural", "nominative", "nominative_comparative", "nominative_superlative", "accusative_animate", "accusative_inanimate", "instrumental", "genitive", "locative", "dative"])
                 })
         })
     })

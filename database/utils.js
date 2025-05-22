@@ -255,4 +255,20 @@ function validatePerVerbUnit(unit) {
   return acceptableUnits.includes(Number(unit));
 }
 
-module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData }
+function buildWhereClause(filters) {
+  console.log(filters)
+    const conditions = [];
+    const values = [];
+
+    Object.entries(filters).forEach(([key, value]) => {
+        if (value !== undefined && value !== null) {
+            values.push(value);
+            conditions.push(`${key} = $${values.length}`);
+        }
+    });
+
+    const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
+    return { whereClause, values };
+}
+
+module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause }

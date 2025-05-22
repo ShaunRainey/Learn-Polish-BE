@@ -1,7 +1,15 @@
-const { selectPastTenseVerbs, selectPresentTenseVerbs , selectConditionalTenseVerbs, selectPastTensePerVerbs, selectFutureTensePerVerbs, selectConditionalTensePerVerbs, selectImpPastTenseVerbsById, selectImpPresentTenseVerbsById, selectImpConditionalTenseVerbsById, selectPastTensePerVerbsById, selectFutureTensePerVerbsById, selectConditionalTensePerVerbsById } = require("../Models/verbModels")
+const { selectPastTenseVerbs, selectPresentTenseVerbs, selectConditionalTenseVerbs, selectPastTensePerVerbs, selectFutureTensePerVerbs, selectConditionalTensePerVerbs, selectImpPastTenseVerbsById, selectImpPresentTenseVerbsById, selectImpConditionalTenseVerbsById, selectPastTensePerVerbsById, selectFutureTensePerVerbsById, selectConditionalTensePerVerbsById } = require("../Models/verbModels");
+const { validateImpVerbUnit, validatePerVerbUnit } = require("../database/utils");
 
 function getImpPastTenseVerbs(req, res, next) {
-    selectPastTenseVerbs().then((data) => {
+
+    const { unit } = req.query;
+
+    if (!validateImpVerbUnit(unit)) {
+        return next({ status: 404, msg: "Invalid unit option" });
+    }  
+    
+    selectPastTenseVerbs(unit).then((data) => {
         return res.status(200).send(data.rows)
     })
 }
@@ -22,7 +30,14 @@ function getImpPastTenseVerbsById(req, res, next) {
 }
 
 function getImpPresentTenseVerbs(req, res, next) {
-    selectPresentTenseVerbs().then((data) => {
+
+    const { unit } = req.query;
+
+    if (!validateImpVerbUnit(unit)) {
+        return next({ status: 404, msg: "Invalid unit option" });
+    }
+
+    selectPresentTenseVerbs(unit).then((data) => {
         return res.status(200).send(data.rows)
     })
 }
@@ -43,7 +58,14 @@ function getImpPresentTenseVerbsById(req, res, next) {
 }
 
 function getImpConditionalTenseVerbs(req, res, next) {
-    selectConditionalTenseVerbs().then((data) => {
+
+    const { unit } = req.query;
+
+    if (!validateImpVerbUnit(unit)) {
+        return next({ status: 404, msg: "Invalid unit option" });
+    }
+
+    selectConditionalTenseVerbs(unit).then((data) => {
         return res.status(200).send(data.rows)
     })
 }
@@ -71,7 +93,14 @@ function getImpConditionalTenseVerbsById(req, res, next) {
 
 
 function getPastTensePerVerbs(req, res, next) {
-    selectPastTensePerVerbs().then((data) => {
+
+    const { unit } = req.query;
+
+    if (!validatePerVerbUnit(unit)) {
+        return next({ status: 404, msg: "Invalid unit option" });
+    }
+
+    selectPastTensePerVerbs(unit).then((data) => {
         return res.status(200).send(data.rows)
     })
 }
@@ -92,7 +121,14 @@ function getPastTensePerVerbsById(req, res, next) {
 }
 
 function getFutureTensePerVerbs(req, res, next) {
-    selectFutureTensePerVerbs().then((data) => {
+
+    const { unit } = req.query;
+
+    if (!validatePerVerbUnit(unit)) {
+        return next({ status: 404, msg: "Invalid unit option" });
+    }
+
+    selectFutureTensePerVerbs(unit).then((data) => {
         return res.status(200).send(data.rows)
     })
 }
@@ -113,7 +149,14 @@ function getFutureTensePerVerbsById(req, res, next) {
 }
 
 function getConditionalTensePerVerbs(req, res, next) {
-    selectConditionalTensePerVerbs().then((data) => {
+
+    const { unit } = req.query;
+
+    if (!validatePerVerbUnit(unit)) {
+        return next({ status: 404, msg: "Invalid unit option" });
+    }
+
+    selectConditionalTensePerVerbs(unit).then((data) => {
         return res.status(200).send(data.rows)
     })
 }

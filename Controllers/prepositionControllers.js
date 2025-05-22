@@ -2,6 +2,7 @@ const { selectPrepositions, selectPrepositionsById } = require("../Models/prepos
 const { capitaliseFirst } = require("../database/utils")
 
 function getPrepositions(req, res, next) {
+    
     const { grammaticalCase } = req.query;
     const capitalisedCase = grammaticalCase ? capitaliseFirst(grammaticalCase) : null;
     const acceptedValues = ["Genitive", "Instrumental", "Locative", "Accusative"];

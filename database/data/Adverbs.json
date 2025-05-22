@@ -1,0 +1,4820 @@
+[
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Ani",
+    "Meaning": "Nor",
+    "Example": "Nie mam ani czasu, ani pieniędzy.",
+    "Translation": "I have neither time nor money.",
+    "Notes": "These adverbs express agreement, confirmation, or denial. Use when you want to affirm or deny a statement, action, or condition."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Ani",
+    "Meaning": "Nor",
+    "Example": "Ani on, ani ona nie przyszli na spotkanie.",
+    "Translation": "Neither he nor she came to the meeting."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Ani",
+    "Meaning": "Nor",
+    "Example": "Ani razu tego nie zrobiłem.",
+    "Translation": "I never did it even once."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Naprawdę",
+    "Meaning": "Really",
+    "Example": "Naprawdę mi się to podoba.",
+    "Translation": "I really like it."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Naprawdę",
+    "Meaning": "Really",
+    "Example": "On naprawdę ciężko pracuje.",
+    "Translation": "He really works hard."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Naprawdę",
+    "Meaning": "Really",
+    "Example": "Naprawdę chcę to zrobić.",
+    "Translation": "I really want to do it."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Nie",
+    "Meaning": "No, Not",
+    "Example": "Nie, nie mogę przyjść dziś.",
+    "Translation": "No, I can’t come today."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Nie",
+    "Meaning": "No, Not",
+    "Example": "Nie chcę tego robić.",
+    "Translation": "I do not want to do that."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Nie",
+    "Meaning": "No, Not",
+    "Example": "Nie mam czasu na to.",
+    "Translation": "I don’t have time for this."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Nigdy",
+    "Meaning": "Never",
+    "Example": "Nigdy tego nie zrobię.",
+    "Translation": "I will never do that."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Nigdy",
+    "Meaning": "Never",
+    "Example": "Nigdy nie byłem w Paryżu.",
+    "Translation": "I have never been to Paris."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Nigdy",
+    "Meaning": "Never",
+    "Example": "Nigdy się nie poddaję.",
+    "Translation": "I never give up."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Owszem",
+    "Meaning": "Indeed, Actually",
+    "Example": "Owszem, to prawda.",
+    "Translation": "Indeed, that’s true."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Owszem",
+    "Meaning": "Indeed, Actually",
+    "Example": "Owszem, byłem tam w zeszłym roku.",
+    "Translation": "Actually, I was there last year."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Owszem",
+    "Meaning": "Indeed, Actually",
+    "Example": "Owszem, mogę ci pomóc.",
+    "Translation": "Indeed, I can help you."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Również",
+    "Meaning": "Also, Too",
+    "Example": "Lubię kawę, ale lubię herbatę również.",
+    "Translation": "I like coffee, but I also like tea."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Również",
+    "Meaning": "Also, Too",
+    "Example": "On również chce przyjść.",
+    "Translation": "He also wants to come."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Również",
+    "Meaning": "Also, Too",
+    "Example": "My również byliśmy na wakacjach.",
+    "Translation": "We were on vacation too."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Tak",
+    "Meaning": "Yes, So, Thus",
+    "Example": "Tak, zgadzam się z tobą.",
+    "Translation": "Yes, I agree with you."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Tak",
+    "Meaning": "Yes, So, Thus",
+    "Example": "Tak, właśnie o tym myślałem.",
+    "Translation": "Yes, that’s exactly what I was thinking."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Tak",
+    "Meaning": "Yes, So, Thus",
+    "Example": "Tak, zrobię to jutro.",
+    "Translation": "Yes, I will do it tomorrow."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Także",
+    "Meaning": "Also, As Well",
+    "Example": "Ja także chcę iść na koncert.",
+    "Translation": "I also want to go to the concert."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Także",
+    "Meaning": "Also, As Well",
+    "Example": "Ona także pracuje w tej firmie.",
+    "Translation": "She also works in this company."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Także",
+    "Meaning": "Also, As Well",
+    "Example": "Oni także byli tam wczoraj.",
+    "Translation": "They were there as well yesterday."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Aż",
+    "Meaning": "Until / As Far As / As Much As",
+    "Example": "Czekałem aż dwie godziny.",
+    "Translation": "I waited for as long as two hours.",
+    "Notes": "These adverbs explain the reason or cause behind an action or event. Use when you want to indicate why something happens."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Aż",
+    "Meaning": "Until / As Far As / As Much As",
+    "Example": "Szliśmy aż do zmroku.",
+    "Translation": "We walked until dusk."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Aż",
+    "Meaning": "Until / As Far As / As Much As",
+    "Example": "Aż się zdziwiłem, jak dobrze zdał.",
+    "Translation": "I was surprised how well he passed."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Bez Powodu",
+    "Meaning": "For No Reason",
+    "Example": "Krzyknął na mnie bez powodu.",
+    "Translation": "He yelled at me for no reason."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Bez Powodu",
+    "Meaning": "For No Reason",
+    "Example": "Zniknął bez powodu.",
+    "Translation": "He disappeared for no reason."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Bez Powodu",
+    "Meaning": "For No Reason",
+    "Example": "Jest zły bez powodu.",
+    "Translation": "He’s angry for no reason."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Bo",
+    "Meaning": "Because",
+    "Example": "Nie idę, bo pada.",
+    "Translation": "I’m not going because it’s raining."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Bo",
+    "Meaning": "Because",
+    "Example": "Nie mogę, bo jestem zmęczony.",
+    "Translation": "I can’t because I’m tired."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Bo",
+    "Meaning": "Because",
+    "Example": "Zostałem w domu, bo było zimno.",
+    "Translation": "I stayed at home because it was cold."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Dla",
+    "Meaning": "For / For The Sake Of",
+    "Example": "Zrobiłem to dla ciebie.",
+    "Translation": "I did it for you."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Dla",
+    "Meaning": "For / For The Sake Of",
+    "Example": "Pracuję dla rodziny.",
+    "Translation": "I work for my family."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Dla",
+    "Meaning": "For / For The Sake Of",
+    "Example": "Dla dobra wszystkich musimy działać szybko.",
+    "Translation": "For everyone’s good, we must act quickly."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Dlatego",
+    "Meaning": "Therefore / That’s Why",
+    "Example": "Padał deszcz, dlatego zostałem w domu.",
+    "Translation": "It was raining, that’s why I stayed at home."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Dlatego",
+    "Meaning": "Therefore / That’s Why",
+    "Example": "Było późno, dlatego poszedłem spać.",
+    "Translation": "It was late, so I went to sleep."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Dlatego",
+    "Meaning": "Therefore / That’s Why",
+    "Example": "Nie miał pieniędzy, dlatego nie kupił biletu.",
+    "Translation": "He didn’t have money, so he didn’t buy the ticket."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Gdyż",
+    "Meaning": "Since / Because",
+    "Example": "Muszę iść, gdyż mam spotkanie.",
+    "Translation": "I have to go, since I have a meeting."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Gdyż",
+    "Meaning": "Since / Because",
+    "Example": "Nie jadłem, gdyż nie byłem głodny.",
+    "Translation": "I didn’t eat because I wasn’t hungry."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Gdyż",
+    "Meaning": "Since / Because",
+    "Example": "Spiesz się, gdyż czas ucieka.",
+    "Translation": "Hurry up, because time is running out."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Na Skutek",
+    "Meaning": "As A Result Of",
+    "Example": "Na skutek wypadku zamknięto drogę.",
+    "Translation": "As a result of the accident, the road was closed."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Na Skutek",
+    "Meaning": "As A Result Of",
+    "Example": "Na skutek błędu stracili dane.",
+    "Translation": "As a result of a mistake, they lost the data."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Na Skutek",
+    "Meaning": "As A Result Of",
+    "Example": "Na skutek burzy wstrzymano loty.",
+    "Translation": "Because of the storm, flights were halted."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Odruchowo",
+    "Meaning": "Reflexively / Instinctively",
+    "Example": "Odruchowo cofnąłem rękę.",
+    "Translation": "I instinctively pulled my hand back."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Odruchowo",
+    "Meaning": "Reflexively / Instinctively",
+    "Example": "Odruchowo się uśmiechnął.",
+    "Translation": "He smiled instinctively."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Odruchowo",
+    "Meaning": "Reflexively / Instinctively",
+    "Example": "Odruchowo zamknął oczy.",
+    "Translation": "He closed his eyes reflexively."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Ponieważ",
+    "Meaning": "Because",
+    "Example": "Nie przyszedł, ponieważ był chory.",
+    "Translation": "He didn’t come because he was sick."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Ponieważ",
+    "Meaning": "Because",
+    "Example": "Nie mogę wyjść, ponieważ pracuję.",
+    "Translation": "I can’t go out because I’m working."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Ponieważ",
+    "Meaning": "Because",
+    "Example": "Ona płacze, ponieważ się boi.",
+    "Translation": "She’s crying because she’s scared."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Przeto",
+    "Meaning": "Thus / Therefore (formal)",
+    "Example": "Nie miał szans, przeto się nie starał.",
+    "Translation": "He had no chance, thus he didn’t try."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Przeto",
+    "Meaning": "Thus / Therefore (formal)",
+    "Example": "Była burza, przeto nie wyszliśmy.",
+    "Translation": "There was a storm, therefore we didn’t go out."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Przeto",
+    "Meaning": "Thus / Therefore (formal)",
+    "Example": "Nie miał wyjścia, przeto się zgodził.",
+    "Translation": "He had no choice, so he agreed."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Przez",
+    "Meaning": "Because Of / Due To (negative tone)",
+    "Example": "Przez niego się spóźniłem.",
+    "Translation": "I was late because of him."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Przez",
+    "Meaning": "Because Of / Due To (negative tone)",
+    "Example": "Wszystko się zepsuło przez deszcz.",
+    "Translation": "Everything got ruined because of the rain."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Przez",
+    "Meaning": "Because Of / Due To (negative tone)",
+    "Example": "Przez korki spóźniłem się na spotkanie.",
+    "Translation": "Because of traffic, I was late for the meeting."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Samoczynnie",
+    "Meaning": "Automatically / By Itself",
+    "Example": "Drzwi zamknęły się samoczynnie.",
+    "Translation": "The door closed automatically."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Samoczynnie",
+    "Meaning": "Automatically / By Itself",
+    "Example": "System się samoczynnie wyłączył.",
+    "Translation": "The system shut down by itself."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Samoczynnie",
+    "Meaning": "Automatically / By Itself",
+    "Example": "Proces rozpoczął się samoczynnie.",
+    "Translation": "The process started on its own."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Skutkiem Tego",
+    "Meaning": "As A Result",
+    "Example": "Spóźnił się, skutkiem tego przegapił początek.",
+    "Translation": "He was late; as a result, he missed the beginning."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Skutkiem Tego",
+    "Meaning": "As A Result",
+    "Example": "Nie uczył się, skutkiem tego nie zdał.",
+    "Translation": "He didn’t study, so he failed."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Skutkiem Tego",
+    "Meaning": "As A Result",
+    "Example": "Skutkiem tego była zmiana planu.",
+    "Translation": "As a result, the plan was changed."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Więc",
+    "Meaning": "So / Therefore",
+    "Example": "Pada, więc weź parasol.",
+    "Translation": "It’s raining, so take an umbrella."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Więc",
+    "Meaning": "So / Therefore",
+    "Example": "Byłem głodny, więc zjadłem kanapkę.",
+    "Translation": "I was hungry, so I ate a sandwich."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Więc",
+    "Meaning": "So / Therefore",
+    "Example": "Jest chory, więc nie idzie do szkoły.",
+    "Translation": "He’s sick, so he’s not going to school."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Powodu",
+    "Meaning": "Because Of / Due To",
+    "Example": "Nie było zajęć z powodu śniegu.",
+    "Translation": "There were no classes because of the snow."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Powodu",
+    "Meaning": "Because Of / Due To",
+    "Example": "Opóźnienie było z powodu korków.",
+    "Translation": "The delay was due to traffic."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Powodu",
+    "Meaning": "Because Of / Due To",
+    "Example": "Z powodu choroby nie przyszedłem.",
+    "Translation": "I didn’t come because of illness."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Racji",
+    "Meaning": "On Account Of / Due To",
+    "Example": "Z racji wieku nie może pracować.",
+    "Translation": "Due to his age, he cannot work."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Racji",
+    "Meaning": "On Account Of / Due To",
+    "Example": "Z racji obowiązków nie mogłem przyjechać.",
+    "Translation": "Because of obligations, I couldn’t come."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Racji",
+    "Meaning": "On Account Of / Due To",
+    "Example": "Z racji święta szkoła była zamknięta.",
+    "Translation": "Because of the holiday, the school was closed."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Tego Powodu",
+    "Meaning": "For This Reason",
+    "Example": "Z tego powodu opuścił miasto.",
+    "Translation": "For this reason, he left the city."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Tego Powodu",
+    "Meaning": "For This Reason",
+    "Example": "Nie mam czasu, z tego powodu nie przyjadę.",
+    "Translation": "I don’t have time; for this reason I won’t come."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Tego Powodu",
+    "Meaning": "For This Reason",
+    "Example": "Z tego powodu zmieniliśmy decyzję.",
+    "Translation": "For this reason, we changed the decision."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Winy",
+    "Meaning": "Due To The Fault Of",
+    "Example": "Z winy kierowcy doszło do kolizji.",
+    "Translation": "Because of the driver’s fault, there was a collision."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Winy",
+    "Meaning": "Due To The Fault Of",
+    "Example": "Wszystko się opóźniło z winy dostawcy.",
+    "Translation": "Everything was delayed due to the supplier’s fault."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Z Winy",
+    "Meaning": "Due To The Fault Of",
+    "Example": "Z winy złej organizacji projekt się nie udał.",
+    "Translation": "The project failed due to poor organization."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Zatem",
+    "Meaning": "Thus / Hence",
+    "Example": "Jest zmęczony, zatem nie pójdzie z nami.",
+    "Translation": "He is tired, thus he won’t go with us."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Zatem",
+    "Meaning": "Thus / Hence",
+    "Example": "Było późno, zatem wróciliśmy.",
+    "Translation": "It was late, hence we returned."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Zatem",
+    "Meaning": "Thus / Hence",
+    "Example": "Nie miał kluczy, zatem nie mógł wejść.",
+    "Translation": "He didn’t have the keys, so he couldn’t enter."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Ze Względu Na",
+    "Meaning": "Because Of / In View Of",
+    "Example": "Ze względu na zdrowie rzuciłem palenie.",
+    "Translation": "Because of my health, I quit smoking."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Ze Względu Na",
+    "Meaning": "Because Of / In View Of",
+    "Example": "Ze względu na pogodę odwołano mecz.",
+    "Translation": "Due to the weather, the match was canceled."
+  },
+  {
+    "Adverb Category": "Adverbs of Cause",
+    "Adverb": "Ze Względu Na",
+    "Meaning": "Because Of / In View Of",
+    "Example": "Ze względu na bezpieczeństwo zamknięto drogę.",
+    "Translation": "For safety reasons, the road was closed."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardziej",
+    "Meaning": "More",
+    "Example": "Potrzebuję bardziej szczegółowych informacji.",
+    "Translation": "I need more detailed information.",
+    "Notes": "These adverbs indicate the intensity, extent, or level of an action, adjective, or other adverb. Use to express how much or to what degree something occurs."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardziej",
+    "Meaning": "More",
+    "Example": "Jestem bardziej zmęczony niż wczoraj.",
+    "Translation": "I am more tired than yesterday."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardziej",
+    "Meaning": "More",
+    "Example": "On jest bardziej doświadczony od mnie.",
+    "Translation": "He is more experienced than me."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardzo",
+    "Meaning": "Very",
+    "Example": "Jest bardzo zimno na dworze.",
+    "Translation": "It is very cold outside."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardzo",
+    "Meaning": "Very",
+    "Example": "Bardzo mi się podoba ten film.",
+    "Translation": "I like this movie very much."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardzo",
+    "Meaning": "Very",
+    "Example": "Dziękuję bardzo za pomoc.",
+    "Translation": "Thank you very much for your help."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardzo mało",
+    "Meaning": "Very Little",
+    "Example": "Bardzo mało jem.",
+    "Translation": "I eat very little."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardzo mało",
+    "Meaning": "Very Little",
+    "Example": "Bardzo mało ludzi przyszło.",
+    "Translation": "Very few people came."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Bardzo mało",
+    "Meaning": "Very Little",
+    "Example": "Znam go bardzo mało.",
+    "Translation": "I know him very little."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Całkiem",
+    "Meaning": "Quite / Completely",
+    "Example": "To zadanie jest całkiem łatwe.",
+    "Translation": "This task is quite easy."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Całkiem",
+    "Meaning": "Quite / Completely",
+    "Example": "Jestem całkiem zadowolony z wyniku.",
+    "Translation": "I am quite happy with the result."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Całkiem",
+    "Meaning": "Quite / Completely",
+    "Example": "Całkiem nieźle sobie radzisz.",
+    "Translation": "You are doing quite well."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Cały czas",
+    "Meaning": "All the time",
+    "Example": "Pracuję cały czas nad projektem.",
+    "Translation": "I work on the project all the time."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Cały czas",
+    "Meaning": "All the time",
+    "Example": "Dzieci bawią się cały czas na podwórku.",
+    "Translation": "The children play outside all the time."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Cały czas",
+    "Meaning": "All the time",
+    "Example": "Cały czas myślę o wakacjach.",
+    "Translation": "I think about holidays all the time."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Częściowo",
+    "Meaning": "Partially",
+    "Example": "Zgadzam się częściowo.",
+    "Translation": "I partially agree."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Częściowo",
+    "Meaning": "Partially",
+    "Example": "Częściowo się udało.",
+    "Translation": "It partially succeeded."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Częściowo",
+    "Meaning": "Partially",
+    "Example": "Częściowo został naprawiony.",
+    "Translation": "It was partially repaired."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Dość",
+    "Meaning": "Quite / Fairly",
+    "Example": "To dość proste.",
+    "Translation": "That’s quite simple."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Dość",
+    "Meaning": "Quite / Fairly",
+    "Example": "Jest dość późno.",
+    "Translation": "It’s fairly late."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Dość",
+    "Meaning": "Quite / Fairly",
+    "Example": "Mówi dość szybko.",
+    "Translation": "He speaks fairly quickly."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Dużo",
+    "Meaning": "A lot",
+    "Example": "Mam dużo pracy dzisiaj.",
+    "Translation": "I have a lot of work today."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Dużo",
+    "Meaning": "A lot",
+    "Example": "Dużo ludzi było na koncercie.",
+    "Translation": "There were a lot of people at the concert."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Dużo",
+    "Meaning": "A lot",
+    "Example": "Dużo ćwiczę na siłowni.",
+    "Translation": "I work out a lot at the gym."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Głównie",
+    "Meaning": "Mainly / Primarily",
+    "Example": "Głównie zajmuję się programowaniem.",
+    "Translation": "I mainly deal with programming."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Głównie",
+    "Meaning": "Mainly / Primarily",
+    "Example": "Film był głównie o miłości.",
+    "Translation": "The film was mainly about love."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Głównie",
+    "Meaning": "Mainly / Primarily",
+    "Example": "Głównie chodziło o pieniądze.",
+    "Translation": "It was mainly about money."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Intensywnie",
+    "Meaning": "Intensely",
+    "Example": "Uczy się intensywnie.",
+    "Translation": "He studies intensely."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Intensywnie",
+    "Meaning": "Intensely",
+    "Example": "Pracowaliśmy intensywnie.",
+    "Translation": "We worked intensively."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Intensywnie",
+    "Meaning": "Intensely",
+    "Example": "Intensywnie myślał o problemie.",
+    "Translation": "He thought intensely about the problem."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ledwie",
+    "Meaning": "Hardly / Scarcely",
+    "Example": "Ledwie zdążyłem na pociąg.",
+    "Translation": "I hardly made it to the train."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ledwie",
+    "Meaning": "Hardly / Scarcely",
+    "Example": "Ledwie słyszałem, co mówiła.",
+    "Translation": "I could scarcely hear what she said."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ledwie",
+    "Meaning": "Hardly / Scarcely",
+    "Example": "Ledwie otworzyłem drzwi, a on już wszedł.",
+    "Translation": "I barely opened the door, and he was already inside."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ledwo",
+    "Meaning": "Barely",
+    "Example": "Ledwo zdążyłem na autobus.",
+    "Translation": "I barely made it to the bus."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ledwo",
+    "Meaning": "Barely",
+    "Example": "Ledwo widzę w ciemności.",
+    "Translation": "I can barely see in the dark."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ledwo",
+    "Meaning": "Barely",
+    "Example": "Ledwo słyszałem, co mówił.",
+    "Translation": "I could barely hear what he said."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Maksymalnie",
+    "Meaning": "Maximally / To the maximum",
+    "Example": "Maksymalnie się zaangażował.",
+    "Translation": "He got involved to the maximum."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Maksymalnie",
+    "Meaning": "Maximally / To the maximum",
+    "Example": "Pracuję maksymalnie wydajnie.",
+    "Translation": "I work as efficiently as possible."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Maksymalnie",
+    "Meaning": "Maximally / To the maximum",
+    "Example": "Maksymalnie skrócono czas oczekiwania.",
+    "Translation": "The waiting time was shortened to the maximum."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Minimalnie",
+    "Meaning": "Minimally / Slightly",
+    "Example": "Tylko minimalnie się zmieniło.",
+    "Translation": "It changed only slightly."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Minimalnie",
+    "Meaning": "Minimally / Slightly",
+    "Example": "Minimalnie poprawił swoje wyniki.",
+    "Translation": "He improved his results minimally."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Minimalnie",
+    "Meaning": "Minimally / Slightly",
+    "Example": "To tylko minimalna różnica.",
+    "Translation": "That’s only a minimal difference."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Mniej",
+    "Meaning": "Less",
+    "Example": "Chcę jeść mniej słodyczy.",
+    "Translation": "I want to eat less sweets."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Mniej",
+    "Meaning": "Less",
+    "Example": "Mam mniej pracy dzisiaj niż wczoraj.",
+    "Translation": "I have less work today than yesterday."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Mniej",
+    "Meaning": "Less",
+    "Example": "Mniej osób przyszło na imprezę.",
+    "Translation": "Fewer people came to the party."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nadzwyczaj",
+    "Meaning": "Extraordinarily",
+    "Example": "Był nadzwyczaj zdolnym uczniem.",
+    "Translation": "He was an extraordinarily talented student."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nadzwyczaj",
+    "Meaning": "Extraordinarily",
+    "Example": "Pogoda była nadzwyczaj ładna.",
+    "Translation": "The weather was extraordinarily nice."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nadzwyczaj",
+    "Meaning": "Extraordinarily",
+    "Example": "To było nadzwyczaj trudne zadanie.",
+    "Translation": "That was an extraordinarily difficult task."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nieco",
+    "Meaning": "Slightly / Somewhat",
+    "Example": "Jest nieco lepszy.",
+    "Translation": "He’s slightly better."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nieco",
+    "Meaning": "Slightly / Somewhat",
+    "Example": "Nieco się zmieniło.",
+    "Translation": "Something has changed slightly."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nieco",
+    "Meaning": "Slightly / Somewhat",
+    "Example": "Czuję się nieco zmęczony.",
+    "Translation": "I feel somewhat tired."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niemal",
+    "Meaning": "Almost",
+    "Example": "Niemal się spóźniłem.",
+    "Translation": "I almost was late."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niemal",
+    "Meaning": "Almost",
+    "Example": "Niemal spadłem ze schodów.",
+    "Translation": "I almost fell down the stairs."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niemal",
+    "Meaning": "Nearly",
+    "Example": "To było niemal niemożliwe.",
+    "Translation": "That was nearly impossible."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niemalże",
+    "Meaning": " Almost / Nearly",
+    "Example": "Niemalże zapomniałem o spotkaniu.",
+    "Translation": "I almost forgot about the meeting."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niemalże",
+    "Meaning": " Almost / Nearly",
+    "Example": "Było niemalże niemożliwe to zrobić.",
+    "Translation": "It was nearly impossible to do it."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niemalże",
+    "Meaning": " Almost / Nearly",
+    "Example": "Niemalże się spóźniłem.",
+    "Translation": "I nearly was late."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niewiele",
+    "Meaning": "Not much",
+    "Example": "Mam niewiele czasu.",
+    "Translation": "I have not much time."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niewiele",
+    "Meaning": "Not much",
+    "Example": "Niewiele rozumiem z tego tekstu.",
+    "Translation": "I understand not much of this text."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Niewiele",
+    "Meaning": "Not much",
+    "Example": "Niewiele osób przyszło na spotkanie.",
+    "Translation": "Not many people came to the meeting."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ogromnie",
+    "Meaning": "Enormously / Tremendously",
+    "Example": "Ogromnie ci dziękuję.",
+    "Translation": "I thank you enormously."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ogromnie",
+    "Meaning": "Enormously / Tremendously",
+    "Example": "Ogromnie się cieszę.",
+    "Translation": "I’m tremendously happy."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Ogromnie",
+    "Meaning": "Enormously / Tremendously",
+    "Example": "Ogromnie mnie to interesuje.",
+    "Translation": "I’m very interested in this."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Prawie",
+    "Meaning": "Almost",
+    "Example": "Prawie skończyłem.",
+    "Translation": "I almost finished."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Prawie",
+    "Meaning": "Almost",
+    "Example": "Prawie się popłakałem.",
+    "Translation": "I nearly cried."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Prawie",
+    "Meaning": "Almost",
+    "Example": "Prawie tam jesteśmy.",
+    "Translation": "We’re almost there."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Przesadnie",
+    "Meaning": "Excessively",
+    "Example": "On przesadnie się stresuje.",
+    "Translation": "He stresses out excessively."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Przesadnie",
+    "Meaning": "Excessively",
+    "Example": "Przesadnie dbasz o szczegóły.",
+    "Translation": "You care excessively about details."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Przesadnie",
+    "Meaning": "Excessively",
+    "Example": "Nie bądź przesadnie krytyczny.",
+    "Translation": "Don't be excessively critical."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Tak",
+    "Meaning": "So / Such",
+    "Example": "Tak bardzo cię lubię.",
+    "Translation": "I like you so much."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Tak",
+    "Meaning": "So / Such",
+    "Example": "Nie mów tak głośno.",
+    "Translation": "Don’t speak so loudly."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Tak",
+    "Meaning": "So / Such",
+    "Example": "To tak daleko?",
+    "Translation": "Is it so far?"
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Trochę",
+    "Meaning": "A little",
+    "Example": "Jestem trochę zmęczony.",
+    "Translation": "I am a little tired."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Trochę",
+    "Meaning": "A little",
+    "Example": "Trochę się spóźnię na spotkanie.",
+    "Translation": "I will be a little late for the meeting."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Trochę",
+    "Meaning": "A little",
+    "Example": "Dodaj do zupy trochę soli.",
+    "Translation": "Add a little salt to the soup."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wcale",
+    "Meaning": "Not at all",
+    "Example": "Nie lubię tego filmu wcale.",
+    "Translation": "I don't like this movie at all."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wcale",
+    "Meaning": "Not at all",
+    "Example": "On nie pracuje wcale.",
+    "Translation": "He doesn't work at all."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wcale",
+    "Meaning": "Not at all",
+    "Example": "Nie rozumiem tego wcale.",
+    "Translation": "I don't understand this at all."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wyjątkowo",
+    "Meaning": "Exceptionally",
+    "Example": "Dziś jest wyjątkowo ciepło.",
+    "Translation": "It’s exceptionally warm today."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wyjątkowo",
+    "Meaning": "Exceptionally",
+    "Example": "Wyjątkowo dobrze mu poszło.",
+    "Translation": "He did exceptionally well."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wyjątkowo",
+    "Meaning": "Exceptionally",
+    "Example": "Była wyjątkowo miła.",
+    "Translation": "She was exceptionally kind."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zbyt",
+    "Meaning": "Too (in excess)",
+    "Example": "To zbyt trudne.",
+    "Translation": "It’s too difficult."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zbyt",
+    "Meaning": "Too (in excess)",
+    "Example": "On jest zbyt pewny siebie.",
+    "Translation": "He’s too confident."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zbyt",
+    "Meaning": "Too (in excess)",
+    "Example": "Zbyt często się spóźnia.",
+    "Translation": "He’s late too often."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zdecydowanie",
+    "Meaning": "Definitely / Decidedly",
+    "Example": "To jest zdecydowanie najlepszy film roku.",
+    "Translation": "This is definitely the best movie of the year."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zdecydowanie",
+    "Meaning": "Definitely / Decidedly",
+    "Example": "Zdecydowanie wolę herbatę od kawy.",
+    "Translation": "I definitely prefer tea over coffee."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zdecydowanie",
+    "Meaning": "Definitely / Decidedly",
+    "Example": "Ona jest zdecydowanie bardziej doświadczona.",
+    "Translation": "She is decidedly more experienced."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Znacznie",
+    "Meaning": "Significantly",
+    "Example": "Ceny znacznie wzrosły.",
+    "Translation": "Prices have risen significantly."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Znacznie",
+    "Meaning": "Significantly",
+    "Example": "On znacznie poprawił swoje wyniki.",
+    "Translation": "He significantly improved his results."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Znacznie",
+    "Meaning": "Significantly",
+    "Example": "Temperatura znacznie spadła w nocy.",
+    "Translation": "The temperature dropped significantly at night."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zupełnie",
+    "Meaning": "Completely / Entirely",
+    "Example": "Zupełnie się z tobą zgadzam.",
+    "Translation": "I completely agree with you."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zupełnie",
+    "Meaning": "Completely / Entirely",
+    "Example": "To zupełnie co innego.",
+    "Translation": "That’s something completely different."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zupełnie",
+    "Meaning": "Completely / Entirely",
+    "Example": "Jestem zupełnie spokojny.",
+    "Translation": "I’m entirely calm."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Być może",
+    "Meaning": "Perhaps, Maybe",
+    "Example": "Być może pada dzisiaj deszcz.",
+    "Translation": "Maybe it will rain today.",
+    "Notes": "These adverbs express uncertainty or hesitation about an action or fact. Use when you want to convey doubt or lack of certainty."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Być może",
+    "Meaning": "Perhaps, Maybe",
+    "Example": "Być może się spóźni.",
+    "Translation": "Perhaps he’ll be late."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Być może",
+    "Meaning": "Perhaps, Maybe",
+    "Example": "Być może powinieneś odpocząć.",
+    "Translation": "Maybe you should rest."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Chyba",
+    "Meaning": "Probably, I guess",
+    "Example": "Chyba pójdę do domu wcześniej.",
+    "Translation": "I’ll probably go home earlier."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Chyba",
+    "Meaning": "Probably, I guess",
+    "Example": "Chyba się pomyliłem.",
+    "Translation": "I think I made a mistake."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Chyba",
+    "Meaning": "Probably, I guess",
+    "Example": "Chyba nie ma go dziś w pracy.",
+    "Translation": "I guess he’s not at work today."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Chyba że",
+    "Meaning": "Unless",
+    "Example": "Pójdę na spacer, chyba że będzie padać.",
+    "Translation": "I will go for a walk unless it rains."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Chyba że",
+    "Meaning": "Unless",
+    "Example": "Zostanę w domu, chyba że zadzwonisz.",
+    "Translation": "I’ll stay at home unless you call."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Chyba że",
+    "Meaning": "Unless",
+    "Example": "Nie wyjdę, chyba że się poprawi pogoda.",
+    "Translation": "I won’t go out unless the weather improves."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Ewentualnie",
+    "Meaning": "Possibly, Optionally",
+    "Example": "Możemy spotkać się jutro, ewentualnie pojutrze.",
+    "Translation": "We can meet tomorrow, or possibly the day after."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Ewentualnie",
+    "Meaning": "Possibly, Optionally",
+    "Example": "Ewentualnie możesz spróbować inaczej.",
+    "Translation": "You can possibly try it differently."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Ewentualnie",
+    "Meaning": "Possibly, Optionally",
+    "Example": "Ewentualnie zadzwoń do mnie.",
+    "Translation": "Possibly call me."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Możliwe",
+    "Meaning": "Possible",
+    "Example": "To jest możliwe.",
+    "Translation": "That is possible."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Możliwe",
+    "Meaning": "Possible",
+    "Example": "Możliwe, że się mylę.",
+    "Translation": "It’s possible I’m wrong."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Możliwe",
+    "Meaning": "Possible",
+    "Example": "Możliwe, że będzie padać.",
+    "Translation": "It’s possible that it will rain."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Niby",
+    "Meaning": "Supposedly, As if",
+    "Example": "Niby wszystko jest dobrze, ale coś jest nie tak.",
+    "Translation": "Supposedly everything is fine, but something is wrong."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Niby",
+    "Meaning": "Supposedly, As if",
+    "Example": "On niby zna odpowiedź, ale nie jest pewien.",
+    "Translation": "He supposedly knows the answer but isn’t sure."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Niby",
+    "Meaning": "Supposedly, As if",
+    "Example": "Niby miał przyjść, ale się nie pojawił.",
+    "Translation": "He was supposed to come, but he didn’t show up."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Prawdopodobnie",
+    "Meaning": "Probably",
+    "Example": "Prawdopodobnie przyjdzie później.",
+    "Translation": "He’ll probably come later."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Prawdopodobnie",
+    "Meaning": "Probably",
+    "Example": "Prawdopodobnie zapomniałem kluczy.",
+    "Translation": "I probably forgot my keys."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Prawdopodobnie",
+    "Meaning": "Probably",
+    "Example": "Prawdopodobnie będzie padać.",
+    "Translation": "It will probably rain."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Przypuszczalnie",
+    "Meaning": "Presumably",
+    "Example": "Przypuszczalnie będzie padać.",
+    "Translation": "It will presumably rain."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Przypuszczalnie",
+    "Meaning": "Presumably",
+    "Example": "Przypuszczalnie się spóźni.",
+    "Translation": "He will presumably be late."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Przypuszczalnie",
+    "Meaning": "Presumably",
+    "Example": "Przypuszczalnie tak jest.",
+    "Translation": "That is presumably so."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Rzekomo",
+    "Meaning": "Allegedly",
+    "Example": "Rzekomo był tam wczoraj.",
+    "Translation": "He was allegedly there yesterday."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Rzekomo",
+    "Meaning": "Allegedly",
+    "Example": "Rzekomo ma dużo pieniędzy.",
+    "Translation": "He allegedly has a lot of money."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Rzekomo",
+    "Meaning": "Allegedly",
+    "Example": "Rzekomo zrobił to sam.",
+    "Translation": "He allegedly did it himself."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Zdaje się",
+    "Meaning": "It seems",
+    "Example": "Zdaje się, że on jest chory.",
+    "Translation": "It seems he is sick."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Zdaje się",
+    "Meaning": "It seems",
+    "Example": "Zdaje się, że zgubiłem portfel.",
+    "Translation": "It seems I lost my wallet."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Zdaje się",
+    "Meaning": "It seems",
+    "Example": "Zdaje się, że wszystko jest w porządku.",
+    "Translation": "It seems everything is okay."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Aby",
+    "Meaning": "In Order To / So That",
+    "Example": "Musisz ćwiczyć, aby być lepszym.",
+    "Translation": "You need to practice in order to get better.",
+    "Notes": "These adverbs express the intention or purpose behind an action. Use when you want to explain why someone does something."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Aby",
+    "Meaning": "In Order To / So That",
+    "Example": "Czytam, aby się czegoś nauczyć.",
+    "Translation": "I read to learn something."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Aby",
+    "Meaning": "In Order To / So That",
+    "Example": "Zamknąłem drzwi, aby było cicho.",
+    "Translation": "I closed the door so it would be quiet."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Ażeby",
+    "Meaning": "So That / In Order To (Formal)",
+    "Example": "Zrobiłem to, ażeby ci pomóc.",
+    "Translation": "I did it to help you."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Ażeby",
+    "Meaning": "So That / In Order To (Formal)",
+    "Example": "Napisał list, ażeby wyjaśnić sytuację.",
+    "Translation": "He wrote a letter to explain the situation."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Ażeby",
+    "Meaning": "So That / In Order To (Formal)",
+    "Example": "Odłożyła pieniądze, ażeby kupić auto.",
+    "Translation": "She saved money in order to buy a car."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "By",
+    "Meaning": "So That (Formal/Short)",
+    "Example": "Powiedział to, by mnie uspokoić.",
+    "Translation": "He said it to calm me down."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "By",
+    "Meaning": "So That (Formal/Short)",
+    "Example": "Wyjechał, by odpocząć.",
+    "Translation": "He left to rest."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "By",
+    "Meaning": "So That (Formal/Short)",
+    "Example": "Wstałem wcześnie, by zdążyć na pociąg.",
+    "Translation": "I got up early to catch the train."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Celem",
+    "Meaning": "With The Aim Of",
+    "Example": "Spotkali się celem omówienia projektu.",
+    "Translation": "They met for the purpose of discussing the project."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Celem",
+    "Meaning": "With The Aim Of",
+    "Example": "Stworzono grupę celem kontroli jakości.",
+    "Translation": "A group was formed to control quality."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Celem",
+    "Meaning": "With The Aim Of",
+    "Example": "Szkolenie odbyło się celem poprawy umiejętności.",
+    "Translation": "The training took place to improve skills."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Dla Dobra",
+    "Meaning": "For The Good Of",
+    "Example": "Robimy to dla dobra wszystkich.",
+    "Translation": "We’re doing it for everyone’s good."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Dla Dobra",
+    "Meaning": "For The Good Of",
+    "Example": "To było dla dobra dziecka.",
+    "Translation": "That was for the child’s good."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Dla Dobra",
+    "Meaning": "For The Good Of",
+    "Example": "Został, dla dobra zespołu.",
+    "Translation": "He stayed for the good of the team."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Ku Temu",
+    "Meaning": "Toward That (Goal)",
+    "Example": "Podejmujemy kroki ku temu.",
+    "Translation": "We’re taking steps toward that."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Ku Temu",
+    "Meaning": "Toward That (Goal)",
+    "Example": "Nie widzę przeszkód ku temu.",
+    "Translation": "I see no obstacles to that."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Ku Temu",
+    "Meaning": "Toward That (Goal)",
+    "Example": "Wszystko zmierza ku temu.",
+    "Translation": "Everything is heading toward that."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Na Celu",
+    "Meaning": "Having As A Goal",
+    "Example": "Mamy na celu poprawę wyników.",
+    "Translation": "We aim to improve the results."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Na Celu",
+    "Meaning": "Having As A Goal",
+    "Example": "Projekt ma na celu pomoc dzieciom.",
+    "Translation": "The project aims to help children."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Na Celu",
+    "Meaning": "Having As A Goal",
+    "Example": "Nasza praca ma na celu rozwój społeczny.",
+    "Translation": "Our work aims at social development."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Na To",
+    "Meaning": "For That / For This",
+    "Example": "Pracuję na to całe życie.",
+    "Translation": "I’ve worked for that my whole life."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Na To",
+    "Meaning": "For That / For This",
+    "Example": "Nie mam pieniędzy na to.",
+    "Translation": "I don’t have money for that."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Na To",
+    "Meaning": "For That / For This",
+    "Example": "Czekaliśmy długo na to.",
+    "Translation": "We waited a long time for that."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po Co",
+    "Meaning": "What For / For What Reason",
+    "Example": "Po co to robisz?",
+    "Translation": "Why are you doing that?"
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po Co",
+    "Meaning": "What For / For What Reason",
+    "Example": "Po co ci tyle pieniędzy?",
+    "Translation": "Why do you need so much money?"
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po Co",
+    "Meaning": "What For / For What Reason",
+    "Example": "Po co iść tam teraz?",
+    "Translation": "Why go there now?"
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po Coś",
+    "Meaning": "For Some Purpose",
+    "Example": "Przyszedłeś tu po coś, prawda?",
+    "Translation": "You came here for something, right?"
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po Coś",
+    "Meaning": "For Some Purpose",
+    "Example": "Każdy ma po coś swój plan.",
+    "Translation": "Everyone has their plan for a reason."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po Coś",
+    "Meaning": "For Some Purpose",
+    "Example": "Nie robimy tego bez celu — robimy to po coś.",
+    "Translation": "We’re not doing this for nothing — we’re doing it for a purpose."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po To",
+    "Meaning": "In Order To",
+    "Example": "Przyszedłem tu po to, żeby ci pomóc.",
+    "Translation": "I came here in order to help you."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po To",
+    "Meaning": "In Order To",
+    "Example": "Uczymy się po to, żeby zdać egzamin.",
+    "Translation": "We study in order to pass the exam."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po To",
+    "Meaning": "In Order To",
+    "Example": "On pracuje po to, żeby utrzymać rodzinę.",
+    "Translation": "He works in order to support his family."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po To Właśnie",
+    "Meaning": "For That Very Reason",
+    "Example": "Po to właśnie się tu spotkaliśmy.",
+    "Translation": "That’s exactly why we met here."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po To Właśnie",
+    "Meaning": "For That Very Reason",
+    "Example": "Po to właśnie go zaprosiliśmy.",
+    "Translation": "That’s exactly why we invited him."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Po To Właśnie",
+    "Meaning": "For That Very Reason",
+    "Example": "Po to właśnie uczymy się gramatyki.",
+    "Translation": "That’s exactly why we learn grammar."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "W Tym Celu",
+    "Meaning": "For This Purpose",
+    "Example": "Zatrudnili eksperta w tym celu.",
+    "Translation": "They hired an expert for this purpose."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "W Tym Celu",
+    "Meaning": "For This Purpose",
+    "Example": "W tym celu zbudowano nowe laboratorium.",
+    "Translation": "A new lab was built for this purpose."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "W Tym Celu",
+    "Meaning": "For This Purpose",
+    "Example": "Kupił specjalny program w tym celu.",
+    "Translation": "He bought special software for this purpose."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Celem",
+    "Meaning": "With The Goal Of",
+    "Example": "Piszę ten tekst z celem informowania ludzi.",
+    "Translation": "I write this text with the goal of informing people."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Celem",
+    "Meaning": "With The Goal Of",
+    "Example": "Firma działa z celem poprawy usług.",
+    "Translation": "The company operates with the goal of improving services."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Celem",
+    "Meaning": "With The Goal Of",
+    "Example": "Prowadzimy badania z celem odkrycia leku.",
+    "Translation": "We conduct research with the goal of discovering a cure."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Powodu Celu",
+    "Meaning": "Because Of The Goal",
+    "Example": "Podjęli decyzję z powodu celu projektu.",
+    "Translation": "They made the decision because of the project goal."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Powodu Celu",
+    "Meaning": "Because Of The Goal",
+    "Example": "Zmienili plan z powodu celu organizacji.",
+    "Translation": "They changed the plan due to the organization’s aim."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Powodu Celu",
+    "Meaning": "Because Of The Goal",
+    "Example": "Kierowali się z powodu celu poprawy jakości.",
+    "Translation": "They were driven by the goal of improving quality."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Zamiarom",
+    "Meaning": "With The Intention Of",
+    "Example": "Przyszedł tu z zamiarem rozmowy.",
+    "Translation": "He came here with the intention of talking."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Zamiarom",
+    "Meaning": "With The Intention Of",
+    "Example": "Wyjechała z zamiarem pracy za granicą.",
+    "Translation": "She left with the intention of working abroad."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Z Zamiarom",
+    "Meaning": "With The Intention Of",
+    "Example": "Zadzwoniłem z zamiarem zaproszenia go.",
+    "Translation": "I called with the intention of inviting him."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby",
+    "Meaning": "So That / In Order To",
+    "Example": "Uczę się, żeby dostać dobrą pracę.",
+    "Translation": "I study so that I can get a good job."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby",
+    "Meaning": "So That / In Order To",
+    "Example": "Ćwiczę codziennie, żeby być zdrowym.",
+    "Translation": "I exercise every day to stay healthy."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby",
+    "Meaning": "So That / In Order To",
+    "Example": "Oszczędzam pieniądze, żeby kupić dom.",
+    "Translation": "I’m saving money to buy a house."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby Móc",
+    "Meaning": "In Order To Be Able To",
+    "Example": "Muszę iść spać, żeby móc wstać wcześnie.",
+    "Translation": "I have to sleep in order to wake up early."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby Móc",
+    "Meaning": "In Order To Be Able To",
+    "Example": "Pracuję ciężko, żeby móc wyjechać na wakacje.",
+    "Translation": "I work hard so I can go on vacation."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby Móc",
+    "Meaning": "In Order To Be Able To",
+    "Example": "Uczę się, żeby móc zdać egzamin.",
+    "Translation": "I study in order to pass the exam."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby Tylko",
+    "Meaning": "Just So That",
+    "Example": "Zrobił to, żeby tylko się wykazać.",
+    "Translation": "He did it just to show off."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby Tylko",
+    "Meaning": "Just So That",
+    "Example": "Powiedział to, żeby tylko mnie zdenerwować.",
+    "Translation": "He said that just to annoy me."
+  },
+  {
+    "Adverb Category": "Adverbs of Goal or Purpose",
+    "Adverb": "Żeby Tylko",
+    "Meaning": "Just So That",
+    "Example": "Pracuje, żeby tylko zarobić na chleb.",
+    "Translation": "He works just to earn a living."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Bezpiecznie",
+    "Meaning": "Safely",
+    "Example": "Podróżowali bezpiecznie przez góry.",
+    "Translation": "They traveled safely through the mountains.",
+    "Notes": "These adverbs describe how an action is performed. Use when you want to explain the way or style in which something happens."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Bezpiecznie",
+    "Meaning": "Safely",
+    "Example": "Dzieci bawiły się bezpiecznie na placu zabaw.",
+    "Translation": "Children played safely on the playground."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Bezpiecznie",
+    "Meaning": "Safely",
+    "Example": "Przechodzili ulicę bezpiecznie na pasach.",
+    "Translation": "They crossed the street safely at the crosswalk."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Biednie",
+    "Meaning": "Poorly / Miserably",
+    "Example": "On mieszka biednie w małym domu.",
+    "Translation": "He lives poorly in a small house."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Biednie",
+    "Meaning": "Poorly / Miserably",
+    "Example": "Biednie ubrani ludzie czekali na ulicy.",
+    "Translation": "Poorly dressed people waited on the street."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Biednie",
+    "Meaning": "Poorly / Miserably",
+    "Example": "Biednie radził sobie z tym zadaniem.",
+    "Translation": "He handled the task miserably."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Bogato",
+    "Meaning": "Richly",
+    "Example": "Dom był bogato zdobiony złotem.",
+    "Translation": "The house was richly decorated with gold."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Bogato",
+    "Meaning": "Richly",
+    "Example": "Bogato ubrane damy tańczyły na balu.",
+    "Translation": "Richly dressed ladies danced at the ball."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Bogato",
+    "Meaning": "Richly",
+    "Example": "Posiłek był bogato przyprawiony.",
+    "Translation": "The meal was richly spiced."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Brzydko",
+    "Meaning": "Ugly / Unpleasantly",
+    "Example": "Ten obraz wygląda brzydko.",
+    "Translation": "This picture looks ugly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Brzydko",
+    "Meaning": "Ugly / Unpleasantly",
+    "Example": "On zachowywał się brzydko wobec przyjaciół.",
+    "Translation": "He behaved unpleasantly towards his friends."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Brzydko",
+    "Meaning": "Ugly / Unpleasantly",
+    "Example": "Brzydko pachniało w pokoju.",
+    "Translation": "It smelled unpleasantly in the room."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Cicho",
+    "Meaning": "Quietly",
+    "Example": "Dziecko spało cicho w swoim łóżku.",
+    "Translation": "The child slept quietly in their bed."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Cicho",
+    "Meaning": "Quietly",
+    "Example": "Proszę mówić cicho w bibliotece.",
+    "Translation": "Please speak quietly in the library."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Cicho",
+    "Meaning": "Quietly",
+    "Example": "Kot porusza się cicho po pokoju.",
+    "Translation": "The cat moves quietly around the room."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciekawie",
+    "Meaning": "Interestingly",
+    "Example": "Opowiadał ciekawie o swoich podróżach.",
+    "Translation": "He spoke interestingly about his travels."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciekawie",
+    "Meaning": "Interestingly",
+    "Example": "Film był ciekawie zrealizowany.",
+    "Translation": "The film was interestingly made."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciekawie",
+    "Meaning": "Interestingly",
+    "Example": "Ciekawie wygląda ten nowy budynek.",
+    "Translation": "That new building looks interestingly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciemno",
+    "Meaning": "Darkly",
+    "Example": "W pokoju było ciemno bez światła.",
+    "Translation": "It was dark in the room without light."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciemno",
+    "Meaning": "Darkly",
+    "Example": "Las wyglądał ciemno o zmierzchu.",
+    "Translation": "The forest looked dark at dusk."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciemno",
+    "Meaning": "Darkly",
+    "Example": "On spojrzał ciemno na swojego rywala.",
+    "Translation": "He looked darkly at his rival."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciepło",
+    "Meaning": "Warmly",
+    "Example": "Witał nas ciepło i serdecznie.",
+    "Translation": "He greeted us warmly and sincerely."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciepło",
+    "Meaning": "Warmly",
+    "Example": "Dziecko tuliło się ciepło do mamy.",
+    "Translation": "The child cuddled warmly to mom."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciepło",
+    "Meaning": "Warmly",
+    "Example": "Słońce świeciło ciepło na niebie.",
+    "Translation": "The sun shone warmly in the sky."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciężko",
+    "Meaning": "Heavily / Hard",
+    "Example": "Pracował ciężko przez cały dzień.",
+    "Translation": "He worked hard all day."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciężko",
+    "Meaning": "Heavily / Hard",
+    "Example": "Ciężko oddychał po bieganiu.",
+    "Translation": "He was breathing heavily after running."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Ciężko",
+    "Meaning": "Heavily / Hard",
+    "Example": "Padało ciężko przez całą noc.",
+    "Translation": "It rained heavily all night."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Czysto",
+    "Meaning": "Cleanly / Purely",
+    "Example": "Pokój jest czysto posprzątany.",
+    "Translation": "The room is cleanly cleaned."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Czysto",
+    "Meaning": "Cleanly / Purely",
+    "Example": "Mówi czysto i wyraźnie.",
+    "Translation": "He speaks purely and clearly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Czysto",
+    "Meaning": "Cleanly / Purely",
+    "Example": "Czysto wykonała swoje zadanie.",
+    "Translation": "She performed her task cleanly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Długo",
+    "Meaning": "Long (time) / For a long time (Note: sometimes manner / time)",
+    "Example": "Czekałem długo na autobus.",
+    "Translation": "I waited a long time for the bus."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Długo",
+    "Meaning": "Long (time) / For a long time (Note: sometimes manner / time)",
+    "Example": "Mówiliśmy długo przez telefon.",
+    "Translation": "We talked for a long time on the phone."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Długo",
+    "Meaning": "Long (time) / For a long time (Note: sometimes manner / time)",
+    "Example": "Pracowała długo nad tym projektem.",
+    "Translation": "She worked for a long time on this project."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dobrze",
+    "Meaning": "Well",
+    "Example": "Uczy się dobrze języka angielskiego.",
+    "Translation": "He studies English well."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dobrze",
+    "Meaning": "Well",
+    "Example": "Wszystko poszło dobrze na spotkaniu.",
+    "Translation": "Everything went well at the meeting."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dobrze",
+    "Meaning": "Well",
+    "Example": "Ona śpiewa bardzo dobrze.",
+    "Translation": "She sings very well."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dokładnie",
+    "Meaning": "Precisely",
+    "Example": "Zmierzył długość stołu dokładnie.",
+    "Translation": "He measured the table length precisely."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dokładnie",
+    "Meaning": "Precisely",
+    "Example": "Opisał swoje uczucia dokładnie i jasno.",
+    "Translation": "He described his feelings precisely and clearly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dokładnie",
+    "Meaning": "Precisely",
+    "Example": "Wykonała zadanie dokładnie według instrukcji.",
+    "Translation": "She completed the task precisely according to instructions."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Drogo",
+    "Meaning": "Expensively",
+    "Example": "Wszystko tu jest drogo.",
+    "Translation": "Everything here is expensive."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Drogo",
+    "Meaning": "Expensively",
+    "Example": "Kupił samochód drogo.",
+    "Translation": "He bought the car expensively."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Drogo",
+    "Meaning": "Expensively",
+    "Example": "Drogo zapłaciliśmy za bilety.",
+    "Translation": "We paid expensively for the tickets."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dziko",
+    "Meaning": "Wildly",
+    "Example": "Zwierzę biegało dziko po lesie.",
+    "Translation": "The animal ran wildly through the forest."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dziko",
+    "Meaning": "Wildly",
+    "Example": "Ludzie dziko tańczyli na imprezie.",
+    "Translation": "People danced wildly at the party."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dziko",
+    "Meaning": "Wildly",
+    "Example": "Rośliny rosną dziko w ogrodzie.",
+    "Translation": "Plants grow wildly in the garden."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dziwnie",
+    "Meaning": "Strangely",
+    "Example": "Zachowywał się dziwnie na spotkaniu.",
+    "Translation": "He behaved strangely at the meeting."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dziwnie",
+    "Meaning": "Strangely",
+    "Example": "Dziwnie pachniało w tym pokoju.",
+    "Translation": "It smelled strange in this room."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Dziwnie",
+    "Meaning": "Strangely",
+    "Example": "Czułem się dziwnie po tym zdarzeniu.",
+    "Translation": "I felt strange after that event."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Głęboko",
+    "Meaning": "Deeply",
+    "Example": "Oddychał głęboko podczas medytacji.",
+    "Translation": "He breathed deeply during meditation."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Głęboko",
+    "Meaning": "Deeply",
+    "Example": "Spał głęboko całą noc.",
+    "Translation": "He slept deeply all night."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Głęboko",
+    "Meaning": "Deeply",
+    "Example": "Wierzył głęboko w swoje marzenia.",
+    "Translation": "He deeply believed in his dreams."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Głośno",
+    "Meaning": "Loudly",
+    "Example": "Dzieci bawiły się głośno na podwórku.",
+    "Translation": "The children played loudly in the yard."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Głośno",
+    "Meaning": "Loudly",
+    "Example": "Muzyka grała głośno na koncercie.",
+    "Translation": "The music played loudly at the concert."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Głośno",
+    "Meaning": "Loudly",
+    "Example": "On głośno krzyczał na boisku.",
+    "Translation": "He shouted loudly on the field."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Gorąco",
+    "Meaning": "Hotly",
+    "Example": "Dyskutowali gorąco na temat polityki.",
+    "Translation": "They hotly discussed politics."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Gorąco",
+    "Meaning": "Hotly",
+    "Example": "Słońce świeciło gorąco w południe.",
+    "Translation": "The sun shone hotly at noon."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Gorąco",
+    "Meaning": "Hotly",
+    "Example": "Gorąco polecam ten film!",
+    "Translation": "I hotly recommend this movie!"
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Idealnie",
+    "Meaning": "Ideally",
+    "Example": "To rozwiązanie pasuje idealnie do problemu.",
+    "Translation": "This solution fits the problem ideally."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Idealnie",
+    "Meaning": "Ideally",
+    "Example": "Idealnie wykonała zadanie bez błędów.",
+    "Translation": "She completed the task ideally without errors."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Idealnie",
+    "Meaning": "Ideally",
+    "Example": "Mieszkanie jest idealnie urządzone.",
+    "Translation": "The apartment is ideally furnished."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Jasno",
+    "Meaning": "Clearly / Brightly",
+    "Example": "Światło świeci jasno w pokoju.",
+    "Translation": "The light shines brightly in the room."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Jasno",
+    "Meaning": "Clearly / Brightly",
+    "Example": "On jasno wyraził swoje zdanie.",
+    "Translation": "He clearly expressed his opinion."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Jasno",
+    "Meaning": "Clearly / Brightly",
+    "Example": "Jasno widać gwiazdy na niebie.",
+    "Translation": "You can clearly see stars in the sky."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Kolorowo",
+    "Meaning": "Colorfully",
+    "Example": "Pokój był kolorowo udekorowany.",
+    "Translation": "The room was colorfully decorated."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Kolorowo",
+    "Meaning": "Colorfully",
+    "Example": "Malował obraz bardzo kolorowo.",
+    "Translation": "He painted the picture very colorfully."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Kolorowo",
+    "Meaning": "Colorfully",
+    "Example": "Dzieci bawiły się kolorowo ubrani.",
+    "Translation": "The children played dressed colorfully."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Krótko",
+    "Meaning": "Briefly / Shortly",
+    "Example": "Opowiedział historię krótko i zwięźle.",
+    "Translation": "He told the story briefly and concisely."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Krótko",
+    "Meaning": "Briefly / Shortly",
+    "Example": "Spotkanie zakończyło się krótko przed obiadem.",
+    "Translation": "The meeting ended shortly before lunch."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Krótko",
+    "Meaning": "Briefly / Shortly",
+    "Example": "Krótko wyjaśnił zasady gry.",
+    "Translation": "He explained the game rules briefly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Łatwo",
+    "Meaning": "Easily",
+    "Example": "Łatwo rozwiązał ten problem matematyczny.",
+    "Translation": "He easily solved this math problem."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Łatwo",
+    "Meaning": "Easily",
+    "Example": "Można łatwo nauczyć się nowego języka.",
+    "Translation": "You can easily learn a new language."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Łatwo",
+    "Meaning": "Easily",
+    "Example": "Łatwo zgubiłem klucze.",
+    "Translation": "I easily lost the keys."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Lekko",
+    "Meaning": "Lightly",
+    "Example": "Dotknij jajka lekko, żeby nie pękło.",
+    "Translation": "Touch the egg lightly so it doesn’t break."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Lekko",
+    "Meaning": "Lightly",
+    "Example": "Ona chodzi lekko po śniegu.",
+    "Translation": "She walks lightly on the snow."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Lekko",
+    "Meaning": "Lightly",
+    "Example": "Lekko zaczął padać deszcz.",
+    "Translation": "It started raining lightly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Mądrze",
+    "Meaning": "Wisely",
+    "Example": "On mądrze inwestuje swoje pieniądze.",
+    "Translation": "He invests his money wisely."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Mądrze",
+    "Meaning": "Wisely",
+    "Example": "Rodzice mądrze wychowują swoje dzieci.",
+    "Translation": "Parents wisely raise their children."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Mądrze",
+    "Meaning": "Wisely",
+    "Example": "Mądrze jest oszczędzać na przyszłość.",
+    "Translation": "It is wise to save for the future."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Miękko",
+    "Meaning": "Softly",
+    "Example": "Ona mówiła miękko i delikatnie.",
+    "Translation": "She spoke softly and gently."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Miękko",
+    "Meaning": "Softly",
+    "Example": "Kot chodził miękko po dywanie.",
+    "Translation": "The cat walked softly on the carpet."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Miękko",
+    "Meaning": "Softly",
+    "Example": "Dotknij miękko tego materiału.",
+    "Translation": "Touch that material softly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Miło",
+    "Meaning": "Nicely / Pleasantly",
+    "Example": "Było miło spotkać się z tobą.",
+    "Translation": "It was nice to meet you."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Miło",
+    "Meaning": "Nicely / Pleasantly",
+    "Example": "Spędziliśmy miło czas na wakacjach.",
+    "Translation": "We spent a pleasant time on vacation."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Miło",
+    "Meaning": "Nicely / Pleasantly",
+    "Example": "Miło mi słyszeć takie wiadomości.",
+    "Translation": "It’s nice to hear such news."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Mokro",
+    "Meaning": "Wetly",
+    "Example": "Mokro zrobiło się po deszczu.",
+    "Translation": "It became wet after the rain."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Mokro",
+    "Meaning": "Wetly",
+    "Example": "Mokro było na podłodze.",
+    "Translation": "It was wet on the floor."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Mokro",
+    "Meaning": "Wetly",
+    "Example": "Mokro śpiewał pod prysznicem.",
+    "Translation": "He sang wetly in the shower."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Niebezpiecznie",
+    "Meaning": "Dangerously",
+    "Example": "Jeździł niebezpiecznie szybko.",
+    "Translation": "He drove dangerously fast."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Niebezpiecznie",
+    "Meaning": "Dangerously",
+    "Example": "Niebezpiecznie jest chodzić po lodzie.",
+    "Translation": "It is dangerous to walk on ice."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Niebezpiecznie",
+    "Meaning": "Dangerously",
+    "Example": "Zbliżaj się niebezpiecznie do zwierząt dzikich.",
+    "Translation": "Approach wild animals dangerously."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Normalnie",
+    "Meaning": "Normally",
+    "Example": "Normalnie chodzę do pracy pieszo.",
+    "Translation": "Normally, I walk to work."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Normalnie",
+    "Meaning": "Normally",
+    "Example": "Dzieci normalnie bawią się na podwórku.",
+    "Translation": "Children normally play in the yard."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Normalnie",
+    "Meaning": "Normally",
+    "Example": "Normalnie jem śniadanie o 7 rano.",
+    "Translation": "Normally, I eat breakfast at 7 AM."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nowocześnie",
+    "Meaning": "Modernly",
+    "Example": "Ten dom jest nowocześnie urządzony.",
+    "Translation": "This house is furnished modernly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nowocześnie",
+    "Meaning": "Modernly",
+    "Example": "Firma działa nowocześnie i efektywnie.",
+    "Translation": "The company operates modernly and efficiently."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nowocześnie",
+    "Meaning": "Modernly",
+    "Example": "Malarz tworzy nowocześnie, używając nowych technik.",
+    "Translation": "The painter works modernly using new techniques."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nudno",
+    "Meaning": "Boringly",
+    "Example": "Lekcja była nudno prowadzona.",
+    "Translation": "The lesson was boringly conducted."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nudno",
+    "Meaning": "Boringly",
+    "Example": "Nudno się zrobiło na imprezie.",
+    "Translation": "It became boring at the party."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nudno",
+    "Meaning": "Boringly",
+    "Example": "Nudno mi podczas długiej podróży.",
+    "Translation": "I was bored during the long trip."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Pięknie",
+    "Meaning": "Beautifully",
+    "Example": "Kwiaty rosły pięknie w ogrodzie.",
+    "Translation": "The flowers grew beautifully in the garden."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Pięknie",
+    "Meaning": "Beautifully",
+    "Example": "Ona tańczyła pięknie na scenie.",
+    "Translation": "She danced beautifully on stage."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Pięknie",
+    "Meaning": "Beautifully",
+    "Example": "Ten obraz jest pięknie namalowany.",
+    "Translation": "This painting is beautifully painted."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Podobnie",
+    "Meaning": "Similarly",
+    "Example": "Oni myślą podobnie na ten temat.",
+    "Translation": "They think similarly on this topic."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Podobnie",
+    "Meaning": "Similarly",
+    "Example": "Podobnie wyglądają oba obrazy.",
+    "Translation": "Both paintings look similarly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Podobnie",
+    "Meaning": "Similarly",
+    "Example": "Podobnie zareagowałem na tę wiadomość.",
+    "Translation": "I reacted similarly to this news."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Popularnie",
+    "Meaning": "Popularly",
+    "Example": "Ten zespół jest popularnie znany w Polsce.",
+    "Translation": "This band is popularly known in Poland."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Popularnie",
+    "Meaning": "Popularly",
+    "Example": "Książka została popularnie przeczytana przez wielu.",
+    "Translation": "The book was popularly read by many."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Popularnie",
+    "Meaning": "Popularly",
+    "Example": "Popularnie mówi się, że to najlepszy film roku.",
+    "Translation": "It is popularly said that this is the best movie of the year."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Poważnie",
+    "Meaning": "Seriously",
+    "Example": "Traktuję to poważnie.",
+    "Translation": "I take this seriously."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Poważnie",
+    "Meaning": "Seriously",
+    "Example": "On poważnie rozważa zmianę pracy.",
+    "Translation": "He seriously considers changing jobs."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Poważnie",
+    "Meaning": "Seriously",
+    "Example": "Rozmowa zakończyła się poważnie.",
+    "Translation": "The conversation ended seriously."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Prawdziwie",
+    "Meaning": "Truly",
+    "Example": "To jest prawdziwie wyjątkowe wydarzenie.",
+    "Translation": "This is truly an exceptional event."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Prawdziwie",
+    "Meaning": "Truly",
+    "Example": "Prawdziwie wierzę w jego słowa.",
+    "Translation": "I truly believe his words."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Prawdziwie",
+    "Meaning": "Truly",
+    "Example": "To prawdziwie zmieniło moje życie.",
+    "Translation": "It truly changed my life."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Prywatnie",
+    "Meaning": "Privately",
+    "Example": "Rozmawiali prywatnie o swoich planach.",
+    "Translation": "They talked privately about their plans."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Prywatnie",
+    "Meaning": "Privately",
+    "Example": "Prywatnie uczę się gry na pianinie.",
+    "Translation": "I privately learn to play the piano."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Prywatnie",
+    "Meaning": "Privately",
+    "Example": "Spotkali się prywatnie po pracy.",
+    "Translation": "They met privately after work."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Przyjaźnie",
+    "Meaning": "Friendly",
+    "Example": "Rozmawiali przyjaźnie o swoich planach.",
+    "Translation": "They talked friendly about their plans."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Przyjaźnie",
+    "Meaning": "Friendly",
+    "Example": "Przyjaźnie przywitał gości.",
+    "Translation": "He greeted the guests friendly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Przyjaźnie",
+    "Meaning": "Friendly",
+    "Example": "Dzieci bawiły się przyjaźnie w parku.",
+    "Translation": "The children played friendly in the park."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Silnie",
+    "Meaning": "Strongly",
+    "Example": "Wiatr wieje silnie dzisiaj.",
+    "Translation": "The wind blows strongly today."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Silnie",
+    "Meaning": "Strongly",
+    "Example": "Silnie cię wspieram w tym projekcie.",
+    "Translation": "I strongly support you in this project."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Silnie",
+    "Meaning": "Strongly",
+    "Example": "Czuję się silnie zmotywowany.",
+    "Translation": "I feel strongly motivated."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Słabo",
+    "Meaning": "Weakly",
+    "Example": "Słabo się czuł po chorobie.",
+    "Translation": "He felt weak after the illness."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Słabo",
+    "Meaning": "Weakly",
+    "Example": "Słabo działa ten komputer.",
+    "Translation": "This computer works weakly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Słabo",
+    "Meaning": "Weakly",
+    "Example": "Słabo trzyma się na nogach.",
+    "Translation": "He stands weakly on his feet."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Słodko",
+    "Meaning": "Sweetly",
+    "Example": "Dziecko śpiewało słodko kołysankę.",
+    "Translation": "The child sang the lullaby sweetly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Słodko",
+    "Meaning": "Sweetly",
+    "Example": "Ten deser smakuje słodko.",
+    "Translation": "This dessert tastes sweetly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Słodko",
+    "Meaning": "Sweetly",
+    "Example": "Kwiaty pachniały słodko w ogrodzie.",
+    "Translation": "The flowers smelled sweetly in the garden."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Smacznie",
+    "Meaning": "Tastily / Deliciously",
+    "Example": "Obiad był naprawdę smacznie przyrządzony.",
+    "Translation": "The dinner was really tastily prepared."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Smacznie",
+    "Meaning": "Tastily / Deliciously",
+    "Example": "Ona gotuje bardzo smacznie.",
+    "Translation": "She cooks very deliciously."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Smacznie",
+    "Meaning": "Tastily / Deliciously",
+    "Example": "Tort smakował smacznie i słodko.",
+    "Translation": "The cake tasted deliciously and sweetly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Smutno",
+    "Meaning": "Sadly",
+    "Example": "Smutno mi, że odchodzisz.",
+    "Translation": "I’m sad that you’re leaving."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Smutno",
+    "Meaning": "Sadly",
+    "Example": "On patrzył smutno na zdjęcie.",
+    "Translation": "He looked sadly at the photo."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Smutno",
+    "Meaning": "Sadly",
+    "Example": "Było smutno, gdy się rozstaliśmy.",
+    "Translation": "It was sad when we parted."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Średnio",
+    "Meaning": "Moderately",
+    "Example": "Średnio ocenił wynik egzaminu.",
+    "Translation": "He moderately rated the exam result."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Średnio",
+    "Meaning": "Moderately",
+    "Example": "Średnio wzrosły ceny w tym roku.",
+    "Translation": "Prices moderately increased this year."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Średnio",
+    "Meaning": "Moderately",
+    "Example": "Jest średnio wysoki jak na swój wiek.",
+    "Translation": "He is moderately tall for his age."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Strasznie",
+    "Meaning": "Terribly",
+    "Example": "Było strasznie zimno w nocy.",
+    "Translation": "It was terribly cold at night."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Strasznie",
+    "Meaning": "Terribly",
+    "Example": "On strasznie się bał burzy.",
+    "Translation": "He was terribly afraid of the storm."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Strasznie",
+    "Meaning": "Terribly",
+    "Example": "Strasznie bolała go głowa.",
+    "Translation": "He had a terrible headache."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Sucho",
+    "Meaning": "Dryly",
+    "Example": "Usta były suche po bieganiu.",
+    "Translation": "The lips were dry after running."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Sucho",
+    "Meaning": "Dryly",
+    "Example": "Powietrze w pokoju jest suche.",
+    "Translation": "The air in the room is dry."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Sucho",
+    "Meaning": "Dryly",
+    "Example": "Mówił sucho, bez emocji.",
+    "Translation": "He spoke dryly, without emotion."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Świeżo",
+    "Meaning": "Freshly",
+    "Example": "Świeżo upieczony chleb pachnie wspaniale.",
+    "Translation": "Freshly baked bread smells wonderful."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Świeżo",
+    "Meaning": "Freshly",
+    "Example": "Świeżo skoszona trawa wygląda pięknie.",
+    "Translation": "Freshly cut grass looks beautiful."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Świeżo",
+    "Meaning": "Freshly",
+    "Example": "Świeżo wyciśnięty sok jest zdrowy.",
+    "Translation": "Freshly squeezed juice is healthy."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Szeroko",
+    "Meaning": "Broadly / Widely",
+    "Example": "Rzeka płynie szeroko przez dolinę.",
+    "Translation": "The river flows broadly through the valley."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Szeroko",
+    "Meaning": "Broadly / Widely",
+    "Example": "On szeroko się uśmiechał.",
+    "Translation": "He smiled broadly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Szeroko",
+    "Meaning": "Broadly / Widely",
+    "Example": "Szeroko omawiali temat na konferencji.",
+    "Translation": "They discussed the topic widely at the conference."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Tanio",
+    "Meaning": "Cheaply",
+    "Example": "Kupiłem buty tanio na wyprzedaży.",
+    "Translation": "I bought shoes cheaply on sale."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Tanio",
+    "Meaning": "Cheaply",
+    "Example": "Możesz zjeść tanio w tej restauracji.",
+    "Translation": "You can eat cheaply at this restaurant."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Tanio",
+    "Meaning": "Cheaply",
+    "Example": "Tanio wynajmują mieszkania w tym mieście.",
+    "Translation": "Apartments are rented cheaply in this city."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Tradycyjnie",
+    "Meaning": "Traditionally",
+    "Example": "Tradycyjnie świętujemy Boże Narodzenie.",
+    "Translation": "We traditionally celebrate Christmas."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Tradycyjnie",
+    "Meaning": "Traditionally",
+    "Example": "Tradycyjnie nosi się takie ubrania na weselu.",
+    "Translation": "Such clothes are traditionally worn at weddings."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Tradycyjnie",
+    "Meaning": "Traditionally",
+    "Example": "Tradycyjnie jemy pierogi na święta.",
+    "Translation": "We traditionally eat pierogi at holidays."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Trudno",
+    "Meaning": "Difficultly / Hardly",
+    "Example": "Trudno mu było podnieść ciężką skrzynię.",
+    "Translation": "It was difficult for him to lift the heavy chest."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Trudno",
+    "Meaning": "Difficultly / Hardly",
+    "Example": "Trudno powiedzieć, co się stało.",
+    "Translation": "It is hard to say what happened."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Trudno",
+    "Meaning": "Difficultly / Hardly",
+    "Example": "Trudno jest znaleźć czas na odpoczynek.",
+    "Translation": "It is hard to find time to rest."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Twardo",
+    "Meaning": "Hard / Firmly",
+    "Example": "On uderzył twardo w drzwi.",
+    "Translation": "He hit the door hard."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Twardo",
+    "Meaning": "Hard / Firmly",
+    "Example": "Pracował twardo przez cały dzień.",
+    "Translation": "He worked firmly all day."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Twardo",
+    "Meaning": "Hard / Firmly",
+    "Example": "Stół stoi twardo na podłodze.",
+    "Translation": "The table stands firmly on the floor."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wąsko",
+    "Meaning": "Narrowly",
+    "Example": "Przejście było wąsko zamknięte.",
+    "Translation": "The passage was narrowly blocked."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wąsko",
+    "Meaning": "Narrowly",
+    "Example": "Droga zrobiła się wąsko między domami.",
+    "Translation": "The road became narrow between houses."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wąsko",
+    "Meaning": "Narrowly",
+    "Example": "Wąsko się mieścimy w tym pomieszczeniu.",
+    "Translation": "We fit narrowly in this room."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wesoło",
+    "Meaning": "Cheerfully / Merrily",
+    "Example": "Dzieci śpiewały wesoło na podwórku.",
+    "Translation": "The children sang cheerfully in the yard."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wesoło",
+    "Meaning": "Cheerfully / Merrily",
+    "Example": "On uśmiechał się wesoło do wszystkich.",
+    "Translation": "He smiled merrily at everyone."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wesoło",
+    "Meaning": "Cheerfully / Merrily",
+    "Example": "Spędziliśmy wesoło czas na wakacjach.",
+    "Translation": "We spent a merry time on vacation."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wrażliwie",
+    "Meaning": "Sensitively",
+    "Example": "Rozmawiał z nią wrażliwie o trudnych sprawach.",
+    "Translation": "He spoke sensitively to her about difficult matters."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wrażliwie",
+    "Meaning": "Sensitively",
+    "Example": "Reagował wrażliwie na krytykę.",
+    "Translation": "He reacted sensitively to criticism."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wrażliwie",
+    "Meaning": "Sensitively",
+    "Example": "Artysta postrzega świat wrażliwie i subtelnie.",
+    "Translation": "The artist perceives the world sensitively and subtly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wspaniale",
+    "Meaning": "Wonderfully",
+    "Example": "Spędziliśmy wspaniale czas na wakacjach.",
+    "Translation": "We spent a wonderful time on vacation."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wspaniale",
+    "Meaning": "Wonderfully",
+    "Example": "On wspaniale gra na pianinie.",
+    "Translation": "He plays the piano wonderfully."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wspaniale",
+    "Meaning": "Wonderfully",
+    "Example": "Wspaniale wykonali swój występ na scenie.",
+    "Translation": "They performed wonderfully on stage."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wspólnie",
+    "Meaning": "Jointly / Together",
+    "Example": "Pracujemy wspólnie nad tym projektem.",
+    "Translation": "We work jointly on this project."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wspólnie",
+    "Meaning": "Jointly / Together",
+    "Example": "Wspólnie zdecydowaliśmy o terminie spotkania.",
+    "Translation": "Together we decided on the meeting date."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wspólnie",
+    "Meaning": "Jointly / Together",
+    "Example": "Mieszkają wspólnie od pięciu lat.",
+    "Translation": "They have lived together for five years."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wygodnie",
+    "Meaning": "Comfortably",
+    "Example": "Siedział wygodnie na kanapie.",
+    "Translation": "He sat comfortably on the sofa."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wygodnie",
+    "Meaning": "Comfortably",
+    "Example": "Można podróżować wygodnie tym pociągiem.",
+    "Translation": "You can travel comfortably by this train."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wygodnie",
+    "Meaning": "Comfortably",
+    "Example": "Mieszkamy wygodnie w nowym domu.",
+    "Translation": "We live comfortably in the new house."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wysoko",
+    "Meaning": "Highly / Tall",
+    "Example": "Drzewo rośnie wysoko nad domem.",
+    "Translation": "The tree grows tall above the house."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wysoko",
+    "Meaning": "Highly / Tall",
+    "Example": "On wysoko ocenił twoją pracę.",
+    "Translation": "He highly rated your work."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wysoko",
+    "Meaning": "Highly / Tall",
+    "Example": "Balon uniósł się wysoko w niebo.",
+    "Translation": "The balloon rose high into the sky."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zabawnie",
+    "Meaning": "Amusingly",
+    "Example": "Opowiadał zabawnie dowcipy na imprezie.",
+    "Translation": "He amusingly told jokes at the party."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zabawnie",
+    "Meaning": "Amusingly",
+    "Example": "Film był zabawnie nakręcony.",
+    "Translation": "The movie was amusingly filmed."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zabawnie",
+    "Meaning": "Amusingly",
+    "Example": "Dziecko śmiało się zabawnie z klauna.",
+    "Translation": "The child laughed amusingly at the clown."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zawodowo",
+    "Meaning": "Professionally",
+    "Example": "On działa zawodowo jako grafik.",
+    "Translation": "He works professionally as a graphic designer."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zawodowo",
+    "Meaning": "Professionally",
+    "Example": "Trenuje zawodowo piłkę nożną.",
+    "Translation": "He trains professionally in football."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zawodowo",
+    "Meaning": "Professionally",
+    "Example": "Zawodowo zajmuje się programowaniem.",
+    "Translation": "He professionally deals with programming."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zdrowo",
+    "Meaning": "Healthily",
+    "Example": "Ona je zdrowo, dużo warzyw i owoców.",
+    "Translation": "She eats healthily, lots of vegetables and fruits."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zdrowo",
+    "Meaning": "Healthily",
+    "Example": "Żyje zdrowo i codziennie ćwiczy.",
+    "Translation": "He lives healthily and exercises daily."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zdrowo",
+    "Meaning": "Healthily",
+    "Example": "Starają się gotować zdrowo dla całej rodziny.",
+    "Translation": "They try to cook healthily for the whole family."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zimno",
+    "Meaning": "Coldly",
+    "Example": "Wiatr dmuchał zimno przez okno.",
+    "Translation": "The wind blew coldly through the window."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zimno",
+    "Meaning": "Coldly",
+    "Example": "Ona spojrzała na niego zimno i obojętnie.",
+    "Translation": "She looked at him coldly and indifferently."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Zimno",
+    "Meaning": "Coldly",
+    "Example": "Zimno było w tym pokoju bez ogrzewania.",
+    "Translation": "It was cold in the room without heating."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Źle",
+    "Meaning": "Badly / Poorly",
+    "Example": "On grał źle w piłkę nożną.",
+    "Translation": "He played football badly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Źle",
+    "Meaning": "Badly / Poorly",
+    "Example": "Pogoda dziś jest źle przewidywana.",
+    "Translation": "The weather is poorly forecasted today."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Źle",
+    "Meaning": "Badly / Poorly",
+    "Example": "Czuję się źle po wczorajszej imprezie.",
+    "Translation": "I feel badly after yesterday’s party."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Blisko",
+    "Meaning": "Near / Close",
+    "Example": "Mieszkam blisko szkoły.",
+    "Translation": "I live near the school.",
+    "Notes": "These adverbs indicate the location or direction of an action. Use to specify where something happens."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Blisko",
+    "Meaning": "Near / Close",
+    "Example": "Blisko tu jest stacja benzynowa.",
+    "Translation": "There is a gas station nearby."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Blisko",
+    "Meaning": "Near / Close",
+    "Example": "Podejdź blisko, żebym cię usłyszał.",
+    "Translation": "Come close so I can hear you."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Daleko",
+    "Meaning": "Far",
+    "Example": "Mieszkam daleko od centrum.",
+    "Translation": "I live far from the city center."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Daleko",
+    "Meaning": "Far",
+    "Example": "On podróżował daleko.",
+    "Translation": "He traveled far."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Daleko",
+    "Meaning": "Far",
+    "Example": "Daleko stąd jest jezioro.",
+    "Translation": "There is a lake far from here."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Dokąd",
+    "Meaning": "To where",
+    "Example": "Dokąd idziesz?",
+    "Translation": "Where are you going?"
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Dokąd",
+    "Meaning": "To where",
+    "Example": "Nie powiedział mi, dokąd się wybiera.",
+    "Translation": "He didn’t tell me where he’s going."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Dokąd",
+    "Meaning": "To where",
+    "Example": "Zastanawiam się, dokąd prowadzi ta droga.",
+    "Translation": "I’m wondering where this road leads."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Gdzieś",
+    "Meaning": "Somewhere",
+    "Example": "Gdzieś go widziałem wcześniej.",
+    "Translation": "I saw him somewhere before."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Gdzieś",
+    "Meaning": "Somewhere",
+    "Example": "Musi być gdzieś w pobliżu.",
+    "Translation": "He must be somewhere nearby."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Gdzieś",
+    "Meaning": "Somewhere",
+    "Example": "Zgubiłem go gdzieś po drodze.",
+    "Translation": "I lost it somewhere along the way."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Na zewnątrz",
+    "Meaning": "Outside",
+    "Example": "Dzieci bawią się na zewnątrz.",
+    "Translation": "The children are playing outside."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Na zewnątrz",
+    "Meaning": "Outside",
+    "Example": "Jest zimno na zewnątrz.",
+    "Translation": "It’s cold outside."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Na zewnątrz",
+    "Meaning": "Outside",
+    "Example": "Idziemy na zewnątrz na spacer.",
+    "Translation": "We're going outside for a walk."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Nigdzie",
+    "Meaning": "Nowhere",
+    "Example": "Nie mogę go znaleźć nigdzie.",
+    "Translation": "I can’t find it anywhere."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Nigdzie",
+    "Meaning": "Nowhere",
+    "Example": "Nigdzie nie ma lepszej kawy.",
+    "Translation": "Nowhere has better coffee."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Nigdzie",
+    "Meaning": "Nowhere",
+    "Example": "Nigdzie nie czuję się tak dobrze jak w domu.",
+    "Translation": "I feel good nowhere else like at home."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Obok",
+    "Meaning": "Next to / Beside",
+    "Example": "Usiądź obok mnie.",
+    "Translation": "Sit next to me."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Obok",
+    "Meaning": "Next to / Beside",
+    "Example": "Sklep jest obok poczty.",
+    "Translation": "The shop is next to the post office."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Obok",
+    "Meaning": "Next to / Beside",
+    "Example": "Zaparkuj obok tamtego samochodu.",
+    "Translation": "Park next to that car."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "skąd",
+    "Meaning": "from where",
+    "Example": "Skąd przyjechałeś?",
+    "Translation": "Where did you come from?"
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "skąd",
+    "Meaning": "from where",
+    "Example": "Nie wiem, skąd on to wie.",
+    "Translation": "I don’t know where he knows it from."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "skąd",
+    "Meaning": "from where",
+    "Example": "Skąd mamy wziąć tyle pieniędzy?",
+    "Translation": "Where are we supposed to get so much money from?"
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Tam",
+    "Meaning": "There",
+    "Example": "On mieszka tam.",
+    "Translation": "He lives there."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Tam",
+    "Meaning": "There",
+    "Example": "Tam jest sklep spożywczy.",
+    "Translation": "There is a grocery store there."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Tam",
+    "Meaning": "There",
+    "Example": "Nie idź tam sam.",
+    "Translation": "Don’t go there alone."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Tutaj",
+    "Meaning": "Here",
+    "Example": "Możesz usiąść tutaj.",
+    "Translation": "You can sit here."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Tutaj",
+    "Meaning": "Here",
+    "Example": "Tutaj mieszkam od lat.",
+    "Translation": "I've lived here for years."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Tutaj",
+    "Meaning": "Here",
+    "Example": "Zostaw to tutaj, proszę.",
+    "Translation": "Leave it here, please."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W dół",
+    "Meaning": "Down",
+    "Example": "Idź w dół schodami.",
+    "Translation": "Go down the stairs."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W dół",
+    "Meaning": "Down",
+    "Example": "Spójrz w dół.",
+    "Translation": "Look down."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W dół",
+    "Meaning": "Down",
+    "Example": "Piłka potoczyła się w dół.",
+    "Translation": "The ball rolled down."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W górę",
+    "Meaning": "Up",
+    "Example": "Spójrz w górę na sufit.",
+    "Translation": "Look up at the ceiling."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W górę",
+    "Meaning": "Up",
+    "Example": "Poszliśmy w górę wzgórza.",
+    "Translation": "We went up the hill."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W górę",
+    "Meaning": "Up",
+    "Example": "Samolot leciał w górę.",
+    "Translation": "The airplane flew upward."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W lewo",
+    "Meaning": "To the left",
+    "Example": "Skręć w lewo na skrzyżowaniu.",
+    "Translation": "Turn left at the intersection."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W lewo",
+    "Meaning": "To the left",
+    "Example": "On siedzi w lewo ode mnie.",
+    "Translation": "He is sitting to the left of me."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W lewo",
+    "Meaning": "To the left",
+    "Example": "Popatrz w lewo.",
+    "Translation": "Look to the left."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W prawo",
+    "Meaning": "To the right",
+    "Example": "Skręć w prawo przy światłach.",
+    "Translation": "Turn right at the lights."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W prawo",
+    "Meaning": "To the right",
+    "Example": "Drzwi są w prawo od windy.",
+    "Translation": "The door is to the right of the elevator."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W prawo",
+    "Meaning": "To the right",
+    "Example": "Spójrz w prawo.",
+    "Translation": "Look to the right."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W środku",
+    "Meaning": "In the middle / Inside",
+    "Example": "On siedzi w środku pokoju.",
+    "Translation": "He is sitting in the middle of the room."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W środku",
+    "Meaning": "In the middle / Inside",
+    "Example": "W środku książki była zakładka.",
+    "Translation": "There was a bookmark inside the book."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "W środku",
+    "Meaning": "In the middle / Inside",
+    "Example": "Samochód jest w środku garażu.",
+    "Translation": "The car is inside the garage."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Wewnątrz",
+    "Meaning": "Inside",
+    "Example": "Zostań wewnątrz, proszę.",
+    "Translation": "Stay inside, please."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Wewnątrz",
+    "Meaning": "Inside",
+    "Example": "Jest ciepło wewnątrz.",
+    "Translation": "It's warm inside."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Wewnątrz",
+    "Meaning": "Inside",
+    "Example": "Zajrzyj wewnątrz pudełka.",
+    "Translation": "Look inside the box."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Wszędzie",
+    "Meaning": "Everywhere",
+    "Example": "Szukałem go wszędzie.",
+    "Translation": "I looked for him everywhere."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Wszędzie",
+    "Meaning": "Everywhere",
+    "Example": "Wszędzie są ludzie.",
+    "Translation": "There are people everywhere."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Wszędzie",
+    "Meaning": "Everywhere",
+    "Example": "Jego książki są wszędzie.",
+    "Translation": "His books are everywhere."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Z przodu",
+    "Meaning": "In front / At the front",
+    "Example": "Z przodu budynku jest ogród.",
+    "Translation": "There's a garden in front of the building."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Z przodu",
+    "Meaning": "In front / At the front",
+    "Example": "Siedzę z przodu klasy.",
+    "Translation": "I sit at the front of the classroom."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Z przodu",
+    "Meaning": "In front / At the front",
+    "Example": "Samochód ma światła z przodu.",
+    "Translation": "The car has lights in front."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Z tyłu",
+    "Meaning": "In the back / Behind",
+    "Example": "Auto stoi z tyłu budynku.",
+    "Translation": "The car is behind the building."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Z tyłu",
+    "Meaning": "In the back / Behind",
+    "Example": "Z tyłu jest jeszcze jedno wejście.",
+    "Translation": "There is another entrance in the back."
+  },
+  {
+    "Adverb Category": "Adverbs of Place",
+    "Adverb": "Z tyłu",
+    "Meaning": "In the back / Behind",
+    "Example": "Zobaczyłem coś z tyłu auta.",
+    "Translation": "I saw something behind the car."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Czasami",
+    "Meaning": "Sometimes",
+    "Example": "Czasami pada śnieg w kwietniu.",
+    "Translation": "Sometimes it snows in April.",
+    "Notes": "These adverbs tell when an action takes place or how often. Use to indicate the timing or frequency of an event."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Czasami",
+    "Meaning": "Sometimes",
+    "Example": "Czasami lubię być sam.",
+    "Translation": "Sometimes I like to be alone."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Czasami",
+    "Meaning": "Sometimes",
+    "Example": "Czasami gotuję obiad.",
+    "Translation": "Sometimes I cook dinner."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Często",
+    "Meaning": "Often",
+    "Example": "Często chodzę na spacery.",
+    "Translation": "I often go for walks."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Często",
+    "Meaning": "Often",
+    "Example": "Często się myli.",
+    "Translation": "He makes mistakes often."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Często",
+    "Meaning": "Often",
+    "Example": "Spotykamy się dość często.",
+    "Translation": "We meet quite often."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dawno",
+    "Meaning": "Long ago",
+    "Example": "Dawno cię nie widziałem.",
+    "Translation": "I haven’t seen you in a long time."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dawno",
+    "Meaning": "Long ago",
+    "Example": "Dawno temu tu mieszkałem.",
+    "Translation": "I lived here long ago."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dawno",
+    "Meaning": "Long ago",
+    "Example": "To było dawno.",
+    "Translation": "That was a long time ago."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dopiero",
+    "Meaning": "Only / Not until",
+    "Example": "Przyszedł dopiero teraz.",
+    "Translation": "He just arrived now."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dopiero",
+    "Meaning": "Only / Not until",
+    "Example": "Dopiero się obudziłem.",
+    "Translation": "I just woke up."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dopiero",
+    "Meaning": "Only / Not until",
+    "Example": "Film zaczyna się dopiero o ósmej.",
+    "Translation": "The movie starts not until eight."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dziś / Dzisiaj",
+    "Meaning": "Today",
+    "Example": "Dzisiaj mam dużo pracy.",
+    "Translation": "I have a lot of work today."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dziś / Dzisiaj",
+    "Meaning": "Today",
+    "Example": "Idziemy do kina dzisiaj.",
+    "Translation": "We're going to the cinema today."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Dziś / Dzisiaj",
+    "Meaning": "Today",
+    "Example": "Dzisiaj pogoda jest piękna.",
+    "Translation": "The weather is beautiful today."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Jutro",
+    "Meaning": "Tomorrow",
+    "Example": "Jutro mam spotkanie.",
+    "Translation": "I have a meeting tomorrow."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Jutro",
+    "Meaning": "Tomorrow",
+    "Example": "Jutro wyjeżdżamy na wakacje.",
+    "Translation": "We're going on vacation tomorrow."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Jutro",
+    "Meaning": "Tomorrow",
+    "Example": "Jutro będzie padać.",
+    "Translation": "It will rain tomorrow."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Już",
+    "Meaning": "Already / Now",
+    "Example": "Już skończyłem.",
+    "Translation": "I’ve already finished."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Już",
+    "Meaning": "Already / Now",
+    "Example": "Już tu jestem.",
+    "Translation": "I’m here already."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Już",
+    "Meaning": "Already / Now",
+    "Example": "Już go znam.",
+    "Translation": "I already know him."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Kiedyś",
+    "Meaning": "Once / Someday / In the past",
+    "Example": "Kiedyś mieszkałem w Krakowie.",
+    "Translation": "I once lived in Kraków."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Kiedyś",
+    "Meaning": "Once / Someday / In the past",
+    "Example": "Może kiedyś tam pojedziemy.",
+    "Translation": "Maybe we’ll go there someday."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Kiedyś",
+    "Meaning": "Once / Someday / In the past",
+    "Example": "Kiedyś to było łatwiejsze.",
+    "Translation": "It used to be easier."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Nagle",
+    "Meaning": "Suddenly",
+    "Example": "Nagle zrobiło się ciemno.",
+    "Translation": "Suddenly it got dark."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Nagle",
+    "Meaning": "Suddenly",
+    "Example": "Nagle zadzwonił telefon.",
+    "Translation": "Suddenly the phone rang."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Nagle",
+    "Meaning": "Suddenly",
+    "Example": "Nagle zniknął.",
+    "Translation": "He suddenly disappeared."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Natychmiast",
+    "Meaning": "Immediately",
+    "Example": "Potrzebuję cię natychmiast.",
+    "Translation": "I need you immediately."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Natychmiast",
+    "Meaning": "Immediately",
+    "Example": "Natychmiast wrócił do domu.",
+    "Translation": "He returned home immediately."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Natychmiast",
+    "Meaning": "Immediately",
+    "Example": "Zrób to natychmiast!",
+    "Translation": "Do it right now!"
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Później",
+    "Meaning": "Later",
+    "Example": "Porozmawiamy później.",
+    "Translation": "We’ll talk later."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Później",
+    "Meaning": "Later",
+    "Example": "Później zadzwonię.",
+    "Translation": "I’ll call later."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Później",
+    "Meaning": "Later",
+    "Example": "Zrobimy to później.",
+    "Translation": "We’ll do it later."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Przedtem",
+    "Meaning": "Before / Earlier",
+    "Example": "Przedtem nie wiedziałem o tym.",
+    "Translation": "I didn’t know about it before."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Przedtem",
+    "Meaning": "Before / Earlier",
+    "Example": "Byliśmy tam przedtem.",
+    "Translation": "We were there earlier."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Przedtem",
+    "Meaning": "Before / Earlier",
+    "Example": "Przedtem pracowałem w banku.",
+    "Translation": "I used to work in a bank before."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Teraz",
+    "Meaning": "Now",
+    "Example": "Teraz nie mogę rozmawiać.",
+    "Translation": "I can't talk right now."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Teraz",
+    "Meaning": "Now",
+    "Example": "Jestem teraz w domu.",
+    "Translation": "I'm at home now."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Teraz",
+    "Meaning": "Now",
+    "Example": "Teraz wszystko się zmieniło.",
+    "Translation": "Now everything has changed."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wcześniej",
+    "Meaning": "Earlier / Before",
+    "Example": "Powinienem był przyjść wcześniej.",
+    "Translation": "I should have come earlier."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wcześniej",
+    "Meaning": "Earlier / Before",
+    "Example": "Wcześniej było inaczej.",
+    "Translation": "It was different before."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wcześniej",
+    "Meaning": "Earlier / Before",
+    "Example": "Spotkaliśmy się wcześniej.",
+    "Translation": "We met earlier."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wczoraj",
+    "Meaning": "Yesterday",
+    "Example": "Wczoraj byłem u lekarza.",
+    "Translation": "I was at the doctor yesterday."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wczoraj",
+    "Meaning": "Yesterday",
+    "Example": "Spotkaliśmy się wczoraj.",
+    "Translation": "We met yesterday."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wczoraj",
+    "Meaning": "Yesterday",
+    "Example": "Wczoraj nie miałem czasu.",
+    "Translation": "I didn’t have time yesterday."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wkrótce",
+    "Meaning": "Soon / Shortly",
+    "Example": "Wkrótce się zobaczymy.",
+    "Translation": "We’ll see each other soon."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wkrótce",
+    "Meaning": "Soon / Shortly",
+    "Example": "Wkrótce wyjaśnię wszystko.",
+    "Translation": "I’ll explain everything shortly."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wkrótce",
+    "Meaning": "Soon / Shortly",
+    "Example": "Film zacznie się wkrótce.",
+    "Translation": "The movie will start soon."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wtedy",
+    "Meaning": "Then / At that time",
+    "Example": "Wtedy byłem młody.",
+    "Translation": "I was young then."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wtedy",
+    "Meaning": "Then / At that time",
+    "Example": "Co robiłeś wtedy?",
+    "Translation": "What were you doing at that time?"
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wtedy",
+    "Meaning": "Then / At that time",
+    "Example": "Wtedy się poznaliśmy.",
+    "Translation": "That’s when we met."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zaraz",
+    "Meaning": "Soon / In a moment",
+    "Example": "Zaraz wracam.",
+    "Translation": "I'll be right back."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zaraz",
+    "Meaning": "Soon / In a moment",
+    "Example": "Zaraz zaczynamy.",
+    "Translation": "We’re starting in a moment."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zaraz",
+    "Meaning": "Soon / In a moment",
+    "Example": "Zaraz ci powiem.",
+    "Translation": "I’ll tell you in a second."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zawsze",
+    "Meaning": "Always",
+    "Example": "Zawsze piję kawę rano.",
+    "Translation": "I always drink coffee in the morning."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zawsze",
+    "Meaning": "Always",
+    "Example": "Zawsze jesteś spóźniony.",
+    "Translation": "You’re always late."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zawsze",
+    "Meaning": "Always",
+    "Example": "On zawsze pomaga innym.",
+    "Translation": "He always helps others."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Bez wątpienia",
+    "Meaning": "Without A Doubt",
+    "Example": "To jest bez wątpienia najlepszy film.",
+    "Translation": "This is without a doubt the best movie.",
+    "Notes": " These adverbs express the speaker’s attitude toward the action or statement, such as certainty, necessity, or possibility. Use to convey modality — how the speaker feels about the likelihood, necessity, or manner of the action."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Bez wątpienia",
+    "Meaning": "Without A Doubt",
+    "Example": "Bez wątpienia jest bardzo zdolny.",
+    "Translation": "Without a doubt, he is very talented."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Bez wątpienia",
+    "Meaning": "Without A Doubt",
+    "Example": "Bez wątpienia będziemy się dobrze bawić.",
+    "Translation": "Without a doubt, we will have fun."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Co więcej",
+    "Meaning": "Moreover",
+    "Example": "Co więcej, mam dla ciebie prezent.",
+    "Translation": "Moreover, I have a gift for you."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Co więcej",
+    "Meaning": "Moreover",
+    "Example": "Co więcej, udało mi się to zrobić szybko.",
+    "Translation": "Moreover, I managed to do it quickly."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Co więcej",
+    "Meaning": "Moreover",
+    "Example": "Co więcej, zaprosiliśmy wszystkich znajomych.",
+    "Translation": "Moreover, we invited all our friends."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Na marginesie",
+    "Meaning": "By The Way",
+    "Example": "Na marginesie, widziałeś nowy film?",
+    "Translation": "By the way, have you seen the new movie?"
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Na marginesie",
+    "Meaning": "By The Way",
+    "Example": "Na marginesie, zapomniałem ci powiedzieć.",
+    "Translation": "By the way, I forgot to tell you."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Na marginesie",
+    "Meaning": "By The Way",
+    "Example": "Na marginesie, spotkanie jest o 18.",
+    "Translation": "By the way, the meeting is at 6 PM."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Na pewno",
+    "Meaning": "Definitely, For Sure",
+    "Example": "Na pewno przyjdę na czas.",
+    "Translation": "I will definitely arrive on time."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Na pewno",
+    "Meaning": "Definitely, For Sure",
+    "Example": "Na pewno lubi tę muzykę.",
+    "Translation": "He definitely likes this music."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Na pewno",
+    "Meaning": "Definitely, For Sure",
+    "Example": "Na pewno jest w domu.",
+    "Translation": "He is definitely at home."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Najwyraźniej",
+    "Meaning": "Apparently",
+    "Example": "Najwyraźniej się zgubił.",
+    "Translation": "Apparently, he got lost."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Najwyraźniej",
+    "Meaning": "Apparently",
+    "Example": "Najwyraźniej nie słyszał telefonu.",
+    "Translation": "Apparently, he didn’t hear the phone."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Najwyraźniej",
+    "Meaning": "Apparently",
+    "Example": "Najwyraźniej to dobry pomysł.",
+    "Translation": "Apparently, it’s a good idea."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Niestety",
+    "Meaning": "Unfortunately",
+    "Example": "Niestety, nie mogę przyjść.",
+    "Translation": "Unfortunately, I can’t come."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Niestety",
+    "Meaning": "Unfortunately",
+    "Example": "Niestety, zabrakło pieniędzy.",
+    "Translation": "Unfortunately, we ran out of money."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Niestety",
+    "Meaning": "Unfortunately",
+    "Example": "Niestety, to się nie udało.",
+    "Translation": "Unfortunately, it didn’t work out."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Niewątpliwie",
+    "Meaning": "Undoubtedly",
+    "Example": "To jest niewątpliwie ważne.",
+    "Translation": "This is undoubtedly important."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Niewątpliwie",
+    "Meaning": "Undoubtedly",
+    "Example": "Niewątpliwie ma talent.",
+    "Translation": "He undoubtedly has talent."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Niewątpliwie",
+    "Meaning": "Undoubtedly",
+    "Example": "Niewątpliwie to pomoże.",
+    "Translation": "That will undoubtedly help."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Oczywiście",
+    "Meaning": "Of Course, Obviously",
+    "Example": "Oczywiście pomogę ci.",
+    "Translation": "Of course, I will help you."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Oczywiście",
+    "Meaning": "Of Course, Obviously",
+    "Example": "Oczywiście to zrobię.",
+    "Translation": "Obviously, I will do it."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Oczywiście",
+    "Meaning": "Of Course, Obviously",
+    "Example": "Oczywiście masz rację.",
+    "Translation": "Of course, you’re right."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Podobnie",
+    "Meaning": "Similarly",
+    "Example": "Podobnie jak ty, lubię kawę.",
+    "Translation": "Similarly to you, I like coffee."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Podobnie",
+    "Meaning": "Similarly",
+    "Example": "Podobnie myślę o tym problemie.",
+    "Translation": "I think similarly about this problem."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Podobnie",
+    "Meaning": "Similarly",
+    "Example": "Podobnie zrobiłem ostatnio.",
+    "Translation": "I did similarly recently."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Podobno",
+    "Meaning": "Reportedly, Allegedly",
+    "Example": "Podobno będzie padać jutro.",
+    "Translation": "Reportedly, it will rain tomorrow."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Podobno",
+    "Meaning": "Reportedly, Allegedly",
+    "Example": "Podobno ona jest bardzo mądra.",
+    "Translation": "Allegedly, she is very smart."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Podobno",
+    "Meaning": "Reportedly, Allegedly",
+    "Example": "Podobno on wygrał konkurs.",
+    "Translation": "Reportedly, he won the contest."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Tak naprawdę",
+    "Meaning": "Actually, Really",
+    "Example": "Tak naprawdę nie wiem, co myśleć.",
+    "Translation": "Actually, I don’t know what to think."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Tak naprawdę",
+    "Meaning": "Actually, Really",
+    "Example": "Tak naprawdę to nie ma znaczenia.",
+    "Translation": "Actually, it doesn’t matter."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Tak naprawdę",
+    "Meaning": "Actually, Really",
+    "Example": "Tak naprawdę lubię tę piosenkę.",
+    "Translation": "I really like this song."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "W rzeczywistości",
+    "Meaning": "In Reality",
+    "Example": "W rzeczywistości nie jest tak źle.",
+    "Translation": "In reality, it’s not that bad."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "W rzeczywistości",
+    "Meaning": "In Reality",
+    "Example": "W rzeczywistości to było trudniejsze niż myślałem.",
+    "Translation": "In reality, it was harder than I thought."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "W rzeczywistości",
+    "Meaning": "In Reality",
+    "Example": "W rzeczywistości wszystko działa dobrze.",
+    "Translation": "In reality, everything works well."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "W sumie",
+    "Meaning": "Overall, Basically",
+    "Example": "W sumie było całkiem dobrze.",
+    "Translation": "Overall, it was quite good."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "W sumie",
+    "Meaning": "Overall, Basically",
+    "Example": "W sumie nie mam nic przeciwko.",
+    "Translation": "Basically, I have nothing against it."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "W sumie",
+    "Meaning": "Overall, Basically",
+    "Example": "W sumie to się zgadzam.",
+    "Translation": "Overall, I agree."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Właściwie",
+    "Meaning": "Actually, Really",
+    "Example": "Właściwie to nie wiem.",
+    "Translation": "Actually, I don’t know."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Właściwie",
+    "Meaning": "Actually, Really",
+    "Example": "Właściwie to nie miałem czasu.",
+    "Translation": "Really, I didn’t have time."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Właściwie",
+    "Meaning": "Actually, Really",
+    "Example": "Właściwie to masz rację.",
+    "Translation": "Actually, you’re right."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Z pewnością",
+    "Meaning": "Certainly",
+    "Example": "Z pewnością to zrobię.",
+    "Translation": "I will certainly do that."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Z pewnością",
+    "Meaning": "Certainly",
+    "Example": "Z pewnością jest to prawda.",
+    "Translation": "That is certainly true."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Z pewnością",
+    "Meaning": "Certainly",
+    "Example": "Z pewnością się zgodzę.",
+    "Translation": "I will certainly agree."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zapewne",
+    "Meaning": "Surely, Presumably",
+    "Example": "Zapewne jest już w drodze.",
+    "Translation": "He is surely on the way."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zapewne",
+    "Meaning": "Surely, Presumably",
+    "Example": "Zapewne zapomniał o spotkaniu.",
+    "Translation": "He presumably forgot about the meeting."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zapewne",
+    "Meaning": "Surely, Presumably",
+    "Example": "Zapewne się spóźni.",
+    "Translation": "He will surely be late."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zdaniem mnie",
+    "Meaning": "In My Opinion",
+    "Example": "Zdaniem mnie to nie jest dobre rozwiązanie.",
+    "Translation": "In my opinion, this is not a good solution."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zdaniem mnie",
+    "Meaning": "In My Opinion",
+    "Example": "Zdaniem mnie powinieneś odpocząć.",
+    "Translation": "In my opinion, you should rest."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zdaniem mnie",
+    "Meaning": "In My Opinion",
+    "Example": "Zdaniem mnie to jest ważne.",
+    "Translation": "In my opinion, this is important."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zresztą",
+    "Meaning": "Besides, Anyway",
+    "Example": "Nie chcę iść, zresztą jestem zmęczony.",
+    "Translation": "I don’t want to go, besides, I’m tired."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zresztą",
+    "Meaning": "Besides, Anyway",
+    "Example": "Zresztą to nie jest takie ważne.",
+    "Translation": "Anyway, it’s not that important."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Zresztą",
+    "Meaning": "Besides, Anyway",
+    "Example": "Zresztą nie mam czasu na to.",
+    "Translation": "Besides, I don’t have time for that."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Też",
+    "Meaning": "Also",
+    "Example": "Ja też idę do kina.",
+    "Translation": "I am also going to the cinema."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Też",
+    "Meaning": "Also",
+    "Example": "On też lubi muzykę.",
+    "Translation": "He also likes music."
+  },
+  {
+    "Adverb Category": "Adverbs of Affirmation or Negation",
+    "Adverb": "Też",
+    "Meaning": "Also",
+    "Example": "My też chcemy spróbować.",
+    "Translation": "We also want to try."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nawet",
+    "Meaning": "Even",
+    "Example": "Nawet dzieci to rozumieją.",
+    "Translation": "Even children understand that."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nawet",
+    "Meaning": "Even",
+    "Example": "On nawet nie powiedział słowa.",
+    "Translation": "He didn’t even say a word."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Nawet",
+    "Meaning": "Even",
+    "Example": "Nawet jutro będzie padać.",
+    "Translation": "It will even rain tomorrow."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Raczej",
+    "Meaning": "Rather",
+    "Example": "Raczej pójdę na spacer.",
+    "Translation": "I will rather go for a walk."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Raczej",
+    "Meaning": "Rather",
+    "Example": "To raczej nie jest dobry pomysł.",
+    "Translation": "That is rather not a good idea."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Raczej",
+    "Meaning": "Rather",
+    "Example": "On jest raczej zmęczony.",
+    "Translation": "He is rather tired."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wciąż",
+    "Meaning": "Still",
+    "Example": "Wciąż czekam na autobus.",
+    "Translation": "I am still waiting for the bus."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wciąż",
+    "Meaning": "Still",
+    "Example": "Ona wciąż mieszka w tym samym domu.",
+    "Translation": "She still lives in the same house."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wciąż",
+    "Meaning": "Still",
+    "Example": "On wciąż pracuje nad projektem.",
+    "Translation": "He is still working on the project."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Jeszcze",
+    "Meaning": "Still/Yet",
+    "Example": "Jeszcze nie skończyłem.",
+    "Translation": "I haven’t finished yet."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Jeszcze",
+    "Meaning": "Still/Yet",
+    "Example": "Czy masz jeszcze pytania?",
+    "Translation": "Do you still have questions?"
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Jeszcze",
+    "Meaning": "Still/Yet",
+    "Example": "Jeszcze jest czas, aby się przygotować.",
+    "Translation": "There is still time to prepare."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Inaczej",
+    "Meaning": "Differently",
+    "Example": "Musisz to zrobić inaczej.",
+    "Translation": "You must do it differently."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Inaczej",
+    "Meaning": "Differently",
+    "Example": "On myśli inaczej niż ty.",
+    "Translation": "He thinks differently than you."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Inaczej",
+    "Meaning": "Differently",
+    "Example": "Wszystko poszło inaczej, niż planowaliśmy.",
+    "Translation": "Everything went differently than planned."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zazwyczaj",
+    "Meaning": "Usually",
+    "Example": "Zazwyczaj chodzę spać o 22.",
+    "Translation": "I usually go to sleep at 10 p.m."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zazwyczaj",
+    "Meaning": "Usually",
+    "Example": "Zazwyczaj pada tutaj jesienią.",
+    "Translation": "It usually rains here in autumn."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Zazwyczaj",
+    "Meaning": "Usually",
+    "Example": "Zazwyczaj pracujemy od 9 do 17.",
+    "Translation": "We usually work from 9 to 5."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zwłaszcza",
+    "Meaning": "Especially",
+    "Example": "Lubię owoce, zwłaszcza jabłka.",
+    "Translation": "I like fruits, especially apples."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zwłaszcza",
+    "Meaning": "Especially",
+    "Example": "To jest ważne, zwłaszcza dla dzieci.",
+    "Translation": "This is important, especially for children."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Zwłaszcza",
+    "Meaning": "Especially",
+    "Example": "Zwłaszcza zimą jest zimno.",
+    "Translation": "Especially in winter it’s cold."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Może",
+    "Meaning": "Maybe",
+    "Example": "Może pójdziemy na spacer.",
+    "Translation": "Maybe we will go for a walk."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Może",
+    "Meaning": "Maybe",
+    "Example": "Może on się spóźni.",
+    "Translation": "Maybe he will be late."
+  },
+  {
+    "Adverb Category": "Adverbs of Doubt",
+    "Adverb": "Może",
+    "Meaning": "Maybe",
+    "Example": "Może jutro będzie ładna pogoda.",
+    "Translation": "Maybe tomorrow will be nice weather."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Pewno",
+    "Meaning": "Certainly",
+    "Example": "Pewno przyjdzie na spotkanie.",
+    "Translation": "He will certainly come to the meeting."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Pewno",
+    "Meaning": "Certainly",
+    "Example": "To jest pewne.",
+    "Translation": "That is certain."
+  },
+  {
+    "Adverb Category": "Modal Adverbs",
+    "Adverb": "Pewno",
+    "Meaning": "Certainly",
+    "Example": "Pewno znajdziemy rozwiązanie.",
+    "Translation": "We will certainly find a solution."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Późno",
+    "Meaning": "Late",
+    "Example": "Jest już późno.",
+    "Translation": "It’s already late."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Późno",
+    "Meaning": "Late",
+    "Example": "Późno się obudziłem.",
+    "Translation": "I woke up late."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Późno",
+    "Meaning": "Late",
+    "Example": "Późno zaczęliśmy pracę.",
+    "Translation": "We started work late."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wolno",
+    "Meaning": "Slowly",
+    "Example": "Mówię wolno, żebyś zrozumiał.",
+    "Translation": "I speak slowly so you understand."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wolno",
+    "Meaning": "Slowly",
+    "Example": "Samochód jedzie wolno.",
+    "Translation": "The car is driving slowly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Wolno",
+    "Meaning": "Slowly",
+    "Example": "Wolno się uczę nowych rzeczy.",
+    "Translation": "I learn new things slowly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Szybko",
+    "Meaning": "Quickly",
+    "Example": "On biega bardzo szybko.",
+    "Translation": "He runs very quickly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Szybko",
+    "Meaning": "Quickly",
+    "Example": "Musimy działać szybko.",
+    "Translation": "We must act quickly."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Szybko",
+    "Meaning": "Quickly",
+    "Example": "Pociąg jedzie szybko.",
+    "Translation": "The train goes quickly."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wcześnie",
+    "Meaning": "Early",
+    "Example": "Wstałem wcześnie rano.",
+    "Translation": "I woke up early in the morning."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wcześnie",
+    "Meaning": "Early",
+    "Example": "Spotkanie było wcześnie.",
+    "Translation": "The meeting was early."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Wcześnie",
+    "Meaning": "Early",
+    "Example": "Dzieci chodzą spać wcześnie.",
+    "Translation": "Children go to bed early."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Brudno",
+    "Meaning": "Dirty",
+    "Example": "Ręce są brudne po pracy.",
+    "Translation": "The hands are dirty after work."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Brudno",
+    "Meaning": "Dirty",
+    "Example": "Mieszkanie jest brudne.",
+    "Translation": "The apartment is dirty."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Brudno",
+    "Meaning": "Dirty",
+    "Example": "Brudno w kuchni po gotowaniu.",
+    "Translation": "It’s dirty in the kitchen after cooking."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Znowu",
+    "Meaning": "Again",
+    "Example": "Znowu pada deszcz.",
+    "Translation": "It’s raining again."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Znowu",
+    "Meaning": "Again",
+    "Example": "Znowu się spóźnił.",
+    "Translation": "He was late again."
+  },
+  {
+    "Adverb Category": "Adverbs of Time",
+    "Adverb": "Znowu",
+    "Meaning": "Again",
+    "Example": "Znowu zaczynamy od nowa.",
+    "Translation": "We are starting again."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Tylko",
+    "Meaning": "Only",
+    "Example": "Mam tylko jedno pytanie.",
+    "Translation": "I have only one question."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Tylko",
+    "Meaning": "Only",
+    "Example": "To jest tylko zabawa.",
+    "Translation": "It’s only a game."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Tylko",
+    "Meaning": "Only",
+    "Example": "Chcę tylko odpocząć.",
+    "Translation": "I just want to rest."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wystarczająco",
+    "Meaning": "Enough",
+    "Example": "Mam wystarczająco pieniędzy.",
+    "Translation": "I have enough money."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wystarczająco",
+    "Meaning": "Enough",
+    "Example": "To jest wystarczająco dobre.",
+    "Translation": "That is good enough."
+  },
+  {
+    "Adverb Category": "Adverbs of Degree",
+    "Adverb": "Wystarczająco",
+    "Meaning": "Enough",
+    "Example": "Pracowałem wystarczająco długo.",
+    "Translation": "I worked long enough."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nazwajem",
+    "Meaning": "Mutually",
+    "Example": "Pomogliśmy sobie nazwajem.",
+    "Translation": "We helped each other mutually."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nazwajem",
+    "Meaning": "Mutually",
+    "Example": "Działamy nazwajem na korzyść.",
+    "Translation": "We act mutually for the benefit."
+  },
+  {
+    "Adverb Category": "Adverbs of Manner",
+    "Adverb": "Nazwajem",
+    "Meaning": "Mutually",
+    "Example": "Rozumiemy się nazwajem.",
+    "Translation": "We understand each other mutually."
+  }
+]

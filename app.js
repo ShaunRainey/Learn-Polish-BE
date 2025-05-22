@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const getSentences = require("./Controllers/sentenceControllers")
-const { getImpPastTenseVerbs, getImpPresentTenseVerbs, getImpConditionalTenseVerbs, getConditionalTensePerVerbs, getPastTensePerVerbs, getFutureTensePerVerbs } = require("./Controllers/verbControllers")
+const { getImpPastTenseVerbs, getImpPresentTenseVerbs, getImpConditionalTenseVerbs, getConditionalTensePerVerbs, getPastTensePerVerbs, getFutureTensePerVerbs, getImpPastTenseVerbsById, getImpPresentTenseVerbsById, getImpConditionalTenseVerbsById, getPastTensePerVerbsById, getFutureTensePerVerbsById, getConditionalTensePerVerbsById } = require("./Controllers/verbControllers")
 const { getPronouns, getPronounsById } = require("./Controllers/pronounControllers");
 const { getPrepositions, getPrepositionsById } = require("./Controllers/prepositionControllers")
 
@@ -14,12 +14,18 @@ app.get('/api/healthcheck', (req, res) => {
 app.get("/api/sentences", getSentences);
 
 app.get("/api/verbs/imperfective/pastTense", getImpPastTenseVerbs);
+app.get("/api/verbs/imperfective/pastTense/:id", getImpPastTenseVerbsById);
 app.get("/api/verbs/imperfective/presentTense", getImpPresentTenseVerbs);
+app.get("/api/verbs/imperfective/presentTense/:id", getImpPresentTenseVerbsById);
 app.get("/api/verbs/imperfective/conditionalTense", getImpConditionalTenseVerbs);
+app.get("/api/verbs/imperfective/conditionalTense/:id", getImpConditionalTenseVerbsById);
 
 app.get("/api/verbs/perfective/pastTense", getPastTensePerVerbs);
+app.get("/api/verbs/perfective/pastTense/:id", getPastTensePerVerbsById);
 app.get("/api/verbs/perfective/futureTense", getFutureTensePerVerbs);
+app.get("/api/verbs/perfective/futureTense/:id", getFutureTensePerVerbsById);
 app.get("/api/verbs/perfective/conditionalTense", getConditionalTensePerVerbs);
+app.get("/api/verbs/perfective/conditionalTense/:id", getConditionalTensePerVerbsById);
 
 app.get("/api/pronouns", getPronouns);
 app.get("/api/pronouns/:id", getPronounsById);

@@ -1,0 +1,920 @@
+[
+  {
+    "Conjunction": "I",
+    "Meaning": "And",
+    "Example": "Mama i tata poszli do sklepu.",
+    "Translation": "Mom and dad went to the store."
+  },
+  {
+    "Conjunction": "I",
+    "Meaning": "And",
+    "Example": "Lubię kawę i herbatę.",
+    "Translation": "I like coffee and tea."
+  },
+  {
+    "Conjunction": "I",
+    "Meaning": "And",
+    "Example": "On czyta książkę i słucha muzyki.",
+    "Translation": "He is reading a book and listening to music."
+  },
+  {
+    "Conjunction": "A",
+    "Meaning": "And / But",
+    "Example": "Ja lubię kawę, a ona herbatę.",
+    "Translation": "I like coffee, and she likes tea."
+  },
+  {
+    "Conjunction": "A",
+    "Meaning": "And / But",
+    "Example": "On pracuje, a ja odpoczywam.",
+    "Translation": "He is working, and I’m resting."
+  },
+  {
+    "Conjunction": "A",
+    "Meaning": "And / But",
+    "Example": "Słońce świeci, a wiatr wieje.",
+    "Translation": "The sun is shining, and the wind is blowing."
+  },
+  {
+    "Conjunction": "Ale",
+    "Meaning": "But",
+    "Example": "Chciałem iść na spacer, ale pada deszcz.",
+    "Translation": "I wanted to go for a walk, but it’s raining."
+  },
+  {
+    "Conjunction": "Ale",
+    "Meaning": "But",
+    "Example": "To jest tanie, ale niezbyt dobre.",
+    "Translation": "It’s cheap, but not very good."
+  },
+  {
+    "Conjunction": "Ale",
+    "Meaning": "But",
+    "Example": "Próbował, ale mu się nie udało.",
+    "Translation": "He tried, but he didn’t succeed."
+  },
+  {
+    "Conjunction": "Lecz",
+    "Meaning": "But / Yet",
+    "Example": "Prosiłem o pomoc, lecz nikt nie przyszedł.",
+    "Translation": "I asked for help, but no one came."
+  },
+  {
+    "Conjunction": "Lecz",
+    "Meaning": "But / Yet",
+    "Example": "Chciał coś powiedzieć, lecz zamilkł.",
+    "Translation": "He wanted to say something, but fell silent."
+  },
+  {
+    "Conjunction": "Lecz",
+    "Meaning": "But / Yet",
+    "Example": "Jest miło, lecz trochę zimno.",
+    "Translation": "It’s nice, but a bit cold."
+  },
+  {
+    "Conjunction": "Oraz",
+    "Meaning": "And / As well as",
+    "Example": "Kupił mleko oraz chleb.",
+    "Translation": "He bought milk as well as bread."
+  },
+  {
+    "Conjunction": "Oraz",
+    "Meaning": "And / As well as",
+    "Example": "Omawiali politykę oraz gospodarkę.",
+    "Translation": "They discussed politics and the economy."
+  },
+  {
+    "Conjunction": "Oraz",
+    "Meaning": "And / As well as",
+    "Example": "Pracuję w biurze oraz zdalnie.",
+    "Translation": "I work in the office and remotely."
+  },
+  {
+    "Conjunction": "Czy",
+    "Meaning": "Or",
+    "Example": "Chcesz kawę czy herbatę?",
+    "Translation": "Do you want coffee or tea?"
+  },
+  {
+    "Conjunction": "Czy",
+    "Meaning": "Or",
+    "Example": "Nie wiem, czy przyjdzie.",
+    "Translation": "I don’t know if he’ll come."
+  },
+  {
+    "Conjunction": "Czy",
+    "Meaning": "Or",
+    "Example": "Zastanawiam się, czy to możliwe.",
+    "Translation": "I wonder whether it’s possible."
+  },
+  {
+    "Conjunction": "Lub",
+    "Meaning": "Or",
+    "Example": "Możesz wybrać pizzę lub makaron.",
+    "Translation": "You can choose pizza or pasta."
+  },
+  {
+    "Conjunction": "Lub",
+    "Meaning": "Or",
+    "Example": "Idź pieszo lub jedź autobusem.",
+    "Translation": "Go on foot or take the bus."
+  },
+  {
+    "Conjunction": "Lub",
+    "Meaning": "Or",
+    "Example": "Zrób to dziś lub jutro.",
+    "Translation": "Do it today or tomorrow."
+  },
+  {
+    "Conjunction": "Ani",
+    "Meaning": "Neither / Nor",
+    "Example": "Ani ja, ani on nie wiedzieli.",
+    "Translation": "Neither I nor he knew."
+  },
+  {
+    "Conjunction": "Ani",
+    "Meaning": "Neither / Nor",
+    "Example": "Nie chcę ani kawy, ani herbaty.",
+    "Translation": "I want neither coffee nor tea."
+  },
+  {
+    "Conjunction": "Ani",
+    "Meaning": "Neither / Nor",
+    "Example": "Ani nie zadzwonił, ani nie napisał.",
+    "Translation": "He neither called nor wrote."
+  },
+  {
+    "Conjunction": "Bo",
+    "Meaning": "Because",
+    "Example": "Nie poszedł, bo był zmęczony.",
+    "Translation": "He didn’t go because he was tired."
+  },
+  {
+    "Conjunction": "Bo",
+    "Meaning": "Because",
+    "Example": "Zjadłem dużo, bo byłem głodny.",
+    "Translation": "I ate a lot because I was hungry."
+  },
+  {
+    "Conjunction": "Bo",
+    "Meaning": "Because",
+    "Example": "Płacze, bo coś ją boli.",
+    "Translation": "She’s crying because something hurts."
+  },
+  {
+    "Conjunction": "Gdy",
+    "Meaning": "When",
+    "Example": "Zadzwonił, gdy wychodziłem z domu.",
+    "Translation": "He called when I was leaving the house."
+  },
+  {
+    "Conjunction": "Gdy",
+    "Meaning": "When",
+    "Example": "Gdy byłem dzieckiem, mieszkałem tu.",
+    "Translation": "When I was a child, I lived here."
+  },
+  {
+    "Conjunction": "Gdy",
+    "Meaning": "When",
+    "Example": "Śmiała się, gdy to usłyszała.",
+    "Translation": "She laughed when she heard it."
+  },
+  {
+    "Conjunction": "Gdyż",
+    "Meaning": "Because / For",
+    "Example": "Nie mogę iść, gdyż jestem chory.",
+    "Translation": "I can't go because I am sick."
+  },
+  {
+    "Conjunction": "Gdyż",
+    "Meaning": "Because / For",
+    "Example": "On nie przyszedł, gdyż był zajęty.",
+    "Translation": "He didn’t come because he was busy."
+  },
+  {
+    "Conjunction": "Gdyż",
+    "Meaning": "Because / For",
+    "Example": "Zostałam w domu, gdyż padało.",
+    "Translation": "I stayed home, for it was raining."
+  },
+  {
+    "Conjunction": "Choć",
+    "Meaning": "Although / Even though",
+    "Example": "Choć pada, poszli na spacer.",
+    "Translation": "Although it’s raining, they went for a walk."
+  },
+  {
+    "Conjunction": "Choć",
+    "Meaning": "Although / Even though",
+    "Example": "Choć się bała, weszła do pokoju.",
+    "Translation": "Even though she was afraid, she entered the room."
+  },
+  {
+    "Conjunction": "Choć",
+    "Meaning": "Although / Even though",
+    "Example": "Choć był zmęczony, pracował dalej.",
+    "Translation": "Though he was tired, he kept working."
+  },
+  {
+    "Conjunction": "Chociaż",
+    "Meaning": "Although / Even though",
+    "Example": "Chociaż nie miał czasu, pomógł mi.",
+    "Translation": "Although he didn’t have time, he helped me."
+  },
+  {
+    "Conjunction": "Chociaż",
+    "Meaning": "Although / Even though",
+    "Example": "Chociaż bolała mnie głowa, przyszłam.",
+    "Translation": "Even though I had a headache, I came."
+  },
+  {
+    "Conjunction": "Chociaż",
+    "Meaning": "Although / Even though",
+    "Example": "Chociaż to trudne, spróbuję.",
+    "Translation": "Although it’s hard, I’ll try."
+  },
+  {
+    "Conjunction": "Że",
+    "Meaning": "That",
+    "Example": "Wiem, że on kłamie.",
+    "Translation": "I know that he is lying."
+  },
+  {
+    "Conjunction": "Że",
+    "Meaning": "That",
+    "Example": "Powiedziała, że przyjdzie później.",
+    "Translation": "She said that she would come later."
+  },
+  {
+    "Conjunction": "Że",
+    "Meaning": "That",
+    "Example": "Cieszę się, że tu jesteś.",
+    "Translation": "I'm glad that you're here."
+  },
+  {
+    "Conjunction": "Ponieważ",
+    "Meaning": "Because / Since",
+    "Example": "Nie poszłam, ponieważ byłam chora.",
+    "Translation": "I didn’t go because I was sick."
+  },
+  {
+    "Conjunction": "Ponieważ",
+    "Meaning": "Because / Since",
+    "Example": "Ponieważ nie odpowiedział, zadzwoniłam.",
+    "Translation": "Since he didn’t reply, I called."
+  },
+  {
+    "Conjunction": "Ponieważ",
+    "Meaning": "Because / Since",
+    "Example": "Ponieważ jesteś nowy, pomogę ci.",
+    "Translation": "Since you're new, I’ll help you."
+  },
+  {
+    "Conjunction": "Aż",
+    "Meaning": "Until / So much that",
+    "Example": "Czekałem, aż przyszedł.",
+    "Translation": "I waited until he came."
+  },
+  {
+    "Conjunction": "Aż",
+    "Meaning": "Until / So much that",
+    "Example": "Krzyczał, aż zachrypł.",
+    "Translation": "He screamed until he lost his voice."
+  },
+  {
+    "Conjunction": "Aż",
+    "Meaning": "Until / So much that",
+    "Example": "Biegł, aż się przewrócił.",
+    "Translation": "He ran until he fell."
+  },
+  {
+    "Conjunction": "Więc",
+    "Meaning": "So / Therefore",
+    "Example": "Było późno, więc poszedłem spać.",
+    "Translation": "It was late, so I went to sleep."
+  },
+  {
+    "Conjunction": "Więc",
+    "Meaning": "So / Therefore",
+    "Example": "Jest głodny, więc zrobił kanapkę.",
+    "Translation": "He’s hungry, so he made a sandwich."
+  },
+  {
+    "Conjunction": "Więc",
+    "Meaning": "So / Therefore",
+    "Example": "Nie mam pieniędzy, więc nie kupię.",
+    "Translation": "I have no money, so I won’t buy it."
+  },
+  {
+    "Conjunction": "Zatem",
+    "Meaning": "So / Therefore",
+    "Example": "Nie ma go, zatem musimy poczekać.",
+    "Translation": "He’s not here, so we have to wait."
+  },
+  {
+    "Conjunction": "Zatem",
+    "Meaning": "So / Therefore",
+    "Example": "Skoro nie chcesz, zatem nie musisz.",
+    "Translation": "Since you don’t want to, you don’t have to."
+  },
+  {
+    "Conjunction": "Zatem",
+    "Meaning": "So / Therefore",
+    "Example": "Zatem co zrobimy?",
+    "Translation": "So what will we do?"
+  },
+  {
+    "Conjunction": "Skoro",
+    "Meaning": "Since / As",
+    "Example": "Skoro już jesteś, zaczynajmy.",
+    "Translation": "Since you're already here, let's start."
+  },
+  {
+    "Conjunction": "Skoro",
+    "Meaning": "Since / As",
+    "Example": "Skoro nie chce, niech nie przychodzi.",
+    "Translation": "If he doesn’t want to, he doesn’t have to come."
+  },
+  {
+    "Conjunction": "Skoro",
+    "Meaning": "Since / As",
+    "Example": "Skoro to prawda, musimy działać.",
+    "Translation": "As that’s true, we must act."
+  },
+  {
+    "Conjunction": "Tylko",
+    "Meaning": "Only / But",
+    "Example": "Chciałem pomóc, tylko nie wiedziałem jak.",
+    "Translation": "I wanted to help, only I didn’t know how."
+  },
+  {
+    "Conjunction": "Tylko",
+    "Meaning": "Only / But",
+    "Example": "To nie to, tylko coś innego.",
+    "Translation": "It's not that, but something else."
+  },
+  {
+    "Conjunction": "Tylko",
+    "Meaning": "Only / But",
+    "Example": "Przyszedłem tylko na chwilę.",
+    "Translation": "I came only for a moment."
+  },
+  {
+    "Conjunction": "Lecz",
+    "Meaning": "But / Yet",
+    "Example": "Chciałem iść, lecz padało.",
+    "Translation": "I wanted to go, but it was raining."
+  },
+  {
+    "Conjunction": "Lecz",
+    "Meaning": "But / Yet",
+    "Example": "On próbował, lecz mu się nie udało.",
+    "Translation": "He tried, yet he failed."
+  },
+  {
+    "Conjunction": "Lecz",
+    "Meaning": "But / Yet",
+    "Example": "Lubię herbatę, lecz wolę kawę.",
+    "Translation": "I like tea, but I prefer coffee."
+  },
+  {
+    "Conjunction": "Toteż",
+    "Meaning": "Therefore / Hence",
+    "Example": "Nie uczył się, toteż oblał egzamin.",
+    "Translation": "He didn’t study, hence he failed the exam."
+  },
+  {
+    "Conjunction": "Toteż",
+    "Meaning": "Therefore / Hence",
+    "Example": "Pada, toteż nie idziemy na spacer.",
+    "Translation": "It’s raining, so we’re not going for a walk."
+  },
+  {
+    "Conjunction": "Toteż",
+    "Meaning": "Therefore / Hence",
+    "Example": "Spieszyłem się, toteż zapomniałem.",
+    "Translation": "I was in a hurry, so I forgot."
+  },
+  {
+    "Conjunction": "Jednak",
+    "Meaning": "However / Yet",
+    "Example": "Miał rację, jednak nikt go nie słuchał.",
+    "Translation": "He was right, yet no one listened."
+  },
+  {
+    "Conjunction": "Jednak",
+    "Meaning": "However / Yet",
+    "Example": "Chciałem iść, jednak zostałem.",
+    "Translation": "I wanted to go, however I stayed."
+  },
+  {
+    "Conjunction": "Jednak",
+    "Meaning": "However / Yet",
+    "Example": "Jest miło, jednak chłodno.",
+    "Translation": "It's nice, yet chilly."
+  },
+  {
+    "Conjunction": "Ale",
+    "Meaning": "But",
+    "Example": "Lubię ją, ale czasem mnie denerwuje.",
+    "Translation": "I like her, but she sometimes annoys me."
+  },
+  {
+    "Conjunction": "Ale",
+    "Meaning": "But",
+    "Example": "Chciałbym pomóc, ale nie mogę.",
+    "Translation": "I'd like to help, but I can't."
+  },
+  {
+    "Conjunction": "Ale",
+    "Meaning": "But",
+    "Example": "On jest zdolny, ale leniwy.",
+    "Translation": "He’s talented but lazy."
+  },
+  {
+    "Conjunction": "Bo",
+    "Meaning": "Because",
+    "Example": "Nie przyszedł, bo był zmęczony.",
+    "Translation": "He didn’t come because he was tired."
+  },
+  {
+    "Conjunction": "Bo",
+    "Meaning": "Because",
+    "Example": "Nie zjadłem, bo nie miałem apetytu.",
+    "Translation": "I didn’t eat because I wasn’t hungry."
+  },
+  {
+    "Conjunction": "Bo",
+    "Meaning": "Because",
+    "Example": "Bo to jest ważne!",
+    "Translation": "Because this is important!"
+  },
+  {
+    "Conjunction": "Albo",
+    "Meaning": "Or / Either",
+    "Example": "Albo ty, albo ja pójdę.",
+    "Translation": "Either you or I will go."
+  },
+  {
+    "Conjunction": "Albo",
+    "Meaning": "Or / Either",
+    "Example": "Weź to albo tamto.",
+    "Translation": "Take this or that."
+  },
+  {
+    "Conjunction": "Albo",
+    "Meaning": "Or / Either",
+    "Example": "Albo przyjdziesz, albo nie.",
+    "Translation": "Either you’ll come or not."
+  },
+  {
+    "Conjunction": "Czy",
+    "Meaning": "Or / Whether",
+    "Example": "Nie wiem, czy on przyjdzie.",
+    "Translation": "I don't know whether he will come."
+  },
+  {
+    "Conjunction": "Czy",
+    "Meaning": "Or / Whether",
+    "Example": "Czy chcesz kawę, czy herbatę?",
+    "Translation": "Do you want coffee or tea?"
+  },
+  {
+    "Conjunction": "Czy",
+    "Meaning": "Or / Whether",
+    "Example": "Zastanawiam się, czy to ma sens.",
+    "Translation": "I’m wondering whether it makes sense."
+  },
+  {
+    "Conjunction": "Dlatego",
+    "Meaning": "Therefore",
+    "Example": "Nie było prądu, dlatego nie mogliśmy pracować.",
+    "Translation": "There was no power, therefore we couldn’t work."
+  },
+  {
+    "Conjunction": "Dlatego",
+    "Meaning": "Therefore",
+    "Example": "Padało mocno, dlatego zostałem w domu.",
+    "Translation": "It rained heavily, therefore I stayed home."
+  },
+  {
+    "Conjunction": "Dlatego",
+    "Meaning": "Therefore",
+    "Example": "Zgubiłem klucze, dlatego spóźniłem się do pracy.",
+    "Translation": "I lost my keys, therefore I was late to work."
+  },
+  {
+    "Conjunction": "Niż",
+    "Meaning": "Than",
+    "Example": "On jest silniejszy niż ja.",
+    "Translation": "He is stronger than me."
+  },
+  {
+    "Conjunction": "Niż",
+    "Meaning": "Than",
+    "Example": "Wolę kawę niż herbatę.",
+    "Translation": "I prefer coffee to tea."
+  },
+  {
+    "Conjunction": "Niż",
+    "Meaning": "Than",
+    "Example": "To zajmie więcej czasu niż myślałem.",
+    "Translation": "It will take more time than I thought."
+  },
+  {
+    "Conjunction": "Mimo że",
+    "Meaning": "Although",
+    "Example": "Mimo że padało, poszliśmy na spacer.",
+    "Translation": "Although it was raining, we went for a walk."
+  },
+  {
+    "Conjunction": "Mimo że",
+    "Meaning": "Although",
+    "Example": "Mimo że był zmęczony, pracował do późna.",
+    "Translation": "Although he was tired, he worked late."
+  },
+  {
+    "Conjunction": "Mimo że",
+    "Meaning": "Although",
+    "Example": "Mimo że nie lubię kawy, spróbowałem.",
+    "Translation": "Although I don’t like coffee, I tried it."
+  },
+  {
+    "Conjunction": "Pomimo że",
+    "Meaning": "Despite",
+    "Example": "Pomimo że było zimno, wyszliśmy na dwór.",
+    "Translation": "Despite it being cold, we went outside."
+  },
+  {
+    "Conjunction": "Pomimo że",
+    "Meaning": "Despite",
+    "Example": "Pomimo że padało, kontynuowaliśmy pracę.",
+    "Translation": "Despite the rain, we continued working."
+  },
+  {
+    "Conjunction": "Pomimo że",
+    "Meaning": "Despite",
+    "Example": "Pomimo że miałem dużo pracy, pomogłem.",
+    "Translation": "Despite having a lot of work, I helped."
+  },
+  {
+    "Conjunction": "Jeśli",
+    "Meaning": "If",
+    "Example": "Jeśli będzie padać, zostanę w domu.",
+    "Translation": "If it rains, I will stay home."
+  },
+  {
+    "Conjunction": "Jeśli",
+    "Meaning": "If",
+    "Example": "Jeśli chcesz, możemy iść razem.",
+    "Translation": "If you want, we can go together."
+  },
+  {
+    "Conjunction": "Jeśli",
+    "Meaning": "If",
+    "Example": "Jeśli zdążę, odwiedzę cię jutro.",
+    "Translation": "If I have time, I will visit you tomorrow."
+  },
+  {
+    "Conjunction": "Dopóki",
+    "Meaning": "As long as",
+    "Example": "Dopóki jest światło, będę czytać.",
+    "Translation": "As long as there is light, I will read."
+  },
+  {
+    "Conjunction": "Dopóki",
+    "Meaning": "As long as",
+    "Example": "Dopóki pracujesz, możesz liczyć na moją pomoc.",
+    "Translation": "As long as you work, you can count on my help."
+  },
+  {
+    "Conjunction": "Dopóki",
+    "Meaning": "As long as",
+    "Example": "Dopóki żyjemy, mamy nadzieję.",
+    "Translation": "As long as we live, we have hope."
+  },
+  {
+    "Conjunction": "Dopóty",
+    "Meaning": "As long as",
+    "Example": "Dopóty będę czekać, aż wrócisz.",
+    "Translation": "I will wait as long as you come back."
+  },
+  {
+    "Conjunction": "Dopóty",
+    "Meaning": "As long as",
+    "Example": "Dopóty ucz się, aż zrozumiesz.",
+    "Translation": "Study as long as you understand."
+  },
+  {
+    "Conjunction": "Dopóty",
+    "Meaning": "As long as",
+    "Example": "Dopóty nie odpuszczaj, dopóki nie osiągniesz celu.",
+    "Translation": "Don’t give up as long as you don’t reach your goal."
+  },
+  {
+    "Conjunction": "Aby",
+    "Meaning": "In order to",
+    "Example": "Uczę się, aby zdać egzamin.",
+    "Translation": "I study in order to pass the exam."
+  },
+  {
+    "Conjunction": "Aby",
+    "Meaning": "In order to",
+    "Example": "Pracujemy ciężko, aby osiągnąć sukces.",
+    "Translation": "We work hard in order to achieve success."
+  },
+  {
+    "Conjunction": "Aby",
+    "Meaning": "In order to",
+    "Example": "Zrobiłem to, aby ci pomóc.",
+    "Translation": "I did it in order to help you."
+  },
+  {
+    "Conjunction": "Żeby",
+    "Meaning": "So that",
+    "Example": "Powiedział to, żeby nas rozbawić.",
+    "Translation": "He said it so that he would entertain us."
+  },
+  {
+    "Conjunction": "Żeby",
+    "Meaning": "So that",
+    "Example": "Zostanę dłużej, żeby skończyć projekt.",
+    "Translation": "I will stay longer so that I finish the project."
+  },
+  {
+    "Conjunction": "Żeby",
+    "Meaning": "So that",
+    "Example": "Przyszedłem wcześniej, żeby wszystko przygotować.",
+    "Translation": "I came earlier so that I could prepare everything."
+  },
+  {
+    "Conjunction": "O ile",
+    "Meaning": "Provided that",
+    "Example": "Pójdę na spacer, o ile nie będzie padać.",
+    "Translation": "I will go for a walk, provided that it doesn’t rain."
+  },
+  {
+    "Conjunction": "O ile",
+    "Meaning": "Provided that",
+    "Example": "Zgadzam się, o ile wszyscy będą szczęśliwi.",
+    "Translation": "I agree, provided that everyone is happy."
+  },
+  {
+    "Conjunction": "O ile",
+    "Meaning": "Provided that",
+    "Example": "Możesz przyjść, o ile skończysz pracę na czas.",
+    "Translation": "You can come, provided that you finish work on time."
+  },
+  {
+    "Conjunction": "Tak jak",
+    "Meaning": "Just like",
+    "Example": "Tak jak mówiłeś, było łatwo.",
+    "Translation": "Just like you said, it was easy."
+  },
+  {
+    "Conjunction": "Tak jak",
+    "Meaning": "Just like",
+    "Example": "On tańczy tak jak jego ojciec.",
+    "Translation": "He dances just like his father."
+  },
+  {
+    "Conjunction": "Tak jak",
+    "Meaning": "Just like",
+    "Example": "Gotuję tak jak mama.",
+    "Translation": "I cook just like mom."
+  },
+  {
+    "Conjunction": "Zanim",
+    "Meaning": "Before",
+    "Example": "Zanim pójdę spać, czytam książkę.",
+    "Translation": "Before I go to sleep, I read a book."
+  },
+  {
+    "Conjunction": "Zanim",
+    "Meaning": "Before",
+    "Example": "Zanim zacząłem pracę, zrobiłem przerwę.",
+    "Translation": "Before I started work, I took a break."
+  },
+  {
+    "Conjunction": "Zanim",
+    "Meaning": "Before",
+    "Example": "Zanim wyjdziemy, zamknij okna.",
+    "Translation": "Before we leave, close the windows."
+  },
+  {
+    "Conjunction": "Gdyby",
+    "Meaning": "If (conditional)",
+    "Example": "Gdybyś był tutaj, byłoby łatwiej.",
+    "Translation": "If you were here, it would be easier."
+  },
+  {
+    "Conjunction": "Gdyby",
+    "Meaning": "If (conditional)",
+    "Example": "Gdyby padało, zostalibyśmy w domu.",
+    "Translation": "If it rained, we would stay at home."
+  },
+  {
+    "Conjunction": "Gdyby",
+    "Meaning": "If (conditional)",
+    "Example": "Gdybyś mnie zapytał, pomógłbym ci.",
+    "Translation": "If you asked me, I would help you."
+  },
+  {
+    "Conjunction": "Gdzież",
+    "Meaning": "Where (emphatic)",
+    "Example": "Gdzież ty byłeś tak długo?",
+    "Translation": "Where have you been so long?"
+  },
+  {
+    "Conjunction": "Gdzież",
+    "Meaning": "Where (emphatic)",
+    "Example": "Gdzież się podziały klucze?",
+    "Translation": "Where did the keys go?"
+  },
+  {
+    "Conjunction": "Gdzież",
+    "Meaning": "Where (emphatic)",
+    "Example": "Gdzież masz rozum?",
+    "Translation": "Where is your mind?"
+  },
+  {
+    "Conjunction": "Aniżeli",
+    "Meaning": "Than (formal)",
+    "Example": "Wolę herbatę aniżeli kawę.",
+    "Translation": "I prefer tea rather than coffee."
+  },
+  {
+    "Conjunction": "Aniżeli",
+    "Meaning": "Than (formal)",
+    "Example": "On jest mądrzejszy aniżeli myślisz.",
+    "Translation": "He is smarter than you think."
+  },
+  {
+    "Conjunction": "Aniżeli",
+    "Meaning": "Than (formal)",
+    "Example": "Wolę chodzić aniżeli jeździć samochodem.",
+    "Translation": "I prefer walking than driving."
+  },
+  {
+    "Conjunction": "Po czym",
+    "Meaning": "After which",
+    "Example": "Zjadłem obiad, po czym poszedłem na spacer.",
+    "Translation": "I ate dinner, after which I went for a walk."
+  },
+  {
+    "Conjunction": "Po czym",
+    "Meaning": "After which",
+    "Example": "Oglądałem film, po czym poszedłem spać.",
+    "Translation": "I watched a movie, after which I went to sleep."
+  },
+  {
+    "Conjunction": "Po czym",
+    "Meaning": "After which",
+    "Example": "Rozmawialiśmy długo, po czym się rozstaliśmy.",
+    "Translation": "We talked for a long time, after which we parted ways."
+  },
+  {
+    "Conjunction": "Ponieważ że",
+    "Meaning": "Because",
+    "Example": "Nie poszedłem, ponieważ że byłem chory.",
+    "Translation": "I didn’t go because I was sick."
+  },
+  {
+    "Conjunction": "Ponieważ że",
+    "Meaning": "Because",
+    "Example": "Zostałem w domu, ponieważ że padał deszcz.",
+    "Translation": "I stayed home because it was raining."
+  },
+  {
+    "Conjunction": "Ponieważ że",
+    "Meaning": "Because",
+    "Example": "Odmówiłem, ponieważ że nie miałem czasu.",
+    "Translation": "I declined because I didn’t have time."
+  },
+  {
+    "Conjunction": "Tymczasem",
+    "Meaning": "Meanwhile",
+    "Example": "On gotował, tymczasem ona sprzątała.",
+    "Translation": "He was cooking, meanwhile she was cleaning."
+  },
+  {
+    "Conjunction": "Tymczasem",
+    "Meaning": "Meanwhile",
+    "Example": "Ja czytałem książkę, tymczasem dzieci bawiły się w parku.",
+    "Translation": "I was reading a book, meanwhile the kids were playing in the park."
+  },
+  {
+    "Conjunction": "Tymczasem",
+    "Meaning": "Meanwhile",
+    "Example": "Siedziałem w domu, tymczasem oni pracowali na dworze.",
+    "Translation": "I was sitting at home, meanwhile they were working outside."
+  },
+  {
+    "Conjunction": "Zanimże",
+    "Meaning": "Before (formal)",
+    "Example": "Zanimże zaczniesz, musisz się przygotować.",
+    "Translation": "Before you start, you must prepare."
+  },
+  {
+    "Conjunction": "Zanimże",
+    "Meaning": "Before (formal)",
+    "Example": "Zanimże wyjedziemy, sprawdź prognozę pogody.",
+    "Translation": "Before we leave, check the weather forecast."
+  },
+  {
+    "Conjunction": "Zanimże",
+    "Meaning": "Before (formal)",
+    "Example": "Zanimże pójdziemy, porozmawiajmy.",
+    "Translation": "Before we go, let’s talk."
+  },
+  {
+    "Conjunction": "Ażeby",
+    "Meaning": "So that",
+    "Example": "Powiedział to ażeby nas uspokoić.",
+    "Translation": "He said it so that we would calm down."
+  },
+  {
+    "Conjunction": "Ażeby",
+    "Meaning": "So that",
+    "Example": "Przyszedłem ażeby pomóc.",
+    "Translation": "I came so that I could help."
+  },
+  {
+    "Conjunction": "Ażeby",
+    "Meaning": "So that",
+    "Example": "Został długo ażeby skończyć zadanie.",
+    "Translation": "He stayed late so that he could finish the task."
+  },
+  {
+    "Conjunction": "Byle",
+    "Meaning": "Provided that",
+    "Example": "Byle nie padało, pójdziemy na spacer.",
+    "Translation": "Provided that it doesn’t rain, we will go for a walk."
+  },
+  {
+    "Conjunction": "Byle",
+    "Meaning": "Provided that",
+    "Example": "Byleś był szczęśliwy.",
+    "Translation": "Provided that you are happy."
+  },
+  {
+    "Conjunction": "Byle",
+    "Meaning": "Provided that",
+    "Example": "Byle było cicho, nie przeszkadzaj.",
+    "Translation": "Provided that it’s quiet, don’t disturb."
+  },
+  {
+    "Conjunction": "Jako że",
+    "Meaning": "Since",
+    "Example": "Jako że był zmęczony, poszedł spać.",
+    "Translation": "Since he was tired, he went to sleep."
+  },
+  {
+    "Conjunction": "Jako że",
+    "Meaning": "Since",
+    "Example": "Jako że nie było prądu, nie mogliśmy pracować.",
+    "Translation": "Since there was no power, we couldn’t work."
+  },
+  {
+    "Conjunction": "Jako że",
+    "Meaning": "Since",
+    "Example": "Jako że padało, zostaliśmy w domu.",
+    "Translation": "Since it was raining, we stayed home."
+  },
+  {
+    "Conjunction": "Co więcej",
+    "Meaning": "Moreover",
+    "Example": "Lubię kawę. Co więcej, piję ją codziennie.",
+    "Translation": "I like coffee. Moreover, I drink it every day."
+  },
+  {
+    "Conjunction": "Co więcej",
+    "Meaning": "Moreover",
+    "Example": "On jest dobrym uczniem. Co więcej, pomaga innym.",
+    "Translation": "He is a good student. Moreover, he helps others."
+  },
+  {
+    "Conjunction": "Co więcej",
+    "Meaning": "Moreover",
+    "Example": "Zrobiłem zadanie. Co więcej, poprawiłem kilka błędów.",
+    "Translation": "I did the homework. Moreover, I corrected some mistakes."
+  },
+  {
+    "Conjunction": "Natomiast",
+    "Meaning": "Whereas",
+    "Example": "Ja lubię kawę, natomiast on woli herbatę.",
+    "Translation": "I like coffee, whereas he prefers tea."
+  },
+  {
+    "Conjunction": "Natomiast",
+    "Meaning": "Whereas",
+    "Example": "Ona jest wysoka, natomiast on niski.",
+    "Translation": "She is tall, whereas he is short."
+  },
+  {
+    "Conjunction": "Natomiast",
+    "Meaning": "Whereas",
+    "Example": "Lubię zimę, natomiast on woli lato.",
+    "Translation": "I like winter, whereas he prefers summer."
+  }
+]

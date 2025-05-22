@@ -5082,19 +5082,8 @@
     "Ins": "Patelnią",
     "Gen": "Patelni",
     "Loc": "Patelni",
-    "Voc": "Patelni",
-    "Dat": "Patelni",
-    "__EMPTY_12": "Patelnia",
-    "__EMPTY_13": "Frying pan",
-    "__EMPTY_14": "F",
-    "__EMPTY_15": "Singular",
-    "__EMPTY_17": "Patelnia",
-    "__EMPTY_18": "Patelnię",
-    "__EMPTY_19": "Patelnią",
-    "__EMPTY_20": "Patelni",
-    "__EMPTY_22": "Patelni",
-    "__EMPTY_23": "Patelni",
-    "__EMPTY_24": "Patelni"
+    "Voc": "Patelnio",
+    "Dat": "Patelni"
   },
   {
     "Unit": 2.05,
@@ -5108,19 +5097,8 @@
     "Ins": "Patelniami",
     "Gen": "Patelni",
     "Loc": "Patelniach",
-    "Voc": "Patelnio",
-    "Dat": "Patelniom",
-    "__EMPTY_12": "Patelnia",
-    "__EMPTY_13": "Frying pan",
-    "__EMPTY_14": "F",
-    "__EMPTY_15": "Plural",
-    "__EMPTY_17": "Patelnie",
-    "__EMPTY_18": "Patelnie",
-    "__EMPTY_19": "Patelniami",
-    "__EMPTY_20": "Patelni",
-    "__EMPTY_22": "Patelniach",
-    "__EMPTY_23": "Patelnio",
-    "__EMPTY_24": "Patelniom"
+    "Voc": "Patelnie",
+    "Dat": "Patelniom"
   },
   {
     "Unit": 2.05,
@@ -5135,18 +5113,7 @@
     "Gen": "Talerza",
     "Loc": "Talerzu",
     "Voc": "Talerzu",
-    "Dat": "Talerzowi",
-    "__EMPTY_12": "Talerz",
-    "__EMPTY_13": "Plate",
-    "__EMPTY_14": "M",
-    "__EMPTY_15": "Singular",
-    "__EMPTY_17": "Talerz",
-    "__EMPTY_18": "Talerz",
-    "__EMPTY_19": "Talerzem",
-    "__EMPTY_20": "Talerza",
-    "__EMPTY_22": "Talerzu",
-    "__EMPTY_23": "Talerzu",
-    "__EMPTY_24": "Talerzowi"
+    "Dat": "Talerzowi"
   },
   {
     "Unit": 2.05,
@@ -5161,18 +5128,7 @@
     "Gen": "Talerzy",
     "Loc": "Talerzach",
     "Voc": "Talerze",
-    "Dat": "Talerzom",
-    "__EMPTY_12": "Talerz",
-    "__EMPTY_13": "Plate",
-    "__EMPTY_14": "M",
-    "__EMPTY_15": "Plural",
-    "__EMPTY_17": "Talerze",
-    "__EMPTY_18": "Talerze",
-    "__EMPTY_19": "Talerzami",
-    "__EMPTY_20": "Talerzy",
-    "__EMPTY_22": "Talerzach",
-    "__EMPTY_23": "Talerze",
-    "__EMPTY_24": "Talerzom"
+    "Dat": "Talerzom"
   },
   {
     "Unit": 2.05,
@@ -5187,18 +5143,7 @@
     "Gen": "Lodówki",
     "Loc": "Lodówce",
     "Voc": "Lodówko",
-    "Dat": "Lodówce",
-    "__EMPTY_12": "Lodówka",
-    "__EMPTY_13": "Fridge",
-    "__EMPTY_14": "F",
-    "__EMPTY_15": "Singular",
-    "__EMPTY_17": "Lodówka",
-    "__EMPTY_18": "Lodówkę",
-    "__EMPTY_19": "Lodówką",
-    "__EMPTY_20": "Lodówki",
-    "__EMPTY_22": "Lodówce",
-    "__EMPTY_23": "Lodówko",
-    "__EMPTY_24": "Lodówce"
+    "Dat": "Lodówce"
   },
   {
     "Unit": 2.05,
@@ -5213,18 +5158,7 @@
     "Gen": "Lodówek",
     "Loc": "Lodówkach",
     "Voc": "Lodówki",
-    "Dat": "Lodówkom",
-    "__EMPTY_12": "Lodówka",
-    "__EMPTY_13": "Fridge",
-    "__EMPTY_14": "F",
-    "__EMPTY_15": "Plural",
-    "__EMPTY_17": "Lodówki",
-    "__EMPTY_18": "Lodówki",
-    "__EMPTY_19": "Lodówkami",
-    "__EMPTY_20": "Lodówek",
-    "__EMPTY_22": "Lodówkach",
-    "__EMPTY_23": "Lodówki",
-    "__EMPTY_24": "Lodówkom"
+    "Dat": "Lodówkom"
   },
   {
     "Unit": 2.05,
@@ -5239,18 +5173,7 @@
     "Gen": "Widelca",
     "Loc": "Widelcu",
     "Voc": "Widelcu",
-    "Dat": "Widelecowi",
-    "__EMPTY_12": "Widelec",
-    "__EMPTY_13": "Fork",
-    "__EMPTY_14": "M",
-    "__EMPTY_15": "Singular",
-    "__EMPTY_17": "Widelec",
-    "__EMPTY_18": "Widelec",
-    "__EMPTY_19": "Widelcem",
-    "__EMPTY_20": "Widelca",
-    "__EMPTY_22": "Widelcu",
-    "__EMPTY_23": "Widelcu",
-    "__EMPTY_24": "Widelecowi"
+    "Dat": "Widelecowi"
   },
   {
     "Unit": 2.05,
@@ -5265,18 +5188,7 @@
     "Gen": "Widelców",
     "Loc": "Widelcach",
     "Voc": "Widelce",
-    "Dat": "Widelcom",
-    "__EMPTY_12": "Widelec",
-    "__EMPTY_13": "Fork",
-    "__EMPTY_14": "M",
-    "__EMPTY_15": "Plural",
-    "__EMPTY_17": "Widelce",
-    "__EMPTY_18": "Widelce",
-    "__EMPTY_19": "Widelcami",
-    "__EMPTY_20": "Widelców",
-    "__EMPTY_22": "Widelcach",
-    "__EMPTY_23": "Widelce",
-    "__EMPTY_24": "Widelcom"
+    "Dat": "Widelcom"
   },
   {
     "Unit": 2.05,
@@ -5291,18 +5203,7 @@
     "Gen": "Kuchenki",
     "Loc": "Kuchenke",
     "Voc": "Kuchenko",
-    "Dat": "Kuchenke",
-    "__EMPTY_12": "Kuchenka",
-    "__EMPTY_13": "Stove",
-    "__EMPTY_14": "F",
-    "__EMPTY_15": "Singular",
-    "__EMPTY_17": "Kuchenka",
-    "__EMPTY_18": "Kuchenke",
-    "__EMPTY_19": "Kuchenka",
-    "__EMPTY_20": "Kuchenki",
-    "__EMPTY_22": "Kuchenke",
-    "__EMPTY_23": "Kuchenko",
-    "__EMPTY_24": "Kuchenke"
+    "Dat": "Kuchenke"
   },
   {
     "Unit": 2.05,
@@ -5317,18 +5218,7 @@
     "Gen": "Kuchenek",
     "Loc": "Kuchenkach",
     "Voc": "Kuchenki",
-    "Dat": "Kuchenkam",
-    "__EMPTY_12": "Kuchenka",
-    "__EMPTY_13": "Stove",
-    "__EMPTY_14": "F",
-    "__EMPTY_15": "Plural",
-    "__EMPTY_17": "Kuchenki",
-    "__EMPTY_18": "Kuchenki",
-    "__EMPTY_19": "Kuchenkami",
-    "__EMPTY_20": "Kuchenek",
-    "__EMPTY_22": "Kuchenkach",
-    "__EMPTY_23": "Kuchenki",
-    "__EMPTY_24": "Kuchenkam"
+    "Dat": "Kuchenkam"
   },
   {
     "Unit": 2.05,
@@ -5343,18 +5233,7 @@
     "Gen": "Nożyczek",
     "Loc": "Nożyczkach",
     "Voc": "Nożyczki",
-    "Dat": "Nożyczkom",
-    "__EMPTY_12": "Nożyczki",
-    "__EMPTY_13": "Scissors",
-    "__EMPTY_14": "F",
-    "__EMPTY_15": "Plural only",
-    "__EMPTY_17": "Nożyczki",
-    "__EMPTY_18": "Nożyczki",
-    "__EMPTY_19": "Nożyczkami",
-    "__EMPTY_20": "Nożyczek",
-    "__EMPTY_22": "Nożyczkach",
-    "__EMPTY_23": "Nożyczki",
-    "__EMPTY_24": "Nożyczkom"
+    "Dat": "Nożyczkom"
   },
   {
     "Unit": 2.05,
@@ -5369,18 +5248,7 @@
     "Gen": "Papieru",
     "Loc": "Papierze",
     "Voc": "Papierze",
-    "Dat": "Papierowi",
-    "__EMPTY_12": "Papier",
-    "__EMPTY_13": "Paper",
-    "__EMPTY_14": "M",
-    "__EMPTY_15": "Singular",
-    "__EMPTY_17": "Papier",
-    "__EMPTY_18": "Papier",
-    "__EMPTY_19": "Papierem",
-    "__EMPTY_20": "Papieru",
-    "__EMPTY_22": "Papierze",
-    "__EMPTY_23": "Papierze",
-    "__EMPTY_24": "Papierowi"
+    "Dat": "Papierowi"
   },
   {
     "Unit": 2.05,
@@ -5395,18 +5263,7 @@
     "Gen": "Papierów",
     "Loc": "Papierach",
     "Voc": "Papiery",
-    "Dat": "Papierom",
-    "__EMPTY_12": "Papier",
-    "__EMPTY_13": "Paper",
-    "__EMPTY_14": "M",
-    "__EMPTY_15": "Plural",
-    "__EMPTY_17": "Papiery",
-    "__EMPTY_18": "Papiery",
-    "__EMPTY_19": "Papierami",
-    "__EMPTY_20": "Papierów",
-    "__EMPTY_22": "Papierach",
-    "__EMPTY_23": "Papiery",
-    "__EMPTY_24": "Papierom"
+    "Dat": "Papierom"
   },
   {
     "Unit": 2.05,
@@ -5421,10 +5278,7 @@
     "Gen": "Kartki",
     "Loc": "Kartce",
     "Voc": "Kartko",
-    "Dat": "Kartce",
-    "__EMPTY_12": "Kartka",
-    "__EMPTY_13": "A sheet (of paper)",
-    "__EMPTY_14": "F"
+    "Dat": "Kartce"
   },
   {
     "Unit": 2.05,
@@ -8895,37 +8749,6 @@
   {
     "Unit": 2.16,
     "Topic": "Use numbers",
-    "Noun": "Lat",
-    "Meaning": "Years (genitive plural)",
-    "Gender": "N",
-    "Single / Plural": "Singular",
-    "Nom": "Lat",
-    "Acc": "Lat",
-    "Ins": "Lat",
-    "Gen": "Lat",
-    "Loc": "Lat",
-    "Voc": "Lat",
-    "Dat": "Lat",
-    "Notes": "Is this actually rok?"
-  },
-  {
-    "Unit": 2.16,
-    "Topic": "Use numbers",
-    "Noun": "Lata",
-    "Meaning": "Years (nominative plural)",
-    "Gender": "N",
-    "Single / Plural": "Plural",
-    "Nom": "Lata",
-    "Acc": "Lata",
-    "Ins": "Latami",
-    "Gen": "Lat",
-    "Loc": "Latach",
-    "Voc": "Lata",
-    "Dat": "Latom"
-  },
-  {
-    "Unit": 2.16,
-    "Topic": "Use numbers",
     "Noun": "Połowa",
     "Meaning": "Half",
     "Gender": "F",
@@ -10130,7 +9953,14 @@
     "Noun": "Piwo",
     "Meaning": "Beer",
     "Gender": "N",
-    "Single / Plural": "Plural"
+    "Single / Plural": "Plural",
+    "Nom": "Piwa",
+    "Acc": "Piwa",
+    "Ins": "Piwami",
+    "Gen": "Piw",
+    "Loc": "Piwach",
+    "Voc": "Piwa",
+    "Dat": "Piwom"
   },
   {
     "Unit": 2.2,
@@ -13030,13 +12860,6 @@
   {
     "Unit": 2.28,
     "Topic": "Talk about school",
-    "Noun": "Wiedza",
-    "Meaning": "Knowledge",
-    "Single / Plural": "Plural"
-  },
-  {
-    "Unit": 2.28,
-    "Topic": "Talk about school",
     "Noun": "Strona",
     "Meaning": "Page / Side",
     "Gender": "F",
@@ -13354,7 +13177,15 @@
     "Topic": "Talk about school",
     "Noun": "Szkoła podstawowa",
     "Meaning": "Primary school",
-    "Single / Plural": "Plural"
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "Szkoły podstawowe",
+    "Acc": "Szkoły podstawowe",
+    "Ins": "Szkołami podstawowymi",
+    "Gen": "Szkół podstawowych",
+    "Loc": "Szkołach podstawowych",
+    "Voc": "Szkoły podstawowe",
+    "Dat": " Szkołom podstawowym"
   },
   {
     "Unit": 2.28,
@@ -13735,9 +13566,16 @@
     "Unit": 2.32,
     "Topic": "Talk about health",
     "Noun": "Twarz",
-    "Meaning": "Face",
+    "Meaning": "face",
+    "Gender": "F",
     "Single / Plural": "Plural",
-    "Nom": "Twarze"
+    "Nom": "twarze",
+    "Acc": "twarze",
+    "Ins": "twarzami",
+    "Gen": "twarzy",
+    "Loc": "twarzach",
+    "Voc": "twarze",
+    "Dat": "twarzom"
   },
   {
     "Unit": 2.32,
@@ -14087,6 +13925,21 @@
   {
     "Unit": 2.32,
     "Topic": "Talk about health",
+    "Noun": "Karetka",
+    "Meaning": "Ambulance",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "karetki",
+    "Acc": "karetki",
+    "Ins": "karetkami",
+    "Gen": "karetek",
+    "Loc": "karetkach",
+    "Voc": "karetki",
+    "Dat": "karetkami"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Noun": "Dieta",
     "Meaning": "Diet",
     "Gender": "F",
@@ -14102,6 +13955,21 @@
   {
     "Unit": 2.32,
     "Topic": "Talk about health",
+    "Noun": "Dieta",
+    "Meaning": "Diet",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "diety",
+    "Acc": "diety",
+    "Ins": "dietami",
+    "Gen": "diet",
+    "Loc": "dietach",
+    "Voc": "diety",
+    "Dat": "dietom"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Noun": "Operacja",
     "Meaning": "Operation",
     "Gender": "F",
@@ -14113,6 +13981,21 @@
     "Loc": "Operacji",
     "Voc": "Operacjo",
     "Dat": "Operacji"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Operacja",
+    "Meaning": "Operation",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "operacje",
+    "Acc": "operacje",
+    "Ins": "operacjami",
+    "Gen": "operacji",
+    "Loc": "operacjach",
+    "Voc": "operacje",
+    "Dat": "operacjom"
   },
   {
     "Unit": 2.32,
@@ -14147,6 +14030,21 @@
   {
     "Unit": 2.32,
     "Topic": "Talk about health",
+    "Noun": "Lek",
+    "Meaning": "Medicine",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "leki",
+    "Acc": "leki",
+    "Ins": "lekami",
+    "Gen": "leków",
+    "Loc": "lekach",
+    "Voc": "leki",
+    "Dat": "lekom"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Noun": "Wypadek",
     "Meaning": "Accident",
     "Gender": "M",
@@ -14162,6 +14060,21 @@
   {
     "Unit": 2.32,
     "Topic": "Talk about health",
+    "Noun": "Wypadek",
+    "Meaning": "Accident",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "wypadki",
+    "Acc": "wypadki",
+    "Ins": "wypadkami",
+    "Gen": "wypadków",
+    "Loc": "wypadkach",
+    "Voc": "wypadki",
+    "Dat": "wypadkom"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Noun": "Ból",
     "Meaning": "Pain",
     "Gender": "M",
@@ -14173,6 +14086,21 @@
     "Loc": "Bólu",
     "Voc": "Bólu",
     "Dat": "Bólowi"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Ból",
+    "Meaning": "Pain",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "bóle",
+    "Acc": "bóle",
+    "Ins": "bólami",
+    "Gen": "bólów",
+    "Loc": "bólach",
+    "Voc": "bóle",
+    "Dat": "bólom"
   },
   {
     "Unit": 2.32,
@@ -14222,6 +14150,21 @@
   {
     "Unit": 2.32,
     "Topic": "Talk about health",
+    "Noun": "Niepełnosprawny",
+    "Meaning": "Disabled (person)",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "niepełnosprawni",
+    "Acc": "niepełnosprawnych",
+    "Ins": "niepełnosprawnymi",
+    "Gen": "niepełnosprawnych",
+    "Loc": "niepełnosprawnych",
+    "Voc": "niepełnosprawni",
+    "Dat": "niepełnosprawnym"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Noun": "Włos",
     "Meaning": "Hair (single)",
     "Gender": "M",
@@ -14267,6 +14210,21 @@
   {
     "Unit": 2.32,
     "Topic": "Talk about health",
+    "Noun": "Brzuch",
+    "Meaning": "Stomach",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "brzuchy",
+    "Acc": "brzuchy",
+    "Ins": "brzuchami",
+    "Gen": "brzuchów",
+    "Loc": "brzuchach",
+    "Voc": "brzuchy",
+    "Dat": "brzuchom"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Noun": "Szyja",
     "Meaning": "Neck",
     "Gender": "F",
@@ -14282,6 +14240,21 @@
   {
     "Unit": 2.32,
     "Topic": "Talk about health",
+    "Noun": "Szyja",
+    "Meaning": "Neck",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "szyje",
+    "Acc": "szyje",
+    "Ins": "szyjami",
+    "Gen": "szyj",
+    "Loc": "szyjach",
+    "Voc": "szyje",
+    "Dat": "szyjom"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
     "Noun": "Wizyta",
     "Meaning": "Appointment",
     "Gender": "F",
@@ -14293,6 +14266,21 @@
     "Loc": "Wizycie",
     "Voc": "Wizyto",
     "Dat": "Wizycie"
+  },
+  {
+    "Unit": 2.32,
+    "Topic": "Talk about health",
+    "Noun": "Wizyta",
+    "Meaning": "Appointment",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "wizyty",
+    "Acc": "wizyty",
+    "Ins": "wizytami",
+    "Gen": "wizyt",
+    "Loc": "wizytach",
+    "Voc": "wizyty",
+    "Dat": "wizytom"
   },
   {
     "Unit": 2.32,
@@ -16475,6 +16463,21 @@
   {
     "Unit": 2.36,
     "Topic": "Talk about hobbies",
+    "Noun": "Wyjście",
+    "Meaning": "Exit",
+    "Gender": "N",
+    "Single / Plural": "Plural",
+    "Nom": "wyjścia",
+    "Acc": "wyjścia",
+    "Ins": "wyjściami",
+    "Gen": "wyjść",
+    "Loc": "wyjściach",
+    "Voc": "wyjścia",
+    "Dat": "wyjściom"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
     "Noun": "Wejście",
     "Meaning": "Entrance",
     "Gender": "N",
@@ -16490,6 +16493,21 @@
   {
     "Unit": 2.36,
     "Topic": "Talk about hobbies",
+    "Noun": "Wejście",
+    "Meaning": "Entrance",
+    "Gender": "N",
+    "Single / Plural": "Plural",
+    "Nom": "wejścia",
+    "Acc": "wejścia",
+    "Ins": "wejściami",
+    "Gen": "wejść",
+    "Loc": "wejściach",
+    "Voc": "wejścia",
+    "Dat": "wejściom"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
     "Noun": "Sekret",
     "Meaning": "Secret",
     "Gender": "M",
@@ -16501,6 +16519,21 @@
     "Loc": "Sekrecie",
     "Voc": "Sekret",
     "Dat": "Sekretowi"
+  },
+  {
+    "Unit": 2.36,
+    "Topic": "Talk about hobbies",
+    "Noun": "Sekret",
+    "Meaning": "Secret",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "sekrety",
+    "Acc": "sekrety",
+    "Ins": "sekretami",
+    "Gen": "sekretów",
+    "Loc": "sekretach",
+    "Voc": "sekrety",
+    "Dat": "sekretom"
   },
   {
     "Unit": 2.39,
@@ -16520,6 +16553,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Kierunek",
+    "Meaning": "Direction",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "kierunki",
+    "Acc": "kierunki",
+    "Ins": "kierunkami",
+    "Gen": "kierunków",
+    "Loc": "kierunkach",
+    "Voc": "kierunki",
+    "Dat": "kierunkom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Wysiłek",
     "Meaning": "Effort / Exertion",
     "Gender": "M",
@@ -16531,6 +16579,21 @@
     "Loc": "Wysiłku",
     "Voc": "Wysiłek",
     "Dat": "Wysiłkowi"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Wysiłek",
+    "Meaning": "Effort / Exertion",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "wysiłki",
+    "Acc": "wysiłki",
+    "Ins": "wysiłkami",
+    "Gen": "wysiłków",
+    "Loc": "wysiłkach",
+    "Voc": "wysiłki",
+    "Dat": "wysiłkom"
   },
   {
     "Unit": 2.39,
@@ -16550,6 +16613,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Zainteresowanie",
+    "Meaning": "Interest",
+    "Gender": "N",
+    "Single / Plural": "Plural",
+    "Nom": "zainteresowania",
+    "Acc": "zainteresowania",
+    "Ins": "zainteresowaniami",
+    "Gen": "zainteresowań",
+    "Loc": "zainteresowaniach",
+    "Voc": "zainteresowania",
+    "Dat": "zainteresowaniom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Rzeczywistość",
     "Meaning": "Reality",
     "Gender": "F",
@@ -16561,6 +16639,21 @@
     "Loc": "Rzeczywistości",
     "Voc": "Rzeczywistość",
     "Dat": "Rzeczywistości"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Rzeczywistość",
+    "Meaning": "Reality",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "rzeczywistości",
+    "Acc": "rzeczywistości",
+    "Ins": "rzeczywistościami",
+    "Gen": "rzeczywistości",
+    "Loc": "rzeczywistościach",
+    "Voc": "rzeczywistości",
+    "Dat": "rzeczywistościom"
   },
   {
     "Unit": 2.39,
@@ -16580,6 +16673,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Pozwolenie",
+    "Meaning": "Permit / Permission",
+    "Gender": "N",
+    "Single / Plural": "Plural",
+    "Nom": "pozwolenia",
+    "Acc": "pozwolenia",
+    "Ins": "pozwoleniami",
+    "Gen": "pozwoleń",
+    "Loc": "pozwoleniach",
+    "Voc": "pozwolenia",
+    "Dat": "pozwoleniom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Szczęście",
     "Meaning": "Happiness / Fortune",
     "Gender": "N",
@@ -16591,6 +16699,21 @@
     "Loc": "Szczęściu",
     "Voc": "Szczęście",
     "Dat": "Szczęściu"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Szczęście",
+    "Meaning": "Happiness / Fortune",
+    "Gender": "N",
+    "Single / Plural": "Plural",
+    "Nom": "szczęścia",
+    "Acc": "szczęścia",
+    "Ins": "szczęściami",
+    "Gen": "szczęść",
+    "Loc": "szczęściach",
+    "Voc": "szczęścia",
+    "Dat": "szczęściom"
   },
   {
     "Unit": 2.39,
@@ -16610,6 +16733,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Charakter",
+    "Meaning": "Character / Personality",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "charaktery",
+    "Acc": "charaktery",
+    "Ins": "charakterami",
+    "Gen": "charakterów",
+    "Loc": "charakterach",
+    "Voc": "charaktery",
+    "Dat": "charakterom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Zachowanie",
     "Meaning": "Behaviour",
     "Gender": "N",
@@ -16625,6 +16763,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Zachowanie",
+    "Meaning": "Behaviour",
+    "Gender": "N",
+    "Single / Plural": "Plural",
+    "Nom": "zachowania",
+    "Acc": "zachowania",
+    "Ins": "zachowaniami",
+    "Gen": "zachowań",
+    "Loc": "zachowaniach",
+    "Voc": "zachowania",
+    "Dat": "zachowaniom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Dawód",
     "Meaning": "Evidence / Proof",
     "Gender": "M",
@@ -16636,6 +16789,21 @@
     "Loc": "Dowodzie",
     "Voc": "Dawód",
     "Dat": "Dowodowi"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Dawód",
+    "Meaning": "Evidence / Proof",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "dowody",
+    "Acc": "dowody",
+    "Ins": "dowodami",
+    "Gen": "dowodów",
+    "Loc": "dowodach",
+    "Voc": "dowody",
+    "Dat": "dowodom"
   },
   {
     "Unit": 2.39,
@@ -16657,7 +16825,15 @@
     "Topic": "Discuss abstract concepts (2)",
     "Noun": "Życzenie",
     "Meaning": "Wish",
-    "Single / Plural": "Plural"
+    "Gender": "N",
+    "Single / Plural": "Plural",
+    "Nom": "życzenia",
+    "Acc": "życzenia",
+    "Ins": "życzeniami",
+    "Gen": "życzeń",
+    "Loc": "życzeniach",
+    "Voc": "życzenia",
+    "Dat": "życzeniom"
   },
   {
     "Unit": 2.39,
@@ -16677,6 +16853,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Wątpliwość",
+    "Meaning": "Doubt",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "wątpliwości",
+    "Acc": "wątpliwości",
+    "Ins": "wątpliwościami",
+    "Gen": "wątpliwości",
+    "Loc": "wątpliwościach",
+    "Voc": "wątpliwości",
+    "Dat": "wątpliwościom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Skutek",
     "Meaning": "Consequence",
     "Gender": "M",
@@ -16688,6 +16879,21 @@
     "Loc": "Skutku",
     "Voc": "Skutek",
     "Dat": "Skutkowi"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Skutek",
+    "Meaning": "Consequence",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "skutki",
+    "Acc": "skutki",
+    "Ins": "skutkami",
+    "Gen": "skutków",
+    "Loc": "skutkach",
+    "Voc": "skutki",
+    "Dat": "skutkom"
   },
   {
     "Unit": 2.39,
@@ -16707,6 +16913,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Odpowiedzialność",
+    "Meaning": "Responsibility / Accountability",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "odpowiedzialności",
+    "Acc": "odpowiedzialności",
+    "Ins": "odpowiedzialnościami",
+    "Gen": "odpowiedzialności",
+    "Loc": "odpowiedzialnościach",
+    "Voc": "odpowiedzialności",
+    "Dat": "odpowiedzialnościom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Relacja",
     "Meaning": "Relationship",
     "Gender": "F",
@@ -16718,6 +16939,21 @@
     "Loc": "Relacji",
     "Voc": "Relacja",
     "Dat": "Relacji"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Relacja",
+    "Meaning": "Relationship",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "relacje",
+    "Acc": "relacje",
+    "Ins": "relacjami",
+    "Gen": "relacji",
+    "Loc": "relacjach",
+    "Voc": "relacje",
+    "Dat": "relacjom"
   },
   {
     "Unit": 2.39,
@@ -16737,6 +16973,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Honor",
+    "Meaning": "Honour / Dignity",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "honory",
+    "Acc": "honory",
+    "Ins": "honorami",
+    "Gen": "honorów",
+    "Loc": "honorach",
+    "Voc": "honory",
+    "Dat": "honorom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Tradycja",
     "Meaning": "Tradition",
     "Gender": "F",
@@ -16748,6 +16999,21 @@
     "Loc": "Tradycji",
     "Voc": "Tradycja",
     "Dat": "Tradycji"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Tradycja",
+    "Meaning": "Tradition",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "tradycje",
+    "Acc": "tradycje",
+    "Ins": "tradycjami",
+    "Gen": "tradycji",
+    "Loc": "tradycjach",
+    "Voc": "tradycje",
+    "Dat": "tradycjom"
   },
   {
     "Unit": 2.39,
@@ -16767,6 +17033,21 @@
   {
     "Unit": 2.39,
     "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Przysługa",
+    "Meaning": "Favour",
+    "Gender": "F",
+    "Single / Plural": "Plural",
+    "Nom": "przysługi",
+    "Acc": "przysługi",
+    "Ins": "przysługami",
+    "Gen": "przysług",
+    "Loc": "przysługach",
+    "Voc": "przysługi",
+    "Dat": "przysługom"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
     "Noun": "Proces",
     "Meaning": "Process",
     "Gender": "M",
@@ -16778,6 +17059,21 @@
     "Loc": "Procesie",
     "Voc": "Proces",
     "Dat": "Procesowi"
+  },
+  {
+    "Unit": 2.39,
+    "Topic": "Discuss abstract concepts (2)",
+    "Noun": "Proces",
+    "Meaning": "Process",
+    "Gender": "M",
+    "Single / Plural": "Plural",
+    "Nom": "procesy",
+    "Acc": "procesy",
+    "Ins": "procesami",
+    "Gen": "procesów",
+    "Loc": "procesach",
+    "Voc": "procesy",
+    "Dat": "procesom"
   },
   {
     "Unit": 2.39,

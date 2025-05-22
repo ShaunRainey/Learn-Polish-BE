@@ -256,7 +256,6 @@ function validatePerVerbUnit(unit) {
 }
 
 function buildWhereClause(filters) {
-  console.log(filters)
     const conditions = [];
     const values = [];
 

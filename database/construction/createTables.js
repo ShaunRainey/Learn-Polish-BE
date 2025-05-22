@@ -140,6 +140,25 @@ function createPrepositions() {
         )`)
 }
 
+function createAdjectives() {
+    return db.query(`CREATE TABLE adjectives(
+        adjective_id SERIAL PRIMARY KEY,
+        adjective VARCHAR(40),
+        meaning VARCHAR(40),
+        gender VARCHAR(40),
+        singular_plural VARCHAR(40),
+        nominative VARCHAR(40),
+        nominative_comparative VARCHAR(40),
+        nominative_superlative VARCHAR(40),
+        accusative_animate VARCHAR(40),
+        accusative_inanimate VARCHAR(40),
+        instrumental VARCHAR(40),
+        genitive VARCHAR(40),
+        locative VARCHAR(40),
+        dative VARCHAR(40)
+        )`)
+}
+
 module.exports = {
     createSentences,
     createPastTenseVerbs,
@@ -149,5 +168,6 @@ module.exports = {
     createFutureTensePerfectiveVerbs,
     createPastTensePerfectiveVerbs,
     createPronouns,
-    createPrepositions
+    createPrepositions,
+    createAdjectives
 }

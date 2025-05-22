@@ -144,5 +144,20 @@ describe("seed", () => {
                 })
         })
     })
-})
 
+    describe("Adjectives table", () => {
+        test("Does it exist?", () => {
+            return db.query(`SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_name = 'adjectives');`)
+                .then(({ rows: [{ exists }] }) => {
+                    expect(exists).toBe(true)
+                })
+        })
+        test("Does it have the correct columns?", () => {
+            return db.query(`SELECT column_name FROM information_schema.columns WHERE table_name = 'adjectives'`)
+                .then(({ rows }) => {
+                    const newMap = rows.map((row) => { return row.column_name });
+                    expect(newMap).toEqual(["adjective_id", "adjective", "meaning", "gender", "singular_plural", "nominative", "nominative_comparative", "nominative_superlative", "accusative_animate", "accusative_inanimate", "instrumental", "genitive", "locative", "dative"])
+                })
+        })
+    })
+})

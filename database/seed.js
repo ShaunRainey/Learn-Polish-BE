@@ -21,7 +21,7 @@ const {
   Locative_MiejscownikData,
 } = require("./data/index");
 const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData } = require("./utils");
-const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs, createPronouns, createPrepositions, createAdjectives } = require("./construction/createTables");
+const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs, createPronouns, createPrepositions, createAdjectives, createAdverbs } = require("./construction/createTables");
 const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns, insertPrepositions, insertAdjectives } = require("./construction/insertData");
 
 function seed() {
@@ -37,6 +37,7 @@ function seed() {
             DROP TABLE IF EXISTS pronouns;
             DROP TABLE IF EXISTS prepositions;
             DROP TABLE IF EXISTS adjectives;
+            DROP TABLE IF EXISTS adverbs;
             `)
         .then(() => {
             return Promise.all([
@@ -49,7 +50,8 @@ function seed() {
                 createPastTensePerfectiveVerbs(),
                 createPronouns(),
                 createPrepositions(),
-                createAdjectives()
+                createAdjectives(),
+                createAdverbs()
             ])
         })
         .then(() => {

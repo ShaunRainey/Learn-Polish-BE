@@ -159,6 +159,21 @@ function createAdjectives() {
         )`)
 }
 
+function createAdverbs() {
+    return db.query(`CREATE TABLE adverbs(
+        adverb_id SERIAL PRIMARY KEY,
+        adverb_category VARCHAR(40),
+        adverb  VARCHAR(40),
+        meaning  VARCHAR(40),
+        example_1  VARCHAR(200),
+        translation_1 VARCHAR(200),
+        example_2  VARCHAR(200),
+        translation_2 VARCHAR(200),
+        example_3  VARCHAR(200),
+        translation_3 VARCHAR(200)
+        )`)
+}
+
 module.exports = {
     createSentences,
     createPastTenseVerbs,
@@ -169,5 +184,6 @@ module.exports = {
     createPastTensePerfectiveVerbs,
     createPronouns,
     createPrepositions,
-    createAdjectives
+    createAdjectives,
+    createAdverbs
 }

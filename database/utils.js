@@ -292,5 +292,3 @@ function buildWhereClause(filters) {
 }
 
 module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause, formatAdverbData }
-
-formatAdverbData(AdverbsData)

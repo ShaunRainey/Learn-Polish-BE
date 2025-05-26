@@ -51,6 +51,12 @@ function insertAdjectives(adjectivesData) {
     return db.query(insertString)
 }
 
+function insertAdverbs(adverbsData) {
+    const insertString = format(`INSERT INTO adverbs(adverb_category, adverb, meaning, example_1, translation_1, example_2, translation_2, example_3, translation_3) VALUES %L RETURNING *;`, adverbsData);
+    return db.query(insertString)
+}
+
+
 module.exports = {
     insertSentenceData,
     insertPastTenseData,
@@ -61,5 +67,6 @@ module.exports = {
     insertConditionalTensePerfectiveData,
     insertPronouns,
     insertPrepositions,
-    insertAdjectives
+    insertAdjectives,
+    insertAdverbs
 }

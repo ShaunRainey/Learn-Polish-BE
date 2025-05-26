@@ -164,7 +164,7 @@ function createAdverbs() {
         adverb_id SERIAL PRIMARY KEY,
         adverb_category VARCHAR(40),
         adverb  VARCHAR(40),
-        meaning  VARCHAR(40),
+        meaning  VARCHAR(200),
         example_1  VARCHAR(200),
         translation_1 VARCHAR(200),
         example_2  VARCHAR(200),

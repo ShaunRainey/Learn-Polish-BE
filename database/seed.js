@@ -20,9 +20,9 @@ const {
   Genitive_DopełniaczData,
   Locative_MiejscownikData,
 } = require("./data/index");
-const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData } = require("./utils");
+const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData, formatAdverbData } = require("./utils");
 const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs, createPronouns, createPrepositions, createAdjectives, createAdverbs } = require("./construction/createTables");
-const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns, insertPrepositions, insertAdjectives } = require("./construction/insertData");
+const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns, insertPrepositions, insertAdjectives, insertAdverbs } = require("./construction/insertData");
 
 function seed() {
     return db
@@ -61,7 +61,8 @@ function seed() {
                 formatPerfectiveVerbData(Verbs_PerfectiveData),
                 formatPronounData(PronounsData),
                 formatPrepositionData(PrepositionsData),
-                formatAdjectiveData(AdjectivesData)
+                formatAdjectiveData(AdjectivesData),
+                formatAdverbData(AdverbsData)
             ])
         })
         .then((newData) => {
@@ -75,7 +76,8 @@ function seed() {
                 insertConditionalTensePerfectiveData(newData[2].formattedConditionalVerbs),
                 insertPronouns(newData[3]),
                 insertPrepositions(newData[4]),
-                insertAdjectives(newData[5])
+                insertAdjectives(newData[5]),
+                insertAdverbs(newData[6])
             ])
         })
 }

@@ -257,6 +257,27 @@ function formatConjunctionData(input) {
   return groupedConjunctionExamples
 }
 
+function formatNounData(input) {
+  const formattedNouns = input.map((noun) => {
+    return [
+      noun["Unit"],
+      noun["Topic"],
+      noun["Noun"],
+      noun["Meaning"],
+      noun["Gender"],
+      noun["Single / Plural"],
+      noun["Nom"],
+      noun["Acc"],
+      noun["Ins"],
+      noun["Gen"],
+      noun["Loc"],
+      noun["Voc"],
+      noun["Dat"]
+    ]
+  })
+  return formattedNouns;
+}
+
 function capitaliseFirst(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
@@ -311,4 +332,6 @@ function buildWhereClause(filters) {
     return { whereClause, values };
 }
 
-module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause, formatAdverbData, formatConjunctionData }
+module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause, formatAdverbData, formatConjunctionData, formatNounData }
+
+formatNounData(NounsData)

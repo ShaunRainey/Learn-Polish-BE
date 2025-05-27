@@ -61,6 +61,11 @@ function insertConjunctions(conjunctionsData) {
     return db.query(insertString)
 }
 
+function insertNouns(nounsData) {
+    const insertString = format(`INSERT INTO nouns(unit, topic, base_noun, meaning, gender, singular_plural, nominative, accusative, instrumental, genitive, locative, vocative, dative) VALUES %L RETURNING *;`, nounsData);
+    return db.query(insertString)
+}
+
 
 module.exports = {
     insertSentenceData,
@@ -74,5 +79,6 @@ module.exports = {
     insertPrepositions,
     insertAdjectives,
     insertAdverbs,
-    insertConjunctions
+    insertConjunctions,
+    insertNouns
 }

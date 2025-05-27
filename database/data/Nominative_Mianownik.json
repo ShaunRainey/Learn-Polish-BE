@@ -1,0 +1,91 @@
+[
+  {
+    "Rodzaj Męski": "Żywotne\nAnimate",
+    "__EMPTY_2": "Nieżywotne\nInanimate"
+  },
+  {
+    "__EMPTY": "Liczba pojedyncza\nSingular",
+    "__EMPTY_1": "Przymiotnik",
+    "Rodzaj Męski": "- y\n- i (after k or g)",
+    "Rodzaj Zeński": "- a",
+    "Rodzaj Niyaki": "- e",
+    "When to use Nominative:": "1. Subject of a Sentence -The nominative case is used for the subject of a sentence—the \"doer\" of the action."
+  },
+  {
+    "__EMPTY_1": "Rzeczownik",
+    "Rodzaj Męski": "- consonant\n- a",
+    "Rodzaj Zeński": "- a\n- (some) consonant\n- i",
+    "Rodzaj Niyaki": "- o\n- e\n- ę\n-um",
+    "When to use Nominative:": "2. Predicate Noun with the Nominative – The nominative case is used after być (to be) when you're pointing out or identifying something specific, such as in the phrase:\n- To jest książka\n- To jest pies"
+  },
+  {
+    "__EMPTY": "Przykłady\nExamples",
+    "Rodzaj Męski": "- To jest dobry student\n- Czarny kot\n- Wysoki dom",
+    "Rodzaj Zeński": "- To jest dobra studentka\n- Zimna noc\n- Miła pani",
+    "Rodzaj Niyaki": "- To jest małe dziecko\n- Duże mieszkanie\n- Ładne imię",
+    "When to use Nominative:": "3. Titles, Names, and Headlines – The nominative case is used for titles of books, movies, articles, and in headlines."
+  },
+  {
+    "__EMPTY": "Liczba mnoga\nPlural",
+    "__EMPTY_1": "Przymiotnik\nAdjective",
+    "Rodzaj Męski": "- y\n- i",
+    "__EMPTY_2": "- e\n- ie (after k or g)",
+    "Rodzaj Zeński": "- e\n- ie (after k or g)",
+    "Rodzaj Niyaki": "- e\n- ie (after k or g)",
+    "When to use Nominative:": "4. Dictionary Form of Words"
+  },
+  {
+    "__EMPTY_1": "Rzeczownik\nNoun",
+    "Rodzaj Męski": "- y\n- i (after k or g)\n- e (c, dz, cz, sz, rz/ż, ś, ź, ć, dź, ń, l, j, I)",
+    "Rodzaj Zeński": "- y\n- i (after k or g)\n- e (c, dz, cz, sz, rz/ż, ś, ź, ć, dź, ń, l, j, I)",
+    "Rodzaj Niyaki": "- a"
+  },
+  {
+    "__EMPTY": "Przykłady\nExamples",
+    "Rodzaj Męski": "- To są czarne koty\n- To drogie posiłki\n- To są nasze płaszcze",
+    "Rodzaj Zeński": "- To są inteligentne kobiety\n- To są moje młode córki\n- To są długie noce",
+    "Rodzaj Niyaki": "- To są ciężkie lustra"
+  },
+  {
+    "__EMPTY": "Interrogative Words",
+    "__EMPTY_1": "Kto, Co",
+    "Rodzaj Męski": "Co in nominative is used to identify what is performing the verb action. Similarly, kto is used to show who is performing the action"
+  },
+  {
+    "__EMPTY": "Examples",
+    "__EMPTY_1": "Kto śpiewa?\nWho is singing?",
+    "Rodzaj Męski": "Anna śpiewa\nAnna is singing"
+  },
+  {
+    "__EMPTY_1": "Co to jest?\nWhat is this?",
+    "Rodzaj Męski": "To jest książka\nThis is a book"
+  },
+  {
+    "__EMPTY_1": "Kto tu jest?\nWho is here?",
+    "Rodzaj Męski": "Piotr tu jest\nPiotr is here"
+  },
+  {
+    "__EMPTY_1": "Co się dzieje?\nWhat’s happening?",
+    "Rodzaj Męski": "Burza się zaczyna\nA storm is starting"
+  },
+  {
+    "__EMPTY_1": "Co jest na stole?\nWhat’s on the table?",
+    "Rodzaj Męski": "Książka jest na stole\nA book is on the table"
+  },
+  {
+    "__EMPTY_1": "Co jest w pudełku?\nWhat’s in the box",
+    "Rodzaj Męski": "Zabawka jest w pudełku\nA toy is in the box"
+  },
+  {
+    "__EMPTY_1": "Kto to jest?\nWho is this?",
+    "Rodzaj Męski": "To jest moja siostra\nThis is my sister"
+  },
+  {
+    "__EMPTY_1": "Kto gotuje obiad?\nWho is cooking lunch?",
+    "Rodzaj Męski": "Tata gotuje obiad\nDad is cooking lunch"
+  },
+  {
+    "__EMPTY_1": "Co spadło ze stołu?\nWhat fell off the table?",
+    "Rodzaj Męski": "Książka spadło ze stolu\nA book fell off the table"
+  }
+]

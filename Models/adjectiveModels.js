@@ -1,5 +1,5 @@
 const db = require("../database/connection");
-const { buildWhereClause } = require("../database/utils")
+const { buildWhereClause } = require("../database/utils");
 
 function selectAdjectives(filters) {
     const { whereClause, values } = buildWhereClause(filters);

@@ -1,0 +1,77 @@
+[
+  {
+    "__EMPTY": "Liczba pojedyncza\nSingular",
+    "__EMPTY_1": "Przymiotnik",
+    "Rodzaj Męski": "- ym\n- im (after k or g)",
+    "Rodzaj Niyaki": "- ym\n- im (after k or g)",
+    "Rodzaj Zeński": "- ej\n- iej (after k or g)",
+    "When to use Locative:": " Used to indicate location or context. It always occurs after specific prepositions and cannot stand alone"
+  },
+  {
+    "__EMPTY_1": "Rzeczownik",
+    "__EMPTY_2": "B\nF\nM\nN\nP\nS\nW\nZ\nT - > C\nD - > Dz",
+    "Rodzaj Męski": "- ie",
+    "Rodzaj Niyaki": "- ie",
+    "Rodzaj Zeński": "- ie",
+    "When to use Locative:": "After the following prepositions:\n- Przy (During / At / Next to) ---- unique to locative\n- W (In / At)\n- Na (On / At)\n- Po (After / Over the surface of)\n- O (About)"
+  },
+  {
+    "__EMPTY_1": "R - > Rz\nŁ - > L",
+    "__EMPTY_2": "- e",
+    "__EMPTY_3": "- e",
+    "__EMPTY_4": "- e"
+  },
+  {
+    "__EMPTY_1": "K\nG\nCh",
+    "__EMPTY_2": "- u",
+    "__EMPTY_3": "- u",
+    "__EMPTY_4": "K - > C\nG - > Dz\nCh – Sz",
+    "Rodzaj Zeński": "- e"
+  },
+  {
+    "__EMPTY_1": "C\nDz\nSz\nRz, ż\nCz",
+    "__EMPTY_3": "- y"
+  },
+  {
+    "__EMPTY_1": "L\nJ\nŚ, Ć, Ż, Dź, Ń",
+    "__EMPTY_3": "- i"
+  },
+  {
+    "__EMPTY": "Przykłady\nExamples",
+    "Rodzaj Męski": "- Wiesz o tym kocie?\n- Jestem w barze\n- Kot jest na stole",
+    "Rodzaj Niyaki": "- Jestem w basenie\n- On stoi przy lustrze\n- Mówię o dziecku",
+    "Rodzaj Zeński": "- Mówimy o tej książce\n- Statek jest na wodzie\n- Mówimy o mojej macosze"
+  },
+  {
+    "__EMPTY": "Liczba mnoga\nPlural",
+    "__EMPTY_1": "Przymiotnik\nAdjective",
+    "Rodzaj Męski": "- ych\n- ich (after k or g)",
+    "Rodzaj Niyaki": "- ych\n- ich (after k or g)",
+    "Rodzaj Zeński": "- ych\n- ich (after k or g)"
+  },
+  {
+    "__EMPTY_1": "Rzeczownik\nNoun",
+    "Rodzaj Męski": "- ach",
+    "Rodzaj Niyaki": "- ach",
+    "Rodzaj Zeński": "- ach"
+  },
+  {
+    "__EMPTY": "Przykłady\nExamples",
+    "Rodzaj Męski": "- Mówimy o dobrych mężczyznach",
+    "Rodzaj Niyaki": "- Mówimy o pięknych kobietach",
+    "Rodzaj Zeński": "- Mówimy o małych dzieciach"
+  },
+  {
+    "__EMPTY": "Interrogative Words",
+    "__EMPTY_1": "O kim,\nO czym"
+  },
+  {
+    "__EMPTY": "Examples",
+    "__EMPTY_1": "Gdzie byłaś?\nWhere were you?",
+    "__EMPTY_2": "Byłam właśnie w sklepie\nI was just in the shop"
+  },
+  {
+    "__EMPTY_1": "O kim rozmawialiście?\nWho were you talking about?",
+    "__EMPTY_2": "O naszym sąsiedzie\nAbout our neighbour"
+  }
+]

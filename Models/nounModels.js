@@ -1,7 +1,12 @@
 const db = require("../database/connection");
+const { buildWhereClause } = require("../database/utils");
 
-function selectNouns() {
-    return db.query(`SELECT * FROM nouns;`)
+function selectNouns(filters) {
+
+    const { whereClause, values } = buildWhereClause(filters);
+    const query = `SELECT * FROM nouns ${whereClause};`;
+
+    return db.query(query, values);
 }
 
 function selectNounsById(id) {

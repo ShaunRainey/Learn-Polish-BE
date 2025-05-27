@@ -174,6 +174,20 @@ function createAdverbs() {
         )`)
 }
 
+function createConjunctions() {
+    return db.query(`CREATE TABLE conjunctions(
+        conjunction_id SERIAL PRIMARY KEY,
+        conjunction  VARCHAR(40),
+        meaning  VARCHAR(200),
+        example_1  VARCHAR(200),
+        translation_1 VARCHAR(200),
+        example_2  VARCHAR(200),
+        translation_2 VARCHAR(200),
+        example_3  VARCHAR(200),
+        translation_3 VARCHAR(200)
+        )`)
+}
+
 module.exports = {
     createSentences,
     createPastTenseVerbs,
@@ -185,5 +199,6 @@ module.exports = {
     createPronouns,
     createPrepositions,
     createAdjectives,
-    createAdverbs
+    createAdverbs,
+    createConjunctions
 }

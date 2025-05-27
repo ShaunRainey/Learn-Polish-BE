@@ -20,9 +20,9 @@ const {
   Genitive_DopełniaczData,
   Locative_MiejscownikData,
 } = require("./data/index");
-const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData, formatAdverbData } = require("./utils");
-const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs, createPronouns, createPrepositions, createAdjectives, createAdverbs } = require("./construction/createTables");
-const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns, insertPrepositions, insertAdjectives, insertAdverbs } = require("./construction/insertData");
+const { formatSentenceData, formatImperfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData, formatAdverbData, formatConjunctionData } = require("./utils");
+const { createSentences, createPastTenseVerbs, createPresentTenseVerbs, createConditionalTenseVerbs, createConditionalTensePerfectiveVerbs, createFutureTensePerfectiveVerbs, createPastTensePerfectiveVerbs, createPronouns, createPrepositions, createAdjectives, createAdverbs, createConjunctions } = require("./construction/createTables");
+const { insertSentenceData, insertPastTenseData, insertPresentTenseData, insertConditionalTenseData, insertConditionalTensePerfectiveData, insertFutureTensePerfectiveData, insertPastTensePerfectiveData, insertPronouns, insertPrepositions, insertAdjectives, insertAdverbs, insertConjunctions } = require("./construction/insertData");
 
 function seed() {
     return db
@@ -38,6 +38,7 @@ function seed() {
             DROP TABLE IF EXISTS prepositions;
             DROP TABLE IF EXISTS adjectives;
             DROP TABLE IF EXISTS adverbs;
+            DROP TABLE IF EXISTS conjunctions;
             `)
         .then(() => {
             return Promise.all([
@@ -51,7 +52,8 @@ function seed() {
                 createPronouns(),
                 createPrepositions(),
                 createAdjectives(),
-                createAdverbs()
+                createAdverbs(),
+                createConjunctions()
             ])
         })
         .then(() => {
@@ -62,7 +64,8 @@ function seed() {
                 formatPronounData(PronounsData),
                 formatPrepositionData(PrepositionsData),
                 formatAdjectiveData(AdjectivesData),
-                formatAdverbData(AdverbsData)
+                formatAdverbData(AdverbsData),
+                formatConjunctionData(ConjunctionsData)
             ])
         })
         .then((newData) => {
@@ -77,7 +80,8 @@ function seed() {
                 insertPronouns(newData[3]),
                 insertPrepositions(newData[4]),
                 insertAdjectives(newData[5]),
-                insertAdverbs(newData[6])
+                insertAdverbs(newData[6]),
+                insertConjunctions(newData[7])
             ])
         })
 }

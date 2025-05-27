@@ -237,6 +237,26 @@ function formatAdverbData(input) {
   return groupedAdverbExamples
 }
 
+function formatConjunctionData(input) {
+
+  const groupedConjunctionExamples = [];
+
+  for (let i = 0; i < input.length; i += 3){
+    const tempArray = []
+    tempArray.push(input[i]["Conjunction"])
+    tempArray.push(input[i]["Meaning"])
+    tempArray.push(input[i]["Example"])
+    tempArray.push(input[i]["Translation"])
+    tempArray.push(input[i+1]["Example"])
+    tempArray.push(input[i+1]["Translation"])
+    tempArray.push(input[i+2]["Example"])
+    tempArray.push(input[i+2]["Translation"])
+    groupedConjunctionExamples.push(tempArray)
+  }
+  
+  return groupedConjunctionExamples
+}
+
 function capitaliseFirst(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
@@ -291,4 +311,4 @@ function buildWhereClause(filters) {
     return { whereClause, values };
 }
 
-module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause, formatAdverbData }
+module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause, formatAdverbData, formatConjunctionData }

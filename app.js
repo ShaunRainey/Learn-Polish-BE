@@ -7,7 +7,7 @@ const { getPrepositions, getPrepositionsById } = require("./Controllers/preposit
 const { getAdjectives, getAdjectivesById, getAdjectivesByForm } = require("./Controllers/adjectiveControllers");
 const { getAdverbs, getAdverbsById } = require("./Controllers/adverbControllers")
 const { getConjunctions, getConjunctionsById } = require("./Controllers/conjunctionControllers")
-const { getNouns, getNounsById } = require("./Controllers/nounControllers")
+const { getNouns, getNounsById, getNounsByForm } = require("./Controllers/nounControllers")
 
 app.use(express.json())
 
@@ -50,6 +50,7 @@ app.get("/api/conjunctions/:id", getConjunctionsById);
 
 app.get("/api/nouns", getNouns);
 app.get("/api/nouns/:id", getNounsById);
+app.get("/api/nouns/form/:form", getNounsByForm);
 
 //When running all tests, listener needs to be turned off to avoid errors
 app.listen(9001, () => { 

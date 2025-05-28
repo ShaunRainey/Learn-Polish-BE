@@ -116,7 +116,7 @@ function createPronouns() {
     return db.query(`CREATE TABLE pronouns(
         pronoun_id SERIAL PRIMARY KEY,
         category VARCHAR(40),
-        noun VARCHAR(40),
+        pronoun VARCHAR(40),
         gender VARCHAR(40),
         singular_plural VARCHAR(40),
         meaning VARCHAR(40),

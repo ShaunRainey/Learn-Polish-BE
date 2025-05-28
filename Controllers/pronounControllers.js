@@ -1,4 +1,4 @@
-const { selectPronouns, selectPronounsById } = require("../Models/pronounModels")
+const { selectPronouns, selectPronounsById, selectPronounsByForm } = require("../Models/pronounModels")
 const { capitaliseFirst } = require("../database/utils")
 
 function getPronouns(req, res, next) {
@@ -33,4 +33,28 @@ function getPronounsById(req, res, next) {
     })
 }
 
-module.exports = { getPronouns, getPronounsById }
+function getPronounsByForm(req, res, next) {
+    const { form } = req.params;
+    const acceptableForms = ["nominative", "accusative", "instrumental", "genitive", "locative", "vocative", "dative"];
+
+    if (!acceptableForms.includes(form)) {
+        return res.status(400).send("invalid url")
+    }
+
+    const { gender, singular_plural } = req.query;
+
+    const acceptableGenders = ["Male", "Female", "Neuter", "Non-male", "None"];
+    const acceptableNumbers = ["Singular", "Plural", "None"];
+
+    if (gender && !acceptableGenders.includes(gender) ||
+        singular_plural && !acceptableNumbers.includes(singular_plural)
+    ) {
+        return res.status(404).send("Invalid query data")
+    }
+    
+    selectPronounsByForm({ form, gender, singular_plural }).then((data) => {
+        return res.status(200).send(data.rows)
+    })
+}
+
+module.exports = { getPronouns, getPronounsById, getPronounsByForm }

@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const { getSentences, getSentencesById } = require("./Controllers/sentenceControllers");
 const { getImpPastTenseVerbs, getImpPresentTenseVerbs, getImpConditionalTenseVerbs, getConditionalTensePerVerbs, getPastTensePerVerbs, getFutureTensePerVerbs, getImpPastTenseVerbsById, getImpPresentTenseVerbsById, getImpConditionalTenseVerbsById, getPastTensePerVerbsById, getFutureTensePerVerbsById, getConditionalTensePerVerbsById } = require("./Controllers/verbControllers")
-const { getPronouns, getPronounsById } = require("./Controllers/pronounControllers");
+const { getPronouns, getPronounsById, getPronounsByForm } = require("./Controllers/pronounControllers");
 const { getPrepositions, getPrepositionsById } = require("./Controllers/prepositionControllers");
 const { getAdjectives, getAdjectivesById, getAdjectivesByForm } = require("./Controllers/adjectiveControllers");
 const { getAdverbs, getAdverbsById } = require("./Controllers/adverbControllers")
@@ -34,6 +34,7 @@ app.get("/api/verbs/perfective/conditionalTense/:id", getConditionalTensePerVerb
 
 app.get("/api/pronouns", getPronouns);
 app.get("/api/pronouns/:id", getPronounsById);
+app.get("/api/pronouns/form/:form", getPronounsByForm);
 
 app.get("/api/prepositions", getPrepositions);
 app.get("/api/prepositions/:id", getPrepositionsById);

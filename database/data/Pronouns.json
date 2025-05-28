@@ -2,7 +2,7 @@
   {
     "Category": "Personal",
     "Noun": "Ja",
-    "Gender": "N/a",
+    "Gender": "None",
     "Singular / Plural": "Singular",
     "Meaning": "I",
     "Nom": "Ja",
@@ -15,7 +15,7 @@
   {
     "Category": "Personal",
     "Noun": "Ty",
-    "Gender": "N/a",
+    "Gender": "None",
     "Singular / Plural": "Singular",
     "Meaning": "You (singular)",
     "Nom": "Ty",
@@ -67,7 +67,7 @@
   {
     "Category": "Personal",
     "Noun": "My",
-    "Gender": "N/a",
+    "Gender": "None",
     "Singular / Plural": "Plural",
     "Meaning": "We",
     "Nom": "My",
@@ -80,7 +80,7 @@
   {
     "Category": "Personal",
     "Noun": "Wy",
-    "Gender": "N/a",
+    "Gender": "None",
     "Singular / Plural": "Plural",
     "Meaning": "You (plural)",
     "Nom": "Wy",
@@ -119,7 +119,7 @@
   {
     "Category": "Reflexive",
     "Noun": "Się",
-    "Gender": "N/a",
+    "Gender": "None",
     "Singular / Plural": "Singular",
     "Meaning": "Oneself",
     "Nom": "Się",
@@ -340,7 +340,7 @@
   {
     "Category": "Possessive",
     "Noun": "Ich",
-    "Gender": "N/a",
+    "Gender": "None",
     "Singular / Plural": "Plural",
     "Meaning": "Their",
     "Nom": "Ich",
@@ -890,8 +890,8 @@
   {
     "Category": "Negative",
     "Noun": "Nikt",
-    "Gender": "N/a",
-    "Singular / Plural": "N/a",
+    "Gender": "None",
+    "Singular / Plural": "None",
     "Meaning": "No-one",
     "Nom": "Nikt",
     "Acc": "Nikt",
@@ -904,8 +904,8 @@
   {
     "Category": "Negative",
     "Noun": "Nic",
-    "Gender": "N/a",
-    "Singular / Plural": "N/a",
+    "Gender": "None",
+    "Singular / Plural": "None",
     "Meaning": "Nothing",
     "Nom": "Nic",
     "Acc": "Nic",

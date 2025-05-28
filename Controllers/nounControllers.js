@@ -1,4 +1,4 @@
-const { selectNouns, selectNounsById, selectAdjectivesByForm } = require("../Models/nounModels")
+const { selectNouns, selectNounsById, selectNounsByForm } = require("../Models/nounModels")
 
 function getNouns(req, res, next) {
 
@@ -52,7 +52,7 @@ function getNounsByForm(req, res, next) {
         return res.status(404).send("Invalid query data")
     }
     
-    selectAdjectivesByForm({ form, gender, singular_plural }).then((data) => {
+    selectNounsByForm({ form, gender, singular_plural }).then((data) => {
         return res.status(200).send(data.rows)
     })
 }

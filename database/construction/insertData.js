@@ -37,7 +37,7 @@ function insertConditionalTensePerfectiveData(verbData) {
 }
 
 function insertPronouns(pronounData) {
-    const insertString = format(`INSERT INTO pronouns(category, noun, gender, singular_plural, meaning, nominative, accusative, instrumental, genitive, locative, dative) VALUES %L RETURNING *;`, pronounData);
+    const insertString = format(`INSERT INTO pronouns(category, pronoun, gender, singular_plural, meaning, nominative, accusative, instrumental, genitive, locative, dative) VALUES %L RETURNING *;`, pronounData);
     return db.query(insertString)
 }
 

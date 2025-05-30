@@ -5,7 +5,7 @@
   "main": "listen.js",
   "scripts": {
     "start": "node listen.js",
-    "seed-prod": "NODE_ENV=production npm run seed",
+    "seed-prod": "set NODE_ENV=production&& npm run seed",
     "dev": "nodemon app.js",
     "setup-spreadsheet-files": "node ./database/extractData.js",
     "setup-database": "psql -f ./database/polish_data_entry.sql",

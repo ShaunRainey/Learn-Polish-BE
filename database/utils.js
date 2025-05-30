@@ -333,5 +333,3 @@ function buildWhereClause(filters) {
 }
 
 module.exports = { /*formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData, formatAdverbData, formatConjunctionData, formatNounData,*/ capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit,  buildWhereClause }
-
-formatNounData(NounsData)

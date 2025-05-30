@@ -4,7 +4,7 @@
   "description": "Project step by step:",
   "main": "listen.js",
   "scripts": {
-    "start": "node listen.js",
+    "start": "cross-env NODE_ENV=development node listen.js",
     "seed-prod": "set NODE_ENV=production&& npm run seed",
     "dev": "nodemon app.js",
     "setup-spreadsheet-files": "node ./database/extractData.js",
@@ -26,6 +26,7 @@
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "jest": "^29.7.0",
     "nodemon": "^3.1.9",
     "supertest": "^7.1.0"

@@ -53,10 +53,10 @@ app.get("/api/nouns", getNouns);
 app.get("/api/nouns/:id", getNounsById);
 app.get("/api/nouns/form/:form", getNounsByForm);
 
-//When running all tests, listener needs to be turned off to avoid errors
-app.listen(9001, () => { 
-    console.log("Big Brother is watching ... ")
-})
+//When running all tests, listener needs to be turned off to avoid errors. Also needs to be turned off to deploy on render
+// app.listen(9001, () => { 
+//     console.log("Big Brother is watching ... ")
+// })
 
 app.use((err, req, res, next) => {
     console.log(err)

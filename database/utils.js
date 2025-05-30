@@ -278,60 +278,60 @@
 //   return formattedNouns;
 // }
 
-// function capitaliseFirst(str) {
-//     return str.charAt(0).toUpperCase() + str.slice(1);
-// }
+function capitaliseFirst(str) {
+    return str.charAt(0).toUpperCase() + str.slice(1);
+}
 
-// function validateSentenceUnit(unit) {
-//   const acceptableUnits = [
-//   1.01, 1.02, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16,
-//   2.01, 2.02, 2.03, 2.04, 2.05, 2.06, 2.07, 2.08, 2.09,
-//   2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18,
-//   2.19, 2.20, 2.21, 2.22, 2.23, 2.24, 2.25, 2.26, 2.27,
-//   2.28, 2.29, 2.30, 2.31, 2.32, 2.33, 2.34, 2.35, 2.36,
-//   2.37, 2.38, 2.39, 3.01, 3.02, 3.03, 3.04, 3.05, 3.06,
-//   3.07, 3.08, 3.09, 3.10, 3.11
-//   ];
+function validateSentenceUnit(unit) {
+  const acceptableUnits = [
+  1.01, 1.02, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16,
+  2.01, 2.02, 2.03, 2.04, 2.05, 2.06, 2.07, 2.08, 2.09,
+  2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18,
+  2.19, 2.20, 2.21, 2.22, 2.23, 2.24, 2.25, 2.26, 2.27,
+  2.28, 2.29, 2.30, 2.31, 2.32, 2.33, 2.34, 2.35, 2.36,
+  2.37, 2.38, 2.39, 3.01, 3.02, 3.03, 3.04, 3.05, 3.06,
+  3.07, 3.08, 3.09, 3.10, 3.11
+  ];
     
-//   if (!unit) { return true; }  // skip validation if unit is not provided
-//   return acceptableUnits.includes(Number(unit));
-// }
+  if (!unit) { return true; }  // skip validation if unit is not provided
+  return acceptableUnits.includes(Number(unit));
+}
 
-// function validateImpVerbUnit(unit) {
-//   const acceptableUnits = [
-//     1.01, 1.15, 2.03, 2.06, 2.07, 2.15, 2.16, 2.18, 2.19, 2.20,
-//     2.24, 2.25, 2.27, 2.28, 2.32, 2.34, 2.35, 2.37, 3.01, 3.03,
-//     3.07, 3.09, 3.10
-//   ];
+function validateImpVerbUnit(unit) {
+  const acceptableUnits = [
+    1.01, 1.15, 2.03, 2.06, 2.07, 2.15, 2.16, 2.18, 2.19, 2.20,
+    2.24, 2.25, 2.27, 2.28, 2.32, 2.34, 2.35, 2.37, 3.01, 3.03,
+    3.07, 3.09, 3.10
+  ];
     
-//   if (!unit) { return true; }
-//   return acceptableUnits.includes(Number(unit));
-// }
+  if (!unit) { return true; }
+  return acceptableUnits.includes(Number(unit));
+}
 
-// function validatePerVerbUnit(unit) {
-//   const acceptableUnits = [
-//     2.23, 2.24, 2.27, 2.37, 3.01, 3.02, 3.03, 3.04, 3.05, 3.09
-//   ];
+function validatePerVerbUnit(unit) {
+  const acceptableUnits = [
+    2.23, 2.24, 2.27, 2.37, 3.01, 3.02, 3.03, 3.04, 3.05, 3.09
+  ];
     
-//   if (!unit) { return true; }
-//   return acceptableUnits.includes(Number(unit));
-// }
+  if (!unit) { return true; }
+  return acceptableUnits.includes(Number(unit));
+}
 
-// function buildWhereClause(filters) {
-//     const conditions = [];
-//     const values = [];
+function buildWhereClause(filters) {
+    const conditions = [];
+    const values = [];
 
-//     Object.entries(filters).forEach(([key, value]) => {
-//         if (value !== undefined && value !== null) {
-//             values.push(value);
-//             conditions.push(`${key} = $${values.length}`);
-//         }
-//     });
+    Object.entries(filters).forEach(([key, value]) => {
+        if (value !== undefined && value !== null) {
+            values.push(value);
+            conditions.push(`${key} = $${values.length}`);
+        }
+    });
 
-//     const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
-//     return { whereClause, values };
-// }
+    const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
+    return { whereClause, values };
+}
 
-// module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause, formatAdverbData, formatConjunctionData, formatNounData }
+module.exports = { /*formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, formatAdjectiveData, formatAdverbData, formatConjunctionData, formatNounData,*/ capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit,  buildWhereClause }
 
-// formatNounData(NounsData)
+formatNounData(NounsData)

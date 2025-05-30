@@ -1,337 +1,337 @@
-const {
-  Verbs_ImperfectiveData,
-  Verbs_PerfectiveData,
-  AdjectivesData,
-  AdverbsData,
-  NounsData,
-  SentencesData,
-  ConjunctionsData,
-  PrepositionsData,
-  DeterminersData,
-  MiscData,
-  ParticlesData,
-  PronounsData,
-  App_functionsData,
-  ImperativeData,
-  Nominative_MianownikData,
-  Instrumental_NarzędnikData,
-  Accusative_BiernikData,
-  Genitive_DopełniaczData,
-  Locative_MiejscownikData,
-} = require("./data/index");
+// const {
+//   Verbs_ImperfectiveData,
+//   Verbs_PerfectiveData,
+//   AdjectivesData,
+//   AdverbsData,
+//   NounsData,
+//   SentencesData,
+//   ConjunctionsData,
+//   PrepositionsData,
+//   DeterminersData,
+//   MiscData,
+//   ParticlesData,
+//   PronounsData,
+//   App_functionsData,
+//   ImperativeData,
+//   Nominative_MianownikData,
+//   Instrumental_NarzędnikData,
+//   Accusative_BiernikData,
+//   Genitive_DopełniaczData,
+//   Locative_MiejscownikData,
+// } = require("./data/index");
 
-function formatSentenceData(input) {
+// function formatSentenceData(input) {
 
-  const formattedSentenceData = input.map((sentence) => {
-    if (!sentence.Unit || !sentence.Topic || !sentence.Polish || !sentence.English) {
-      throw new Error('Invalid data: all fields must be present');
-    }
-    return [sentence.Unit, sentence.Topic, sentence.Polish, sentence.English];
-  });
+//   const formattedSentenceData = input.map((sentence) => {
+//     if (!sentence.Unit || !sentence.Topic || !sentence.Polish || !sentence.English) {
+//       throw new Error('Invalid data: all fields must be present');
+//     }
+//     return [sentence.Unit, sentence.Topic, sentence.Polish, sentence.English];
+//   });
 
-  return formattedSentenceData;
-}
+//   return formattedSentenceData;
+// }
 
-function generateImperfectiveVerbData(input) {
-  let verbArray = [];
+// function generateImperfectiveVerbData(input) {
+//   let verbArray = [];
 
-  for (let i = 0; i < input.length; i += 3){
-    verbArray.push(input.slice(i, i + 3));
-  }
+//   for (let i = 0; i < input.length; i += 3){
+//     verbArray.push(input.slice(i, i + 3));
+//   }
 
-  let pastTenseVerbs = [];
-  let presentTenseVerbs = [];
-  let conditionalTenseVerbs = [];
+//   let pastTenseVerbs = [];
+//   let presentTenseVerbs = [];
+//   let conditionalTenseVerbs = [];
 
-  verbArray.forEach((verb) => {
-    pastTenseVerbs.push({
-      "Unit": verb[0]["Unit"],
-      "Topic": verb[0]["Topic"],
-      "Verb": verb[0]["Verb"],
-      "Meaning": verb[0]["Meaning"],
-      "Conjugation": verb[0]["Conjugation"],
-      "Ja": verb[1]["Ja"],
-      "Ty": verb[1]["Ty"],
-      "On/Ona": verb[1]["On/Ona"],
-      "My": verb[1]["My"],
-      "Wy": verb[1]["Wy"],
-      "Oni/One": verb[1]["Oni/One"],
-    })
-    presentTenseVerbs.push({
-      "Unit": verb[0]["Unit"],
-      "Topic": verb[0]["Topic"],
-      "Verb": verb[0]["Verb"],
-      "Meaning": verb[0]["Meaning"],
-      "Conjugation": verb[0]["Conjugation"],
-      "Ja": verb[0]["Ja"],
-      "Ty": verb[0]["Ty"],
-      "On/Ona": verb[0]["On/Ona"],
-      "My": verb[0]["My"],
-      "Wy": verb[0]["Wy"],
-      "Oni/One": verb[0]["Oni/One"],
-    })
-    conditionalTenseVerbs.push({
-      "Unit": verb[0]["Unit"],
-      "Topic": verb[0]["Topic"],
-      "Verb": verb[0]["Verb"],
-      "Meaning": verb[0]["Meaning"],
-      "Conjugation": verb[0]["Conjugation"],
-      "Ja": verb[2]["Ja"],
-      "Ty": verb[2]["Ty"],
-      "On/Ona": verb[2]["On/Ona"],
-      "My": verb[2]["My"],
-      "Wy": verb[2]["Wy"],
-      "Oni/One": verb[2]["Oni/One"],
-    })
-  })
+//   verbArray.forEach((verb) => {
+//     pastTenseVerbs.push({
+//       "Unit": verb[0]["Unit"],
+//       "Topic": verb[0]["Topic"],
+//       "Verb": verb[0]["Verb"],
+//       "Meaning": verb[0]["Meaning"],
+//       "Conjugation": verb[0]["Conjugation"],
+//       "Ja": verb[1]["Ja"],
+//       "Ty": verb[1]["Ty"],
+//       "On/Ona": verb[1]["On/Ona"],
+//       "My": verb[1]["My"],
+//       "Wy": verb[1]["Wy"],
+//       "Oni/One": verb[1]["Oni/One"],
+//     })
+//     presentTenseVerbs.push({
+//       "Unit": verb[0]["Unit"],
+//       "Topic": verb[0]["Topic"],
+//       "Verb": verb[0]["Verb"],
+//       "Meaning": verb[0]["Meaning"],
+//       "Conjugation": verb[0]["Conjugation"],
+//       "Ja": verb[0]["Ja"],
+//       "Ty": verb[0]["Ty"],
+//       "On/Ona": verb[0]["On/Ona"],
+//       "My": verb[0]["My"],
+//       "Wy": verb[0]["Wy"],
+//       "Oni/One": verb[0]["Oni/One"],
+//     })
+//     conditionalTenseVerbs.push({
+//       "Unit": verb[0]["Unit"],
+//       "Topic": verb[0]["Topic"],
+//       "Verb": verb[0]["Verb"],
+//       "Meaning": verb[0]["Meaning"],
+//       "Conjugation": verb[0]["Conjugation"],
+//       "Ja": verb[2]["Ja"],
+//       "Ty": verb[2]["Ty"],
+//       "On/Ona": verb[2]["On/Ona"],
+//       "My": verb[2]["My"],
+//       "Wy": verb[2]["Wy"],
+//       "Oni/One": verb[2]["Oni/One"],
+//     })
+//   })
 
-  return {presentTenseVerbs, pastTenseVerbs, conditionalTenseVerbs}
-}
+//   return {presentTenseVerbs, pastTenseVerbs, conditionalTenseVerbs}
+// }
 
-function formatImperfectiveVerbData() {
-  const verbObject = generateImperfectiveVerbData(Verbs_ImperfectiveData);
-  const formattedPastVerbs = verbObject.pastTenseVerbs.map((verb) => {
-    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
-  })
-  const formattedPresentVerbs = verbObject.presentTenseVerbs.map((verb) => {
-    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
-    })
-  const formattedConditionalVerbs = verbObject.conditionalTenseVerbs.map((verb) => {
-    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
-  })
+// function formatImperfectiveVerbData() {
+//   const verbObject = generateImperfectiveVerbData(Verbs_ImperfectiveData);
+//   const formattedPastVerbs = verbObject.pastTenseVerbs.map((verb) => {
+//     return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+//   })
+//   const formattedPresentVerbs = verbObject.presentTenseVerbs.map((verb) => {
+//     return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+//     })
+//   const formattedConditionalVerbs = verbObject.conditionalTenseVerbs.map((verb) => {
+//     return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+//   })
 
-  return {formattedPastVerbs, formattedPresentVerbs, formattedConditionalVerbs}
+//   return {formattedPastVerbs, formattedPresentVerbs, formattedConditionalVerbs}
   
-}
+// }
 
-function generatePerfectiveVerbData(input) {
-  let verbArray = [];
+// function generatePerfectiveVerbData(input) {
+//   let verbArray = [];
 
-  for (let i = 0; i < input.length; i += 3){
-    verbArray.push(input.slice(i, i + 3));
-  }
+//   for (let i = 0; i < input.length; i += 3){
+//     verbArray.push(input.slice(i, i + 3));
+//   }
 
-  let pastTenseVerbs = [];
-  let futureTenseVerbs = [];
-  let conditionalTenseVerbs = [];
+//   let pastTenseVerbs = [];
+//   let futureTenseVerbs = [];
+//   let conditionalTenseVerbs = [];
 
-  verbArray.forEach((verb) => { 
-    futureTenseVerbs.push({
-      "Unit": verb[0]["Unit"],
-      "Topic": verb[0]["Topic"],
-      "Verb": verb[0]["Verb"],
-      "Meaning": verb[0]["Meaning"],
-      "Conjugation": verb[0]["Conjugation"],
-      "Ja": verb[0]["Ja"],
-      "Ty": verb[0]["Ty"],
-      "On/Ona": verb[0]["On/Ona"],
-      "My": verb[0]["My"],
-      "Wy": verb[0]["Wy"],
-      "Oni/One": verb[0]["Oni/One"],
-    })
-    conditionalTenseVerbs.push({
-      "Unit": verb[2]["Unit"],
-      "Topic": verb[2]["Topic"],
-      "Verb": verb[2]["Verb"],
-      "Meaning": verb[2]["Meaning"],
-      "Conjugation": verb[2]["Conjugation"],
-      "Ja": verb[2]["Ja"],
-      "Ty": verb[2]["Ty"],
-      "On/Ona": verb[2]["On/Ona"],
-      "My": verb[2]["My"],
-      "Wy": verb[2]["Wy"],
-      "Oni/One": verb[2]["Oni/One"],
-    })
-    pastTenseVerbs.push({
-      "Unit": verb[1]["Unit"],
-      "Topic": verb[1]["Topic"],
-      "Verb": verb[1]["Verb"],
-      "Meaning": verb[1]["Meaning"],
-      "Conjugation": verb[1]["Conjugation"],
-      "Ja": verb[1]["Ja"],
-      "Ty": verb[1]["Ty"],
-      "On/Ona": verb[1]["On/Ona"],
-      "My": verb[1]["My"],
-      "Wy": verb[1]["Wy"],
-      "Oni/One": verb[1]["Oni/One"],
-    })
-  })
-  return {pastTenseVerbs, conditionalTenseVerbs, futureTenseVerbs }
-}
+//   verbArray.forEach((verb) => { 
+//     futureTenseVerbs.push({
+//       "Unit": verb[0]["Unit"],
+//       "Topic": verb[0]["Topic"],
+//       "Verb": verb[0]["Verb"],
+//       "Meaning": verb[0]["Meaning"],
+//       "Conjugation": verb[0]["Conjugation"],
+//       "Ja": verb[0]["Ja"],
+//       "Ty": verb[0]["Ty"],
+//       "On/Ona": verb[0]["On/Ona"],
+//       "My": verb[0]["My"],
+//       "Wy": verb[0]["Wy"],
+//       "Oni/One": verb[0]["Oni/One"],
+//     })
+//     conditionalTenseVerbs.push({
+//       "Unit": verb[2]["Unit"],
+//       "Topic": verb[2]["Topic"],
+//       "Verb": verb[2]["Verb"],
+//       "Meaning": verb[2]["Meaning"],
+//       "Conjugation": verb[2]["Conjugation"],
+//       "Ja": verb[2]["Ja"],
+//       "Ty": verb[2]["Ty"],
+//       "On/Ona": verb[2]["On/Ona"],
+//       "My": verb[2]["My"],
+//       "Wy": verb[2]["Wy"],
+//       "Oni/One": verb[2]["Oni/One"],
+//     })
+//     pastTenseVerbs.push({
+//       "Unit": verb[1]["Unit"],
+//       "Topic": verb[1]["Topic"],
+//       "Verb": verb[1]["Verb"],
+//       "Meaning": verb[1]["Meaning"],
+//       "Conjugation": verb[1]["Conjugation"],
+//       "Ja": verb[1]["Ja"],
+//       "Ty": verb[1]["Ty"],
+//       "On/Ona": verb[1]["On/Ona"],
+//       "My": verb[1]["My"],
+//       "Wy": verb[1]["Wy"],
+//       "Oni/One": verb[1]["Oni/One"],
+//     })
+//   })
+//   return {pastTenseVerbs, conditionalTenseVerbs, futureTenseVerbs }
+// }
 
-function formatPerfectiveVerbData() {
-  const verbObject = generatePerfectiveVerbData(Verbs_PerfectiveData);
-  const formattedPastVerbs = verbObject.pastTenseVerbs.map((verb) => {
-    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
-  })
-  const formattedFutureVerbs = verbObject.futureTenseVerbs.map((verb) => {
-    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
-    })
-  const formattedConditionalVerbs = verbObject.conditionalTenseVerbs.map((verb) => {
-    return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
-  })
+// function formatPerfectiveVerbData() {
+//   const verbObject = generatePerfectiveVerbData(Verbs_PerfectiveData);
+//   const formattedPastVerbs = verbObject.pastTenseVerbs.map((verb) => {
+//     return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+//   })
+//   const formattedFutureVerbs = verbObject.futureTenseVerbs.map((verb) => {
+//     return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+//     })
+//   const formattedConditionalVerbs = verbObject.conditionalTenseVerbs.map((verb) => {
+//     return [verb.Unit, verb.Topic, verb.Verb, verb.Meaning, verb.Conjugation, verb.Ja, verb.Ty, verb["On/Ona"], verb.My, verb.Wy, verb["Oni/One"]]
+//   })
 
-  return {formattedPastVerbs, formattedFutureVerbs, formattedConditionalVerbs}
+//   return {formattedPastVerbs, formattedFutureVerbs, formattedConditionalVerbs}
   
-}
+// }
 
-function formatPronounData(input) { 
-  const formattedPronouns = input.map((pronoun) => {
-    return [pronoun.Category, pronoun.Noun, pronoun.Gender, pronoun["Singular / Plural"], pronoun.Meaning, pronoun.Nom, pronoun.Acc, pronoun.Ins, pronoun.Gen, pronoun.Loc, pronoun.Dat]
-  })
-  return formattedPronouns;
-}
+// function formatPronounData(input) { 
+//   const formattedPronouns = input.map((pronoun) => {
+//     return [pronoun.Category, pronoun.Noun, pronoun.Gender, pronoun["Singular / Plural"], pronoun.Meaning, pronoun.Nom, pronoun.Acc, pronoun.Ins, pronoun.Gen, pronoun.Loc, pronoun.Dat]
+//   })
+//   return formattedPronouns;
+// }
 
-function formatPrepositionData(input) {
-  const formattedPrepositions = input.map((preposition) => {
-    return [
-      preposition.Case,
-      preposition.Preposition,
-      preposition.Meaning,
-      preposition.Examples,
-      preposition.Notes === undefined ? null : preposition.Notesc];
-  })
-  return formattedPrepositions;
-}
+// function formatPrepositionData(input) {
+//   const formattedPrepositions = input.map((preposition) => {
+//     return [
+//       preposition.Case,
+//       preposition.Preposition,
+//       preposition.Meaning,
+//       preposition.Examples,
+//       preposition.Notes === undefined ? null : preposition.Notesc];
+//   })
+//   return formattedPrepositions;
+// }
 
-function formatAdjectiveData(input) {
-  const formattedAdjectives = input.map((adjective) => {
-    return [
-      adjective.Adjective,
-      adjective.Meaning,
-      adjective.Gender,
-      adjective["Single / Plural"],
-      adjective.Nom,
-      adjective["Nom Comparative"],
-      adjective["Nom Superlative"],
-      adjective["Acc Animate"],
-      adjective["Acc Inanimate"],
-      adjective.Ins,
-      adjective.Gen,
-      adjective.Loc,
-      adjective.Dat
-    ]
-  })
+// function formatAdjectiveData(input) {
+//   const formattedAdjectives = input.map((adjective) => {
+//     return [
+//       adjective.Adjective,
+//       adjective.Meaning,
+//       adjective.Gender,
+//       adjective["Single / Plural"],
+//       adjective.Nom,
+//       adjective["Nom Comparative"],
+//       adjective["Nom Superlative"],
+//       adjective["Acc Animate"],
+//       adjective["Acc Inanimate"],
+//       adjective.Ins,
+//       adjective.Gen,
+//       adjective.Loc,
+//       adjective.Dat
+//     ]
+//   })
 
-  return formattedAdjectives;
-}
+//   return formattedAdjectives;
+// }
 
-function formatAdverbData(input) {
+// function formatAdverbData(input) {
 
-  const groupedAdverbExamples = [];
+//   const groupedAdverbExamples = [];
 
-  for (let i = 0; i < input.length; i += 3){
-    const tempArray = []
-    tempArray.push(input[i]["Adverb Category"])
-    tempArray.push(input[i]["Adverb"])
-    tempArray.push(input[i]["Meaning"])
-    tempArray.push(input[i]["Example"])
-    tempArray.push(input[i]["Translation"])
-    tempArray.push(input[i+1]["Example"])
-    tempArray.push(input[i+1]["Translation"])
-    tempArray.push(input[i+2]["Example"])
-    tempArray.push(input[i+2]["Translation"])
-    groupedAdverbExamples.push(tempArray)
-  }
+//   for (let i = 0; i < input.length; i += 3){
+//     const tempArray = []
+//     tempArray.push(input[i]["Adverb Category"])
+//     tempArray.push(input[i]["Adverb"])
+//     tempArray.push(input[i]["Meaning"])
+//     tempArray.push(input[i]["Example"])
+//     tempArray.push(input[i]["Translation"])
+//     tempArray.push(input[i+1]["Example"])
+//     tempArray.push(input[i+1]["Translation"])
+//     tempArray.push(input[i+2]["Example"])
+//     tempArray.push(input[i+2]["Translation"])
+//     groupedAdverbExamples.push(tempArray)
+//   }
   
-  return groupedAdverbExamples
-}
+//   return groupedAdverbExamples
+// }
 
-function formatConjunctionData(input) {
+// function formatConjunctionData(input) {
 
-  const groupedConjunctionExamples = [];
+//   const groupedConjunctionExamples = [];
 
-  for (let i = 0; i < input.length; i += 3){
-    const tempArray = []
-    tempArray.push(input[i]["Conjunction"])
-    tempArray.push(input[i]["Meaning"])
-    tempArray.push(input[i]["Example"])
-    tempArray.push(input[i]["Translation"])
-    tempArray.push(input[i+1]["Example"])
-    tempArray.push(input[i+1]["Translation"])
-    tempArray.push(input[i+2]["Example"])
-    tempArray.push(input[i+2]["Translation"])
-    groupedConjunctionExamples.push(tempArray)
-  }
+//   for (let i = 0; i < input.length; i += 3){
+//     const tempArray = []
+//     tempArray.push(input[i]["Conjunction"])
+//     tempArray.push(input[i]["Meaning"])
+//     tempArray.push(input[i]["Example"])
+//     tempArray.push(input[i]["Translation"])
+//     tempArray.push(input[i+1]["Example"])
+//     tempArray.push(input[i+1]["Translation"])
+//     tempArray.push(input[i+2]["Example"])
+//     tempArray.push(input[i+2]["Translation"])
+//     groupedConjunctionExamples.push(tempArray)
+//   }
   
-  return groupedConjunctionExamples
-}
+//   return groupedConjunctionExamples
+// }
 
-function formatNounData(input) {
-  const formattedNouns = input.map((noun) => {
-    return [
-      noun["Unit"],
-      noun["Topic"],
-      noun["Noun"],
-      noun["Meaning"],
-      noun["Gender"],
-      noun["Single / Plural"],
-      noun["Nom"],
-      noun["Acc"],
-      noun["Ins"],
-      noun["Gen"],
-      noun["Loc"],
-      noun["Voc"],
-      noun["Dat"]
-    ]
-  })
-  return formattedNouns;
-}
+// function formatNounData(input) {
+//   const formattedNouns = input.map((noun) => {
+//     return [
+//       noun["Unit"],
+//       noun["Topic"],
+//       noun["Noun"],
+//       noun["Meaning"],
+//       noun["Gender"],
+//       noun["Single / Plural"],
+//       noun["Nom"],
+//       noun["Acc"],
+//       noun["Ins"],
+//       noun["Gen"],
+//       noun["Loc"],
+//       noun["Voc"],
+//       noun["Dat"]
+//     ]
+//   })
+//   return formattedNouns;
+// }
 
-function capitaliseFirst(str) {
-    return str.charAt(0).toUpperCase() + str.slice(1);
-}
+// function capitaliseFirst(str) {
+//     return str.charAt(0).toUpperCase() + str.slice(1);
+// }
 
-function validateSentenceUnit(unit) {
-  const acceptableUnits = [
-  1.01, 1.02, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16,
-  2.01, 2.02, 2.03, 2.04, 2.05, 2.06, 2.07, 2.08, 2.09,
-  2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18,
-  2.19, 2.20, 2.21, 2.22, 2.23, 2.24, 2.25, 2.26, 2.27,
-  2.28, 2.29, 2.30, 2.31, 2.32, 2.33, 2.34, 2.35, 2.36,
-  2.37, 2.38, 2.39, 3.01, 3.02, 3.03, 3.04, 3.05, 3.06,
-  3.07, 3.08, 3.09, 3.10, 3.11
-  ];
+// function validateSentenceUnit(unit) {
+//   const acceptableUnits = [
+//   1.01, 1.02, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16,
+//   2.01, 2.02, 2.03, 2.04, 2.05, 2.06, 2.07, 2.08, 2.09,
+//   2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18,
+//   2.19, 2.20, 2.21, 2.22, 2.23, 2.24, 2.25, 2.26, 2.27,
+//   2.28, 2.29, 2.30, 2.31, 2.32, 2.33, 2.34, 2.35, 2.36,
+//   2.37, 2.38, 2.39, 3.01, 3.02, 3.03, 3.04, 3.05, 3.06,
+//   3.07, 3.08, 3.09, 3.10, 3.11
+//   ];
     
-  if (!unit) { return true; }  // skip validation if unit is not provided
-  return acceptableUnits.includes(Number(unit));
-}
+//   if (!unit) { return true; }  // skip validation if unit is not provided
+//   return acceptableUnits.includes(Number(unit));
+// }
 
-function validateImpVerbUnit(unit) {
-  const acceptableUnits = [
-    1.01, 1.15, 2.03, 2.06, 2.07, 2.15, 2.16, 2.18, 2.19, 2.20,
-    2.24, 2.25, 2.27, 2.28, 2.32, 2.34, 2.35, 2.37, 3.01, 3.03,
-    3.07, 3.09, 3.10
-  ];
+// function validateImpVerbUnit(unit) {
+//   const acceptableUnits = [
+//     1.01, 1.15, 2.03, 2.06, 2.07, 2.15, 2.16, 2.18, 2.19, 2.20,
+//     2.24, 2.25, 2.27, 2.28, 2.32, 2.34, 2.35, 2.37, 3.01, 3.03,
+//     3.07, 3.09, 3.10
+//   ];
     
-  if (!unit) { return true; }
-  return acceptableUnits.includes(Number(unit));
-}
+//   if (!unit) { return true; }
+//   return acceptableUnits.includes(Number(unit));
+// }
 
-function validatePerVerbUnit(unit) {
-  const acceptableUnits = [
-    2.23, 2.24, 2.27, 2.37, 3.01, 3.02, 3.03, 3.04, 3.05, 3.09
-  ];
+// function validatePerVerbUnit(unit) {
+//   const acceptableUnits = [
+//     2.23, 2.24, 2.27, 2.37, 3.01, 3.02, 3.03, 3.04, 3.05, 3.09
+//   ];
     
-  if (!unit) { return true; }
-  return acceptableUnits.includes(Number(unit));
-}
+//   if (!unit) { return true; }
+//   return acceptableUnits.includes(Number(unit));
+// }
 
-function buildWhereClause(filters) {
-    const conditions = [];
-    const values = [];
+// function buildWhereClause(filters) {
+//     const conditions = [];
+//     const values = [];
 
-    Object.entries(filters).forEach(([key, value]) => {
-        if (value !== undefined && value !== null) {
-            values.push(value);
-            conditions.push(`${key} = $${values.length}`);
-        }
-    });
+//     Object.entries(filters).forEach(([key, value]) => {
+//         if (value !== undefined && value !== null) {
+//             values.push(value);
+//             conditions.push(`${key} = $${values.length}`);
+//         }
+//     });
 
-    const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
-    return { whereClause, values };
-}
+//     const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
+//     return { whereClause, values };
+// }
 
-module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause, formatAdverbData, formatConjunctionData, formatNounData }
+// module.exports = { formatSentenceData, generateImperfectiveVerbData, formatImperfectiveVerbData, generatePerfectiveVerbData, formatPerfectiveVerbData, formatPronounData, formatPrepositionData, capitaliseFirst, validateSentenceUnit, validateImpVerbUnit, validatePerVerbUnit, formatAdjectiveData, buildWhereClause, formatAdverbData, formatConjunctionData, formatNounData }
 
-formatNounData(NounsData)
+// formatNounData(NounsData)

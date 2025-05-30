@@ -1,4 +1,11 @@
 const db = require("./connection");
+
+db.query('SELECT current_database(), current_user;')
+  .then(res => {
+    console.log('Connected to DB:', res.rows[0]);
+  })
+  .catch(console.error);
+
 const {
   Verbs_ImperfectiveData,
   Verbs_PerfectiveData,

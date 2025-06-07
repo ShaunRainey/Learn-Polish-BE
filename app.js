@@ -1,3 +1,13 @@
+const originalLookup = dns.lookup;
+dns.lookup = function (hostname, options, callback) {
+  if (typeof options === 'function') {
+    callback = options;
+    options = {};
+  }
+  options.family = 4;
+  return originalLookup.call(dns, hostname, options, callback);
+};
+
 const express = require('express');
 const app = express();
 const { getSentences, getSentencesById } = require("./Controllers/sentenceControllers");

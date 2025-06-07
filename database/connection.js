@@ -22,19 +22,18 @@ if (!process.env.PGDATABASE && !process.env.DATABASE_URL) {
 const config = {};
 
 if (ENV === "production") {
-  config.connectionString = process.env.DATABASE_URL;
-  config.ssl = { rejectUnauthorized: false }; // Required by Supabase
+  const { URL } = require("url");
+  const dbUrl = new URL(process.env.DATABASE_URL);
+
+  config.host = dbUrl.hostname;
+  config.port = dbUrl.port || 5432;
+  config.user = dbUrl.username;
+  config.password = dbUrl.password;
+  config.database = dbUrl.pathname.slice(1); // remove leading slash
+  config.ssl = { rejectUnauthorized: false };
   config.max = 2;
 } else {
-  if (process.env.DATABASE_URL) {
-    config.connectionString = process.env.DATABASE_URL;
-  } else {
-    config.database = process.env.PGDATABASE;
-    config.user = process.env.PGUSER || undefined;
-    config.password = process.env.PGPASSWORD || undefined;
-    config.host = process.env.PGHOST || undefined;
-    config.port = process.env.PGPORT || undefined;
-  }
+  // existing dev config...
 }
 
 const db = new Pool(config);

@@ -1,3 +1,4 @@
+const dns = require('dns');
 const originalLookup = dns.lookup;
 dns.lookup = function (hostname, options, callback) {
   if (typeof options === 'function') {

@@ -7,11 +7,13 @@ dns.setServers(["8.8.8.8", "1.1.1.1"]);
 
 const ENV = process.env.NODE_ENV || "development";
 
+
 // Load dotenv only for dev or test
 if (ENV !== "production") {
-  require("dotenv").config({ path: path.resolve(__dirname, `../.env.${ENV}`) });
+    require("dotenv").config({ path: path.resolve(__dirname, `../.env.${ENV}`) });
 }
 
+console.log(process.env.DATABASE_URL)
 // Validate env config
 if (!process.env.PGDATABASE && !process.env.DATABASE_URL) {
   throw new Error("No PGDATABASE or DATABASE_URL configured");

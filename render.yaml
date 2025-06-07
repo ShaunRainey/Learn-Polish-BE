@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: Practice-Po-Polsku
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node listen.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        value: postgresql://postgres:kCK3Y0tl3aqvbWrC@db.qqunvpahxxwgswfmejjh.supabase.co:5432/postgres?sslmode=require
+    dns:
+      nameservers:
+        - 8.8.8.8
+        - 1.1.1.1

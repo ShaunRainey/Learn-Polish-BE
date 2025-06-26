@@ -9,6 +9,7 @@ dns.lookup = function (hostname, options, callback) {
   return originalLookup.call(dns, hostname, options, callback);
 };
 
+const cors = require('cors');
 const express = require('express');
 const app = express();
 const { getSentences, getSentencesById } = require("./Controllers/sentenceControllers");
@@ -20,7 +21,9 @@ const { getAdverbs, getAdverbsById } = require("./Controllers/adverbControllers"
 const { getConjunctions, getConjunctionsById } = require("./Controllers/conjunctionControllers")
 const { getNouns, getNounsById, getNounsByForm } = require("./Controllers/nounControllers")
 
-app.use(express.json())
+app.use(express.json());
+
+app.use(cors());
 
 app.get('/api/healthcheck', (req, res) => {
     res.status(200).send("hello world")

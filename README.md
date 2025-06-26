@@ -65,3 +65,7 @@ Project step by step:
 - all tests script has to use run in band as otherwise each test file would be ran at the same time, potentially causing errors
     - sometimes all tests would pass, sometimes not. But ran individually, they always pass
     
+
+
+- add cors support
+    - npm install cors
